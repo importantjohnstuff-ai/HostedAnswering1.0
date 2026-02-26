@@ -633,6 +633,42 @@
                 box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
             }
         }
+
+        /* --- GitHub Pages Warning Banner --- */
+        .gh-warning {
+            background: linear-gradient(135deg, #fef3c7, #fde68a);
+            border: 2px solid #f59e0b;
+            border-radius: 8px;
+            padding: 12px 16px;
+            margin-bottom: 20px;
+            display: flex;
+            align-items: flex-start;
+            gap: 10px;
+            font-size: 0.85rem;
+            color: #92400e;
+            line-height: 1.5;
+        }
+
+        .gh-warning strong {
+            color: #78350f;
+        }
+
+        .gh-warning-dismiss {
+            margin-left: auto;
+            background: none;
+            border: 1px solid #d97706;
+            border-radius: 4px;
+            padding: 2px 8px;
+            cursor: pointer;
+            color: #92400e;
+            font-size: 0.8rem;
+            white-space: nowrap;
+            flex-shrink: 0;
+        }
+
+        .gh-warning-dismiss:hover {
+            background: #fde68a;
+        }
     </style>
 </head>
 
@@ -687,6 +723,18 @@
         <header>
             <h1>Math Collab App v3</h1>
             <div id="errorBanner" class="error-banner"></div>
+            <div class="gh-warning" id="gh-warning">
+                <span>⚠️</span>
+                <div>
+                    <strong>GitHub Pages (Static) Version</strong> — Your solutions, flags, edits, and uploaded images
+                    are saved <strong>only in this browser's local storage</strong>. They will <strong>not</strong>
+                    appear on other browsers or devices. If you need shared collaboration, use the PHP-hosted version
+                    instead.
+                </div>
+                <button class="gh-warning-dismiss"
+                    onclick="document.getElementById('gh-warning').style.display='none'; localStorage.setItem('gh_warning_dismissed','1');">✕
+                    Dismiss</button>
+            </div>
         </header>
         <div id="app">Loading problems...</div>
     </div>
@@ -1566,6 +1614,9 @@
         });
 
         // ===== Start (static — no polling needed) =====
+        if (localStorage.getItem('gh_warning_dismissed') === '1') {
+            document.getElementById('gh-warning').style.display = 'none';
+        }
         loadData();
     </script>
 </body>
