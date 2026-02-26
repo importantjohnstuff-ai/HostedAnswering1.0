@@ -1,0 +1,226 @@
+[
+    {
+        "id": 805,
+        "question": "Two thin lenses, with focal lengths of 25.0 cm and -30.0 cm are placed in contact in an orientation so that their optic axes coincide. What is the focal length of the two in combination? {Hint: A thin lens is one whose thickness is negligible}. Ans is D. :)",
+        "options": {
+            "a": "-5.0 cm",
+            "b": "13.6 cm",
+            "c": "55.5 cm",
+            "d": "150 cm"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics"
+    },
+    {
+        "id": 806,
+        "question": "For a diverging lens with one flat surface, the radius of curvature for the curved surface is 20.0 cm. What must the index of refraction be so that the focal length is -15.0 cm?",
+        "options": {
+            "a": "0.333",
+            "b": "1.33",
+            "c": "2.33",
+            "d": "5.00"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics"
+    },
+    {
+        "id": 807,
+        "question": "A steel rod 30 mm & 800 mm long has an allowance elongation not to exceed 1.5 mm, find the allowable load in kN.",
+        "options": {
+            "a": "274",
+            "b": "248",
+            "c": "316",
+            "d": "236"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials"
+    },
+    {
+        "id": 808,
+        "question": "Compute the induced/compressive stress, in kPa, of a steel solid shafting of 50 mm diameter and 800 mm in length that is subjected to an increase of temperature by 80\u00b0C.",
+        "options": {
+            "a": "181,816",
+            "b": "242,816",
+            "c": "218,182",
+            "d": "196,560"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials"
+    },
+    {
+        "id": 809,
+        "question": "Determine the load in kN on a 25 mm diameter x 1200 mm long steel shaft if its maximum elongation exceeds 1 mm.",
+        "options": {
+            "a": "83",
+            "b": "125",
+            "c": "103",
+            "d": "234"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials"
+    },
+    {
+        "id": 812,
+        "question": "What is the modulus of elasticity if the stress is 4,000 psi and unit a strain of 0.00105?",
+        "options": {
+            "a": "41.905 x 10\u2076",
+            "b": "42.300 x 10\u2076",
+            "c": "41.202 x 10\u2076",
+            "d": "43.101 x 10\u2076"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials"
+    },
+    {
+        "id": 813,
+        "question": "If the ultimate shear strength of a steel plates is 42,000 psi, what force is necessary to punch a 0.75 inch diameter hole in a 0.625 inch thick plate?",
+        "options": {
+            "a": "63,008 lbs",
+            "b": "61,800 lbs",
+            "c": "68,080 lbs",
+            "d": "66,800 lbs"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials"
+    },
+    {
+        "id": 814,
+        "question": "In the LRT II project steel railroad rails of 10 meters long are to be installed. If lowest temperature considered is 20 deg. C and a maximum temperature of 36 deg C is designed for, and the modulus of elasticity of steel to be 207,000 MPa, determine the clearance between rails such that adjoining rail will just touch at maximum design temperature.",
+        "options": {
+            "a": "2.34",
+            "b": "3.32",
+            "c": "3.41",
+            "d": "1.86"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials"
+    },
+    {
+        "id": 815,
+        "question": "For a given material, the modulus of elasticity is 100 GN/m\u00b2 in tension and 40 GN/m\u00b2 in shear. Find the Poisson\u2019s ratio.",
+        "options": {
+            "a": "0.10",
+            "b": "0.50",
+            "c": "0.25",
+            "d": "0.35"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials"
+    },
+    {
+        "id": 816,
+        "question": "A lap joint consists of steel plate 250 mm by 18 mm in thickness is connected by 4-20 mm diameter rivets. Compute the bearing capacity of the rivet connection if the allowable bearing stress is 210 MPa.",
+        "options": {
+            "a": "302,400 N",
+            "b": "360,200 N",
+            "c": "420,340 N",
+            "d": "460,240 N"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials"
+    },
+    {
+        "id": 817,
+        "question": "A steel bar, initially free of stress, is held between rigid supports. Determine the stress in the bar if temperature drops 130\u00b0F.",
+        "options": {
+            "a": "25,350 psi",
+            "b": "26,234 psi",
+            "c": "24,896 psi",
+            "d": "23,654 psi"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials"
+    },
+    {
+        "id": 818,
+        "question": "A 3 in diameter short shaft carrying pulleys close to the bearings transmit how much horsepower if the shaft makes 280 rpm?",
+        "options": {
+            "a": "991 hp",
+            "b": "919 hp",
+            "c": "199 hp",
+            "d": "260 hp"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials"
+    },
+    {
+        "id": 819,
+        "question": "A steel shaft operates at 186 rad/s and must handle 2 kW of power. The shearing stress is not to exceed 40 MN/m\u00b2. Calculate the minimum shaft diameter based on pure torsion.",
+        "options": {
+            "a": "9 mm",
+            "b": "11 mm",
+            "c": "13 mm",
+            "d": "15 mm"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials"
+    },
+    {
+        "id": 820,
+        "question": "What power would the spindle 55 mm in diameter transmit at 480 rpm stress allowed for short shaft is 59 N/mm\u00b2?",
+        "options": {
+            "a": "98.68 kW",
+            "b": "96.88 kW",
+            "c": "68.98 kW",
+            "d": "68.89 kW"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials"
+    },
+    {
+        "id": 823,
+        "question": "The ultimate shear strength of a steel plate is 42,000 psi. Determine the diameter of the hole to punch it if the force applied is 30 tons in a \u00be inch thick plate.",
+        "options": {
+            "a": "0.10 in",
+            "b": "0.20 in",
+            "c": "0.60 in",
+            "d": "0.75 in"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials"
+    },
+    {
+        "id": 824,
+        "question": "A 2 inches diameter by 3 inches long journal bearing is to carry a load 3000 lb. Compute the bearing pressure.",
+        "options": {
+            "a": "2000 psi",
+            "b": "1500 psi",
+            "c": "1000 psi",
+            "d": "500 psi"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials"
+    }
+]

@@ -1,0 +1,262 @@
+[
+    {
+        "id": 61,
+        "question": "Find the length of the arc of the parabola $x^2 = 4y$ from $x = -2$ to $x = 2$.",
+        "options": {
+            "a": "4.2 units",
+            "b": "4.6 units",
+            "c": "4.9 units",
+            "d": "5.2 units"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 62,
+        "question": "Determine the arc length of the curve $x = 4(3 + y)^2$ from $y = 1$ to $y = 4$.",
+        "options": {
+            "a": "18.6",
+            "b": "131",
+            "c": "267",
+            "d": "16"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 63,
+        "question": "What is the volume of the solid generated when the area bounded by the curve $y^2 = x$, the x-axis and the line $x = 2$ is revolved about the x-axis?",
+        "options": {
+            "a": "$2\\pi$",
+            "b": "$3\\pi$",
+            "c": "$2.5\\pi$",
+            "d": "$1.5\\pi$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 64,
+        "question": "Determine the volume of the solid obtained by rotating the region bounded by $y = x^2$ and $y = x$ about the line $x = -3$.",
+        "options": {
+            "a": "$6\\pi/5$",
+            "b": "$9\\pi/4$",
+            "c": "$7\\pi/6$",
+            "d": "$8\\pi/5$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 65,
+        "question": "The area bounded by the curve $y^2 = 12x$ and the line $x = 3$. What is the volume generated? (Assume revolution around x-axis).",
+        "options": {
+            "a": "179",
+            "b": "181",
+            "c": "183",
+            "d": "185"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 66,
+        "question": "Given the area in the first quadrant bounded by $x^2 = 8y$, the line $y - 2 = 0$ and the y-axis. What is the volume generated when the area is revolved about the line $y - 2 = 0$?",
+        "options": {
+            "a": "28.41",
+            "b": "27.32",
+            "c": "25.83",
+            "d": "26.81"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 67,
+        "question": "The area in the second quadrant of the circle $x^2 + y^2 = 36$ is revolved about line $y + 10 = 0$. What is the volume generated?",
+        "options": {
+            "a": "2218.33 cubic units",
+            "b": "2228.83 cubic units",
+            "c": "2233.43 cubic units",
+            "d": "2208.53 cubic units"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 68,
+        "question": "A water tank in the shape of an inverted cone has a height of 15 meters and a base radius of 4 meters and is filled with water to a depth of 12 meters. Determine the amount of work needed to pump all of the water to the top of the tank.",
+        "options": {
+            "a": "7570 kJ",
+            "b": "8830 kJ",
+            "c": "5430 kJ",
+            "d": "2290 kJ"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 69,
+        "question": "A tank of water is 15 feet long and has a cross section in the shape of an equilateral triangle with sides 2 feet long (point of the triangle points directly down). The tank is filled with water to a depth of 9 inches. Determine the amount of work needed to pump all of the water to the top of the tank.",
+        "options": {
+            "a": "453 ft-lbf",
+            "b": "374 ft-lbf",
+            "c": "822 ft-lbf",
+            "d": "721 ft-lbf"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 70,
+        "question": "Determine the volume of the solid obtained by rotating the region bounded by $y = 4x$ and $y = x^3$ about the x-axis.",
+        "options": {
+            "a": "$315\\pi/7$",
+            "b": "$447\\pi/8$",
+            "c": "$512\\pi/21$",
+            "d": "$721\\pi/17$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 71,
+        "question": "What work is required to pump all the water from a conical container with upper base diameter of 6 ft and 8 ft deep? The level of water is 5 ft and the water is pumped to an elevation of 12 ft.",
+        "options": {
+            "a": "5493 ft-lbf",
+            "b": "4293 ft-lbf",
+            "c": "9476 ft-lbf",
+            "d": "2943 ft-lbf"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 72,
+        "question": "What is the time 995 minutes after 3:30 AM?",
+        "options": {
+            "a": "8:35:00 PM",
+            "b": "8:05:00 PM",
+            "c": "8:12:00 PM",
+            "d": "7:55:00 PM"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 73,
+        "question": "Manila is $121^\\circ$ East longitude while Japan is $138^\\circ$ East longitude. If Manila time is 7:28 PM (GMT), what is the time in Japan?",
+        "options": {
+            "a": "9:24 PM",
+            "b": "8:47 PM",
+            "c": "8:13 PM",
+            "d": "8:36 PM"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 74,
+        "question": "**Examples:** What is the value of the expression $x^2 + \\ln x - \\cos x + \\frac{1}{x^3}$ if $x = 101$? **Ans. 10205.81**",
+        "options": {},
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 75,
+        "question": "Find the limit: $$\\lim_{x \\to 3} \\frac{x^2 - x - 6}{x - 3}$$",
+        "options": {
+            "a": "-4",
+            "b": "5",
+            "c": "6",
+            "d": "7"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 76,
+        "question": "Find the limit: $$\\lim_{x \\to 5} \\frac{\\sqrt{x^2 + 11} - 6}{x - 5}$$",
+        "options": {
+            "a": "4/5",
+            "b": "3/5",
+            "c": "5/6",
+            "d": "6/7"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 77,
+        "question": "Find the limit: $$\\lim_{x \\to \\pi/4} \\frac{1 - \\tan(x)}{\\sin(x) - \\cos(x)}$$",
+        "options": {
+            "a": "$1/2$",
+            "b": "$\\sqrt{2}/2$",
+            "c": "$-\\sqrt{3}$",
+            "d": "$-\\sqrt{2}$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 78,
+        "question": "Supposing that $A = \\frac{\\sqrt{x^2 + 16}}{y - 2}$; $B = \\sinh(A + y) - x$ and $C = \\frac{Ax + y}{Bx - y}$. Find C if $x = 3$ and $y = 1$: **Ans: 0.152**",
+        "options": {},
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 79,
+        "question": "Solves Equations in single Variable by Iteration. Solve for $x$: $x = \\frac{1}{2} \\cos x$ **Ans. 0.45018** Find the solution, $x^6 + 7x^2 - 4 = 0$ on $[-1, 0]$. **Ans. -0.7402**",
+        "options": {},
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 80,
+        "question": "$$\\int_{1}^{5} x \\cos x \\, dx$$ **Ans. -5.89**",
+        "options": {},
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    }
+]

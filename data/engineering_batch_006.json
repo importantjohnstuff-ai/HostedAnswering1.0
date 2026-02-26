@@ -1,0 +1,240 @@
+[
+    {
+        "id": 645,
+        "question": "Protection of workers from impact penetration from falling and flying objects, blows, and from limited electric shock and burns shall be provided where there is reasonable probability of exposure to such hazards.",
+        "options": {
+            "a": "Hard Hat",
+            "b": "Toe Board",
+            "c": "Harness",
+            "d": "Belt"
+        },
+        "answer": "a",
+        "correct_answer_text": "Hard Hat",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics"
+    },
+    {
+        "id": 646,
+        "question": "Which of the following does NOT affect owner\u2019s equity?",
+        "options": {
+            "a": "Dividends Paid",
+            "b": "Invested Capital",
+            "c": "Expense to get license of start business",
+            "d": "License to start business"
+        },
+        "answer": "d",
+        "correct_answer_text": "License to start business",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy"
+    },
+    {
+        "id": 647,
+        "question": "What is the metal used to recover copper from a solution of copper sulphate?",
+        "options": {
+            "a": "Na",
+            "b": "Ag",
+            "c": "Hg",
+            "d": "Fe"
+        },
+        "answer": "d",
+        "correct_answer_text": "Fe",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry"
+    },
+    {
+        "id": 648,
+        "question": "Combination of laminar and turbulent flow.",
+        "options": {
+            "a": "Critical",
+            "b": "Continuous",
+            "c": "Laminar",
+            "d": "Turbulent"
+        },
+        "answer": "a",
+        "correct_answer_text": "Critical",
+        "category": "Engineering Sciences",
+        "sub_category": "Fluid Mechanics"
+    },
+    {
+        "id": 649,
+        "question": "Which of the following is the Ideal Gas Law?",
+        "options": {
+            "a": "V/T = k",
+            "b": "P1/T1 = P2/T2",
+            "c": "PV = nRT",
+            "d": "V = k x 1/P"
+        },
+        "answer": "c",
+        "correct_answer_text": "PV = nRT",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics"
+    },
+    {
+        "id": 650,
+        "question": "In molecules of the same composition, what are the variations of atomic arrangements is known as?",
+        "options": {
+            "a": "Polymers",
+            "b": "Monomers",
+            "c": "Isomers",
+            "d": "Crystal Systems"
+        },
+        "answer": "c",
+        "correct_answer_text": "Isomers",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry"
+    },
+    {
+        "id": 651,
+        "question": "The vector which represents the sum of a group of force vectors is called the",
+        "options": {
+            "a": "Magnitude",
+            "b": "Resultant",
+            "c": "Sum",
+            "d": "Force Polygon"
+        },
+        "answer": "b",
+        "correct_answer_text": "Resultant",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics"
+    },
+    {
+        "id": 652,
+        "question": "Which of the following statements about work for a quasi-equilibrium process is incorrect?",
+        "options": {
+            "a": "The differential of work is inexact",
+            "b": "Work is the area under a P-T diagram",
+            "c": "Work is a path function",
+            "d": "Work is always zero for a constant-volume process"
+        },
+        "answer": "b",
+        "correct_answer_text": "Work is the area under a P-T diagram",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics"
+    },
+    {
+        "id": 653,
+        "question": "What color is used designated caution, limited to warning against stating, use of, or movement of equipment which is under repair or being worked upon?",
+        "options": {
+            "a": "Blue",
+            "b": "Orange",
+            "c": "Red",
+            "d": "Yellow"
+        },
+        "answer": "a",
+        "correct_answer_text": "Blue",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics"
+    },
+    {
+        "id": 655,
+        "question": "Commercially used pressure measuring device today is",
+        "options": {
+            "a": "Bourdon tube gauge",
+            "b": "Manometer",
+            "c": "Kelvin gauge",
+            "d": "Barometer"
+        },
+        "answer": "a",
+        "correct_answer_text": "Bourdon tube gauge",
+        "category": "Engineering Sciences",
+        "sub_category": "Fluid Mechanics"
+    },
+    {
+        "id": 656,
+        "question": "The disconnecting means for motor circuits shall have an ampere rating of at least 115% of the full load current rating of the motor.",
+        "options": {
+            "a": "Manufacturing rule",
+            "b": "Construction rule",
+            "c": "Wiring design rule",
+            "d": "Installation rule"
+        },
+        "answer": "c",
+        "correct_answer_text": "Wiring design rule",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics"
+    },
+    {
+        "id": 658,
+        "question": "A force causing a rise in liquid in tubes of small diameter.",
+        "options": {
+            "a": "Cohesion",
+            "b": "Surface tension",
+            "c": "Capillarity",
+            "d": "Adhesion"
+        },
+        "answer": "c",
+        "correct_answer_text": "Capillarity",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics"
+    },
+    {
+        "id": 659,
+        "question": "Under very slow deformation and at high temperature, it is possible to have some plastic flow in a crystal at a shear stress lower than the critical shear stress. What is the phenomenon called?",
+        "options": {
+            "a": "Slip",
+            "b": "Twinning",
+            "c": "Creep",
+            "d": "Bending"
+        },
+        "answer": "c",
+        "correct_answer_text": "Creep",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials"
+    },
+    {
+        "id": 660,
+        "question": "A cannonball is fired from the top of a tower 78 m high at 120 m/s, 15 degrees from the horizontal. Determine the range on the ground at which the ball will land? Neglect air resistance.",
+        "options": {
+            "a": "762 m",
+            "b": "1083 m",
+            "c": "957 m",
+            "d": "210 m"
+        },
+        "answer": "b",
+        "correct_answer_text": "1083 m",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics"
+    },
+    {
+        "id": 662,
+        "question": "Determine the discharge coefficient of an orifice that is 60 mm in diameter installed under a head of 3 meters? The volume released from the orifice is 835.58 Li in one minute:",
+        "options": {
+            "a": "0.605",
+            "b": "0.701",
+            "c": "0.642",
+            "d": "0.667"
+        },
+        "answer": "c",
+        "correct_answer_text": "0.642",
+        "category": "Engineering Sciences",
+        "sub_category": "Fluid Mechanics"
+    },
+    {
+        "id": 663,
+        "question": "A car negotiates a curved road with super-elevation of 10 degrees and radius of 120 feet. Determine the speed limit on the road:",
+        "options": {
+            "a": "26 ft/s",
+            "b": "35 ft/s",
+            "c": "13 ft/s",
+            "d": "10 ft/s"
+        },
+        "answer": "a",
+        "correct_answer_text": "26 ft/s",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics"
+    },
+    {
+        "id": 664,
+        "question": "What is work-in-progress classified as?",
+        "options": {
+            "a": "An asset",
+            "b": "A liability",
+            "c": "An expense",
+            "d": "Owner\u2019s equity"
+        },
+        "answer": "a",
+        "correct_answer_text": "An asset",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics"
+    }
+]

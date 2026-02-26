@@ -1,0 +1,282 @@
+[
+    {
+        "question": "The maximum torque of an induction motor occurs when:",
+        "options": {
+            "a": "Slip = 0",
+            "b": "Slip = 1",
+            "c": "Rotor reactance = rotor resistance",
+            "d": "Rotor frequency = stator frequency"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 889
+    },
+    {
+        "question": "The region of the torque\u2013speed curve where torque increases sharply after standstill until the motor picks up speed is called:",
+        "options": {
+            "a": "Regenerative region",
+            "b": "Pull-up region",
+            "c": "Breakdown region",
+            "d": "Slip region"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 890
+    },
+    {
+        "question": "The star connected rotor of an induction motor has a standstill impedance of (0.4 + j4) ohm per phase. The motor has an induced emf of 80 V between slip-rings at standstill when connected to its normal supply voltage. Find the rotor current when motor is running with a slip of 3%.",
+        "options": {
+            "a": "5.78 A",
+            "b": "3.32 A",
+            "c": "1.89 A",
+            "d": "4.51 A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 891
+    },
+    {
+        "question": "Breakdown torque of an induction motor is:",
+        "options": {
+            "a": "Torque at full load",
+            "b": "Maximum torque motor can develop",
+            "c": "Torque at synchronous speed where N = Ns",
+            "d": "Starting torque"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 892
+    },
+    {
+        "question": "Which method directly increases starting torque?",
+        "options": {
+            "a": "Reducing rotor resistance",
+            "b": "Increasing supply voltage",
+            "c": "Increasing synchronous speed",
+            "d": "Reducing supply frequency"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 893
+    },
+    {
+        "question": "A 12-pole, 3-phase, 600-V, 50-Hz, star-connected, induction motor has rotor-resistance and standstill reactance of 0.03 and 0.5 ohm per phase respectively. Calculate the speed of maximum torque.",
+        "options": {
+            "a": "570 rpm",
+            "b": "380 rpm",
+            "c": "290 rpm",
+            "d": "470 rpm"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 894
+    },
+    {
+        "question": "A 746-kW, 3-phase, 50-Hz, 16-pole induction motor has a rotor impedance of (0.02 + j 0.15) ohms at standstill. Full-load torque is obtained at 360 rpm. Calculate the maximum torque:",
+        "options": {
+            "a": "25 kN-m",
+            "b": "36 kN-m",
+            "c": "19 kN-m",
+            "d": "48 kN-m"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 895
+    },
+    {
+        "question": "A wound-rotor induction motor allows external resistance in the rotor circuit mainly to:",
+        "options": {
+            "a": "Decrease power factor",
+            "b": "Increase efficiency",
+            "c": "Increase starting torque",
+            "d": "Reduce stator current"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 896
+    },
+    {
+        "question": "In an induction motor, if slip increases, the rotor frequency:",
+        "options": {
+            "a": "Decreases",
+            "b": "Remains constant",
+            "c": "Increases",
+            "d": "Becomes zero"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 897
+    },
+    {
+        "question": "A 3-phase induction motor having a 6-pole, star-connected stator winding runs on 240-V, 50-Hz supply. The rotor resistance and standstill reactance are 0.12 ohm and 0.85 ohm per phase. The ratio of stator to rotor turns is 1.8. Full load slip is 4%. Calculate the developed torque at full load:",
+        "options": {
+            "a": "43.7 kN-m",
+            "b": "17.9 kN-m",
+            "c": "28.9 kN-m",
+            "d": "52.4 kN-m"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 898
+    },
+    {
+        "question": "The induced rotor emf depends directly on:",
+        "options": {
+            "a": "Slip",
+            "b": "Rotor speed",
+            "c": "Stator copper losses",
+            "d": "Winding resistance"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 899
+    },
+    {
+        "question": "Which of the following improves the power factor of an induction motor?",
+        "options": {
+            "a": "Using a higher number of poles",
+            "b": "Increasing slip",
+            "c": "Reducing magnetizing current",
+            "d": "Lowering rotor resistance"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 900
+    },
+    {
+        "question": "A 4-pole, 50-Hz, 7.46-kW motor has, at rated voltage and frequency, a starting torque of 160 per cent and a maximum torque of 200 per cent of full-load torque. Determine the full load speed and speed at maximum torque respectively:",
+        "options": {
+            "a": "1485 rpm and 1460 rpm",
+            "b": "1485 rpm and 1440 rpm",
+            "c": "1495 rpm and 1440 rpm",
+            "d": "1495 rpm and 1460 rpm"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 901
+    },
+    {
+        "question": "Which type of motor is most commonly used in industrial pumps and fans due to its ruggedness and low maintenance?",
+        "options": {
+            "a": "DC shunt motor",
+            "b": "Three-phase induction motor",
+            "c": "Universal motor",
+            "d": "Stepper motor"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Machines",
+        "id": 902
+    },
+    {
+        "question": "Induction motors are widely used in HVAC systems primarily because they:",
+        "options": {
+            "a": "Operate only at synchronous speed",
+            "b": "Have high starting torque with zero current whenever slip falls to zero",
+            "c": "Require low maintenance and provide reliable continuous operation",
+            "d": "Are the most efficient motors available"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 903
+    },
+    {
+        "question": "The power input to the rotor of 440 V, 50 Hz, 6-pole, 3-phase, induction motor is 80 kW. The rotor electromotive force is observed to make 100 complete alterations per minute. Calculate rotor copper losses per phase.",
+        "options": {
+            "a": "0.89 kW",
+            "b": "0.45 kW",
+            "c": "0.78 kW",
+            "d": "0.31 kW"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 904
+    },
+    {
+        "question": "Which application commonly uses a single-phase induction motor?",
+        "options": {
+            "a": "Large conveyor belts",
+            "b": "Domestic washing machines",
+            "c": "Industrial compressors",
+            "d": "High-voltage traction drives"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 905
+    },
+    {
+        "question": "Which of the following household appliances typically uses a capacitor-start induction motor?",
+        "options": {
+            "a": "Hair dryer",
+            "b": "Refrigerator compressor",
+            "c": "Laptop power supply",
+            "d": "Mobile charger"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 906
+    },
+    {
+        "question": "A 440-V, 3-\u03c6, 50-Hz, 4-pole, Y-connected induction motor has a full-load speed of 1425 rpm. The rotor has an impedance of (0.4 + j4) ohm and rotor/stator turns ratio of 0.8. Calculate the full-load rotor Cu loss:",
+        "options": {
+            "a": "560 W",
+            "b": "620 W",
+            "c": "250 W",
+            "d": "870 W"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 907
+    },
+    {
+        "question": "Induction motors are ideal for conveyor systems in manufacturing plants because:",
+        "options": {
+            "a": "They require no current to generate torque",
+            "b": "They provide stable speed under varying load",
+            "c": "They operate only at high slip",
+            "d": "Their torque decreases as load increases"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 908
+    }
+]

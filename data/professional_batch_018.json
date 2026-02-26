@@ -1,0 +1,282 @@
+[
+    {
+        "question": "When inductance coil A is mutual with coil B, increasing the voltage on coil A twice the initial value, while doubling the number of turns in coil A will:",
+        "options": {
+            "a": "increase voltage on coil B twice",
+            "b": "remain voltage on B constant",
+            "c": "decrease voltage on coil B by half",
+            "d": "no way to tell."
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Electromagnetism",
+        "id": 1209
+    },
+    {
+        "question": "If the voltage $v = 150 \\cos(377t + 45^\\circ) V$ is across a 33-kohm resistor, what is the resistor current?",
+        "options": {
+            "a": "2.78 mA",
+            "b": "0.62 mA",
+            "c": "3.22 mA",
+            "d": "1.42 mA"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1210
+    },
+    {
+        "question": "Find the average power absorbed by an 82-ohm resistor that has a voltage $v = 311 \\cos(377t - 45^\\circ) V$ across it.",
+        "options": {
+            "a": "540 W",
+            "b": "100 W",
+            "c": "72 W",
+            "d": "590 W"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1211
+    },
+    {
+        "question": "What is the average power absorbed by a $910 \\Omega$ resistor that has a current $i = 9.76 \\sin(754t - 36^\\circ) mA$ flowing through it?",
+        "options": {
+            "a": "13.92 mW",
+            "b": "43.3 mW",
+            "c": "72.1 mW",
+            "d": "92.3 mW"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1212
+    },
+    {
+        "question": "Find the average power absorbed by a resistor having a voltage $v = 87.7 \\cos(400\\pi t - 15^\\circ) V$ across it and a current $i = 2.72 \\cos(400\\pi t - 15^\\circ) mA$ flowing through it.",
+        "options": {
+            "a": "137 mW",
+            "b": "67 mW",
+            "c": "45 mW",
+            "d": "119 mW"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1213
+    },
+    {
+        "question": "Microphones use series resonance circuits in order to amplify voltage which leads to an increase in decibel rating of output audio signal; on the other hand, ear-audio jacks use:",
+        "options": {
+            "a": "series resonance",
+            "b": "parallel resonance",
+            "c": "series-parallel resonance",
+            "d": "RL circuit."
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1214
+    },
+    {
+        "question": "What is the reading of an AC ammeter that is in series with a 470-ohm resistor that has a voltage $i = 150 \\cos(377t + 30^\\circ) V$ across it?",
+        "options": {
+            "a": "172 mA",
+            "b": "45 mA",
+            "c": "75.4 mA",
+            "d": "226 mA"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1215
+    },
+    {
+        "question": "What is the reading of an AC ammeter that is in series with a 270-ohm resistor that has a peak (or maximum) power dissipation of 10W?",
+        "options": {
+            "a": "136 mA",
+            "b": "231 mA",
+            "c": "88 mA",
+            "d": "105 mA"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1216
+    },
+    {
+        "question": "A coil of 50 turns having a mean diameter of 3 cm is placed co-axially at the centre of a solenoid 60 cm long, wound with 2,500 turns and carrying a current of 2 A. Determine the mutual inductance of the arrangement.",
+        "options": {
+            "a": "0.428 mH",
+            "b": "0.892 mH",
+            "c": "0.185 mH",
+            "d": "0.045 mH"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Electromagnetism",
+        "id": 1217
+    },
+    {
+        "question": "What current flows through an 80-mH inductor that has 120 V at 60 Hz across it?",
+        "options": {
+            "a": "0.667 A",
+            "b": "1.333 A",
+            "c": "3.98 A",
+            "d": "7.78 A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1218
+    },
+    {
+        "question": "A series combination of 0.272 H, $50 \\mu\\text{F}$ and a 10-ohm resistor is tuned to resonance across a DC voltage source of 220 volts. Find the circuit voltage at resonance.",
+        "options": {
+            "a": "1429 V",
+            "b": "100 V",
+            "c": "193 V",
+            "d": "1622 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1219
+    },
+    {
+        "question": "What is the inductance of the inductor that will draw a current of 250mA when connected to a 120-V, 60-Hz voltage source?",
+        "options": {
+            "a": "1.27 H",
+            "b": "0.72 H",
+            "c": "4.21 H",
+            "d": "0.56 H"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1220
+    },
+    {
+        "question": "When the resistance of an RLC resonance series circuit is increased:",
+        "options": {
+            "a": "the Q-factor will increase",
+            "b": "the Q-factor will decrease",
+            "c": "the Q-factor remains the same",
+            "d": "the circuit will be out of resonance."
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1221
+    },
+    {
+        "question": "Find the frequency at which a $0.1\\text{-}\\mu\\text{F}$ capacitor and a 120-mH inductor have the same magnitude of reactance or at the state of series resonance?",
+        "options": {
+            "a": "0.75 kHz",
+            "b": "1.45 kHz",
+            "c": "0.972 kHz",
+            "d": "2.178 kHz"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1222
+    },
+    {
+        "question": "What is the capacitance of a capacitor that draws 150 mA when connected to a 100-V, 400-Hz voltage source?",
+        "options": {
+            "a": "$0.892 \\mu\\text{F}$",
+            "b": "$1.678 \\mu\\text{F}$",
+            "c": "$0.597 \\mu\\text{F}$",
+            "d": "$2.834 \\mu\\text{F}$"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1223
+    },
+    {
+        "question": "What is the peak current that flows in a $0.5\\text{-}\\mu\\text{F}$ capacitor for capacitor voltages of $v = 190 \\sin(311\\pi t + 15^\\circ) V$?",
+        "options": {
+            "a": "35.8 mA",
+            "b": "67.8 mA",
+            "c": "13.6 mA",
+            "d": "73.2 mA"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1224
+    },
+    {
+        "question": "What are the voltages across a $2\\text{-}\\mu\\text{F}$ capacitor for currents of $i = 7 \\sin(754t + 15^\\circ) mA$?",
+        "options": {
+            "a": "4.64 V",
+            "b": "7.85 V",
+            "c": "1.76 V",
+            "d": "0.673 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1225
+    },
+    {
+        "question": "A $0.5\\text{-}\\mu\\text{F}$ capacitor and a 2-kohm resistor are in series. Find the total impedance in polar form at 60 Hz.",
+        "options": {
+            "a": "$5.67\\text{k}\\Omega \\angle -69.30^\\circ$",
+            "b": "$3.21\\text{k}\\Omega \\angle -23.13^\\circ$",
+            "c": "$7.89\\text{k}\\Omega \\angle -56.74^\\circ$",
+            "d": "$8.34\\text{k}\\Omega \\angle -115.6^\\circ$"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1226
+    },
+    {
+        "question": "Two coils have 50 and 500 turns respectively are wound side by side on a closed iron circuit of section $50 \\text{ cm}^2$ and mean length 120 cm. The permeability of iron is 1000. If the current in one coil grows steadily from zero to 5A in 0.01 second, find the e.m.f. induced in the other coil.",
+        "options": {
+            "a": "$E_2 = 78.4 V$",
+            "b": "17.5 V",
+            "c": "114 V",
+            "d": "$E_2 = 65.4 V$"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Electromagnetism",
+        "id": 1227
+    },
+    {
+        "question": "A 300-ohm resistor, a 1-H inductor, and a $1\\text{-}\\mu\\text{F}$ capacitor are in series. Find the total impedance in polar form at 833 rad/s:",
+        "options": {
+            "a": "$564 \\Omega$",
+            "b": "$474 \\Omega$",
+            "c": "$823 \\Omega$",
+            "d": "$119 \\Omega$"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1228
+    }
+]

@@ -1,0 +1,282 @@
+[
+    {
+        "id": 161,
+        "question": "Solve the D.E.: $y'' + 4y' + 3y = 5$",
+        "options": {
+            "a": "$y = Ae^{-x} + Be^{-3x} + 5/3$",
+            "b": "$y = Ae^{-x} + Be^{-3x} + 5/2$",
+            "c": "$y = Ae^x + Be^{3x} + 5/2$",
+            "d": "$y = Ae^x + Be^{3x} + 15/2$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 162,
+        "question": "Solve the D.E.: $y'' + 3y' + 2y = \\sin 2x$",
+        "options": {
+            "a": "$y = -\\frac{1}{10}(3\\cos 2x + 2\\sin 2x)$",
+            "b": "$y = -\\frac{1}{20}(3\\cos 2x + \\sin 2x)$",
+            "c": "$y = -\\frac{1}{10}(\\cos 2x - \\sin 2x)$",
+            "d": "$y = \\frac{1}{20}(2\\cos 2x - \\sin 2x)$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 163,
+        "question": "Solve the particular solution of the D.E.: $y'' + 4y' + 7y = 3\\cos 5x$",
+        "options": {
+            "a": "$y_p = -\\frac{3}{424}(4\\sin 5x - 5\\cos 2x)$",
+            "b": "$y_p = -\\frac{3}{181}(3\\sin 5x + 5\\cos 2x)$",
+            "c": "$y_p = \\frac{3}{362}(10\\sin 5x - 9\\cos 2x)$",
+            "d": "$y_p = \\frac{3}{181}(5\\sin 5x - 9\\sin 2x)$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 164,
+        "question": "Solve the D.E.: $y'' + 2y' + y = 2e^{-x} \\sin 3x$",
+        "options": {
+            "a": "$y = c_1 e^{-x} + c_2 x e^{-x} - \\frac{2}{9} e^{-x} \\sin(3x) + \\frac{1}{3} e^{-x} \\cos(3x)$",
+            "b": "$y = c_1 e^{-x} + c_2 x e^{-x} - \\frac{2}{9} e^{-x} \\sin(3x)$",
+            "c": "$y = c_1 e^{-x} + c_2 x e^{-x} + \\frac{2}{9} e^{-x} \\sin(3x) - \\frac{2}{3} e^{-x} \\cos(3x)$",
+            "d": "$y = c_1 e^{-x} + c_2 x e^{-x} + \\frac{5}{9} e^{-x} \\sin(3x)$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 165,
+        "question": "Determine the particular solution of $y''' - 8y = 4e^{2x}$:",
+        "options": {
+            "a": "$Y_p = (1/2)xe^{2x}$",
+            "b": "$Y_p = (1/3)xe^{2x}$",
+            "c": "$Y_p = (1/4)xe^{2x}$",
+            "d": "$Y_p = (1/6)xe^{2x}$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 166,
+        "question": "Determine the particular solution of $y'' - 10y' + 24y = 6\\cos(3x)$:",
+        "options": {
+            "a": "$Y_p = (-2/25)(2\\sin(3x) - \\cos(3x))$",
+            "b": "$Y_p = (4/25)(\\sin(3x) - 2\\cos(3x))$",
+            "c": "$Y_p = (-1/25)(4\\sin(3x) + \\cos(3x))$",
+            "d": "$Y_p = (2/25)(4\\sin(3x) + \\cos(3x))$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 167,
+        "question": "Determine the particular solution of $y'' + 7y' + 12y = 8e^{-x} \\cos(2x)$:",
+        "options": {
+            "a": "$Y_p = (4/13)e^{-x}(6\\sin(2x) - \\cos(2x))$",
+            "b": "$Y_p = (5/13)e^{-x}(5\\sin(2x) - 2\\cos(2x))$",
+            "c": "$Y_p = (2/13)e^{-x}(4\\sin(2x) + \\cos(2x))$",
+            "d": "$Y_p = (2/13)e^{-x}(5\\sin(2x) + \\cos(2x))$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 168,
+        "question": "The solution of the differential equation $\\frac{dy}{dx} - y^2 = 0$ given $y = 1$ at $x = 0$ is:",
+        "options": {
+            "a": "$\\frac{1}{1 + x}$",
+            "b": "$\\frac{1}{1 - x}$",
+            "c": "$\\frac{1}{(1 - x)^2}$",
+            "d": "$\\frac{x^3}{3} + 1$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 169,
+        "question": "The solution of the ordinary differential equation $\\frac{dy}{dx} + 3y = 1$, subject to the initial condition $y = 1$ at $x = 0$, is:",
+        "options": {
+            "a": "$\\frac{1}{3}(1 + 2e^{-x/3})$",
+            "b": "$\\frac{1}{3}(5 - 2e^{-x/3})$",
+            "c": "$\\frac{1}{3}(5 - 2e^{-3x})$",
+            "d": "$\\frac{1}{3}(1 + 2e^{-3x})$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 170,
+        "question": "The solution of the differential equation $\\frac{d^2y}{dx^2} - \\frac{dy}{dx} + 0.25y = 0$, where $y = 0$ at $x = 0$ and $\\frac{dy}{dx} = 1$ at $x = 0$:",
+        "options": {
+            "a": "$xe^{0.5x} - xe^{-0.5x}$",
+            "b": "$0.5xe^{x} - 0.5xe^{-x}$",
+            "c": "$xe^{0.5x}$",
+            "d": "$-xe^{0.5x}$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 171,
+        "question": "Supposing that the half life of a radioisotope is 3.45 minutes. How long will it take for a 576 gram sample to disintegrate 570 grams?",
+        "options": {
+            "a": "22.7 min",
+            "b": "14.5 min",
+            "c": "35.8 min",
+            "d": "10.3 min"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 172,
+        "question": "A certain radioactive substance has a half-life of 50 hours. How long will it take for 95% of the substance to dissipate?",
+        "options": {
+            "a": "255 hours",
+            "b": "147 hours",
+            "c": "217 hours",
+            "d": "342 hours"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 173,
+        "question": "Dramstadtium isotope has a half-life of 567 days. Supposing that a sample has 78.56% less radioactive Dramstadtium than a freshly synthesized isotope. How old is the sample?",
+        "options": {
+            "a": "3.5 years",
+            "b": "3.21 years",
+            "c": "6.3 years",
+            "d": "2.45 years"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 174,
+        "question": "The population in Timbuktu doubles every 12 years. How long would it take for the population to triple?",
+        "options": {
+            "a": "25 years",
+            "b": "19 years",
+            "c": "21 years",
+            "d": "27 years"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 175,
+        "question": "A thermometer reading 75 degree Fahrenheit is taken out where the temperature is 20 degree Fahrenheit. The thermometer reading is 30 degree Fahrenheit 4 minutes later. Find the time (in minutes) taken for the reading to drop from 75 degree Fahrenheit to within half degree of the air temperature.",
+        "options": {
+            "a": "11 minutes",
+            "b": "20 minutes",
+            "c": "7 minutes",
+            "d": "16 minutes"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 176,
+        "question": "A thermometer reading $18^\\circ\\text{C}$ is brought into a room where the temperature is $70^\\circ\\text{C}$; 1 minute later the thermometer reading is $31^\\circ\\text{C}$. Determine the thermometer reading 5 minutes after it is brought into the room.",
+        "options": {
+            "a": "$62.33^\\circ\\text{C}$",
+            "b": "$58.99^\\circ\\text{C}$",
+            "c": "$56.55^\\circ\\text{C}$",
+            "d": "$57.66^\\circ\\text{C}$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 177,
+        "question": "A metal is heated up to a temperature of $500^\\circ\\text{C}$. It is then exposed to a temperature of $38^\\circ\\text{C}$. After 2 min, the temperature of the metal becomes $190^\\circ\\text{C}$. When will the temperature be $100^\\circ\\text{C}$?",
+        "options": {
+            "a": "3.61 min",
+            "b": "4.21 min",
+            "c": "3.44 min",
+            "d": "5.22 min"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 178,
+        "question": "**PROBLEM 1** Solve $y' = 2xy^2$",
+        "options": {
+            "a": "$\\sqrt{x^2 + y^2} + y = C$",
+            "b": "$\\sqrt{x^2 + y^2 + y} = C$",
+            "c": "$\\sqrt{x + y} + y = C$",
+            "d": "$\\sqrt{x^2 - y} + y = C$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 179,
+        "question": "**PROBLEM 6** Solve the D.E.: $y'' + 7y' + 12y = 5e^{2x}$",
+        "options": {
+            "a": "$xe^{0.5x} - xe^{-0.5x}$",
+            "b": "$0.5xe^x - 0.5xe^{-x}$",
+            "c": "$xe^{0.5x}$",
+            "d": "$-xe^{0.5x}$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 180,
+        "question": "In an Orsat apparatus, the order of absorption in the three absorption flasks is _______.",
+        "options": {
+            "a": "CO, CO2, O2",
+            "b": "CO2, O2, CO",
+            "c": "O2, CO, CO2",
+            "d": "CO2, CO, O2"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    }
+]

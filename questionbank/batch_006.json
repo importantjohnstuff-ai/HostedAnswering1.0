@@ -1,0 +1,259 @@
+[
+    {
+        "id": 101,
+        "question": "**Example:** Determine the sum of the first eight terms of a geometric progression if the third term is 72 and the fifth term is 80? **ANS: 627.91**",
+        "options": {},
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 102,
+        "question": "There are a set of triplets. If there are 11 generations, how many ancestors do they have if duplication is not allowed?",
+        "options": {
+            "a": "4095",
+            "b": "4065",
+            "c": "4094",
+            "d": "4064"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 103,
+        "question": "**Example:** For the following data: 98, 87, 90, 85, 90, 97, 93, 87, 93, 80, 76 Calculate:",
+        "options": {
+            "a": "The mean **ANS: 88.73**",
+            "b": "The standard deviation (sample) **ANS: 6.72**"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 104,
+        "question": "**Form: $y = A + Bx + Cx^2$** A parabola with axis of symmetry parallel to the y-axis passes through points (-5,40), (1, 10), (3, 32). What is its equation?",
+        "options": {
+            "a": "$y = 5x^2 - 2x + 4$",
+            "b": "$y = 2x^2 + 3x + 5$",
+            "c": "$y = 2x^2 - 9x - 1$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 105,
+        "question": "**Form: $y = Ae^{Bx}$** How long will it take for a 40.0 gram sample of Iodine-131 with half-life equal to 8.040 days to decay to 1/100 its original mass?",
+        "options": {
+            "a": "53.42 days",
+            "b": "78.32 days",
+            "c": "43.12 days",
+            "d": "12.89 days"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 106,
+        "question": "**Form: $y = Ae^{Bx}$** Dramstadtium decays into 1/5 of its initial amount in 20 minutes. What is the half-life of Dramstadtium?",
+        "options": {
+            "a": "5.4 min",
+            "b": "7.3 min",
+            "c": "8.6 min",
+            "d": "10.2 min"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 107,
+        "question": "A steel ball at 120 degC cools in 20 minutes into 80 degC in a room at 25 degC. Find the temperature of the ball after half an hour.",
+        "options": {
+            "a": "40.96 degC",
+            "b": "45.96 degC",
+            "c": "66.85 degC",
+            "d": "55.96 degC"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 108,
+        "question": "Convert $100_{10}$ to hexadecimal, binary and octal. **Ans. $64_{16}$, $1100100_2$, $144_8$**",
+        "options": {},
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 109,
+        "question": "What is the equivalent of 4,565 of base 8 to hexadecimal?",
+        "options": {
+            "a": "975",
+            "b": "135",
+            "c": "754",
+            "d": "670"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 110,
+        "question": "$$ \\begin{cases} 2x + 5y + 2z = -38 \\\\ 3x - 2y + 4z = 17 \\\\ -6x + y - 7z = -12 \\end{cases} $$ **Sol:** $x = 3, y = -8, z = -2$ $$ \\begin{cases} x + 2y - 3z + 4w = 12 \\\\ 2x + 2y - 2z + 3w = 10 \\\\ 0 + y + z + 0 = -1 \\\\ x - y + z - 2w = -4 \\end{cases} $$ **Ans:** $x = 1, y = 0, z = -1, w = 2$",
+        "options": {},
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 111,
+        "question": "Find the root/s of the following equation: $2x^2 + 5x - 12 = 0$ **ANS: 3/2 and -4**",
+        "options": {},
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 112,
+        "question": "Determine the operation, AB: $$A = \\begin{bmatrix} 2 & -5 & 7 \\\\ 3 & 2 & 11 \\\\ 0 & 4 & -3 \\end{bmatrix} \\quad B = \\begin{bmatrix} -6 \\\\ 3 \\\\ 4 \\end{bmatrix}$$",
+        "options": {
+            "a": "$\\begin{bmatrix} 4 \\\\ 32 \\\\ -2 \\end{bmatrix}$",
+            "b": "$\\begin{bmatrix} -1 \\\\ 4 \\\\ 32 \\end{bmatrix}$",
+            "c": "$\\begin{bmatrix} 3 \\\\ 0 \\\\ 32 \\end{bmatrix}$",
+            "d": "$\\begin{bmatrix} 1 \\\\ 32 \\\\ 0 \\end{bmatrix}$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 113,
+        "question": "Determine the determinant of the matrix: $$A = \\begin{bmatrix} 7 & -5 & 2 \\\\ 1 & 0 & 3 \\\\ 4 & -3 & -5 \\end{bmatrix}$$",
+        "options": {
+            "a": "-34",
+            "b": "-28",
+            "c": "43",
+            "d": "15"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 114,
+        "question": "Find the determinant of the matrix: $$A = \\begin{bmatrix} 1 & 3 & 1 & 4 \\\\ 3 & 9 & 5 & 15 \\\\ 0 & 2 & 1 & 1 \\\\ 0 & 4 & 2 & 3 \\end{bmatrix}$$",
+        "options": {
+            "a": "3",
+            "b": "-4",
+            "c": "5",
+            "d": "-5"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 115,
+        "question": "Determine the transpose of the matrix: $$A = \\begin{bmatrix} 2 & -4 & 2 \\\\ 5 & 1 & 1 \\\\ 6 & 4 & -1 \\end{bmatrix}$$",
+        "options": {
+            "a": "$\\begin{bmatrix} 2 & 5 & 6 \\\\ -4 & 1 & -1 \\\\ 2 & 1 & 1 \\end{bmatrix}$",
+            "b": "$\\begin{bmatrix} 2 & -4 & 2 \\\\ 4 & 1 & -1 \\\\ -1 & 5 & 2 \\end{bmatrix}$",
+            "c": "$\\begin{bmatrix} 2 & 5 & 6 \\\\ -4 & 1 & 4 \\\\ 2 & 1 & -1 \\end{bmatrix}$",
+            "d": "$\\begin{bmatrix} 2 & -1 & 1 \\\\ 5 & 1 & -4 \\\\ 6 & 4 & 2 \\end{bmatrix}$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 116,
+        "question": "Determine the inverse of $X = \\begin{bmatrix} 4 & -5 \\\\ 3 & 2 \\end{bmatrix}$",
+        "options": {
+            "a": "$\\begin{bmatrix} 2/23 & 5/23 \\\\ -3/23 & 4/23 \\end{bmatrix}$",
+            "b": "$\\begin{bmatrix} -2/23 & 5/23 \\\\ -3/23 & 3/23 \\end{bmatrix}$",
+            "c": "$\\begin{bmatrix} -5/23 & 2/23 \\\\ 3/23 & 4/23 \\end{bmatrix}$",
+            "d": "$\\begin{bmatrix} 1/23 & -5/23 \\\\ 3/23 & 2/23 \\end{bmatrix}$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 117,
+        "question": "Determine the inverse of the matrix: $$\\begin{bmatrix} 0 & -3 & -2 \\\\ 1 & -4 & -2 \\\\ -3 & 4 & 1 \\end{bmatrix}$$",
+        "options": {
+            "a": "$\\begin{bmatrix} 4 & -5 & -2 \\\\ 5 & -6 & -2 \\\\ -8 & 9 & 3 \\end{bmatrix}$",
+            "b": "$\\begin{bmatrix} 4 & 5 & -4 \\\\ -7 & 3 & 0 \\\\ -8 & 4 & 3 \\end{bmatrix}$",
+            "c": "$\\begin{bmatrix} -2 & 1 & 2 \\\\ 8 & -4 & 6 \\\\ 7 & -5 & 7 \\end{bmatrix}$",
+            "d": "$\\begin{bmatrix} -6 & 7 & -1 \\\\ 0 & 9 & 6 \\\\ -4 & 3 & 3 \\end{bmatrix}$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 118,
+        "question": "What is the unit vector of $23\\mathbf{i} + 45\\mathbf{j} - 64\\mathbf{k}$ ?",
+        "options": {
+            "a": "$0.31\\mathbf{i} + 0.55\\mathbf{j} - 0.43\\mathbf{k}$",
+            "b": "$0.11\\mathbf{i} + 0.54\\mathbf{j} - 0.85\\mathbf{k}$",
+            "c": "$0.64\\mathbf{i} + 0.53\\mathbf{j} - 0.78\\mathbf{k}$",
+            "d": "$0.28\\mathbf{i} + 0.55\\mathbf{j} - 0.78\\mathbf{k}$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 119,
+        "question": "What is the vector representation of a force vector of magnitude 450 lbs acted at the point (2,-3,3) to (4, 1,-7)?",
+        "options": {
+            "a": "$-76.2\\mathbf{i} - 102.5\\mathbf{j} - 367.32\\mathbf{k}$ lbs",
+            "b": "$-51.7\\mathbf{i} - 97.7\\mathbf{j} + 436.33\\mathbf{k}$ lbs",
+            "c": "$82.2\\mathbf{i} + 164.4\\mathbf{j} - 410.96\\mathbf{k}$ lbs",
+            "d": "$-89.4\\mathbf{i} - 27.5\\mathbf{j} - 410.96\\mathbf{k}$ lbs"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 120,
+        "question": "Determine the angle between the vectors $-3\\mathbf{i} - 7\\mathbf{j}$ and $12\\mathbf{i} + 8\\mathbf{j}$:",
+        "options": {
+            "a": "56.7 degrees",
+            "b": "33.1 degrees",
+            "c": "78.3 degrees",
+            "d": "17.3 degrees"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    }
+]

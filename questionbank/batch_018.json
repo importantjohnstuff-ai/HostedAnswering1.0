@@ -1,0 +1,265 @@
+[
+    {
+        "id": 341,
+        "question": "Find an equation for the plane passing through (2, -1, -2), (-1,2, -3), (4,1,0) :",
+        "options": {
+            "a": "$2x + y - 3z = 9$",
+            "c": "$3x - 2y + z = 8$",
+            "d": "$2x + 3y + 4z = 6$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 342,
+        "question": "The Newton-Raphson method will not converge on a single value approximation if:",
+        "options": {
+            "a": "the sign of the slopes at the initial point and the exact root are the same.",
+            "b": "the sign of the slopes at the initial point and the exact root are opposite.",
+            "d": "the calculator is defective, but another one."
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Numerical Methods"
+    },
+    {
+        "id": 343,
+        "question": "Find the limit of the complex expression: $\\lim_{z \\to 0} \\frac{\\sin (7niz)}{z}$",
+        "options": {
+            "a": "$7\\pi i$",
+            "b": "$3\\pi i$",
+            "c": "$9\\pi i$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 344,
+        "question": "If $\\beta = xy + yz + zx$ and $\\mathbf{A} = x^2y\\hat{i} + y^2z\\hat{j} + z^2x\\hat{k}$, find $(\\nabla \\beta) \\times \\mathbf{A}$ at the point (3, -1,2).",
+        "options": {
+            "a": "$56\\hat{i} - 30\\hat{j} + 47\\hat{k}$",
+            "b": "$48\\hat{i} + 13\\hat{j} - 37\\hat{k}$",
+            "c": "$11\\hat{i} - 67\\hat{j} + 52\\hat{k}$",
+            "d": "$781\\hat{i} + 23\\hat{j} - 79\\hat{k}$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 345,
+        "question": "Which of the following is a key advantage of the Secant Method over the Newton-Raphson Method?",
+        "options": {
+            "a": "Faster convergence for all types of function",
+            "b": "Does not require the function to be continuous and differentiable",
+            "d": "Always converges regardless of initial guesses"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Numerical Methods"
+    },
+    {
+        "id": 346,
+        "question": "Integrate $\\int \\frac{(iz^2 + z)}{(z + i)} dz$",
+        "options": {
+            "a": "$(2 + i)\\pi$",
+            "b": "$4\\pi i$",
+            "c": "$-72\\pi i$",
+            "d": "$(3 - 4i)\\pi$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 347,
+        "question": "Determine the Laplace transform of $3e^{-4t}$ **a. $3/(s + 4)$**",
+        "options": {
+            "b": "$6/(s - 4)$",
+            "c": "$3/(s - 4)$",
+            "d": "$-6/(s + 4)$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Laplace Transform"
+    },
+    {
+        "id": 348,
+        "question": "Determine the Laplace transform of $5\\sin(2t) - 3\\cos(2t)$ :",
+        "options": {
+            "a": "$(5+3s)/(s^2 + 4)$",
+            "b": "$(5-2s)/(s^2 + 4)$",
+            "c": "$(10-3s)/(s^2 + 4)$",
+            "d": "$(10-2s)/(s^2 + 4)$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Laplace Transform"
+    },
+    {
+        "id": 349,
+        "question": "Integrate : $\\int \\frac{(2iz^3 + 2iz)}{(z - 2i)^2} dz$",
+        "options": {
+            "a": "$44\\pi i$",
+            "b": "$24\\pi i/5$",
+            "c": "$24\\pi/5$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 350,
+        "question": "Which of the following statements is TRUE about the Secant Method?",
+        "options": {
+            "a": "It uses tangent lines for approximation",
+            "c": "It always converges faster than Newton-Raphson",
+            "d": "It converges quadratically like Newton-Raphson"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Numerical Methods"
+    },
+    {
+        "id": 351,
+        "question": "Evaluate $\\ln (50-j70) + \\ln(50 + j70)$:",
+        "options": {
+            "a": "$j4.5$",
+            "b": "$4.5$",
+            "d": "$4.5 - j1.9$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 352,
+        "question": "Determine the limit of the complex expression, $\\frac{(z^3 + i)}{(z - i)}$ as z approaches i ?",
+        "options": {
+            "a": "5i",
+            "c": "2i",
+            "d": "i"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 353,
+        "question": "Integrate the complex form $\\int \\frac{z^{10}}{(z - i)^3} dz$",
+        "options": {
+            "a": "$40\\pi i$",
+            "c": "$90\\pi i$",
+            "d": "$-700\\pi i$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 354,
+        "question": "If $\\mathbf{r} = x\\hat{i} + y\\hat{j} + z\\hat{k}$, what is the value of $\\text{div } \\mathbf{r}$?",
+        "options": {
+            "a": "1",
+            "c": "3",
+            "d": "4"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 355,
+        "question": "Simplify $\\sinh(\\pi i/6)$ :",
+        "options": {
+            "a": "$1/3$",
+            "c": "$\\pi i/3$",
+            "d": "$-2\\pi i$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 356,
+        "question": "Find the resultant of the following concurrent forces: 50 kN at N40\u00b0W, 30 kN at W 70\u00b0S, and 80 kN along East:",
+        "options": {
+            "a": "58 kN",
+            "c": "128 kN",
+            "d": "39 kN"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 357,
+        "question": "If $\\mathbf{A} = xz\\hat{i} - y^2\\hat{j} + 2x^2y\\hat{k}$, find the $\\text{curl}(\\mathbf{A})$ at (2, 1, 3) :",
+        "options": {
+            "a": "$8\\hat{i} - 6\\hat{j}$",
+            "b": "$6\\hat{i} + 9\\hat{k}$",
+            "d": "$-10\\hat{i} - 8\\hat{k}$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Vector Analysis"
+    },
+    {
+        "id": 358,
+        "question": "Inverse the Laplace transform: $\\mathcal{L}^{-1}\\left[\\frac{s+7}{s^2-3s-10}\\right]$",
+        "options": {
+            "a": "$(-5/7)e^{-2t} + (12/7)e^{5t}$",
+            "c": "$(5/7)e^{2t} + (15/7)e^{-5t}$",
+            "d": "$(-5/7)e^{2t} + (15/7)e^{-5t}$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Laplace Transform"
+    },
+    {
+        "id": 359,
+        "question": "Which of the following best describes the key difference between the Bisection Method and the Regula Falsi Method?",
+        "options": {
+            "a": "Bisection uses the derivative, while Regula Falsi does not",
+            "b": "Bisection method always converges faster",
+            "d": "Regula Falsi is limited to continuous functions, while Bisection is not"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Numerical Methods"
+    },
+    {
+        "id": 360,
+        "question": "Compute the vorticity (curl) of the vector field, $y^2\\hat{i} + z^2\\hat{j} + x^2\\hat{k}$ at (1, 1, 3):",
+        "options": {
+            "a": "$6\\hat{i} + 2\\hat{j} - 2\\hat{k}$",
+            "b": "$6\\hat{i} - 2\\hat{j} + 2\\hat{k}$",
+            "c": "$6\\hat{i} + 2\\hat{j} - 4\\hat{j}$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Vector Analysis"
+    }
+]

@@ -1,0 +1,282 @@
+[
+    {
+        "question": "For a pure capacitor:",
+        "options": {
+            "a": "the current lags the voltage by 90 electrical degrees",
+            "b": "the current leads the voltage by 90 electrical degrees.",
+            "c": "the current lags the voltage by 180 electrical degrees.",
+            "d": "the current leads the voltage by 180 electrical degrees."
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1269
+    },
+    {
+        "question": "Three alternating currents are given by $i_1 = 141 \\sin(\\omega t + \\pi/4)$, $i_2 = 30 \\sin(\\omega t + \\pi/2)$ and $i_3 = 20 \\sin(\\omega t - \\pi/6)$ and are fed into a common conductor. Find the resultant current and its r.m.s. value.",
+        "options": {
+            "a": "182.3 A",
+            "b": "108.32 A",
+            "c": "118.4 A",
+            "d": "89.4 A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1270
+    },
+    {
+        "question": "Which of the following impedances is inductive?",
+        "options": {
+            "a": "$(1 - j2)$ parallel with $(2 - j3)$",
+            "b": "$(2 + j4)$ parallel with $(-j2)$",
+            "c": "$(2 - j4)$ series with $(j6)$",
+            "d": "$(3 + j5)$ series with $(-j7)$"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1271
+    },
+    {
+        "question": "The voltage and current through a circuit element are $v = 120 \\sin(314 t + 45^\\circ)$ volts and $i = 12 \\sin(314 t - 315^\\circ) A$. Find the value of power drawn by the element.",
+        "options": {
+            "a": "9230 W",
+            "b": "782.3 W",
+            "c": "-822.2 W",
+            "d": "0"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1272
+    },
+    {
+        "question": "A coil connected to 120 V DC supply draws 12 A and the same coil when connected to 100 V, AC voltage of frequency 50 Hz draws 6 A. Calculate the power factor.",
+        "options": {
+            "a": "0.5 lag",
+            "b": "0.6 lag",
+            "c": "0.8 lag",
+            "d": "unity"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1273
+    },
+    {
+        "question": "A voltage $e = 250 \\sin(100\\pi t)$ is applied to a coil having $R = 200 \\Omega$ and $L = 638 \\text{ mH}$. Find the power taken by the coil.",
+        "options": {
+            "a": "78 W",
+            "b": "98 W",
+            "c": "72 W",
+            "d": "64 W"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Electromagnetism",
+        "id": 1274
+    },
+    {
+        "question": "A non-inductive resistance of $10 \\Omega$ is connected in series with an inductive coil across 240 V, 50 Hz AC supply. The current drawn by the series combination is 12 A. The resistance of the coil is $2 \\Omega$. Determine the voltage across the coil.",
+        "options": {
+            "a": "117.3 V",
+            "b": "89.32 V",
+            "c": "193.5 V",
+            "d": "283.3 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1275
+    },
+    {
+        "question": "A coil of resistance $6 \\Omega$ and impedance $10 \\Omega$ is placed in series with a second coil of resistance $9 \\Omega$. When a voltage of 250 V, 50 Hz is applied to the circuit, the current flowing through the circuit is 10 A. Find the inductance of the second coil.",
+        "options": {
+            "a": "15.6 mH",
+            "b": "38.2 mH",
+            "c": "89.3 mH",
+            "d": "25.6 mH"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1276
+    },
+    {
+        "question": "A charge of $4 \\mu\\text{C}$ is moving along a 0.667 T magnetic field at 320 m/s at an angle of 80 degrees with the field. Approximate the force exerted on the particle:",
+        "options": {
+            "a": "630 N",
+            "b": "210 N",
+            "c": "840 N",
+            "d": "1000 N"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Electromagnetism",
+        "id": 1277
+    },
+    {
+        "question": "A coil having a resistance of $10 \\Omega$ and an inductance of 0.2 H is connected in series with a pure capacitor of $50.7 \\mu\\text{F}$. The circuit is connected across a 100 V, 50 Hz A.C. supply. Calculate the voltage across the inductor.",
+        "options": {
+            "a": "628 V",
+            "b": "65 V",
+            "c": "682 V",
+            "d": "638 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1278
+    },
+    {
+        "question": "A coil having a resistance of $10 \\Omega$ and an inductance of 0.2 H is connected in series with a pure capacitor of $50.7 \\mu\\text{F}$. The circuit is connected across a 100 V, 50 Hz A.C. supply. Calculate the voltage across the capacitor.",
+        "options": {
+            "a": "628 V",
+            "b": "65 V",
+            "c": "682 V",
+            "d": "291 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1279
+    },
+    {
+        "question": "A $0.80 \\text{ m}^3$ slab of laminated iron core of berry-type transformer is evaluated for hysteresis loop such that the area under the B-H loop is $62 \\text{ cm}^2$. The scale indicates $0.7 \\text{ AT/m} = 1 \\text{ cm}$ and $0.3 \\text{ Tesla} = 1 \\text{ cm}$ respectively. Determine the hysteresis loss at 60 Hz:",
+        "options": {
+            "a": "740 W",
+            "b": "625 W",
+            "c": "920 W",
+            "d": "835 W"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1280
+    },
+    {
+        "question": "An RL circuit consumes a current of 66.25 amperes when connected to a 100 V, 60 Hz. When connected to a DC source of 50 V, the power consumed is 400 watts. Determine the inductance of the coil:",
+        "options": {
+            "a": "0.1 H",
+            "b": "0.2 H",
+            "c": "0.3 H",
+            "d": "0.4 H"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Electromagnetism",
+        "id": 1281
+    },
+    {
+        "question": "As of PEC 082-S2016, an electrical design will run the room of a school using ten 10-V lamps in parallel from a 230-V, 50-Hz supply by inserting a choke coil in series with the bank of lamps. If the choke coil has a power factor of 0.2, find its resistance and inductance of each lamp:",
+        "options": {
+            "a": "$R = 4.144 \\Omega$ and $L = 0.118 \\text{ H}$",
+            "b": "$R = 4.144 \\Omega$ and $L = 0.065 \\text{ H}$",
+            "c": "$R = 3.072 \\Omega$ and $L = 0.118 \\text{ H}$",
+            "d": "$R = 3.072 \\Omega$ and $L = 0.065 \\text{ H}$"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1282
+    },
+    {
+        "question": "A voltage $v(t) = 220 \\sin(314 t + 10^\\circ)$ is applied to a circuit and a steady current given by $i(t) = 15.6 \\sin(314 t - 20^\\circ)$ is found to flow through it. Determine the reactive power of the circuit:",
+        "options": {
+            "a": "240 VAR",
+            "b": "250 VAR",
+            "c": "300 VAR",
+            "d": "620 VAR"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1283
+    },
+    {
+        "question": "The voltage applied to a coil having $R = 200 \\Omega, L = 638 \\text{ mH}$ is represented by $e = 200 \\sin(100 \\pi t)$. Find the average value of the power taken by the circuit:",
+        "options": {
+            "a": "60 W",
+            "b": "80 W",
+            "c": "10 W",
+            "d": "50 W"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Electromagnetism",
+        "id": 1284
+    },
+    {
+        "question": "The power factor of a perfect resistor is:",
+        "options": {
+            "a": "0",
+            "b": "1",
+            "c": "infinite",
+            "d": "1.11"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1285
+    },
+    {
+        "question": "A coil of inductance 80 mH and resistance $120 \\Omega$. In parallel with it is a $16 \\mu\\text{F}$ capacitor in series with a $40 \\Omega$ resistor. Determine the total power taken from the supply of 230 V, 50 Hz.",
+        "options": {
+            "a": "589 W",
+            "b": "473 W",
+            "c": "1032 W",
+            "d": "291 W"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1286
+    },
+    {
+        "question": "Two coils are connected in parallel across a 200 V, 50 Hz supply. At the supply frequency, their impedances are 6 and $10 \\Omega$, respectively, and their resistances are 2 and $3 \\Omega$, respectively. Calculate the total current.",
+        "options": {
+            "a": "59.2 A",
+            "b": "78.2 A",
+            "c": "32.8 A",
+            "d": "53.3 A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1287
+    },
+    {
+        "question": "Use voltage division to find the voltage V in the circuit. (Circuit diagram: $30 \\Omega$ resistor, $j40 \\Omega$ inductor, $50 \\Omega$ resistor, $80 \\Omega$ resistor, $100/30^\\circ V$ source, $-j60 \\Omega$ capacitor, $j70 \\Omega$ inductor)",
+        "options": {
+            "a": "46.7 V",
+            "b": "55.8 V",
+            "c": "21.4 V",
+            "d": "109.2 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1288
+    }
+]

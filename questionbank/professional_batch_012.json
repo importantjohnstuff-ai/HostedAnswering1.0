@@ -1,0 +1,268 @@
+[
+    {
+        "question": "A 400 V, three-phase voltage is applied to a balanced three-phase load of phase impedance $\\Omega$(15 + j 20). Find (i) the phasor current in each line. What is the power consumed per phase?",
+        "options": {
+            "a": "3840 W",
+            "b": "1290 W",
+            "c": "4560 W",
+            "d": "1580 W"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1089
+    },
+    {
+        "question": "A 400 V, 3-phase, 3-wire system feeds balanced 3-phase loads in parallel; one Y connected with each branch impedance equal to (5 + j 5) ohm and the other Delta connected with each branch impedance equal to (10 \u2013 j 5) ohm. Find the total power drawn. A. 54360 W",
+        "options": {
+            "b": "67922 W",
+            "c": "18,802 W",
+            "d": "78,390 W"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1090
+    },
+    {
+        "question": "Three identical coils connected in delta across 400 V, 50 Hz, three-phase AC supply, take a line current of 17.32 A at power factor of 0.8 lagging. Calculate the resistance of each coil.",
+        "options": {
+            "a": "56 ohms",
+            "b": "12 ohms",
+            "c": "210 ohms",
+            "d": "32 ohms"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1091
+    },
+    {
+        "question": "A 230 V symmetrical 3-phase supply feeds a star-connected load consisting of three non-inductive resistances of 5 $\\Omega$, 10 $\\Omega$ and 15 $\\Omega$ connected to R, Y and B phases respectively. Calculate the voltage across the 15-ohm resistor. The phase sequence is RYB.",
+        "options": {
+            "a": "142.7 V",
+            "c": "329.2 V",
+            "d": "none of these"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Powerplants",
+        "id": 1092
+    },
+    {
+        "question": "Two wattmeters are used to measure power in a 3-phase balanced load. The wattmeter readings are 8.2 kW and 7.5 kW. Calculate the total reactive power. a. 3.53 kVAR",
+        "options": {
+            "b": "2.671 kVAR",
+            "c": "1.21 kVAR",
+            "d": "7.392 kVAR"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1093
+    },
+    {
+        "question": "To a series RLC circuit, a voltage of 10 v is applied. If Q of the coil at resonant frequency is 20, the voltage across the inductor at resonant frequency will be. A. 200 v",
+        "options": {
+            "b": "100 V",
+            "c": "75 v",
+            "d": "50 v"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1094
+    },
+    {
+        "question": "Wye-wye power transformers are protected by current transformers having \\_\\_\\_\\_ connection. A. $\\Delta$-$\\Delta$",
+        "options": {
+            "b": "Y-$\\Delta$",
+            "c": "$\\Delta$-Y",
+            "d": "Y-Y"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1095
+    },
+    {
+        "question": "The ratio of the readings of two wattmeters connected to measure power in a balanced 3-phase, 3-wire load is 5 : 3. The load is known to be inductive. Calculate the power factor of the load.",
+        "options": {
+            "a": "0.917 lag",
+            "c": "0.917 lag",
+            "d": "0.917 lag"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1096
+    },
+    {
+        "question": "A factory has the following loads with a power factor of 0.9 lagging in each case. Red phase 40 A, yellow phase 50 A and blue phase 60 A. If the supply is 400 V, 3-phase, 4-wire, calculate the current in the neutral wire and the total power.",
+        "options": {
+            "a": "31.2 kW",
+            "b": "67.8 kW",
+            "c": "13.64 kW",
+            "d": "19.86 kW"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1097
+    },
+    {
+        "question": "A symmetrical 3-phase 400 V source feeds a star-connected load consisting of impedances Z1 = 15 $\\angle$ 0\u00b0 $\\Omega$, Z2 = 15 $\\angle$ 30\u00b0 $\\Omega$ and Z3 = 15 $\\angle$ \u2013 30\u00b0 $\\Omega$ connected to R, Y and B phases respectively. Determine the total power taken by the load.",
+        "options": {
+            "a": "10.65 kW",
+            "b": "11.78 kW",
+            "c": "7.67 kW",
+            "d": "4.75 kW"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Powerplants",
+        "id": 1098
+    },
+    {
+        "question": "A coil of inductance 80 mH and negligible resistance is connected in series with a capacitance of 0.25$\\mu$F and a resistor of resistance 12.5 across a 100 V, variable frequency supply. Determine the Q-factor:",
+        "options": {
+            "a": "45.25",
+            "b": "35.76",
+            "d": "12.78"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1099
+    },
+    {
+        "question": "Each phase of a delta-connected load has a resistance of 25 $\\Omega$, an inductance of 0.15 H, and a capacitance of 120 $\\mu$F. The load is connected across a 400 V, 50 Hz, three-phase supply. Determine the reactive power.",
+        "options": {
+            "a": "9.42 kVAR",
+            "b": "10.56 kVAR",
+            "c": "3.56 kVAR",
+            "d": "1.89 kVAR"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Powerplants",
+        "id": 1100
+    },
+    {
+        "question": "An e.m.f. of 1.5 kV is induced in a coil when a current of 4 A collapses uniformly to zero in 8 ms. Determine the inductance of the coil.",
+        "options": {
+            "a": "4 H",
+            "b": "5 H",
+            "d": "6 H"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1101
+    },
+    {
+        "question": "Three resistances of 20 $\\Omega$ each are connected in star across the 400 V, 3-phase A.C. supply. Calculate the total power taken.",
+        "options": {
+            "a": "9.0 kW",
+            "b": "2.45 kW",
+            "d": "12 kW"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1102
+    },
+    {
+        "question": "## SET A:",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1103
+    },
+    {
+        "question": "A 3-phase induction motor, with star-connected rotor, has an induced emf per phase of 60 V with the slip-rings open circuited and normal voltage applied to stator. The resistance and standstill reactance of each rotor phase are 0.6 ohm and 0.4 ohm respectively. Calculate the rotor current per phase when running with slip rings short-circuited at 4% slip.",
+        "options": {
+            "a": "3.182 A",
+            "b": "2.308 A",
+            "c": "6.782 A",
+            "d": "1.782 A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1104
+    },
+    {
+        "question": "An alternator has 9 slots per pole. If each coil spans 8 slot pitches, what is the value of the pitch factor?",
+        "options": {
+            "a": "0.904",
+            "b": "0.994",
+            "c": "0.964",
+            "d": "0.985"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1105
+    },
+    {
+        "question": "In the case of an 8-pole induction motor, the supply frequency was 50-Hz and the shaft speed was 735 r.p.m. What were the magnitudes of the slip:",
+        "options": {
+            "a": "3%",
+            "b": "4%",
+            "c": "2%",
+            "d": "1%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1106
+    },
+    {
+        "question": "A single-phase, 2200 V, 50 Hz, 40 kVA alternator produces a short-circuit current of 200 A and an open circuit emf of 1160 V when a field current 40A passes through its field winding. Calculate the synchronous impedance if its armature has an effective resistance 0.5 ohm.",
+        "options": {
+            "a": "5.8 ohm",
+            "b": "6.7 ohm",
+            "c": "3.12 ohm",
+            "d": "7.8 ohm"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1107
+    },
+    {
+        "question": "An 8-pole alternator runs at 750 r.p.m. and supplies power to a 6-pole induction motor which has at full-load a slip of 3%. Find the full-load speed of the induction motor:",
+        "options": {
+            "a": "970 r.p.m.",
+            "b": "860 r.p.m.",
+            "c": "1140 r.p.m.",
+            "d": "2135 r.p.m."
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1108
+    }
+]

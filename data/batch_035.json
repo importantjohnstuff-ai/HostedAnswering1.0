@@ -1,0 +1,282 @@
+[
+    {
+        "id": 1770,
+        "question": "A pile of logs, each layer contains one more log than the layer above and the top contains just one log. If there are 105 logs in the pile, how many layers are there?",
+        "options": {
+            "a": "12",
+            "b": "13",
+            "c": "14",
+            "d": "15"
+        },
+        "answer": "c",
+        "correct_answer_text": "14",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 1771,
+        "question": "What time after 3 o'clock will the hands of the clock be 60 degrees for the second time?",
+        "options": {
+            "a": "3:20.28",
+            "b": "3:27.27",
+            "c": "3:17.62",
+            "d": "3:24.42"
+        },
+        "answer": "b",
+        "correct_answer_text": "3:27.27",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 1772,
+        "question": "How many terms of the sequence 9, 6, 3... must be taken so that the sum is 66?",
+        "options": {
+            "a": "11",
+            "b": "6",
+            "c": "4",
+            "d": "9"
+        },
+        "answer": "a",
+        "correct_answer_text": "11",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 1773,
+        "question": "A person has 2 parents, 4 grandparents, 8 great grand parents and so on. How many ancestors during the 15 generations preceding his own, assuming no duplication?",
+        "options": {
+            "a": "131070",
+            "b": "65534",
+            "c": "32766",
+            "d": "16383"
+        },
+        "answer": "b",
+        "correct_answer_text": "65534",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 1774,
+        "question": "Convert 101110111 (binary) to hexadecimal form:",
+        "options": {
+            "a": "18F",
+            "b": "1B2",
+            "c": "177",
+            "d": "45AC"
+        },
+        "answer": "c",
+        "correct_answer_text": "177",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 1775,
+        "question": "When is the fifth time, from 2 AM, will the hands of a clock form an angle of 70 degrees?",
+        "options": {
+            "a": "4:12:33 AM",
+            "b": "4:09:05 AM",
+            "c": "4:23:12 AM",
+            "d": "4:10:45 AM"
+        },
+        "answer": "b",
+        "correct_answer_text": "4:09:05 AM",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 1776,
+        "question": "Using integral function in COMP, evaluate the integral of x / (x+1)^8 from 0 to 1:",
+        "options": {
+            "a": "4/765",
+            "b": "5/224",
+            "c": "1/77",
+            "d": "6/89"
+        },
+        "answer": "b",
+        "correct_answer_text": "5/224",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 1777,
+        "question": "Using derivative function in COMP, compute the rate at which water is pouring into a pool when t = 9 hours, given the volume V = sqrt(t) gallons:",
+        "options": {
+            "a": "7/6 gph",
+            "b": "8/7 gph",
+            "c": "6/5 gph",
+            "d": "1/6 gph"
+        },
+        "answer": "d",
+        "correct_answer_text": "1/6 gph",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 1778,
+        "question": "The growth of Aspergillus niger in a batch culture doubles in every 5 hours. How long will it take for the cells to grow 5 times the initial number?",
+        "options": {
+            "a": "13.5 h",
+            "b": "11.6 h",
+            "c": "9.6 h",
+            "d": "20 h"
+        },
+        "answer": "b",
+        "correct_answer_text": "11.6 h",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 1779,
+        "question": "Evaluate the integral of x^3 * e^-x from x = 0 to x = infinity:",
+        "options": {
+            "a": "2",
+            "b": "4",
+            "c": "5",
+            "d": "6"
+        },
+        "answer": "d",
+        "correct_answer_text": "6",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 1780,
+        "question": "A body whose temperature is 180°F is immersed in a liquid which is kept at a constant temperature of 60°F. In one minute, the temperature of the body is 120°F. How long will it take for the temperature to decrease to 90°F?",
+        "options": {
+            "a": "2 min",
+            "b": "3 min",
+            "c": "1.5 min",
+            "d": "2 hrs"
+        },
+        "answer": "a",
+        "correct_answer_text": "2 min",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 1781,
+        "question": "A certain radioactive substance has a half-life of 3 years. If 10 grams are present initially, how much of the substance remain after 9 years?",
+        "options": {
+            "a": "2.50g",
+            "b": "5.2g",
+            "c": "1.25g",
+            "d": "10.20g"
+        },
+        "answer": "c",
+        "correct_answer_text": "1.25g",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 1782,
+        "question": "A radioactive material decays with half-life of 13.86 hours. If the initial amount is N(0) = 100 grams, how much remains after 10 hours?",
+        "options": {
+            "a": "51.2 g",
+            "b": "60.6 g",
+            "c": "73.4 g",
+            "d": "56.4 g"
+        },
+        "answer": "b",
+        "correct_answer_text": "60.6 g",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 1783,
+        "question": "An ingot of molybdenum steel initially at 90 F is placed in a furnace at 4200 F. The melting point is 3100 F. After 30 minutes, the temperature is 230 F. When will it begin to melt?",
+        "options": {
+            "a": "8 hours",
+            "b": "19 hours",
+            "c": "23 hours",
+            "d": "5 hours"
+        },
+        "answer": "b",
+        "correct_answer_text": "19 hours",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 1784,
+        "question": "Suppose that 30% of a radioactive substance disappears in 13 years. Find the half-life of the substance.",
+        "options": {
+            "a": "45 years",
+            "b": "36 years",
+            "c": "28 years",
+            "d": "25 years"
+        },
+        "answer": "d",
+        "correct_answer_text": "25 years",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 1785,
+        "question": "A fresh radioactive sludge has a half-life of 8.9 hours. Safe disposal occurs when radiation is reduced by 99.9%. When will it be safe?",
+        "options": {
+            "a": "After 2.5 days",
+            "b": "After 1.22 days",
+            "c": "After 7.76 days",
+            "d": "After 3.7 days"
+        },
+        "answer": "d",
+        "correct_answer_text": "After 3.7 days",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 1786,
+        "question": "In 100 years, 100 mg of radium decomposes to 96 mg. How many mg will be left after another 100 years?",
+        "options": {
+            "a": "88.60",
+            "b": "95.32",
+            "c": "92.16",
+            "d": "90.72"
+        },
+        "answer": "c",
+        "correct_answer_text": "92.16",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 1787,
+        "question": "The population of Seoul doubles in 50 years. How many years will it take to be five times as much?",
+        "options": {
+            "a": "100 years",
+            "b": "116 years",
+            "c": "120 years",
+            "d": "98 years"
+        },
+        "answer": "b",
+        "correct_answer_text": "116 years",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 1788,
+        "question": "BONUS. Shade option (B) for correct answer.",
+        "options": {
+            "a": "A",
+            "b": "B",
+            "c": "C",
+            "d": "D"
+        },
+        "answer": "b",
+        "correct_answer_text": "B",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 1789,
+        "question": "Which of the following equations is an exact DE?",
+        "options": {
+            "a": "(x2+1) dx - xy dy = 0",
+            "b": "x dy + (3x - 2y) dx = 0",
+            "c": "2xy dx + (2 + x2) dy = 0",
+            "d": "x2y dy - y dx = 0"
+        },
+        "answer": "c",
+        "correct_answer_text": "2xy dx + (2 + x2) dy = 0",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    }
+]

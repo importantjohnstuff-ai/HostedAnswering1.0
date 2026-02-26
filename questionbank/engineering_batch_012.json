@@ -1,0 +1,254 @@
+[
+    {
+        "id": 765,
+        "question": "If the intensity level of one trombone is 70 dB, what is the intensity level of 76 identical trombones, all at distance $d$?",
+        "options": {
+            "a": "146 dB",
+            "b": "89 dB",
+            "c": "5320 dB",
+            "d": "76 dB"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics"
+    },
+    {
+        "id": 766,
+        "question": "You stand by the railroad tracks as a train passes by. You hear a 1,000-Hz frequency when the train approaches, which changes to 800 Hz as it goes away. How fast is the train moving? The speed of sound in air is 340 m/s.",
+        "options": {
+            "a": "15.7 m/s",
+            "b": "21.2 m/s",
+            "c": "28.0 m/s",
+            "d": "37.8 m/s"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics"
+    },
+    {
+        "id": 767,
+        "question": "With no machinery operating, the background noise in a room has a sound pressure level of 43 dB. With the machinery operating, the sound pressure level is 45 dB. The sound pressure level due to the machinery alone is:",
+        "options": {
+            "a": "41 dB",
+            "b": "47 dB",
+            "c": "49 dB",
+            "d": "32 dB"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics"
+    },
+    {
+        "id": 768,
+        "question": "A single milling machine loudness level at point A is 120 dB as heard from point B. What will be the sound level at point B if two more milling machines are turned on at A?",
+        "options": {
+            "a": "183 dB",
+            "b": "123 dB",
+            "c": "240 dB",
+            "d": "117 dB"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics"
+    },
+    {
+        "id": 769,
+        "question": "A jack hammer on operation produces an S-wave which releases 130 watts of power. Determine the sound intensity level at a distance of 8 m from the jackhammer is most nearly:",
+        "options": {
+            "a": "78 dB",
+            "b": "89 dB",
+            "c": "112 dB",
+            "d": "148 dB"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics"
+    },
+    {
+        "id": 770,
+        "question": "What is the first overtone frequency for an organ pipe 2.00 m in length, closed at one end?",
+        "options": {
+            "a": "42.5 Hz",
+            "b": "85.0 Hz",
+            "c": "128 Hz",
+            "d": "680 Hz"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics"
+    },
+    {
+        "id": 771,
+        "question": "An organ pipe closed at one end has second overtone of 250 Hz. What is the magnitude of the 3rd overtone?",
+        "options": {
+            "a": "300 Hz",
+            "b": "360 Hz",
+            "c": "350 Hz",
+            "d": "410 Hz"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics"
+    },
+    {
+        "id": 772,
+        "question": "An ideal transformer has 60 turns on its primary coil and 300 turns on its secondary coil. If 120 V at 2.0 A is applied to the primary, what voltage is present in the secondary?",
+        "options": {
+            "a": "24 V",
+            "b": "120 V",
+            "c": "240 V",
+            "d": "600 V"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics"
+    },
+    {
+        "id": 773,
+        "question": "A diver is 1.2 m beneath the surface of a still pond of water. At what angle must the diver shine a beam of light toward the surface in order for a person on a distant bank to see it?",
+        "options": {
+            "a": "41 deg",
+            "b": "49 deg",
+            "c": "59 deg",
+            "d": "90 deg"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics"
+    },
+    {
+        "id": 774,
+        "question": "What principle is responsible for light spreading as it passes through a narrow slit?",
+        "options": {
+            "a": "refraction",
+            "b": "polarization",
+            "c": "diffraction",
+            "d": "interference"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics"
+    },
+    {
+        "id": 775,
+        "question": "An oil layer that is 5.0 cm thick is spread smoothly and evenly over the surface of water on a windless day. What is the angle of refraction in the water for a ray of light that has an angle of incidence of 45\u00b0 as it enters the oil from the air above? (The index of refraction for oil is 1.15)",
+        "options": {
+            "a": "27 deg",
+            "b": "32 deg",
+            "c": "36 deg",
+            "d": "39 deg"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics"
+    },
+    {
+        "id": 776,
+        "question": "A 45 cm tall cat sits 60 cm at the front of a concave mirror with a radius of curvature of 50 cm. What is the characteristics of the image formed?",
+        "options": {
+            "a": "A real, upright image with height 32.1 cm.",
+            "b": "A virtual, upright image with height 13.2 cm.",
+            "c": "A real, inverted image with height 32.1 cm.",
+            "d": "A virtual, inverted image with height 32.1 cm."
+        },
+        "answer": "c",
+        "correct_answer_text": "A real, inverted image with height 32.1 cm.",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics"
+    },
+    {
+        "id": 777,
+        "question": "Ellen places an object 40.0 cm from a lens. If an image appears 10.0 cm from the lens on the other side of the lens, what is the radius of curvature and the type of lens used?",
+        "options": {
+            "a": "R=16.00 convergent",
+            "b": "R=16.00 divergent",
+            "c": "R=33.34 convergent",
+            "d": "R=33.34 divergent"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics"
+    },
+    {
+        "id": 779,
+        "question": "A convergent meniscus lens ($n = 1.45$) is used to correct projection image in a theatre. The radii of curvatures at both sides are +40 cm and -100 cm. What is the refractive power in Diopters?",
+        "options": {
+            "a": "-0.333 D",
+            "b": "-0.800 D",
+            "c": "+0.255 D",
+            "d": "+0.675 D"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics"
+    },
+    {
+        "id": 780,
+        "question": "An object is placed at a distance of 40 cm from a thin lens. If a virtual image forms at a distance of 50 cm from the lens, on the same side as the object, what is the focal length of the lens?",
+        "options": {
+            "a": "45 cm",
+            "b": "75 cm",
+            "c": "90 cm",
+            "d": "200 cm"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics"
+    },
+    {
+        "id": 782,
+        "question": "An object is placed 200 cm away from a plano-convex lens with radius of curvature of 150 cm. The refractive index of the lens is 1.33. The object is facing the curved face of the lens. What is the magnification?",
+        "options": {
+            "a": "1.78",
+            "b": "2.31",
+            "c": "1.23",
+            "d": "2.56"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics"
+    },
+    {
+        "id": 783,
+        "question": "An object is 4.1 cm tall, and 10.3 cm from a converging lens. The image is virtual and 6.2 cm tall. What is the focal length of the lens?",
+        "options": {
+            "a": "6.8 cm",
+            "b": "10 cm",
+            "c": "16 cm",
+            "d": "30 cm"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics"
+    },
+    {
+        "id": 784,
+        "question": "A simple pendulum has a period of 2.0 s. What is the pendulum length? ($g = 9.8 \\text{ m/s}^2$)",
+        "options": {
+            "a": "0.36 m",
+            "b": "0.78 m",
+            "c": "0.99 m",
+            "d": "2.4 m"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics"
+    }
+]

@@ -1,0 +1,282 @@
+[
+    {
+        "question": "A lawn 4 m on each side. If each lamp emits 250 cd, calculate the illumination at the center of the lawn.",
+        "options": {
+            "a": "20.56 lux",
+            "b": "21.62 lux",
+            "c": "19.85 lux",
+            "d": "22.34 lux"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1549
+    },
+    {
+        "question": "What is the illumination on a surface that is 3.0 m below a 150-W incandescent lamp that emits a luminous flux of 2275 lm?",
+        "options": {
+            "a": "30 lx",
+            "b": "12 lx",
+            "c": "20 lx",
+            "d": "52 lx"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1550
+    },
+    {
+        "question": "A lamp giving out 1200 lumens in all directions is suspended 8 m above the working plane. Calculate the illumination at a point on the working plane 6 m away from the foot of the lamp.",
+        "options": {
+            "a": "0.764 lux",
+            "b": "0.223 lux",
+            "c": "1.882 lux",
+            "d": "0.092 lux"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1551
+    },
+    {
+        "question": "A corridor in Banco Central ng Pilipinas is lighted by 4 lamps spaced 10 m apart and suspended at a height of 5 m above the centre line of the floor. If each lamp gives 200 candles in all directions below the horizontal, find the illumination at the point on the floor mid-way between the second and third lamps.",
+        "options": {
+            "a": "3.42 lux",
+            "b": "7.86 lux",
+            "c": "4.34 lux",
+            "d": "6.16 lux"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1552
+    },
+    {
+        "question": "A public school law requires a minimum illuminance of 160 lx at the surface of each student's desk. An architect's specifications call for classroom lights to be located 2.0 m above the desks. What is the minimum luminous flux that the lights must produce?",
+        "options": {
+            "a": "8000 lm",
+            "b": "2000 lm",
+            "c": "1200 lm",
+            "d": "9000 lm"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1553
+    },
+    {
+        "question": "A room with an area of 6 x 9 m is illustrated by ten 80-W lamps. The luminous efficiency of the lamp is 80 lumens/W and the coefficient of utilization is 0.65. Find the average illumination.",
+        "options": {
+            "a": "540 lx",
+            "b": "770 lx",
+            "c": "280 lx",
+            "d": "83 lx"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1554
+    },
+    {
+        "question": "A drawing office containing a number of boards and having a total effective area of 70 m$^2$ is lit by a number of 40 W incandescent lamps giving 11 lumens/W. An illumination of 80 lux is required on the drawing boards. Assuming that 60% of the total light emitted by the lamps is available for illuminating the drawing boards, estimate the number of lamps required.",
+        "options": {
+            "a": "14 lamps",
+            "b": "32 lamps",
+            "c": "8 lamps",
+            "d": "21 lamps"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1555
+    },
+    {
+        "question": "The flux emitted by 100-W LED lamp is 1,400 lumens placed inside a frosted Christmas globe of 40 cm diameter and gives uniform brightness of 250 milli-lumens/m$^2$ in all directions. Calculate the lumens absorbed by globe?",
+        "options": {
+            "a": "143 lm",
+            "b": "432 lm",
+            "c": "173 lm",
+            "d": "189 lm"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1556
+    },
+    {
+        "question": "The illumination in an office of University of Sto. Tomas of area 30 m \u00d7 10 m is to have a value of 250 lux and is to be provided by a number of 300-W LED lamps. If the coefficient of utilization is 0.4 and the depreciation factor 0.9, determine the number of lamps required. The luminous efficiency of each lamp is 14 lm/W:",
+        "options": {
+            "a": "30",
+            "b": "40",
+            "c": "50",
+            "d": "20"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1557
+    },
+    {
+        "question": "Two lamps A and B of 200 candela and 400 candela respectively are situated 100 m apart. The height of A above the ground level is 10 m and that of B is 20 m. If a photometer is placed at the centre of the line joining the two lamp posts, calculate its reading.",
+        "options": {
+            "a": "0.0293 lux",
+            "b": "0.066 lux",
+            "c": "0.112 lux",
+            "d": "0.00082 lux"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1558
+    },
+    {
+        "question": "What will be the secondary voltage at no load, if the primary of a 5 kVA, 220/110 V, 50 Hz transformer is fed at 110 V?",
+        "options": {
+            "a": "11 V",
+            "b": "55 V",
+            "c": "550 V",
+            "d": "220 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1559
+    },
+    {
+        "question": "It is desired to have 4.13 mWb maximum flux in the core of a transformer operating at 110 V and 50 Hz. Determine the required number of turns in the primary.",
+        "options": {
+            "a": "110 turns",
+            "b": "140 turns",
+            "c": "240 turns",
+            "d": "120 turns"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1560
+    },
+    {
+        "question": "A 3000/200 V, 50 Hz, single-phase transformer has a cross-sectional area of 150 cm\u00b2 for the core. If the number of turns on the low-voltage winding is 80, determine the maximum value of flux density in the core.",
+        "options": {
+            "a": "0.25 Wb/m\u00b2",
+            "b": "0.90 Wb/m\u00b2",
+            "c": "0.75 Wb/m\u00b2",
+            "d": "1.33 Wb/m\u00b2"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1561
+    },
+    {
+        "question": "An 80 kVA, 3200/400 V, 50 Hz single-phase transformer has 111 turns on the secondary winding. Calculate the cross-sectional area of the core, if the maximum flux density is 1.2 teslas.",
+        "options": {
+            "a": "275 cm\u00b2",
+            "b": "122 cm\u00b2",
+            "c": "253 cm\u00b2",
+            "d": "135 cm\u00b2"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1562
+    },
+    {
+        "question": "The secondary of a 500 kVA, 4400/500 V, 50 Hz, single-phase transformer has 500 turns. The core has a flux density of 1.2 tesla and iron factor is 0.92. If the core is of square cross-section, find the width of the limb.",
+        "options": {
+            "a": "6.39 cm",
+            "b": "7.21 cm",
+            "c": "3.45 cm",
+            "d": "6.76 cm"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1563
+    },
+    {
+        "question": "A 6600/660 V, 800 kVA transformer winding has a total impedance of 0.50 ohms in terms of primary winding. Determine the per unit rating of the transformer at full-load.",
+        "options": {
+            "a": "0.782 p.u.",
+            "b": "0.367 p.u.",
+            "c": "1.782 p.u.",
+            "d": "1.562 p.u."
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1564
+    },
+    {
+        "question": "A 7.2 kV/500 V, 52 MVA transformer has a rating of 0.215 p.u. when connected to a load of 440 V. If this transformer is connected to a load of 120 MVA for a load of 500 V, what is the new p.u. rating?",
+        "options": {
+            "a": "0.316",
+            "b": "0.384",
+            "c": "0.271",
+            "d": "0.472"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1565
+    },
+    {
+        "question": "A 50 kVA, 2300/230 V, 50 Hz transformer takes 200 watts and 0.3 A at no load. The primary resistance is 3.5 ohm. Determine the core loss.",
+        "options": {
+            "a": "197.43 W",
+            "b": "198.45 W",
+            "c": "199.69 W",
+            "d": "199.21 W"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1566
+    },
+    {
+        "question": "A 230/110 V, single-phase transformer takes an input of 350 VA at no load and at rated voltage. The core loss is 110 W. Find the magnetizing component of no-load current.",
+        "options": {
+            "a": "1.44 A",
+            "b": "1.56 A",
+            "c": "2.09 A",
+            "d": "0.98 A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1567
+    },
+    {
+        "question": "At open circuit, a transformer of 10 kVA, 500/250 V, 50 Hz draws a power of 167 W at 0.745 A, 500 V. Determine the no-load power factor.",
+        "options": {
+            "a": "0.542 lag",
+            "b": "0.448 lag",
+            "c": "0.287 lag",
+            "d": "0.156 lag"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1568
+    }
+]

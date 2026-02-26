@@ -1,0 +1,262 @@
+[
+    {
+        "question": "5 kW copper loss at full load. At 70% load, copper loss =",
+        "options": {
+            "a": "5 kW",
+            "b": "3.5 kW",
+            "d": "1 kW"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1509
+    },
+    {
+        "question": "A transformer\u2019s secondary is short-circuited. Voltage needed to circulate full-load current is:",
+        "options": {
+            "a": "Full rated voltage",
+            "c": "Zero",
+            "d": "Infinite"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1510
+    },
+    {
+        "question": "A 3-phase 100 kVA transformer. Per phase kVA =",
+        "options": {
+            "a": "100",
+            "c": "57.7",
+            "d": "173"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1511
+    },
+    {
+        "question": "Line current in a 3-phase 50 kVA, 400 V transformer =",
+        "options": {
+            "a": "50 A",
+            "c": "125 A",
+            "d": "200 A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1512
+    },
+    {
+        "question": "A Y-Y transformer gives poor regulation because of:",
+        "options": {
+            "a": "No neutral",
+            "b": "High magnetizing current",
+            "d": "High copper loss"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1513
+    },
+    {
+        "question": "A \u0394-\u0394 transformer supplies unbalanced loads because:",
+        "options": {
+            "a": "Phases are isolated",
+            "c": "No leakage flux",
+            "d": "Neutral available"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1514
+    },
+    {
+        "question": "Inrush current in transformers occurs mainly at:",
+        "options": {
+            "a": "Shutdown",
+            "b": "Sudden load increase",
+            "d": "When frequency increases"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1515
+    },
+    {
+        "question": "A transformer\u2019s frequency increases while voltage stays constant. Flux will:",
+        "options": {
+            "a": "Increase",
+            "c": "Stay same",
+            "d": "Reverse"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1516
+    },
+    {
+        "question": "A transformer heats excessively on no load. Likely cause:",
+        "options": {
+            "a": "Winding short",
+            "c": "High copper loss",
+            "d": "High load"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1517
+    },
+    {
+        "question": "A transformer is operating at rated voltage but with its secondary open. The primary current consists mainly of:",
+        "options": {
+            "a": "Resistive current",
+            "c": "Load current",
+            "d": "Eddy-current component"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1518
+    },
+    {
+        "question": "A distribution transformer is designed to operate with:",
+        "options": {
+            "a": "Maximum efficiency at full load",
+            "c": "Maximum efficiency at no load",
+            "d": "Maximum efficiency at unity power factor"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1519
+    },
+    {
+        "question": "The main purpose of using laminated transformer cores is to reduce:",
+        "options": {
+            "a": "Copper loss",
+            "b": "Hysteresis loss",
+            "d": "Stray load loss"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1520
+    },
+    {
+        "question": "A transformer hums primarily due to:",
+        "options": {
+            "a": "Loose windings",
+            "b": "Stray magnetic flux",
+            "d": "Vibrating cooling fans"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1521
+    },
+    {
+        "question": "In a transformer, an increase in frequency while keeping the voltage constant will:",
+        "options": {
+            "a": "Increase flux",
+            "c": "Not affect flux",
+            "d": "Destroy the insulation"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1522
+    },
+    {
+        "question": "When a transformer is over-excited (high V/f ratio), the first part likely to be damaged is:",
+        "options": {
+            "a": "Primary winding",
+            "b": "Core laminations",
+            "d": "Tank"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1523
+    },
+    {
+        "question": "Load sharing in parallel transformers is best achieved when they have:",
+        "options": {
+            "a": "Unequal voltage ratios",
+            "c": "Different polarity",
+            "d": "Different kVA ratings"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1524
+    },
+    {
+        "question": "A transformer with low impedance will have:",
+        "options": {
+            "a": "High voltage regulation",
+            "c": "Poor efficiency",
+            "d": "High copper loss"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1525
+    },
+    {
+        "question": "During a short-circuit test on a transformer, the measured power represents:",
+        "options": {
+            "a": "Iron loss",
+            "c": "Stray losses only",
+            "d": "Total losses"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1526
+    },
+    {
+        "question": "A transformer designed for 60 Hz but operated at 50 Hz will require: A) More primary turns",
+        "options": {
+            "b": "Fewer primary turns",
+            "c": "Higher input voltage",
+            "d": "No changes"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1527
+    },
+    {
+        "question": "A transformer is connected to DC supply accidentally. The result will be:",
+        "options": {
+            "a": "It works normally",
+            "b": "Reduced efficiency",
+            "d": "Increased frequency"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1528
+    }
+]

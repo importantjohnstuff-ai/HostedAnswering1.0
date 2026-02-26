@@ -1,0 +1,263 @@
+[
+    {
+        "question": "What is the value of inductance of a coil that induces 100v when the current changes at the rate of 2mA in 2 microseconds?",
+        "options": {
+            "a": "1 H",
+            "c": "10 H",
+            "d": "0.01 H"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1069
+    },
+    {
+        "question": "A resistance of 30 $\\Omega$ and a capacitance of 132.6 $\\mu$F are connected in series across a 220 v, variable frequency ac supply. At what frequency in Hz will the current be 4.4 A? A. 30 Hz",
+        "options": {
+            "b": "40 Hz",
+            "c": "50 Hz",
+            "d": "60"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1070
+    },
+    {
+        "question": "When a sinusoidal voltage is applied across an R\u2013L series circuit having R = XL, the phase angle will be:",
+        "options": {
+            "a": "90\u00b0",
+            "b": "0\u00b0",
+            "c": "30\u00b0"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1071
+    },
+    {
+        "question": "An electromotive force (emf) e1 = 50sinwt and the other e2 = 30sin(wt \u2212 pi/6) act together in the same circuit. Find the resultant emf.",
+        "options": {
+            "a": "73.12 V",
+            "c": "81.42 V",
+            "d": "62.45 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1072
+    },
+    {
+        "question": "A voltage e = 200sin(100pi x t) is applied to a coil having R = 200 $\\Omega$ and L = 638 mH. Determine the power taken by the coil. a. 50 W",
+        "options": {
+            "b": "60 W",
+            "c": "70 W",
+            "d": "10 W"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1073
+    },
+    {
+        "question": "A 100 $\\mu$F capacitor initially charged to 24 v is discharged across a series combination of a 1k$\\Omega$ resistor and a 200 $\\mu$F capacitor. Find the current after 1 sec. B. 7.34 nA",
+        "options": {
+            "c": "8.43 nA",
+            "d": "8.84 nA"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1074
+    },
+    {
+        "question": "A 60uF capacitor is connected in series with 40,000 $\\Omega$ resistor. If the capacitor is initially uncharged, determine the resistor voltage when t = 1.5 times the time constant for a suddenly applied source emf of 120 volts.",
+        "options": {
+            "a": "93.22v",
+            "c": "80v",
+            "d": "26.78v"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1075
+    },
+    {
+        "question": "A 12 V battery is connected in series with 30 $\\Omega$ resistor and a 220 mH inductor. How long will it take the current to reach half its maximum possible value? At this instant, at what rate is energy being delivered by the battery? a. 5 ms",
+        "options": {
+            "b": "6 ms",
+            "c": "2 ms",
+            "d": "9 ms"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1076
+    },
+    {
+        "question": "A p.d. of 100 V is applied to a circuit consisting of a resistance of 50 $\\Omega$ and an inductance of 5 H. Determine the current in the circuit 0.1 second after the application of the voltage.",
+        "options": {
+            "a": "2.353 A",
+            "c": "1.775 A",
+            "d": "0.987 A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1077
+    },
+    {
+        "question": "How many time constants one should wait for the current in an RL circuit to grow within 0.1% of its steady value?",
+        "options": {
+            "a": "7.5 time constants",
+            "b": "3.7 time constants",
+            "c": "8.7 time constants"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1078
+    },
+    {
+        "question": "A capacitor is being charged from a d.c. source through a resistance of 2M$\\Omega$. If it takes 0.2 second for the charge to reach 75% of its final value, what is the capacitance of the capacitor?",
+        "options": {
+            "a": "18 x 10\u207b\u2076 F",
+            "b": "49 x 10\u207b\u2075 F",
+            "d": "12 x 10\u207b\u2076 F"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1079
+    },
+    {
+        "question": "A 8 $\\mu$F capacitor is connected is series with 0.5 M$\\Omega$ resistance across 200 V supply. Calculate the current and p.d. across capacitor 4 seconds after it is connected to the supply.",
+        "options": {
+            "a": "147 $\\mu$A; 179.4 V",
+            "c": "189 $\\mu$A; 179.4 V",
+            "d": "189 $\\mu$A; 126.4 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1080
+    },
+    {
+        "question": "A series RC circuit is to have an initial charging current of 4 mA and a time constant of 3.6 seconds when connected to 120 V d.c. supply. Calculate the values of R and C.",
+        "options": {
+            "a": "40 k$\\Omega$ ; 150 $\\mu$F",
+            "b": "40 k$\\Omega$ ; 120 $\\mu$F",
+            "c": "30 k$\\Omega$ ; 150 $\\mu$F"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1081
+    },
+    {
+        "question": "20$\\mu$F capacitor initially charged to a p.d. of 500V is discharged through an unknown resistance. After one minute, the p.d. at the terminals of the capacitor is 200 V. What is the value of the resistance? a. 3.274 M$\\Omega$",
+        "options": {
+            "b": "3.274 M$\\Omega$",
+            "c": "3.274 M$\\Omega$",
+            "d": "3.274 M$\\Omega$"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1082
+    },
+    {
+        "question": "A 2-uF capacitor, with initial charge Qo = 100 mC, is connected across a 100-ohm resistor at t = 0. Calculate the time in which the transient voltage across the resistor drops from 40 to 10 volts.",
+        "options": {
+            "a": "0.865 ms",
+            "b": "0.108 ms",
+            "c": "0.986 ms"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1083
+    },
+    {
+        "question": "A series RLC circuit, with R = 3 k$\\Omega$, L = 10 H, and C = 200 uF, has a constant-voltage source = 50 V, applied at t = 0. Find the current along circuit at t = 0.01 sec: a. 15.76 mA",
+        "options": {
+            "b": "16.31 mA",
+            "c": "15.97 mA",
+            "d": "14.75 mA"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1084
+    },
+    {
+        "question": "A series RLC circuit, with R = 50 ohm; L = 0.1 H; and C = 50 uF, has a constant voltage of 100 V applied at t = 0. Obtain the current transient, assuming zero initial charge on the capacitor. Find the current at t = 0.005 sec:",
+        "options": {
+            "a": "0.45 A",
+            "c": "0.28 A",
+            "d": "0.66 A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1085
+    },
+    {
+        "question": "An unbalanced Y-connected unbalanced load is fed from a 3-phase, 3-wire balanced 400 V supply. The load impedances are ZR = (4 + j 8) $\\Omega$, ZY = (3 + j 4) $\\Omega$ and ZB = (15 + j 20) $\\Omega$. Assuming the phase sequence to be RYB, calculate the total power absorbed by the load. a. 8.45 kW",
+        "options": {
+            "b": "14.86 kW",
+            "c": "2.89 kW",
+            "d": "1.80 kW"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1086
+    },
+    {
+        "question": "A 440 V symmetrical 3-phase supply feeds an unbalanced star-connected load consisting of impedances Z1 = 5 $\\angle$ 30\u00b0 $\\Omega$, Z2 = 10 $\\angle$ 45\u00b0 $\\Omega$ and Z3 = 10 $\\angle$ 60\u00b0 $\\Omega$ connected to R, Y and B phases respectively. The phase sequence is RYB. Determine the Y-phase.",
+        "options": {
+            "a": "32.8 A",
+            "b": "56.7 A",
+            "c": "17.34 A",
+            "d": "25.7 A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Powerplants",
+        "id": 1087
+    },
+    {
+        "question": "A three-phase balanced delta-connected load is connected to a three-phase, 400 V, 50 Hz supply. It draws a line current of 34.64 A at 0.8 power factor lagging. Determine resistance and inductance of each branch.",
+        "options": {
+            "a": "38.2 mH",
+            "b": "56.7 mH",
+            "c": "12.34 mH",
+            "d": "89.56 mH"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Powerplants",
+        "id": 1088
+    }
+]

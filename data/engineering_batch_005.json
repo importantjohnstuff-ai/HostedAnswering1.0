@@ -1,0 +1,268 @@
+[
+    {
+        "id": 625,
+        "question": "111. What is annuity?",
+        "options": {
+            "a": "The future worth of a present amount",
+            "b": "A series of uniform amounts over a period of time",
+            "c": "The present worth of a future amount",
+            "d": "An annual repayment of a loan"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy"
+    },
+    {
+        "id": 626,
+        "question": "112. When using net present worth calculations to compare two projects, which of the following could invalidate the calculation?",
+        "options": {
+            "a": "Use the same discount rate for each period",
+            "b": "Differences in the magnitudes of the projects",
+            "c": "Evaluating over different time periods",
+            "d": "Mutually exclusive projects"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy"
+    },
+    {
+        "id": 627,
+        "question": "113. Which of the following situations has a conventional cash flow so that an internal rate of return can be safely calculated and used?",
+        "options": {
+            "a": "Your company undertakes a mining project in which the land must be reclaimed at the end of the project.",
+            "b": "You invest in a safe dividend stock and receive dividends each year.",
+            "c": "You lease a car and pay by the month.",
+            "d": "Your company invest heavily in a new product that will generates profit for two years. To keep profits high for 10 years, the company plans to reinvest heavily after two."
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy"
+    },
+    {
+        "id": 628,
+        "question": "114. Which of the following elements and compounds is unstable in its pure form?",
+        "options": {
+            "a": "Hydrochloric acid",
+            "b": "Carbon dioxide",
+            "c": "Sodium",
+            "d": "Helium"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry"
+    },
+    {
+        "id": 629,
+        "question": "116. Which one of the following statements regarding organic substances is false?",
+        "options": {
+            "a": "Organic matter is generally stable at very high temperature",
+            "b": "Organic substances generally dissolve in high-concentration acids",
+            "c": "All organic matter contains carbon",
+            "d": "Organic substances generally do not dissolve in water."
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry"
+    },
+    {
+        "id": 630,
+        "question": "117. Which of the following affects most of the electrical and thermal properties of materials?",
+        "options": {
+            "a": "The weight of the atoms",
+            "b": "The weight of the protons",
+            "c": "The electrons, particularly the outermost one",
+            "d": "The magnitude of electrical charge of the protons"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics"
+    },
+    {
+        "id": 631,
+        "question": "119. How do you call the strong bond between hydrogen atoms?",
+        "options": {
+            "a": "Ionic and metallic bonds",
+            "b": "The covalent bond",
+            "c": "The ionic bond",
+            "d": "The metallic bond"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry"
+    },
+    {
+        "id": 632,
+        "question": "120. What are Van der Waals forces?",
+        "options": {
+            "a": "Forces present only in gases",
+            "b": "Forces not present in liquids",
+            "c": "Primary bonds between atoms",
+            "d": "Weak secondary bonds between atoms"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics"
+    },
+    {
+        "id": 633,
+        "question": "122. What do you call the replacement of the original cost of an investment?",
+        "options": {
+            "a": "Pay off",
+            "b": "Return on investment",
+            "c": "Break-even",
+            "d": "Capital recovery"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy"
+    },
+    {
+        "id": 634,
+        "question": "123. Adding more solute to an already saturated solution will cause the excess solute to settle to the bottom of the container. What is this process called?",
+        "options": {
+            "a": "Precipitation",
+            "b": "Hydration",
+            "c": "Dehydration",
+            "d": "Saturation"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry"
+    },
+    {
+        "id": 635,
+        "question": "124. The length of time at which the original cost of capital used to purchase a unit has already been recovered?",
+        "options": {
+            "a": "Economic life",
+            "b": "Write off period",
+            "c": "Physical life",
+            "d": "Salvage life"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy"
+    },
+    {
+        "id": 636,
+        "question": "128. When two sellers control sufficient of the supply of a commodity or service to control its price is known as?",
+        "options": {
+            "a": "Duopoly",
+            "b": "Monopoly",
+            "c": "Oligopoly",
+            "d": "Control"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy"
+    },
+    {
+        "id": 637,
+        "question": "129. The ratio of total liabilities to total assets is said to be?",
+        "options": {
+            "a": "Equity ratio",
+            "b": "Debt ratio",
+            "c": "Quick ratio",
+            "d": "Price-earning ratio"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy"
+    },
+    {
+        "id": 638,
+        "question": "131. In a thermodynamics process following, $PV^n = C$, what is the process if the value of n is infinity?",
+        "options": {
+            "a": "Isentropic process",
+            "b": "Polytropic process",
+            "c": "Isometric process",
+            "d": "Isobaric process"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics"
+    },
+    {
+        "id": 639,
+        "question": "133. A demand that occurs when a decrease in selling price produces little or no effect in sales?",
+        "options": {
+            "a": "Inelastic demand",
+            "b": "Demand",
+            "c": "Elastic demand",
+            "d": "Necessity"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy"
+    },
+    {
+        "id": 640,
+        "question": "134. An interest computed on the basis of 12 months of 30 days each or 360 days a year, and one interest period is equal to 360 days?",
+        "options": {
+            "a": "Interest",
+            "b": "Ordinary simple interest",
+            "c": "Simple interest",
+            "d": "Exact simple interest"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy"
+    },
+    {
+        "id": 641,
+        "question": "135. What must two investments with the same present worth and unequal lives have?",
+        "options": {
+            "a": "Identical equivalent uniform annual cash flow",
+            "b": "Different salvage values",
+            "c": "Different equivalent uniform annual cash flows",
+            "d": "Identical salvage values"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy"
+    },
+    {
+        "id": 642,
+        "question": "Which of the following corresponds to the meaning of annuity?",
+        "options": {
+            "a": "A lump sum at the end of the year",
+            "b": "An annual repayment of the loan",
+            "c": "A series of uniform amounts over a period of time",
+            "d": "The future worth of a present amount"
+        },
+        "answer": "c",
+        "correct_answer_text": "A series of uniform amounts over a period of time",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy"
+    },
+    {
+        "id": 643,
+        "question": "The ability to convert assets to cash quickly is known as \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_.",
+        "options": {
+            "a": "Solvency",
+            "b": "Liquidity",
+            "c": "Leverage",
+            "d": "Insolvency"
+        },
+        "answer": "b",
+        "correct_answer_text": "Liquidity",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy"
+    }
+]

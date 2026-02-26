@@ -1,0 +1,277 @@
+[
+    {
+        "question": "The potential transformer of a line has a ratio 132,000/66. These are connected in wye-delta. The voltmeter reads 64 volts. What is the voltage of the line?",
+        "options": {
+            "a": "221.7 kV",
+            "b": "112.5 kV",
+            "c": "135.2 kV",
+            "d": "132 kV"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1609
+    },
+    {
+        "question": "The potential transformer of a line has a ratio 132,000/66. These are connected in wye-delta. The voltmeter reads 64 volts. What is the voltage of the line?",
+        "options": {
+            "a": "221.7 kV",
+            "b": "112.5 kV",
+            "c": "135.2 kV",
+            "d": "132 kV"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1610
+    },
+    {
+        "question": "Two transformers each of 80 kVA are connected in parallel. One has resistance and reactance of 1% and 4% respectively and the other has resistance and reactance of 1.5% and 6% respectively. Calculate the load shared by each transformer when the total load shared is 100 kVA 0.8 pf lagging.",
+        "options": {
+            "a": "48 kW and 45 kW",
+            "b": "48 kW and 32 kW",
+            "c": "57 kW and 45 kW",
+            "d": "57 kW and 32 kW"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1611
+    },
+    {
+        "question": "A 1000-VA 230/115-V transformer has been tested to determine its equivalent circuit. The results of the tests are shown below: Open-circuit test: $V_{OC} = 230 V$; $I_{OC} = 0.45 A$; $P_{OC} = 30 W$ Short-circuit test: $V_{SC} = 13.2 V$; $I_{SC} = 6.0 A$; $P_{SC} = 20.1 W$ All data given were taken from the primary side of the transformer. Find the transformer\u2019s voltage regulation at rated conditions and 0.8 PF leading.",
+        "options": {
+            "a": "-1.5%",
+            "b": "-2.5%",
+            "c": "-3.4%",
+            "d": "-1.1%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1612
+    },
+    {
+        "question": "A three-phase transformer bank is to handle 400 kVA and have a 34.5/13.8-kV voltage ratio. Find the turns ratio if the transformer bank is connected to Y-\u0394:",
+        "options": {
+            "a": "2.56",
+            "b": "1.44",
+            "c": "1.98",
+            "d": "3.21"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1613
+    },
+    {
+        "question": "A three-phase 50 Hz transformer of shell type has an iron cross-section of 400 sq. cm (gross). If the flux density be limited by 1.2 tesla, find the number of turns per phase on high and low voltage windings. The voltage ratio is 11000/550, the high voltage winding being connected in star and low voltage winding in mesh.",
+        "options": {
+            "a": "670, 52",
+            "b": "670, 58",
+            "c": "648, 43",
+            "d": "648, 47"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1614
+    },
+    {
+        "question": "A single-phase, 440/220 V, 10 kVA, 50 Hz transformer has a resistance of 0.2 ohm and reactance of 0.6 ohm on h.v. side. The corresponding values of l.v. side are 0.04 ohm and 0.14 ohm. Calculate the percentage regulation on full load for 0.8 leading pf.",
+        "options": {
+            "a": "-3.43%",
+            "b": "-2.11%",
+            "c": "-8.64%",
+            "d": "-9.32%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1615
+    },
+    {
+        "question": "A 100 kVA, three-phase 50 Hz 3300/400 V transformer is delta-connected on the HV side and star-connected on LV side. The resistance of the HV winding is 3.5 per phase and that of the LV winding 0.02 per phase. Calculate the iron losses of the transformer at normal voltage and frequency if its full-load efficiency be 95.8% at 0.8 pf (lag). ANS: 1.2 kW",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1616
+    },
+    {
+        "question": "A single solid round copper wire has a diameter of 0.50 inch. Determine its self GMD.",
+        "options": {
+            "a": "0.3894 inch",
+            "b": "0.1947 inch",
+            "c": "0.1825 inch",
+            "d": "0.25 inch"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transmission Lines",
+        "id": 1617
+    },
+    {
+        "question": "Two No. 8-AWG copper conductors are placed 15-cm apart. If the length of the line is 4km, find the value of the line inductance.",
+        "options": {
+            "a": "6.85 mH",
+            "b": "7.63 mH",
+            "c": "5.78 mH",
+            "d": "9.65 mH"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transmission Lines",
+        "id": 1618
+    },
+    {
+        "question": "Determine the mutual GMD of three phase single-circuit transmission line whose conductor arranged in a triangular formation so that the two distance between conductors are 20 ft and the third is 38 ft, respectively?",
+        "options": {
+            "a": "24.77 ft",
+            "b": "25.35 ft",
+            "c": "23.67 ft",
+            "d": "26.43 ft"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transmission Lines",
+        "id": 1619
+    },
+    {
+        "question": "A three-phase double circuit line has a horizontal spacing of 40 ft and a vertical spacing between adjacent levels of 25 ft. Determine the mutual GMD of the line.",
+        "options": {
+            "a": "43.08 ft",
+            "b": "42.64 ft",
+            "c": "41.42 ft",
+            "d": "40.56 ft"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transmission Lines",
+        "id": 1620
+    },
+    {
+        "question": "A 20 km-double circuit 3-phase overhead line carries 66 kV, 60 Hz from the sending end. The phase sequence is ABC and the line is completely transposed such that the distance between the phases is 3 m and the distance between the line is 6 m. The conductor radius in 1.3 cm. Find the reactance of the line per phase in ohms for 20 km of:",
+        "options": {
+            "a": "5.753 ohm",
+            "b": "4.297 ohm",
+            "c": "1.253 ohm",
+            "d": "3.653 ohm"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transmission Lines",
+        "id": 1621
+    },
+    {
+        "question": "A single circuit 745 kV, 60 Hz three-phase transposed transmission line is composed of four ACSR 1, 272, 000 cmils, 54/19. Pheasant conductors per phase with horizontal configuration. The phase spacing between the line center of the bundles is 14 m and the bundle spacing is 45 cm. The conductors have a diameter of 1.382 inch and a GMR of 0.5592 inch. Determine the capacitance per phase per km of the transmission line in microfarad per kilometer.",
+        "options": {
+            "a": "0.01424",
+            "b": "0.01266",
+            "c": "0.01583",
+            "d": "0.01234"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transmission Lines",
+        "id": 1622
+    },
+    {
+        "question": "A 115 kV three-phase transposed transmission line is composed of 2-ACSR 336,400 CMIL, 30/7 Oriole conductors per phase with horizontal configuration: D12 = 7 ft, D23 = 7 ft, and D13 = 14 ft. The line spacing is measured from the center of the bundled conductors. The distance between the conductors of the bundle is 6 inches. The conductors have a diameter of 0.741 inch and a GMR of 0.02255 ft. Find the capacitance per phase for 20 km of the line in microfarads.",
+        "options": {
+            "a": "243",
+            "b": "765",
+            "c": "486",
+            "d": "382"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transmission Lines",
+        "id": 1623
+    },
+    {
+        "question": "A 5 km long, three-phase line has a horizontal configuration of 4 ft spacing. The conductor is 336.4 MCM ACSR with GMR of 0.0244 ft and a resistance of 0.306 ohm per mile. What is the impedance?",
+        "options": {
+            "a": "$2.22 \\text{ cis } 65^\\circ$",
+            "b": "$1.19 \\text{ cis } 46^\\circ$",
+            "c": "$6.66 \\text{ cis } 65^\\circ$",
+            "d": "$3.57 \\text{ cis } 46^\\circ$"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transmission Lines",
+        "id": 1624
+    },
+    {
+        "question": "A single phase transmission line has total impedance of 1.5 + j 0.3 ohms. It delivers 3 MW at 11 kV and at unity power factor. Determine the sending and voltage of the transmission lines.",
+        "options": {
+            "a": "11.41 kV",
+            "b": "11.24 kV",
+            "c": "12.02 kV",
+            "d": "11.89 kV"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transmission Lines",
+        "id": 1625
+    },
+    {
+        "question": "A single-phase transmission line has total impedance of $5 \\angle 80^\\circ$ ohms and supplies a total load of 120 A, 3.3 kV and at 0.8 power factor lagging. Calculate sending end voltage.",
+        "options": {
+            "a": "3.93 kV",
+            "b": "3.62 kV",
+            "c": "3.54 kV",
+            "d": "3.86 kV"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transmission Lines",
+        "id": 1626
+    },
+    {
+        "question": "A 3-phase, 3-wire, short transmission line has a resistance of 3 ohms and a reactance of 8 ohms per wire. At the receiving end, a balanced 3-phase load draws a line current of 60 A, at 13,500 volts line to line, 0.90 power factor lagging. Determine the voltage at the sending end.",
+        "options": {
+            "a": "14,156 V",
+            "b": "14,143 V",
+            "c": "14,230 V",
+            "d": "15,055 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transmission Lines",
+        "id": 1627
+    },
+    {
+        "question": "A load of 12 MVA, 0.8 pf lagging, 22 KV is served by a transmission line which has a line resistance of 3 ohms and a line reactance 10 ohms. Solve for the sending end voltage.",
+        "options": {
+            "a": "24,345 V",
+            "b": "26,795 V",
+            "c": "23,335 V",
+            "d": "25,422 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transmission Lines",
+        "id": 1628
+    }
+]

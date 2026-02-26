@@ -1,0 +1,282 @@
+[
+    {
+        "question": "A 3-phase, star-connected 6600 V synchronous motor has synchronous reactance per phase of 20 ohms. For a certain load the input is 900 kW at normal voltage and the induced line emf is 8500 V. Determine the line current and power factor.",
+        "options": {
+            "a": "89.17 A, 0.88 leading",
+            "b": "65.34 A, 0.83 leading",
+            "c": "72.96 A, 0.81 leading",
+            "d": "89.17 A, 0.85 leading"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 929
+    },
+    {
+        "question": "The resistance and synchronous reactance per phase of a 75 kW, 400 V, 4-pole, 3-phase, star-connected synchronous motor is 0.04 ohm and 0.4 ohm respectively. Determine for full load 0.8 pf leading the open circuit emf per phase. Assume an efficiency of 92.5%.",
+        "options": {
+            "a": "253.4 V",
+            "b": "266.8 V",
+            "c": "183.5 V",
+            "d": "673.2 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 930
+    },
+    {
+        "question": "A 3-phase, star-connected synchronous motor takes 20 kW at 400 V from the mains. The synchronous reactance is 4 ohms and the effective resistance is negligible. If the exciting current is so adjusted that the back emf is 550 V, calculate the line current and the power factor of the motor.",
+        "options": {
+            "a": "33.1 A",
+            "b": "39.2 A",
+            "c": "56.7 A",
+            "d": "518 A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Machines",
+        "id": 931
+    },
+    {
+        "question": "A six-pole lap wound D.C. generator has 720 conductors, a flux of 40 mWb per pole is driven at 400 r.p.m. Find the generated e.m.f.",
+        "options": {
+            "a": "136 V",
+            "b": "192 V",
+            "c": "219 V",
+            "d": "233 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 932
+    },
+    {
+        "question": "An 8-pole wave connected D.C. generator has 1000 armature conductors and flux/pole 0.035 Wb. At what speed must it be driven to generate 500 V?",
+        "options": {
+            "a": "283.3 rpm",
+            "b": "214.5 rpm",
+            "c": "332.8 rpm",
+            "d": "105.8 rpm"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 933
+    },
+    {
+        "question": "The armature of a 6-pole D.C. generator has a wave winding containing 650 conductors. Calculate the generated e.m.f. when the flux per pole is 0.055 Wb and the speed is 300 r.p.m.",
+        "options": {
+            "a": "489.35 V",
+            "b": "426.25 V",
+            "c": "398.45 V",
+            "d": "536.25 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 934
+    },
+    {
+        "question": "The terminal voltage of a separately excited D.C. generator with constant excitation is constant and is equal to 250 V. Determine the percentage reduction in speed when the load changes from 250 kW to 150 kW. The armature resistance is 0.012 $\\Omega$ and total contact drop at brushes = 2 V. Neglect armature reaction.",
+        "options": {
+            "a": "3.56%",
+            "b": "1.81%",
+            "c": "2.56%",
+            "d": "0.54%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Machines",
+        "id": 935
+    },
+    {
+        "question": "A separately excited generator with constant excitation is connected to a constant resistance circuit. When the speed is 1200 r.p.m. it delivers 120 A at 500 V. At what speed will the current be reduced to 60 A? Armature resistance = 0.1 $\\Omega$. Contact drop/brush = 1 V.",
+        "options": {
+            "a": "493 rpm",
+            "b": "533 rpm",
+            "c": "602 rpm",
+            "d": "319 rpm"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Machines",
+        "id": 936
+    },
+    {
+        "question": "A shunt generator supplied 500 A at 500 V. Calculate its generated e.m.f. if its armature and shunt field resistances are 0.02 $\\Omega$ and 125 $\\Omega$ respectively.",
+        "options": {
+            "a": "510.08 V",
+            "b": "536.87 V",
+            "c": "489.12 V",
+            "d": "455.64 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Machines",
+        "id": 937
+    },
+    {
+        "question": "A 4-pole, D.C. shunt generator, with a shunt field resistance of 100 ohms and an armature resistance of 1 ohm, has 378 wave-connected conductors in its armature. The flux per pole is 0.02 Wb. If a load resistance of 10 ohms is connected across the armature terminals and the generator is driven at 1000 r.p.m., calculate power absorbed by load.",
+        "options": {
+            "a": "4.445 kW",
+            "b": "6.464 kW",
+            "c": "2.349 kW",
+            "d": "5.153 kW"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 938
+    },
+    {
+        "question": "A 4-pole lap wound shunt generator supplies to 50 lamps of 100 watts, 200 V each in parallel. The field and armature resistances are 50 $\\Omega$ and 0.2 $\\Omega$ respectively. Allowing a brush drop of 1 V each brush, calculate the power developed of D.C. armature.",
+        "options": {
+            "a": "6.026 kW",
+            "b": "7.884 kW",
+            "c": "9.398 kW",
+            "d": "7.198 kW"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Machines",
+        "id": 939
+    },
+    {
+        "question": "A series generator delivers a current of 100 A at 250 V. Its armature and series field resistances are 0.1 $\\Omega$ and 0.055 $\\Omega$ respectively. Approximate the armature emf.",
+        "options": {
+            "a": "382.5 V",
+            "b": "278.5 V",
+            "c": "214.7 V",
+            "d": "265.5 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Machines",
+        "id": 940
+    },
+    {
+        "question": "A short shunt compound generator has armature, series field and shunt field resistances of 0.06 $\\Omega$, 0.03 $\\Omega$ and 110 $\\Omega$ respectively. It supplies 100 lamps rated at 250 V, 40 W. Find the generated e.m.f. Assume that contact drop/brush = 1 V.",
+        "options": {
+            "a": "253.6 V",
+            "b": "267.8 V",
+            "c": "216.8 V",
+            "d": "278.9 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Machines",
+        "id": 941
+    },
+    {
+        "question": "A long shunt compound generator has an armature, series field and shunt field resistances of 0.04 $\\Omega$, 0.03 $\\Omega$ and 200 $\\Omega$ respectively. It supplies a load current of 180 A at 400 V. Calculate the generated e.m.f. Assume contact drop/brush = 1 V.",
+        "options": {
+            "a": "438 V",
+            "b": "415 V",
+            "c": "328 V",
+            "d": "498 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Machines",
+        "id": 942
+    },
+    {
+        "question": "A shunt generator supplies 195 A at 220 V. Armature resistance is 0.02 ohm, shunt field resistance is 44 ohm. If the iron and friction losses amount to 1600 watt, find b.h.p. of the prime mover driving the generator.",
+        "options": {
+            "a": "69.3 BHP",
+            "b": "62 BHP",
+            "c": "53 BHP",
+            "d": "47 BHP"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Machines",
+        "id": 943
+    },
+    {
+        "question": "A 400 V shunt generator has full-load current of 200 A. Its armature resistance is 0.06 ohm, field resistance is 100 ohm and the stray losses are 2000 watt. Find the h.p. of prime-mover when it is delivering full load.",
+        "options": {
+            "a": "143 hp",
+            "b": "275 hp",
+            "c": "87 hp",
+            "d": "115 hp"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Machines",
+        "id": 944
+    },
+    {
+        "question": "A load of 20 kW at 230 V is supplied by a compound DC generator. If the series, shunt field and armature resistances are 0.05, 115 and 0.1 ohm respectively. Calculate the generated emf when the generator is connected as long shunt.",
+        "options": {
+            "a": "247.8 V",
+            "b": "243.3 V",
+            "c": "231.5 V",
+            "d": "239.6 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Machines",
+        "id": 945
+    },
+    {
+        "question": "A 50 H.P., 400 V, 4-pole, 1,000 rpm, DC motor has flux per pole equal to 0.027 Wb. The armature having 1,600 conductors is wave connected. Calculate the gross torque when the motor takes 70 A.",
+        "options": {
+            "a": "789 N-m",
+            "b": "459 N-m",
+            "c": "963 N-m",
+            "d": "1923 N-m"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 946
+    },
+    {
+        "question": "A 4-pole DC motor has a wave-wound armature with 594 conductors. The armature current is 40 A and flux per pole is 7.5 mWb. Calculate H.P. of the motor when running at 1,440 rpm.",
+        "options": {
+            "a": "11.6 Hp",
+            "b": "14.5 Hp",
+            "c": "16.7 Hp",
+            "d": "10.3 Hp"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 947
+    },
+    {
+        "question": "A 6-pole, lap-wound DC motor takes 340 A when the speed is 400 rpm. The flux per pole is 0.05 Wb and the armature has 864 turns. Neglecting mechanical losses, calculate the BHP of the motor.",
+        "options": {
+            "a": "266 Hp",
+            "b": "389 Hp",
+            "c": "436 Hp",
+            "d": "218 Hp"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 948
+    }
+]

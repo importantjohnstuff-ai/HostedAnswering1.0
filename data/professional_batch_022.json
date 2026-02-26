@@ -1,0 +1,237 @@
+[
+    {
+        "question": "Three impedances $(5 + j2)$, $(3 - j2)$ and $(4 - j8)$ are connected in parallel. The combination is in series with a coil of resistance 2 ohms and inductance 0.05 H to 220 V, 60 Hz supply. Find the total current flowing:",
+        "options": {
+            "a": "11.9 A",
+            "b": "18.4 A",
+            "c": "8.21 A",
+            "d": "21.7 A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1289
+    },
+    {
+        "question": "Use voltage division to find $V_L$ in the circuit. (Circuit diagram: $20 \\Omega$ resistor, $j1000 \\Omega$ inductor, $V_s = 100/30^\\circ V$ source, $-j1000 \\Omega$ capacitor)",
+        "options": {
+            "a": "5000 V",
+            "b": "6000 V",
+            "c": "4000 V",
+            "d": "2000 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1290
+    },
+    {
+        "question": "Two impedances given by $Z_1 = (5 + j20) \\Omega$ and $Z_2 = (5 + j9) \\Omega$ are joined in parallel and connected across a voltage $(100 + j0) V$. Calculate the reactive power consumed.",
+        "options": {
+            "a": "7200 VAR",
+            "b": "2100 VAR",
+            "c": "890 VAR",
+            "d": "1320 VAR"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1291
+    },
+    {
+        "question": "A voltage $e = 200 \\sin(100\\pi t)$ is applied to a coil having $R = 200 \\Omega$ and $L = 638 \\text{ mH}$. Find the expression for the current and also determine the power taken by the coil.",
+        "options": {
+            "a": "70 W",
+            "b": "50 W",
+            "c": "80 W",
+            "d": "10 W"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Electromagnetism",
+        "id": 1292
+    },
+    {
+        "question": "Determine the average value of the pulse voltage signal $v(t) = 10 V$ at $0 < t < 1$ and $-5 V$ at $1 < t < 2$.",
+        "options": {
+            "a": "1 V",
+            "b": "2.5 V",
+            "c": "2 V",
+            "d": "1.5 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1293
+    },
+    {
+        "question": "Find the total impedance of the circuit shown: (Circuit diagram: $10 \\Omega$ resistor and $0.01 \\text{ H}$ inductor in parallel with $20 \\Omega$ resistor and $0.05 \\text{ H}$ inductor)",
+        "options": {
+            "a": "18.54 ohm",
+            "b": "23.32 ohm",
+            "c": "10.48 ohm",
+            "d": "7.32 ohm"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1294
+    },
+    {
+        "question": "A parallel circuit consists of a $2.5 \\text{ mF}$ capacitor and a coil whose resistance and inductance are 15 ohms and 260 mH, respectively. Determine the dynamic impedance of the circuit.",
+        "options": {
+            "a": "6,933.33",
+            "b": "3,782.67",
+            "c": "9,729.42",
+            "d": "575.78"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1295
+    },
+    {
+        "question": "A single phase set of load are connected to a single phase alternator: - Load 1: 500 VA, pf = 0.8, lag - Load 2: 800 W pure resistive - Load 3: 600 VAR, pure capacitive Determine the total power consumed in watts:",
+        "options": {
+            "a": "1000 W",
+            "b": "1200 W",
+            "c": "500 W",
+            "d": "200 W"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1296
+    },
+    {
+        "question": "Use current division to find $I_L$ for the circuit. (Circuit diagram: $i = 4\\sqrt{2} \\sin(400t - 10^\\circ) A$ source, $10 \\Omega$ resistor, $20 \\text{ mH}$ inductor, $80 \\mu\\text{F}$ capacitor)",
+        "options": {
+            "a": "4.56 A",
+            "b": "1.34 A",
+            "c": "0.64 A",
+            "d": "2.22 A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1297
+    },
+    {
+        "question": "The core of a transformer is found to consume 560 W of hysteresis loss on short-circuit test on the primary winding when the field is 70 mWb at 60 Hz. Determine the new hysteresis loss at 100 mWb at 55 Hz:",
+        "options": {
+            "a": "1200 W",
+            "b": "640 W",
+            "c": "800 W",
+            "d": "900 W"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1298
+    },
+    {
+        "question": "Use current division twice to find the current $I_L$ for the circuit. (Circuit diagram: $20/45^\\circ A$ source, $j3 \\Omega$ inductor, $2 \\Omega$ resistor, $-j5 \\Omega$ capacitor, $4 \\Omega$ resistor)",
+        "options": {
+            "a": "6.85 A",
+            "b": "4.56 A",
+            "c": "11.2 A",
+            "d": "16.7 A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1299
+    },
+    {
+        "question": "The p.d. applied to a 1 k$\\Omega$ resistance in order that a current of 100 \u03bcA may flow is: (a) 1V (b) 100V (c) 0.1V (d) 10V",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1300
+    },
+    {
+        "question": "The current which flows when 0.1 coulomb is transferred in 10 ms is: (a) 1A (b) 10A (c) 10 mA (d) 100 mA",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Electromagnetism",
+        "id": 1301
+    },
+    {
+        "question": "The power dissipated by a resistor of 4 ohm when a current of 5A passes through it is: (a) 6.25 W (b) 20 W (c) 80 W (d) 100 W",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1302
+    },
+    {
+        "question": "Which of the following statements is true? (a) Electric current is measured in volts (b) 200 k-ohm resistance is equivalent to 2 M-ohm (c) An ammeter has a low resistance and must be connected in parallel with a circuit (d) An electrical insulator has a high resistance",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1303
+    },
+    {
+        "question": "A current of 3A flows for 50 h through a 6-ohm resistor. The energy consumed by the resistor is: (a) 0.9 kWh (b) 2.7 kWh (c) 9 kWh (d) 27 kWh",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1304
+    },
+    {
+        "question": "What must be known in order to calculate the energy used by an electrical appliance? (a) voltage and current (b) current and time of operation (c) power and time of operation (d) current and resistance",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1305
+    },
+    {
+        "question": "Voltage drop is the: (a) maximum potential (b) difference in potential between two points (c) voltage produced by a source (d) voltage at the end of a circuit",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1306
+    },
+    {
+        "question": "A 240V, 60 W lamp has a working resistance of: (a) 1400 ohm (b) 60 ohm (c) 960 ohm (d) 325 ohm",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1307
+    },
+    {
+        "question": "The largest number of 100 W electric light bulbs which can be operated from a 240V supply fitted with a 13A fuse is: (a) 2 (b) 7 (c) 31 (d) 18",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1308
+    }
+]

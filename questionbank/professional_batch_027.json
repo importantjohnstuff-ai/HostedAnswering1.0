@@ -1,0 +1,282 @@
+[
+    {
+        "question": "Three parallel resistors have a total conductance of 1.75 S. If two of the resistances are 1 and 2 ohm, what is the third resistance?",
+        "options": {
+            "a": "5 ohm",
+            "b": "6 ohm",
+            "c": "4 ohm",
+            "d": "8 ohm"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1389
+    },
+    {
+        "question": "Find the Thevenin equivalent circuit for a dc power supply that has a 30-V terminal voltage when delivering 400 mA and a 27-V terminal voltage when delivering 600 mA.",
+        "options": {
+            "a": "36 V, 15 ohm",
+            "b": "36 V, 10 ohm",
+            "c": "40 V, 15 ohm",
+            "d": "40 V, 10 ohm"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1390
+    },
+    {
+        "question": "Find the Norton equivalent circuit for a dc power supply that has a 30-V terminal voltage when delivering 400 mA and a 28-V terminal voltage when delivering 600 mA.",
+        "options": {
+            "a": "5.6 A, 15 ohm",
+            "b": "5.6 A, 10 ohm",
+            "c": "3.4 A, 15 ohm",
+            "d": "3.4 A, 10 ohm"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1391
+    },
+    {
+        "question": "$+Q_1 = 10 \\mu C$, $+Q_2 = 50 \\mu C$ and $Q_3$ are separated by 2cm and 6cm respectively. What is the electrostatic charge on particle 3 if the net electrostatic force on particle 2 is zero?",
+        "options": {
+            "a": "80 uC",
+            "b": "90 uC",
+            "c": "100 uC",
+            "d": "120 uC"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Electromagnetism",
+        "id": 1392
+    },
+    {
+        "question": "A direct current of 4 A flows into a previously uncharged 20\u00b5F capacitor for 3ms. Determine the p.d. between the plates.",
+        "options": {
+            "a": "500 V",
+            "b": "600 V",
+            "c": "800 V",
+            "d": "300 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1393
+    },
+    {
+        "question": "A 5\u00b5F capacitor is charged so that the p.d. between its plates is 800 V. Calculate how long the capacitor can provide an average discharge current of 2mA.",
+        "options": {
+            "a": "3 sec",
+            "b": "2 sec",
+            "c": "5 min",
+            "d": "6 min"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1394
+    },
+    {
+        "question": "The flux density between two plates separated by mica of relative permittivity 5 is 2\u00b5C/m2. Find the voltage gradient between the plates.",
+        "options": {
+            "a": "45.2 kV/m",
+            "b": "56.7 kV/m",
+            "c": "13.4 kV/m",
+            "d": "67.4 kV/m"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1395
+    },
+    {
+        "question": "The radius of the outer sphere of a spherical capacitor is five times the radius of its inner shell. What is the outer radius of this capacitor if its capacitance is 5.00 pF?",
+        "options": {
+            "a": "17.98 cm",
+            "b": "18.93 cm",
+            "c": "11.34 cm",
+            "d": "9.78 cm"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1396
+    },
+    {
+        "question": "A parallel plate capacitor has 3 dielectrics with relative permittivities of 5.5, 2.2 and 1.5 respectively. The area of each plate is 100 cm2 and thickness of each dielectric 1 mm. A potential difference of 5,000 V is applied across the composite capacitor. Calculate the potential gradient developed in the first dielectric.",
+        "options": {
+            "a": "11,000 kV/m",
+            "b": "7,500 kV/m",
+            "c": "3,000 kV/m",
+            "d": "600 kV/m"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Electromagnetism",
+        "id": 1397
+    },
+    {
+        "question": "Three identical coils each of $4.2 + j5.6 \\Omega$ are connected in star across a 415 V, 3-phase, 50 Hz supply. Determine the power factor and current per winding:",
+        "options": {
+            "a": "Pf = 0.6, current per winding = 34.2 A",
+            "b": "Pf = 0.6, current per winding = 56.8 A",
+            "c": "Pf = 0.4, current per winding = 34.1 A",
+            "d": "Pf = 0.4, current per winding = 57.8 A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1398
+    },
+    {
+        "question": "Three similar-coils, A, B and C are available. Each coil has $9 \\Omega$ resistance and $12 \\Omega$ reactance. They are connected in delta to a 3-phase, 440-V, 50-Hz supply. Calculate for this load the total kilowatts.",
+        "options": {
+            "a": "23.16 kW",
+            "b": "7.72 kW",
+            "c": "4.56 kW",
+            "d": "2.89 kW"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1399
+    },
+    {
+        "question": "Each phase of a delta-connected load comprises a resistor of $50 \\Omega$ and capacitor of $50 \\mu F$ in series. Calculate the line current when the load is connected to a 440-V, 3-phase, 50-Hz supply.",
+        "options": {
+            "a": "9.46 A",
+            "b": "5.46 A",
+            "c": "3.67 A",
+            "d": "8.97 A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Powerplants",
+        "id": 1400
+    },
+    {
+        "question": "A balanced delta-connected load of impedance $(8 - j6) \\Omega$ per winding is connected to a three-phase, 230 V, 50 Hz supply. Calculate the line current:",
+        "options": {
+            "a": "56.87 A",
+            "b": "23.45 A",
+            "c": "39.84 A",
+            "d": "67.56 A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Powerplants",
+        "id": 1401
+    },
+    {
+        "question": "Three coils, each having a resistance of $8 \\Omega$ and an inductance of 0.02 H, are connected in delta to a three-phase, 400 V, 50 Hz supply. Calculate the power absorbed:",
+        "options": {
+            "a": "37.12 kW",
+            "b": "67.82 kW",
+            "c": "21.53 kW",
+            "d": "18.53 kW"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1402
+    },
+    {
+        "question": "A 415 V, 50 Hz, three-phase voltage is applied to three star-connected identical impedances. Each impedance consists of a resistance of $15 \\Omega$, a capacitance of $177 \\mu F$ and an inductance of 0.1 henry in series. The total VA is most nearly:",
+        "options": {
+            "a": "6.34 kVA",
+            "b": "7.85 kVA",
+            "c": "9.32 kVA",
+            "d": "8.55 kVA"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1403
+    },
+    {
+        "question": "A balanced, three-phase, wye-connected load of 100 kW takes a leading current of 80 A, when connected across a three-phase, 1100 V, 50 Hz supply. Find the capacitance of each phase:",
+        "options": {
+            "a": "530 uF",
+            "b": "670 uF",
+            "c": "420 uF",
+            "d": "1190 uF"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Powerplants",
+        "id": 1404
+    },
+    {
+        "question": "A three-phase, 200 kW, 50 Hz, delta-connected induction motor is supplied from a three-phase, 440 V, 50 Hz supply system. The efficiency and power factor are 91% and 0.86 respectively. Calculate currents in each phase of the motor.",
+        "options": {
+            "a": "136.6 A",
+            "b": "175.3 A",
+            "c": "189.4 A",
+            "d": "231.7 A"
+        },
+        "answer": "c",
+        "correct_answer_text": "189.4 A",
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1405
+    },
+    {
+        "question": "Two wattmeters are used to measure power in a three-phase balanced load. Find the power factor if one wattmeter reads zero:",
+        "options": {
+            "a": "0.2",
+            "b": "0.5",
+            "c": "1.0",
+            "d": "0"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1406
+    },
+    {
+        "question": "What will be the relation between readings on the wattmeter connected to measure power in a three-phase balanced circuit with unity power factor:",
+        "options": {
+            "a": "The readings are equal but opposite",
+            "b": "The readings are equal",
+            "c": "One reading is zero",
+            "d": "The wattmeter is defective"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1407
+    },
+    {
+        "question": "In a balanced three-phase circuit, power is measured by two wattmeters, the ratio of two wattmeter readings is 2 : 1. Determine the power factor of the system.",
+        "options": {
+            "a": "0.866",
+            "b": "0.647",
+            "c": "0.732",
+            "d": "0.938"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1408
+    }
+]

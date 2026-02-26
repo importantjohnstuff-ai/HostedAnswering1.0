@@ -1,0 +1,282 @@
+[
+    {
+        "id": 41,
+        "question": "A plane flying north at 640 kph passes over a certain town at noon and a second plane going east at 600 kph is directly over the same town 15 minutes later. If the planes are flying at the same altitude, how fast will they be separating at 1:15 PM?",
+        "options": {
+            "a": "872 kph",
+            "b": "287 kph",
+            "c": "782 kph",
+            "d": "728 kph"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 42,
+        "question": "A man is walking at a rate of 1.5 m/s toward a street light which is 5 m above the level ground. At what rate is the tip of his shadow moving if the man is 2 m tall?",
+        "options": {
+            "a": "-1.5 m/s",
+            "b": "-2.5 m/s",
+            "c": "-3.5 m/s",
+            "d": "-5 m/s"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 43,
+        "question": "What is the length of the longest rod that can pass between a hallway intersection of widths, 7 feet and 10 feet wide?",
+        "options": {
+            "a": "53 ft",
+            "b": "51 ft",
+            "c": "29 ft",
+            "d": "24 ft"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 44,
+        "question": "A water line runs east-west. A town wants to connect two new housing subdivisions A and B to the line by running lines from a single point on the existing line to the two subdivisions. The existing line is 3 miles south of A and 4 miles south of B. B is 5 miles east of A. What is the minimum length of this line?",
+        "options": {
+            "a": "8.6 mi",
+            "b": "7.5 mi",
+            "c": "9.3 mi",
+            "d": "12.4 mi"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 45,
+        "question": "A movie screen on a wall is 20 m high and 10 m above the floor. At what distance from the front of the room should you position yourself so that the viewing angle of the movie screen is as large as possible? Assume your eyes is 0.6 m above the ground when seating.",
+        "options": {
+            "a": "17.3 m",
+            "b": "23.4 m",
+            "c": "13.5 m",
+            "d": "16.6 m"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 46,
+        "question": "The longest rod that can be fitted along a perpendicular hallway with widths 4 m and 5 is nearly:",
+        "options": {
+            "a": "13.4 m",
+            "b": "12.7 m",
+            "c": "17.5 m",
+            "d": "7.2 m"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 47,
+        "question": "Determine the volume of largest cylinder that can be inscribed inside a cone with a height of 12 cm and diameter of 6 cm:",
+        "options": {
+            "a": "$16\\pi$ cc.",
+            "b": "$12\\pi$ cc.",
+            "c": "$9\\pi$ cc.",
+            "d": "$25\\pi$ cc."
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 48,
+        "question": "Johnny brought transit inside a movie theater. He found that the \u2018sweet spot\u2019 is 7 m from the screen wall. The transit is 1 m from the ground and the bottom of the screen is 3 m from the ground. What is the approximate height of the screen?",
+        "options": {
+            "a": "17.6 m",
+            "b": "19.6 m",
+            "c": "27.5 m",
+            "d": "22.5 m"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 49,
+        "question": "What is the maximum area that a Norman window of perimeter 12 ft can be constructed so that maximum light can be admitted?",
+        "options": {
+            "a": "35 sq. ft",
+            "b": "31 sq. ft",
+            "c": "23 sq. ft.",
+            "d": "10 sq. ft."
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 50,
+        "question": "What is the maximum profit per day when the profit-versus-production function is as given below? $P$ is profit and $x$ is unit of production. $$P = 1,000 - 50x - \\left( \\frac{6.0}{x + 1} \\right)^5$$",
+        "options": {
+            "a": "734",
+            "b": "868",
+            "c": "647",
+            "d": "932"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 51,
+        "question": "Integrate: $(7x^3 + 4x^2) dx$",
+        "options": {
+            "a": "$(7x^3/3) + (4x^2/2) + C$",
+            "b": "$(7x^4/4) + (4x^2/5) + C$",
+            "c": "$(7x^4/4) + (4x^3/3) + C$",
+            "d": "$7x^4 + (4x^2/2) + C$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 52,
+        "question": "Evaluate the integral of $\\cos^2 y dy$.",
+        "options": {
+            "a": "$(y/2) + (\\sin 2y/4) + C$",
+            "b": "$y + 2\\cos y + C$",
+            "c": "$(y/4) + (\\sin 2y/4) + C$",
+            "d": "$y + \\sin 2y + C$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 53,
+        "question": "Simplify the value of the integral: $$\\int_0^5 \\int_1^2 (3xy^2 + 5x^3) dy dx$$",
+        "options": {
+            "a": "868.75",
+            "b": "748.25",
+            "c": "227.50",
+            "d": "1025"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 54,
+        "question": "Evaluate the integral: $$\\int_0^{\\pi/2} \\int_0^1 \\int_0^2 z r^2 \\sin u \\, dz \\, dr \\, du$$",
+        "options": {
+            "a": "2/3",
+            "b": "4/3",
+            "c": "1/3",
+            "d": "5/3"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 55,
+        "question": "What is the area bounded by the curve $x^2 = -9y$ and the line $y + 1 = 0$?",
+        "options": {
+            "a": "3 sq. units",
+            "b": "4 sq. units",
+            "c": "5 sq. units",
+            "d": "6 sq. units"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 56,
+        "question": "Find the area of the region bounded by $y^2 = 8x$ and $y = 2x$.",
+        "options": {
+            "a": "1.22 sq. units",
+            "b": "1.33 sq. units",
+            "c": "1.44 sq. units",
+            "d": "1.55 sq. units"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 57,
+        "question": "Find the area bounded by the curve $y = x^2 + 2$ and the lines $x = 0$ and $y = 0$ and $x = 4$.",
+        "options": {
+            "a": "88/3 sq. units",
+            "b": "64/3 sq. units",
+            "c": "54/3 sq. units",
+            "d": "64/5 sq. units"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 58,
+        "question": "Find the area in the first quadrant bounded by the parabola $y^2 = 4x$, $x = 1$, and $x = 3$.",
+        "options": {
+            "a": "9.555 sq. units",
+            "b": "9.955 sq. units",
+            "c": "5.955 sq. units",
+            "d": "5.595 sq. units"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 59,
+        "question": "Locate the centroid of the plane area bounded by $y = x^2$ and $y = x$.",
+        "options": {
+            "a": "0.4 from the x-axis and 0.5 from the y-axis",
+            "b": "0.5 from the x-axis and 0.4 from the y-axis",
+            "c": "0.5 from the x-axis and 0.5 from the y-axis",
+            "d": "0.4 from the x-axis and 0.4 from the y-axis"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 60,
+        "question": "Locate the centroid of the plane area bounded by the equation $y^2 = 4x$, $x = 1$ and the x-axis on the first quadrant.",
+        "options": {
+            "a": "(3/4, 3/5)",
+            "b": "(3/5, 3/4)",
+            "c": "(2/3, 3/5)",
+            "d": "(3/5, 2/3)"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    }
+]

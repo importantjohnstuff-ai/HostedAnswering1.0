@@ -1,0 +1,262 @@
+[
+    {
+        "question": "A transformer works only on: A. AC supply",
+        "options": {
+            "b": "DC supply",
+            "c": "Both AC and DC",
+            "d": "Pulsating DC"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1469
+    },
+    {
+        "question": "If a transformer is connected to DC, it will:",
+        "options": {
+            "a": "Work normally",
+            "c": "Step-up voltage",
+            "d": "Reduce iron loss"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1470
+    },
+    {
+        "question": "The core in a transformer is laminated to reduce:",
+        "options": {
+            "a": "Hysteresis loss",
+            "c": "Copper loss",
+            "d": "Stray loss"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1471
+    },
+    {
+        "question": "The no-load current of a single-phase transformer is mainly:",
+        "options": {
+            "a": "Resistive",
+            "c": "Leakage current",
+            "d": "Harmonic current"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1472
+    },
+    {
+        "question": "Voltage ratio in a transformer is proportional to: A. Turns ratio",
+        "options": {
+            "b": "Current ratio",
+            "c": "Impedance ratio",
+            "d": "Flux ratio"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1473
+    },
+    {
+        "question": "Copper loss in a transformer varies as:",
+        "options": {
+            "a": "I",
+            "c": "1/I",
+            "d": "Constant"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1474
+    },
+    {
+        "question": "Iron loss in a transformer occurs due to:",
+        "options": {
+            "a": "Flux leakage",
+            "c": "Load current",
+            "d": "Winding resistance"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1475
+    },
+    {
+        "question": "Maximum efficiency occurs when: A. Iron loss = copper loss",
+        "options": {
+            "b": "Iron loss > copper loss",
+            "c": "Iron loss < copper loss",
+            "d": "Copper loss is zero"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1476
+    },
+    {
+        "question": "A step-up transformer increases:",
+        "options": {
+            "a": "Current",
+            "b": "Power",
+            "d": "Frequency"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1477
+    },
+    {
+        "question": "In ideal transformer:",
+        "options": {
+            "a": "Efficiency = 75%",
+            "b": "Efficiency = 95%",
+            "d": "Losses are maximum"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1478
+    },
+    {
+        "question": "Transformer rating is in:",
+        "options": {
+            "a": "Watts",
+            "b": "Joules",
+            "d": "kW only"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1479
+    },
+    {
+        "question": "A transformer\u2019s primary and secondary are linked by:",
+        "options": {
+            "a": "Electrical coupling",
+            "b": "Capacitive coupling",
+            "d": "Mechanical coupling"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1480
+    },
+    {
+        "question": "The leakage flux creates:",
+        "options": {
+            "a": "Hysteresis loss",
+            "c": "Eddy currents",
+            "d": "Resistance drop"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1481
+    },
+    {
+        "question": "Equivalent resistance referred to primary is:",
+        "options": {
+            "a": "R1",
+            "b": "$R2 / N^2$",
+            "d": "R2 \u00d7 N"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1482
+    },
+    {
+        "question": "Core flux in a transformer depends primarily on:",
+        "options": {
+            "a": "Load current",
+            "c": "Turns ratio",
+            "d": "Secondary EMF"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1483
+    },
+    {
+        "question": "Open-circuit test gives:",
+        "options": {
+            "a": "Copper losses",
+            "c": "Mechanical losses",
+            "d": "Stray losses"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1484
+    },
+    {
+        "question": "Short-circuit test gives:",
+        "options": {
+            "a": "Iron losses",
+            "b": "Total losses",
+            "d": "No-load losses"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1485
+    },
+    {
+        "question": "A 1000 VA transformer at 0.5 power factor delivers: A. 500 W",
+        "options": {
+            "b": "1000 W",
+            "c": "2000 W",
+            "d": "120 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1486
+    },
+    {
+        "question": "If load increases, transformer regulation:",
+        "options": {
+            "a": "Improves",
+            "c": "Stays same",
+            "d": "Becomes zero"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1487
+    },
+    {
+        "question": "A three-phase transformer is usually: A. Cheaper than 3 single-phase units",
+        "options": {
+            "b": "More costly than 3 single-phase units",
+            "c": "Less efficient",
+            "d": "Not used in power systems"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1488
+    }
+]

@@ -1,0 +1,282 @@
+[
+    {
+        "id": 605,
+        "question": "In a small factory with a capacity of 500,000 units per year with a 75% efficiency, the annual income is P500,000 and a fixed cost of P180,000 and variable cost of P0.52 per unit. What is the break-even point?",
+        "options": {
+            "a": "222,223 units",
+            "b": "242,223 units",
+            "c": "252,223 units",
+            "d": "222,222 units"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy"
+    },
+    {
+        "id": 606,
+        "question": "If an electrical engineer borrowed money from his girl friend with simple interest of 12%, determine the present worth of P75,000.00 which is due at the end of 7 months?",
+        "options": {
+            "a": "P72,200.20",
+            "b": "P70,200.20",
+            "c": "P73,900.50",
+            "d": "P70,093.20"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy"
+    },
+    {
+        "id": 607,
+        "question": "An Electrical Engineer obtained a loan of P50,000 at the rate of 6% compounded annually in order to repair his family\u2019s house. How much must the Electrical Engineer pay monthly to amortize the loan within a period of ten years?",
+        "options": {
+            "a": "P605.2",
+            "b": "P550.900",
+            "c": "P505.90",
+            "d": "P508.90"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy"
+    },
+    {
+        "id": 608,
+        "question": "The sum of P15,000, deposited in an account earning 4% per annum compounded quarterly, will become P18,302.85. Determine the effective rate of interest per year?",
+        "options": {
+            "a": "3.06%",
+            "b": "4.06%",
+            "c": "5.06%",
+            "d": "6.06%"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy"
+    },
+    {
+        "id": 609,
+        "question": "If a machine is purchased on instalment and the buyer makes an P80,000.00 down payment and owes a balance of P150,000 in 2 years. Determine the machine cash value if money is worth 14% compounded quarterly.",
+        "options": {
+            "a": "P199,312.00",
+            "b": "P183,912.00",
+            "c": "P193,912.00",
+            "d": "P139,912.00"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy"
+    },
+    {
+        "id": 610,
+        "question": "A machine was purchased under these terms: P30,000 down and P5,000 each month for 5 years. If money is worth 12% compounded monthly, what is the cash price of the machine?",
+        "options": {
+            "a": "P144,775.19",
+            "b": "P245,775.19",
+            "c": "P542,775.91",
+            "d": "P254,775.19"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy"
+    },
+    {
+        "id": 611,
+        "question": "If the loan was for 15 months at 16.8% interest a year and the repayment on a loan was P12,100.00, how much was the principal?",
+        "options": {
+            "a": "P8,500.00",
+            "b": "P9,500.00",
+            "c": "P10,000.00",
+            "d": "P10,500.00"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy"
+    },
+    {
+        "id": 612,
+        "question": "The sum of P15,000, deposited in an account earning 4% per annum compounded quarterly, will become P18,302.85. Determine the effective rate of interest per Year?",
+        "options": {
+            "a": "3.06%",
+            "b": "4.06%",
+            "c": "5.06%",
+            "d": "6.06%"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy"
+    },
+    {
+        "id": 613,
+        "question": "Find the number of years when P2,500.00 is compounded to P5,800.00 at 12% compounded quarterly.",
+        "options": {
+            "a": "6.12 years",
+            "b": "7.12 years",
+            "c": "8.12 years",
+            "d": "5.12 years"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry"
+    },
+    {
+        "id": 614,
+        "question": "What is the effective rate equivalent of 12% compounded quarterly?",
+        "options": {
+            "a": "12.55%",
+            "b": "11.55%",
+            "c": "12.98%",
+            "d": "13%"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry"
+    },
+    {
+        "id": 615,
+        "question": "What rate compounded quarterly is equivalent to 14% compounded semi-annually?",
+        "options": {
+            "a": "10.76%",
+            "b": "11.76%",
+            "c": "12.76%",
+            "d": "13.76%"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry"
+    },
+    {
+        "id": 616,
+        "question": "Celestino owes P500, due in 3 years and P800 due in 7 years. He is allowed to settle these obligations by a single payment on the 6th year. Find how much he has to pay on the 6th year if money is worth 14% compounded semi-annually?",
+        "options": {
+            "a": "P1,449.12",
+            "b": "P1,559.12",
+            "c": "P1,339.12",
+            "d": "P1,669.12"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy"
+    },
+    {
+        "id": 617,
+        "question": "Determine the amount that must be deposited every 3 months in a fund earning 12% compounded quarterly in order to have P25,000 in 8 years?",
+        "options": {
+            "a": "P716.71",
+            "b": "P476.17",
+            "c": "P674.71",
+            "d": "1700.00"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy"
+    },
+    {
+        "id": 618,
+        "question": "The JRF Corporation manufactures bookcases that sells for P65.00 each. It costs JRF corporation P35,000.00 per year to operate its plant. The sum includes rentals, depreciation charges on equipment, and salary payments. If the cost to produce one book case is P50.00, how many bookcases must be sold each year for the corporation to avoid taking a loss?",
+        "options": {
+            "a": "539 Bookcases",
+            "b": "750 Bookcases",
+            "c": "2333 Bookcases",
+            "d": "2334 Bookcases"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy"
+    },
+    {
+        "id": 619,
+        "question": "A machine is purchased for P500,000.00. The salvage value in 25 years is P100,000.00. What is the depreciation in the first three years using straight line method?",
+        "options": {
+            "a": "P24,000.00",
+            "b": "P32,000.00",
+            "c": "P48,000.00",
+            "d": "P16,000.00"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy"
+    },
+    {
+        "id": 620,
+        "question": "An asset is purchased for P 9,000.00. Its estimated economic life is 10 years after which it will be sold for P 1,000.00. Find the depreciation in the first three years using sum-of-years digit method.",
+        "options": {
+            "a": "P 3,279.27",
+            "b": "P 3,729.27",
+            "c": "P 3,927.27",
+            "d": "P 3,792.72"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy"
+    },
+    {
+        "id": 621,
+        "question": "Suppose that the maintenance for a piece of equipment costs $300 and increases by 15% every year for 5 years. The value of money is 9%. What is the equivalent present cost over the time horizon?",
+        "options": {
+            "a": "$2022.71",
+            "b": "$1536.22",
+            "c": "$1175.16",
+            "d": "$1166.90"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy"
+    },
+    {
+        "id": 622,
+        "question": "My P5,000 shall accumulate for 10 years at 8% compounded quarterly. What is the compound interest of my money at the end of 10 years?",
+        "options": {
+            "a": "P6,005.30",
+            "b": "P6,040.20",
+            "c": "P6,000.00",
+            "d": "P6,010.20"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy"
+    },
+    {
+        "id": 623,
+        "question": "What is the effective rate corresponding to 18% compounded daily?",
+        "options": {
+            "a": "17.72%",
+            "b": "18.72%",
+            "c": "19.72%",
+            "d": "20.72%"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry"
+    },
+    {
+        "id": 624,
+        "question": "89. What is the least number of years needed to triple a certain amount of money at 5% per annum compounded interest to the nearest year?",
+        "options": {
+            "a": "20.5 years",
+            "b": "18.5 years",
+            "c": "22.5 years",
+            "d": "16.5 years"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy"
+    }
+]

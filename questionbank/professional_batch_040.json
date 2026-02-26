@@ -1,0 +1,16 @@
+[
+    {
+        "question": "PROBLEM. A 100-km long, 3-phase, 50-Hz transmission line has following line constants: Resistance/phase/km = 0.1 $\\Omega$ Reactance/phase/km = 0.5 $\\Omega$ Susceptance/phase/km = $10 \\times 10^{-6}$ S If the line supplies load of 20 MW at 0.9 p.f. lagging at 66 kV at the receiving end, calculate the regulation",
+        "options": {
+            "a": "15.27%",
+            "b": "11.83%",
+            "c": "6.45%",
+            "d": "9.21%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transmission Lines",
+        "id": 1649
+    }
+]

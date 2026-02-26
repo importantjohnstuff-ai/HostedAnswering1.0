@@ -1,0 +1,282 @@
+[
+    {
+        "id": 281,
+        "question": "Inverse the Laplace transform, $(s^2 + 1)/(s(s + 1)^2)$",
+        "options": {
+            "a": "$1 + 2e^t$",
+            "b": "$1 - 2te^{-t}$",
+            "c": "$1 - 2te^{-t}$",
+            "d": "$1 + 2t + e^{-t}$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Laplace Transform"
+    },
+    {
+        "id": 282,
+        "question": "The inverse Laplace of $(e^{as})/s^2$ is:",
+        "options": {
+            "a": "$te^{at}$",
+            "b": "$te^{-at}$",
+            "c": "$e^{-at}$",
+            "d": "$e^{at}$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Laplace Transform"
+    },
+    {
+        "id": 283,
+        "question": "What is the second term of the Taylor expansion for $\\sin(3x)$?",
+        "options": {
+            "a": "$x^2/2$",
+            "b": "$-9x^3/2$",
+            "c": "$-3x^2/2$",
+            "d": "$-27x^4/2$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 284,
+        "question": "What is the convolution function $f * g$ if $f = 4x$ and $g = x^2$?",
+        "options": {
+            "a": "$(16t^3)/3$",
+            "b": "$(-16t^4)/5$",
+            "c": "$(4t^4)/5$",
+            "d": "$(16t^4)/3$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 285,
+        "question": "Simplify $i^{29} + i^{21} + i$, where $i = \\sqrt{-1}$.",
+        "options": {
+            "a": "$1 + 2i$",
+            "b": "3",
+            "c": "$3i$",
+            "d": "$2 + i$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 286,
+        "question": "Solve for the gradient of the function $f(x,y,z) = x^2 + y^2 + z^2$ at point (1,2,3) and determine the magnitude of the gradient of $f$?",
+        "options": {
+            "a": "7.48",
+            "b": "8.25",
+            "c": "6.0",
+            "d": "7.21"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Vector Analysis"
+    },
+    {
+        "id": 287,
+        "question": "Determine the divergence of the vector: $V = ix^2y + j(-xy) + k(xyz)$ at coordinates (3, 2, 1).",
+        "options": {
+            "a": "9",
+            "b": "7",
+            "c": "12",
+            "d": "15"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Vector Analysis"
+    },
+    {
+        "id": 288,
+        "question": "The divergence of the curl of a vector is a/an:",
+        "options": {
+            "a": "vector",
+            "b": "scalar",
+            "c": "unity",
+            "d": "zero."
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Vector Analysis"
+    },
+    {
+        "id": 289,
+        "question": "What is the first term of the Taylor expansion of $e^{x^2}$?",
+        "options": {
+            "a": "$x$",
+            "b": "-1",
+            "c": "1",
+            "d": "$e$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 290,
+        "question": "What is the fifth term of the Taylor expansion of $e^{2x}$?",
+        "options": {
+            "a": "$2x^4/3$",
+            "b": "$3x^5/25$",
+            "c": "$4x^5/15$",
+            "d": "$x^5$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 291,
+        "question": "What is the third term of the Taylor expansion of $e^{3x} + e^{2x}$?",
+        "options": {
+            "a": "$15x^3/6$",
+            "b": "$13x^2/2$",
+            "c": "$16x^3/5$",
+            "d": "$4x^2/5$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 292,
+        "question": "What is the second term of the Taylor expansion of $\\sin(4x)$?",
+        "options": {
+            "a": "$-32x^3/3$",
+            "b": "$-36x^3/5$",
+            "c": "$-32x^2/4$",
+            "d": "none of these"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 293,
+        "question": "What is the second term of the Taylor expansion of $\\tan(x)$?",
+        "options": {
+            "a": "$x^2/2$",
+            "b": "$x^2/4$",
+            "c": "$x^3/3$",
+            "d": "$x^4/6$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 294,
+        "question": "If $f(x, y, z) = 3xz^2y - y^3z^2$, find grad at the point (1, -2, -1)",
+        "options": {
+            "a": "$-(12i - 9j - 4k)$",
+            "b": "$-(12i - 9j + 4k)$",
+            "c": "$-(16i + 9j + 4k)$",
+            "d": "$-(16i - 6j + 4k)$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 295,
+        "question": "What is the greatest rate of increase of the function $u = xyz^2$ at the point (1, 0, 3)? Use gradient.",
+        "options": {
+            "a": "8",
+            "b": "9",
+            "c": "10",
+            "d": "11"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Vector Analysis"
+    },
+    {
+        "id": 296,
+        "question": "Find div F and curl F where $F = \\text{grad}(x^3 + y^3 + z^3 - 3xyz)$.",
+        "options": {
+            "a": "$\\text{div } F = 3(x - y + z)$, $\\text{curl } F = 3(x + z)$",
+            "b": "$\\text{div } F = 3(x - y - z)$, $\\text{curl } F = 0$",
+            "c": "$\\text{div } F = 6(x + y + z)$, $\\text{curl } F = -3(x + z)$",
+            "d": "$\\text{div } F = 6(x + y + z)$, $\\text{curl } F = 0$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Vector Analysis"
+    },
+    {
+        "id": 297,
+        "question": "If $V = (xy^2)i + (2yx^2z)j - (3yz^2)k$, then curl V at point (1, -1, 1) is",
+        "options": {
+            "a": "$-(j + 2k)$",
+            "b": "$(i + 3k)$",
+            "c": "$-(i + 2k)$",
+            "d": "$(2i - 3k)$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Vector Analysis"
+    },
+    {
+        "id": 298,
+        "question": "Given that $B = xy + yz + zx$ and $A = (x^2y)i + (y^2z)j + (z^2x)k$, find $A \\cdot \\nabla B$ at the point (3, -1, 2).",
+        "options": {
+            "a": "25",
+            "b": "36",
+            "c": "9",
+            "d": "4"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 299,
+        "question": "Evaluate the convolution of $t * (te^{-t})$:",
+        "options": {
+            "a": "$te^{-t} - 2e^{-t} + t - 2$",
+            "b": "$te^{-t} + 2e^{-t} + t - 2$",
+            "c": "$te^{-t} + 2e^{-t} - t + 2$",
+            "d": "$te^{-t} - 2e^{-t} + t + 2$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 300,
+        "question": "Simplify $\\cos(2 + 3i)$:",
+        "options": {
+            "a": "$-3.724 - 0.512i$",
+            "b": "$-3.724 - 0.878i$",
+            "c": "$-7.455 - 0.512i$",
+            "d": "$-7.455 - 0.346i$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    }
+]

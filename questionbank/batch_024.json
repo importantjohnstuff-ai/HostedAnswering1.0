@@ -1,0 +1,282 @@
+[
+    {
+        "id": 461,
+        "question": "The differential equation $(x + y^2 - 3y)dx + (x^2 + 3x + y)dy = 0$ is:",
+        "options": {
+            "a": "order one, degree two, and non linear",
+            "b": "order two, degree one, and linear",
+            "c": "order one, degree one, and non linear",
+            "d": "order two, degree two, and non linear"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 462,
+        "question": "The solution of the differential equation $2(y + 3) dx - xydy = 0$",
+        "options": {
+            "a": "$e^y = cx^3(y + 3)^3$",
+            "b": "$e^y = cx^2(y + 3)^2$",
+            "c": "$e^y = cx(y + 3)^3$",
+            "d": "$e^y = cx^2(y + 3)^3$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 463,
+        "question": "The differential equation $x^3 - y^4/(x + 2y)$ is a homogeneous function of degree",
+        "options": {
+            "a": "2",
+            "b": "3",
+            "c": "1",
+            "d": "4"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 464,
+        "question": "The solution of the differential equation $(x-y+2)dx + 3dy = 0$",
+        "options": {
+            "a": "$C = x - 3\\ln (x-y+2)$",
+            "b": "$C = x - 2\\ln (x-y+5)$",
+            "c": "$C = x - 5\\ln (x-y+3)$",
+            "d": "$C = x - 3\\ln (x-y+5)$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 465,
+        "question": "30% of a radioactive substance disappears in 13 years. Find the half life of the substance.",
+        "options": {
+            "a": "45 years",
+            "b": "36 years",
+            "c": "28 years",
+            "d": "none of the given"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 466,
+        "question": "A body falls from rest against a resistance that is proportional to the speed at any instant. If a terminal velocity of the body is 128 fps, find the speed after 2 sec.",
+        "options": {
+            "a": "6.08 fps",
+            "b": "50.4 fps",
+            "c": "34.7 fps",
+            "d": "none of the given"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 467,
+        "question": "At 2 pm, a thermometer reading 80 \u00b0F is taken outside where the air is 20\u00b0F. At 2:03 pm, the thermometer reading yielded by the thermometer is 43\u00b0F. Later the thermometer is brought indoors where the air is 80\u00b0F. At 2:10 PM, the reading is 71\u00b0F. When was the thermometer brought indoors?",
+        "options": {
+            "a": "2:04 PM",
+            "b": "2:05 PM",
+            "c": "2:06 PM",
+            "d": "2:07 PM"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 468,
+        "question": "If 1 gallon of air is fed continuously to a closed vessel containing 3 gallons of $O_2$ initially, and 3 gallons of air is withdrawn from the vessel continuously, how much $O_2$ will be left in the vessel after 3 minutes?",
+        "options": {
+            "a": "1.5 gallons",
+            "b": "2.5 gallons",
+            "c": "1.2 gallons",
+            "d": "none of the given"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 469,
+        "question": "Solve the particular solution of the D.E.: $Y'' + 4Y = e^{3x}$",
+        "options": {
+            "a": "$Y = (1/12)e^{3x}$",
+            "b": "$Y = (1/10)e^{3x}$",
+            "c": "$Y = (1/13)e^{3x}$",
+            "d": "$Y = (1/13)e^{-3x}$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 470,
+        "question": "A hemispherical tank with radius of 4 feet is filled with water. At t=0, a nozzle (C=1) of 1 inch diameter is opened at the bottom of the tank. How long will it take for all the water to drain from the tank?",
+        "options": {
+            "a": "59 min",
+            "b": "43 min",
+            "c": "36 min",
+            "d": "21 min"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 471,
+        "question": "Solve the differential equation: $d^2y/dx^2 + 4x^2 = 0$",
+        "options": {
+            "a": "$y = (1/3)x^4 + c_1 x + c_2$",
+            "b": "$y = x^4 + c_1 x + c_2 x^2 + c_3$",
+            "c": "$y = c_1 + c_2x + c_3x^2$",
+            "d": "$3y = c_1x + c_2 + x^4$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 472,
+        "question": "Solve the differential equation: $(D^3 + 3D^2 + 3D + 1)y = 0$",
+        "options": {
+            "a": "$y = (A + Bx + C x^2) e^{-x}$",
+            "b": "$y = A + Bx + Cx^2$",
+            "c": "$y = Ae^{-x} + B x + C x^2$",
+            "d": "$y = (Ax - B) e^{-x}$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 473,
+        "question": "Solve the particular solution to the O.D.E.: $y'' + 5y' - 6y = 3e^x$",
+        "options": {
+            "a": "$Y_p = (3/2)e^x$",
+            "b": "$Y_p = (3/4)xe^x$",
+            "c": "$Y_p = (3/7)xe^x$",
+            "d": "$Y_p = 3e^x + 2x$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 474,
+        "question": "Determine the integral of $\\sec(x)$:",
+        "options": {
+            "a": "$\\ln(\\sin x + \\cos x) + C$",
+            "b": "$x/\\sqrt{x^2+1} + C$",
+            "c": "$\\ln(\\sec x + \\tan x) + C$",
+            "d": "$x/\\sqrt{1-x^2} + C$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 475,
+        "question": "Radium decomposes at the rate proportional to the amount present. If the half life is 1600 years, find the percentage remaining after at the end of 200 years.",
+        "options": {
+            "a": "95.5%",
+            "b": "91.7%",
+            "c": "81.2%",
+            "d": "79.1%"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 476,
+        "question": "**REELE APR2023:** Solve $(x + y) dy = (x - y) dx$",
+        "options": {
+            "a": "$x^2 + y^2 = C$",
+            "b": "$x^2 + 2xy + y^2 = C$",
+            "c": "$x^2 - 2xy - y^2 = C$",
+            "d": "$x^2 - 2xy + y^2 = C$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 477,
+        "question": "A torispherical tank contains 100 liters of brine containing 50 kg total of dissolved salt. Pure water is allowed to run into the tank at the rate of 3 liters a minute. Brine runs out of the tank at the rate of 2 liters a minute. The instantaneous concentration in the tank is kept uniform by stirring. How much salt is in the tank at the end of one hour?",
+        "options": {
+            "a": "15.45 kg",
+            "b": "19.53 kg",
+            "c": "12.62 kg",
+            "d": "20.62 kg"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 478,
+        "question": "Polonium decomposes at a rate proportional to the amount present. If the half of the original amount disappears after 1000 years, what is the percentage lost in 100 years?",
+        "options": {
+            "a": "6.70%",
+            "b": "4.50%",
+            "c": "5.35%",
+            "d": "4.30%"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 479,
+        "question": "Solve the differential equation $dy - x dx = 0$, if the curve passes through (1, 0)?",
+        "options": {
+            "a": "$3x^2 + 2y - 3 = 0$",
+            "b": "$2y^2 + x^2 - 1 = 0$",
+            "c": "$x^2 - 2y - 1 = 0$",
+            "d": "$2x^2 + 2y - 2 = 0$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 480,
+        "question": "Find the equation of the curve at every point of which the tangent line has a slope of $2x$.",
+        "options": {
+            "a": "$x = -y^2 + C$",
+            "b": "$y = -x^2 + C$",
+            "c": "$y = x^2 + C$",
+            "d": "$x = y^2 + C$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    }
+]

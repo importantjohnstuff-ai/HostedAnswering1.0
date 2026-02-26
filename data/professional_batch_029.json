@@ -1,0 +1,262 @@
+[
+    {
+        "question": "A DC generator\u2019s EMF equation is $E = k\\phi N$. Increasing flux ($\\phi$) will:",
+        "options": {
+            "a": "Not affect voltage",
+            "c": "Decrease voltage",
+            "d": "Damage commutator"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1429
+    },
+    {
+        "question": "If brushes are not shifted properly, a generator experiences:",
+        "options": {
+            "a": "Improved commutation",
+            "b": "Sparkless operation",
+            "d": "Reduced losses"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Machines",
+        "id": 1430
+    },
+    {
+        "question": "Hysteresis loss in a generator depends mainly on:",
+        "options": {
+            "a": "$I^2R$",
+            "c": "Mechanical friction",
+            "d": "Back EMF"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Machines",
+        "id": 1431
+    },
+    {
+        "question": "A separately-excited DC generator allows independent control of:",
+        "options": {
+            "a": "Armature resistance",
+            "c": "Load current",
+            "d": "Brush contact"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Machines",
+        "id": 1432
+    },
+    {
+        "question": "The back EMF of a DC motor is:",
+        "options": {
+            "a": "Zero at rated speed",
+            "c": "Helps torque production",
+            "d": "Irrelevant"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Machines",
+        "id": 1433
+    },
+    {
+        "question": "Starting current of a DC motor is high because: A. Back EMF is zero",
+        "options": {
+            "b": "Speed is high",
+            "c": "Field is weak",
+            "d": "Brushes are advanced"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Machines",
+        "id": 1434
+    },
+    {
+        "question": "A DC shunt motor is preferred for:",
+        "options": {
+            "a": "High starting torque",
+            "c": "Variable speed",
+            "d": "Reversing applications"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Machines",
+        "id": 1435
+    },
+    {
+        "question": "A DC series motor should never be started without load because:",
+        "options": {
+            "a": "It will overheat",
+            "c": "Torque becomes zero",
+            "d": "Commutator burns instantly"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Machines",
+        "id": 1436
+    },
+    {
+        "question": "Torque of a DC motor is proportional to:",
+        "options": {
+            "a": "Speed \u00d7 flux",
+            "c": "Voltage \u00d7 current",
+            "d": "Field resistance"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1437
+    },
+    {
+        "question": "If load increases on a DC motor, speed generally:",
+        "options": {
+            "a": "Increases",
+            "c": "Goes to zero",
+            "d": "Becomes infinite"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Machines",
+        "id": 1438
+    },
+    {
+        "question": "A common method to control DC shunt motor speed above base speed:",
+        "options": {
+            "a": "Increase armature current",
+            "c": "Reduce armature voltage",
+            "d": "Add resistance to armature"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Machines",
+        "id": 1439
+    },
+    {
+        "question": "A DC motor is converting electrical power to:",
+        "options": {
+            "a": "Magnetic power",
+            "b": "Heat",
+            "d": "Reactive power"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Machines",
+        "id": 1440
+    },
+    {
+        "question": "In a DC motor, mechanical load decreases. Back EMF will: A. Increase",
+        "options": {
+            "b": "Decrease",
+            "c": "Stay constant",
+            "d": "Drop to zero"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Machines",
+        "id": 1441
+    },
+    {
+        "question": "Sparking at brushes during motor operation is MOST likely due to:",
+        "options": {
+            "a": "Low voltage supply",
+            "b": "High speed",
+            "d": "High field current"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Machines",
+        "id": 1442
+    },
+    {
+        "question": "In DC motors, power input is:",
+        "options": {
+            "a": "V \u00d7 torque",
+            "c": "Back EMF \u00d7 current",
+            "d": "Flux \u00d7 speed"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1443
+    },
+    {
+        "question": "The speed of a DC series motor is mainly controlled by:",
+        "options": {
+            "a": "Adjusting armature voltage",
+            "b": "Introducing series resistance",
+            "c": "Changing field flux"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1444
+    },
+    {
+        "question": "A DC compound motor\u2019s advantage is:",
+        "options": {
+            "a": "Low cost",
+            "b": "High efficiency only",
+            "d": "Minimal maintenance"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Machines",
+        "id": 1445
+    },
+    {
+        "question": "In a DC motor, if field flux is increased, the speed will:",
+        "options": {
+            "a": "Increase",
+            "c": "Stay constant",
+            "d": "Reverse"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1446
+    },
+    {
+        "question": "For good commutation, brushes should be placed at:",
+        "options": {
+            "a": "Geometric neutral axis",
+            "b": "Least sparking point",
+            "d": "Maximum flux axis"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1447
+    },
+    {
+        "question": "A DC generator gives 250 V at no load and 220 V at full load. Voltage regulation is:",
+        "options": {
+            "a": "10%",
+            "c": "30 V",
+            "d": "15%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Machines",
+        "id": 1448
+    }
+]

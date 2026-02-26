@@ -1,0 +1,282 @@
+[
+    {
+        "id": 1670,
+        "question": "Find the magnitude of the gradient of the charge distribution Q = 4xy^2 + 9yz^3 at (1, 2, 1)?",
+        "options": {
+            "a": "42.89",
+            "b": "78.94",
+            "c": "4.81",
+            "d": "56.75"
+        },
+        "answer": "b",
+        "correct_answer_text": "78.94",
+        "category": "Math",
+        "sub_category": "Vector Analysis"
+    },
+    {
+        "id": 1671,
+        "question": "Evaluate the following limit: lim x->0 ((1 + x)^3 - 1) / x",
+        "options": {
+            "a": "3i",
+            "b": "3",
+            "c": "1",
+            "d": "0"
+        },
+        "answer": "b",
+        "correct_answer_text": "3",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 1672,
+        "question": "What is the main trade-off when choosing RK4 over Euler's method?",
+        "options": {
+            "a": "Lower stability but faster computation",
+            "b": "Higher computation cost per step but much higher accuracy",
+            "c": "Same computation cost, but lower memory",
+            "d": "Requires solving algebraic equations each step"
+        },
+        "answer": "b",
+        "correct_answer_text": "Higher computation cost per step but much higher accuracy",
+        "category": "Math",
+        "sub_category": "Numerical Methods"
+    },
+    {
+        "id": 1673,
+        "question": "Evaluate the following limit: lim x->0 ((1 + 2ix + 3x^2) - 1) / x",
+        "options": {
+            "a": "2i",
+            "b": "3",
+            "c": "2i + 3",
+            "d": "0"
+        },
+        "answer": "a",
+        "correct_answer_text": "2i",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 1674,
+        "question": "Which of the following statements correctly compares the Newton-Raphson method and the Secant method for finding roots of a function?",
+        "options": {
+            "a": "Newton-Raphson requires the derivative of the function, while the Secant method does not.",
+            "b": "The Secant method converges faster than Newton-Raphson in all cases.",
+            "c": "Newton-Raphson uses two initial guesses, whereas the Secant method uses only one.",
+            "d": "Both methods always guarantee convergence regardless of the initial guess."
+        },
+        "answer": "a",
+        "correct_answer_text": "Newton-Raphson requires the derivative of the function, while the Secant method does not.",
+        "category": "Math",
+        "sub_category": "Numerical Methods"
+    },
+    {
+        "id": 1675,
+        "question": "Simplify: cos (8 + j9)?",
+        "options": {
+            "a": "-0.678 + j7.456",
+            "b": "-67.89 + j17.458",
+            "c": "-589.5 - j4008.4",
+            "d": "-589.5 + j670.23"
+        },
+        "answer": "c",
+        "correct_answer_text": "-589.5 - j4008.4",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 1676,
+        "question": "Simplify log base 2 of (j4 - 5)?",
+        "options": {
+            "a": "2.678 + j2.763",
+            "b": "2.678 + j3.558",
+            "c": "0.663 + j2.763",
+            "d": "0.863 + j3.558"
+        },
+        "answer": "a",
+        "correct_answer_text": "2.678 + j2.763",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 1677,
+        "question": "Which of the following statements correctly compares the Newton-Raphson method and the Bisection method for finding roots of an equation?",
+        "options": {
+            "a": "Newton-Raphson requires the derivative of the function, while Bisection does not.",
+            "b": "Bisection method converges faster than Newton-Raphson in most cases.",
+            "c": "Newton-Raphson always guarantees convergence, while Bisection does not.",
+            "d": "Both methods require two initial guesses."
+        },
+        "answer": "a",
+        "correct_answer_text": "Newton-Raphson requires the derivative of the function, while Bisection does not.",
+        "category": "Math",
+        "sub_category": "Numerical Methods"
+    },
+    {
+        "id": 1678,
+        "question": "A body whose temperature is 180°F is immersed in a liquid which is kept at a constant temperature of 60°F. In one minute, the temperature of the body is 120°F. How long will it take for the temperature to decrease to 90°F?",
+        "options": {
+            "a": "2 min",
+            "b": "3 min",
+            "c": "1.5 min",
+            "d": "2 hrs"
+        },
+        "answer": "a",
+        "correct_answer_text": "2 min",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 1679,
+        "question": "Which of the following statements best compares the Secant method and the Bisection method for finding roots of a function f(x)=0?",
+        "options": {
+            "a": "The Secant method requires the function to change sign over an interval, while the Bisection method does not.",
+            "b": "The Bisection method usually converges faster than the Secant method.",
+            "c": "The Secant method uses approximated derivatives and may not always converge, while the Bisection method guarantees convergence if the initial interval brackets the root.",
+            "d": "Both methods require the derivative of the function."
+        },
+        "answer": "c",
+        "correct_answer_text": "The Secant method uses approximated derivatives and may not always converge, while the Bisection method guarantees convergence if the initial interval brackets the root.",
+        "category": "Math",
+        "sub_category": "Numerical Methods"
+    },
+    {
+        "id": 1680,
+        "question": "The volume of a hemisphere of radius 2m is:",
+        "options": {
+            "a": "14.67 cu.m.",
+            "b": "67.04 cu.m.",
+            "c": "16.76 cu.m.",
+            "d": "33.52 cu.m."
+        },
+        "answer": "c",
+        "correct_answer_text": "16.76 cu.m.",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 1681,
+        "question": "Which of the following statements correctly compares the Regula Falsi method and the Secant method for solving equations of the form f(x)=0?",
+        "options": {
+            "a": "Both methods require the function to change sign over an initial interval.",
+            "b": "Regula Falsi guarantees bracketing of the root, while the Secant method may not.",
+            "c": "The Secant method converges more reliably than Regula Falsi.",
+            "d": "Regula Falsi uses derivatives, while the Secant method does not."
+        },
+        "answer": "b",
+        "correct_answer_text": "Regula Falsi guarantees bracketing of the root, while the Secant method may not.",
+        "category": "Math",
+        "sub_category": "Numerical Methods"
+    },
+    {
+        "id": 1682,
+        "question": "Simplify: ln(2 + j7)",
+        "options": {
+            "a": "1.985 - j1.29",
+            "b": "0.673 + j4.567",
+            "c": "1.985 + j1.29",
+            "d": "0.673j"
+        },
+        "answer": "c",
+        "correct_answer_text": "1.985 + j1.29",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 1683,
+        "question": "Find the work done in moving an object along a vector a = 3i + 4j if the force applied is b = 2i + j.",
+        "options": {
+            "a": "8",
+            "b": "9",
+            "c": "10",
+            "d": "12"
+        },
+        "answer": "c",
+        "correct_answer_text": "10",
+        "category": "Math",
+        "sub_category": "Vector Analysis"
+    },
+    {
+        "id": 1684,
+        "question": "Conceptually, how does RK2 improve upon Euler's method?",
+        "options": {
+            "a": "By using only the slope at the end of the interval",
+            "b": "By averaging slope information from more than one point in the step",
+            "c": "By doubling the step size automatically",
+            "d": "By removing truncation error completely"
+        },
+        "answer": "b",
+        "correct_answer_text": "By averaging slope information from more than one point in the step",
+        "category": "Math",
+        "sub_category": "Numerical Methods"
+    },
+    {
+        "id": 1685,
+        "question": "Which of the following is a property of the Secant method when used to find a root of a function f(x)=0?",
+        "options": {
+            "a": "It requires the derivative of the function at each step.",
+            "b": "It converges quadratically like Newton-Raphson.",
+            "c": "It uses two initial guesses and approximates the derivative numerically.",
+            "d": "It guarantees convergence if the initial interval brackets the root."
+        },
+        "answer": "c",
+        "correct_answer_text": "It uses two initial guesses and approximates the derivative numerically.",
+        "category": "Math",
+        "sub_category": "Numerical Methods"
+    },
+    {
+        "id": 1686,
+        "question": "A line is defined in three-dimensional space as (x-2)/5 = (y+1)/3 = (z-1) = t. Where is the location of the point in space at t=2?",
+        "options": {
+            "a": "(14, 5, -4)",
+            "b": "(12, 5, 3)",
+            "c": "(12, -5, 0)",
+            "d": "(14, -7, 3)"
+        },
+        "answer": "b",
+        "correct_answer_text": "(12, 5, 3)",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 1687,
+        "question": "Express the power (1 + i)^8 in rectangular form.",
+        "options": {
+            "a": "16",
+            "b": "8i",
+            "c": "i - 1",
+            "d": "-6"
+        },
+        "answer": "a",
+        "correct_answer_text": "16",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 1688,
+        "question": "Evaluate i + i^-1:",
+        "options": {
+            "a": "1",
+            "b": "i",
+            "c": "0",
+            "d": "32"
+        },
+        "answer": "c",
+        "correct_answer_text": "0",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 1689,
+        "question": "Which of the following is a true property of the Bisection method when solving f(x)=0?",
+        "options": {
+            "a": "It converges quadratically under most conditions.",
+            "b": "It requires knowledge of the derivative of the function.",
+            "c": "It guarantees convergence if the initial interval brackets the root and f(x) is continuous.",
+            "d": "It is faster than the Newton-Raphson method in all cases."
+        },
+        "answer": "c",
+        "correct_answer_text": "It guarantees convergence if the initial interval brackets the root and f(x) is continuous.",
+        "category": "Math",
+        "sub_category": "Numerical Methods"
+    }
+]

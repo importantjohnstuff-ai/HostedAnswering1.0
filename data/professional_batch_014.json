@@ -1,0 +1,282 @@
+[
+    {
+        "question": "A three-phase, star-connected, 1000 kVA, 3300 V, 50 Hz alternator produces a short-circuit current of 200 A and an open circuit voltage of 1040 V with the same field current 40 A. If its armature has an effective resistance of 0.2 ohm per phase, calculate full-load regulation of the alternator at a pf of 0.8 leading.",
+        "options": {
+            "a": "-18.1%",
+            "b": "-11.8%",
+            "c": "-19.6%",
+            "d": "-25.4%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1129
+    },
+    {
+        "question": "A 3-phase, 400 V, star-connected synchronous motor draws 24 A at full-load unity power factor. If the machine is operating at 95% efficiency. What will be the induced emf and total mechanical power developed at full load and 0.9 p.f. leading? The synchronous impedance per phase is (0.2 + j2) ohms per phase.",
+        "options": {
+            "a": "8.56 kW",
+            "b": "23.5 kW",
+            "c": "11.4 kW",
+            "d": "16.2 KW"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1130
+    },
+    {
+        "question": "A 3-phase induction motor draws 40 kW from the main, the corresponding stator losses are 1.5 kW. Given that slip is S = 0.04, friction and windage losses = 0.8 kW. Determine the efficiency of the motor. Neglect the rotor iron losses.",
+        "options": {
+            "a": "90.4%",
+            "b": "94.6%",
+            "c": "83.4%",
+            "d": "80.2%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1131
+    },
+    {
+        "question": "A 400 V, 6-pole, 50 Hz, 3-phase induction motor develops 20 H.P. inclusive of mechanical losses when running at 995 rpm, the power factor being 0.87. Calculate the rotor copper losses. The stator copper loss is 1500 W.",
+        "options": {
+            "a": "45 W",
+            "b": "56 W",
+            "c": "21 W",
+            "d": "92 W"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1132
+    },
+    {
+        "question": "The effective resistance and synchronous reactance of a 3-phase, 11 kV star-connected synchronous motor are 1 ohm and 30 ohm per phase, respectively. If it draws 50 A from the main, calculate the induced emf for a power factor of 0.8 leading.",
+        "options": {
+            "a": "5536 V",
+            "b": "7315 V",
+            "c": "8963 V",
+            "d": "3422 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1133
+    },
+    {
+        "question": "Compute the power factor at rated output and maximum torque developed for a 415 V, 29.84 kW, 50 Hz delta connected motor. The following test data is available: No-load test: 415 V; 21 A; 1250 W Blocked-rotor test: 100 V; 45 A; 2730 W Assume that stator copper losses are equal to rotor copper losses at standstill.",
+        "options": {
+            "a": "0.819 lagging",
+            "b": "0.786 lagging",
+            "c": "0.807 leading",
+            "d": "0.921 leading"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1134
+    },
+    {
+        "question": "A 50 kW, 400 V, 3-phase synchronous motor is operating at full load with an efficiency of 92%. If the field current is adjusted to make its power factor 0.8 leading, estimate the armature current.",
+        "options": {
+            "a": "83 A",
+            "b": "98 A",
+            "c": "131 A",
+            "d": "43 A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1135
+    },
+    {
+        "question": "The effective resistance and synchronous reactance of a 2000 V, 3-phase, star-connected synchronous motor are 0.2 ohms and 2.2 ohms per phase, respectively. The input is 800 kW at normal voltage and the induced line emf is 2500 V. Calculate the line current:",
+        "options": {
+            "a": "254.4A",
+            "b": "328.4A",
+            "c": "145.7A",
+            "d": "308.3A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1136
+    },
+    {
+        "question": "A 1000 kVA, 11 kV, 3-phase star-connected synchronous motor has an armature resistance and reactance per phase of 3.5 ohm and 40 ohm respectively. Determine the induced emf when fully loaded at 0.8 power factor lagging.",
+        "options": {
+            "a": "7863 V",
+            "b": "8437 V",
+            "c": "9439 V",
+            "d": "8984 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1137
+    },
+    {
+        "question": "A 200-Hp 2,200 V, 3-phase star connected synchronous motor has a synchronous impedance of 0.3 + j3 $\\Omega$ per phase. Determine the induced emf per phase if the motor works on full-load with an efficiency of 94% and a power factor of 0.8 leading.",
+        "options": {
+            "a": "1,354 V",
+            "b": "1,360 V",
+            "c": "1,402 V",
+            "d": "1,522 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1138
+    },
+    {
+        "question": "Two parallel connected loads A and B are supplied by a 440 v, 3-phase, 60 Hz alternator. Load A draws an apparent power of 100 kVA at 0.80 power factor lagging and load B draws an apparent power of 70 kVA at unity power factor. Determine the feed current.",
+        "options": {
+            "a": "202 A",
+            "b": "214 A",
+            "c": "212 A",
+            "d": "208 A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Powerplants",
+        "id": 1139
+    },
+    {
+        "question": "A 440-volt synchronous motor is taking 50 amperes at a pf of 0.9 lagging. The effective resistance of armature is 0.8 ohm. If the iron and friction losses amount to 600 watts, find the horsepower output.",
+        "options": {
+            "a": "25.7",
+            "b": "37.1",
+            "c": "23.1",
+            "d": "40.5"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1140
+    },
+    {
+        "question": "A three-phase, 400 v, 50 HZ induction motor has a speed of 900 rpm on full-load. The motor has six poles. How many complete alternations will the rotor voltage takes per minute?",
+        "options": {
+            "a": "30",
+            "b": "60",
+            "c": "300",
+            "d": "600"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1141
+    },
+    {
+        "question": "A 3-phase, 400 V synchronous motor takes 60 A at a power factor of 0.8 leading. Determine the induced LINE emf. The motor impedance per phase is (0.25 + j3.2):",
+        "options": {
+            "a": "643 V",
+            "b": "678 V",
+            "c": "523 V",
+            "d": "573 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1142
+    },
+    {
+        "question": "In induction motors, if some resistance is added in the rotor circuit, then:",
+        "options": {
+            "a": "its starting torque will decrease and maximum torque will increase.",
+            "b": "its both starting torque and maximum torque will increase.",
+            "c": "its starting torque will increase but the maximum torque will remain the same.",
+            "d": "its starting torque will remain the same but maximum torque will increase."
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1143
+    },
+    {
+        "question": "Stator core of an induction motor is made of:",
+        "options": {
+            "a": "laminated cast iron.",
+            "b": "silicon steel stampings.",
+            "c": "mild steel.",
+            "d": "soft wood."
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1144
+    },
+    {
+        "question": "If the emf in the stator of an eight-pole Wartszila 45BT-800 induction motor has a frequency of 50 Hz and that in rotor 1.5 Hz find the speed at which motor is running and its slip.",
+        "options": {
+            "a": "727.5 rpm, 0.03",
+            "b": "680.5 rpm, 0.02",
+            "c": "1291.4 rpm, 0.04",
+            "d": "892.3 rpm, 0.02"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1145
+    },
+    {
+        "question": "An induction motor used to run centrifugal pump in Nestle-Cagayan has eight-pole alternator runs at 750 rpm and supplies power to a six-pole induction motor which has full-load slip of 3%. Find the full-load speed of the induction motor and the frequency of its rotor emf.",
+        "options": {
+            "a": "970 rpm, 1.5 Hz",
+            "b": "840 rpm, 1.3 Hz",
+            "c": "870 rpm, 1.2 Hz",
+            "d": "670 rpm, 1.3 Hz"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1146
+    },
+    {
+        "question": "It is desired to obtain a speed of approximately 700 rpm with a three-phase induction motor. Determine number of poles for 25 Hz motor. If the rated load slip of each motor is 5%,",
+        "options": {
+            "a": "4",
+            "b": "6",
+            "c": "8",
+            "d": "10"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1147
+    },
+    {
+        "question": "A balanced three-phase, 50 Hz voltage is applied to a three-phase six-pole induction motor. When the motor delivers rated output the slip is found to be 0.04. Determine the frequency of the rotor currents.",
+        "options": {
+            "a": "3 Hz",
+            "b": "4 Hz",
+            "c": "2 Hz",
+            "d": "6 Hz"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1148
+    }
+]

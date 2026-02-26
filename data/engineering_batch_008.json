@@ -1,0 +1,226 @@
+[
+    {
+        "id": 685,
+        "question": "A circular window with a radius of 0.25m has its center 3m below the water surface. Find the force acting on the window if the window is vertical.",
+        "options": {
+            "a": "2.9 kN",
+            "b": "5.8 kN",
+            "c": "17.7 kN",
+            "d": "29.4 kN"
+        },
+        "answer": "b",
+        "correct_answer_text": "5.8 kN",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics"
+    },
+    {
+        "id": 686,
+        "question": "The principle stating that when a body is completely or partially immersed in a fluid, the fluid exerts an upward force on the body equal to the weight of the fluid displaced by the body is",
+        "options": {
+            "a": "Archimedes",
+            "b": "Pascal",
+            "c": "Bernoulli",
+            "d": "Torricelli"
+        },
+        "answer": "a",
+        "correct_answer_text": "Archimedes",
+        "category": "Engineering Sciences",
+        "sub_category": "Fluid Mechanics"
+    },
+    {
+        "id": 687,
+        "question": "An ice with a mass of 0.9 kg is freely floating in water. The buoyant force exerted by water in Newton is nearest to",
+        "options": {
+            "a": "10.2",
+            "b": "9.64",
+            "c": "8.82",
+            "d": "7.8"
+        },
+        "answer": "c",
+        "correct_answer_text": "8.82",
+        "category": "Engineering Sciences",
+        "sub_category": "Fluid Mechanics"
+    },
+    {
+        "id": 688,
+        "question": "The average density of a human body is 980kg/cu.m. What percent of the human body will float in fresh water?",
+        "options": {
+            "a": "1",
+            "b": "2",
+            "c": "98",
+            "d": "10"
+        },
+        "answer": "b",
+        "correct_answer_text": "2",
+        "category": "Engineering Sciences",
+        "sub_category": "Fluid Mechanics"
+    },
+    {
+        "id": 690,
+        "question": "What is the hydraulic radius of the semi-circular channel with a radius of 4m?",
+        "options": {
+            "a": "2m",
+            "b": "3m",
+            "c": "4m",
+            "d": "6m"
+        },
+        "answer": "a",
+        "correct_answer_text": "2m",
+        "category": "Engineering Sciences",
+        "sub_category": "Fluid Mechanics"
+    },
+    {
+        "id": 691,
+        "question": "Determine the velocity of the liquid which is 1.5m deep at the exit orifice on the side of a tank which is 0.3m above the base.",
+        "options": {
+            "a": "1.9 m/s",
+            "b": "2.9 m/s",
+            "c": "3.9 m/s",
+            "d": "4.9 m/s"
+        },
+        "answer": "d",
+        "correct_answer_text": "4.9 m/s",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry"
+    },
+    {
+        "id": 692,
+        "question": "Given is an orifice with coefficient of velocity Cv = 0.6. If the head above the orifice is 4m, the actual velocity of the jet issuing from the orifice in m/s is nearest to",
+        "options": {
+            "a": "9.81",
+            "b": "6.98",
+            "c": "5.32",
+            "d": "3.22"
+        },
+        "answer": "c",
+        "correct_answer_text": "5.32",
+        "category": "Engineering Sciences",
+        "sub_category": "Fluid Mechanics"
+    },
+    {
+        "id": 693,
+        "question": "A stream of water 1 inch in diameter (density = 62.27 lb/cu.ft) impinges on a bathroom scale which measures a force of 250 lbs. What is the velocity of the stream in ft/s?",
+        "options": {
+            "a": "153.7",
+            "b": "24.3",
+            "c": "190.6",
+            "d": "24.9"
+        },
+        "answer": "a",
+        "correct_answer_text": "153.7",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics"
+    },
+    {
+        "id": 694,
+        "question": "What is the unit of strain?",
+        "options": {
+            "a": "Pa",
+            "b": "Unitless",
+            "c": "N-m",
+            "d": "N-m/s"
+        },
+        "answer": "b",
+        "correct_answer_text": "Unitless",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials"
+    },
+    {
+        "id": 696,
+        "question": "Which of the following is a variable renewable source of energy?",
+        "options": {
+            "a": "Hydro-power",
+            "b": "Biomass energy",
+            "c": "Geothermal energy",
+            "d": "Solar energy"
+        },
+        "answer": "d",
+        "correct_answer_text": "Solar energy",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics"
+    },
+    {
+        "id": 697,
+        "question": "Which of the following is a conventional source of energy?",
+        "options": {
+            "a": "Coal",
+            "b": "Solar",
+            "c": "Wind",
+            "d": "Tidal"
+        },
+        "answer": "a",
+        "correct_answer_text": "Coal",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics"
+    },
+    {
+        "id": 698,
+        "question": "In cold working of metals (APR. 2018)",
+        "options": {
+            "a": "close dimensional tolerance cannot be maintained",
+            "b": "poor surface finish is obtained",
+            "c": "recrystallization temperature for steel is reduced",
+            "d": "strength and hardness of steel is increased"
+        },
+        "answer": "d",
+        "correct_answer_text": "strength and hardness of steel is increased",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics"
+    },
+    {
+        "id": 700,
+        "question": "The three moment equation may be used to analyze \\_\\_\\_\\_\\_\\_\\_\\_.",
+        "options": {
+            "a": "an axially end-loaded beam",
+            "b": "a beam loaded at the third points",
+            "c": "a continuous beam",
+            "d": "a step tapered column"
+        },
+        "answer": "c",
+        "correct_answer_text": "a continuous beam",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics"
+    },
+    {
+        "id": 701,
+        "question": "A liquid pesticide has a density of 1.67 g/mL. Find the mass of the liquid in kg for a full 20-L container.",
+        "options": {
+            "a": "35.7",
+            "b": "34.5",
+            "c": "32.6",
+            "d": "33.4"
+        },
+        "answer": "d",
+        "correct_answer_text": "33.4",
+        "category": "Engineering Sciences",
+        "sub_category": "Fluid Mechanics"
+    },
+    {
+        "id": 703,
+        "question": "How many electrons flow through a light LED bulb each second if the current through the light bulb is 0.75 A?",
+        "options": {
+            "a": "5.6 x 10^18",
+            "b": "6.5 x 10^18",
+            "c": "4.5 x 10^18",
+            "d": "7.4 x 10^18"
+        },
+        "answer": "c",
+        "correct_answer_text": "4.5 x 10^18",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics"
+    },
+    {
+        "id": 704,
+        "question": "Which of the following relationship defines enthalpy?",
+        "options": {
+            "a": "h = pv + T",
+            "b": "h = u + pv",
+            "c": "h = u + p/v",
+            "d": "h = u + p/T"
+        },
+        "answer": "b",
+        "correct_answer_text": "h = u + pv",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics"
+    }
+]

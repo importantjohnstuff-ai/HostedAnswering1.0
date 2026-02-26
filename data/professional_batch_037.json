@@ -1,0 +1,282 @@
+[
+    {
+        "question": "A 5 kVA single phase transformer has full-load copper loss of 100 watt and 60 watt as iron loss. The daily variation of load on the transformer is as follows. Determine the all-day efficiency: 7 AM to 1 PM: 3 kW at power factor 0.6 lagging. 1 PM to 6 PM: 2 kW at power factor 0.8 lagging. 6 PM to 1 AM: 5 kW at power factor 0.9 lagging. 1 AM to 7 AM: No-load",
+        "options": {
+            "a": "97.85%",
+            "b": "94.53%",
+            "c": "95.76%",
+            "d": "91.57%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1589
+    },
+    {
+        "question": "A transformer has a maximum efficiency of 98% at 15 kVA at unity p.f. It is loaded as follows: 12 hrs \u2013 2 kW at p.f. 0.5; 6 hrs \u2013 12 kW at p.f. 0.8; 6 hrs \u2013 18 kW at p.f. 0.9. Calculate the all-day efficiency of the transformer.",
+        "options": {
+            "a": "97.23%",
+            "b": "96.98%",
+            "c": "95.32%",
+            "d": "94.23%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1590
+    },
+    {
+        "question": "A 100 kVA transformer supplies a lighting and power load. The iron loss is 960 W and the copper loss is 960 W at full load. The transformer is operated continuously at the rated voltage as per the following schedule in a day: 100 kVA at 0.8 p.f. for 4 hrs.; 50 kVA at 0.6 p.f. for 8 hrs. and 5 kVA at 0.95 p.f. for 12 hrs. What will be the all-day efficiency of the transformer?",
+        "options": {
+            "a": "91.6%",
+            "b": "94.5%",
+            "c": "97.5%",
+            "d": "98.2%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1591
+    },
+    {
+        "question": "Find the turn-ratio (primary to secondary) of a step-down 11000/400 volt, delta/star connected, three phase transformer.",
+        "options": {
+            "a": "47.63",
+            "b": "56.78",
+            "c": "89.34",
+            "d": "63.86"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1592
+    },
+    {
+        "question": "A three-phase 50 Hz transformer core has a cross-section of 400 cm\u00b2 (gross). If the flux density be limited to 1.2 tesla, find the number of turns per phase on high and LV side winding. The voltage ratio is 2200/220 V, the HV side being connected in star and LV side in delta. Consider iron factor as 0.9.",
+        "options": {
+            "a": "34.6",
+            "b": "22.9",
+            "c": "15.7",
+            "d": "26.7"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1593
+    },
+    {
+        "question": "A three-phase, 50 Hz transformer of shell type has cross-sectional area of core as 400 cm\u00b2. If the flux density is limited to 1.2 Tesla. The voltage ratio is 11000/400 V, the higher voltage side being connected in star and low voltage side in delta. Find the transformation ratio.",
+        "options": {
+            "a": "0.06298",
+            "b": "0.07389",
+            "c": "0.05293",
+            "d": "0.03735"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1594
+    },
+    {
+        "question": "A three-phase step down transformer is connected to 6600 volt mains and takes a current of 24 amperes. Calculate the secondary line voltage for a star-star configuration. The ratio of turns per phase is 12. Neglect losses.",
+        "options": {
+            "a": "353.35 kVA",
+            "b": "274.36 kVA",
+            "c": "239.43 kVA",
+            "d": "318.45 kVA"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1595
+    },
+    {
+        "question": "A 2 MVA three-phase, 33/6.6 kV, delta/star transformer has a primary resistance of 8 ohm per phase and a secondary resistance of 0.08 ohm per phase. The percentage impedance is 7%. Calculate the regulation and efficiency at full load 0.75 power factor lagging when the iron losses are 15 kW.",
+        "options": {
+            "a": "VR = 6.43%, eff. = 95.8%",
+            "b": "VR = 6.43%, eff. = 97.9%",
+            "c": "VR = 5.23%, eff. = 95.8 %",
+            "d": "VR = 5.23%, eff. = 97.9%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1596
+    },
+    {
+        "question": "A 100 kVA, three-phase 50 Hz 3300/400 V transformer is delta-connected on the HV side and star-connected on LV side. The resistance of the HV winding is 3.5 ohm per phase and that of the LV winding 0.02 ohm per phase. Calculate the iron losses of the transformer at normal voltage and frequency if its full-load efficiency be 95.8% at 0.8 pf (lag).",
+        "options": {
+            "a": "1.18 kW",
+            "b": "0.833 kW",
+            "c": "2.542 kW",
+            "d": "1.185 kW"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1597
+    },
+    {
+        "question": "A 120 kVA, 6000/400 V, Y/Y, 3-phase, 50 Hz transformer has an iron loss of 1800 W. The maximum efficiency occurs at 3/4 full load. Find the maximum efficiency at unity power factor:",
+        "options": {
+            "a": "96.15%",
+            "b": "97.46%",
+            "c": "93.65%",
+            "d": "91.23%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1598
+    },
+    {
+        "question": "A 2000-kVA, 6,600/400-V, 3-phase transformer is delta-connected on the high voltage side and star-connected on the low-voltage side. Determine the % regulation on full load 0.8 p.f. leading given the following data: S.C. test; H.V. data: 400 V, 175 A and 17 kW O.C. test; L.V. data: 400 V, 150 A and 15 kW",
+        "options": {
+            "a": "-3.78%",
+            "b": "-2.92%",
+            "c": "-1.74%",
+            "d": "-0.551%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1599
+    },
+    {
+        "question": "Two 1-phase transformers A and B rated at 250 kVA each are operated in parallel on both sides. Percentage impedances for A and B are (1 + j 6) and (1.2 + j 4.8) respectively. Compute the load shared by transformer B when the total load is 500 kVA at 0.8 p.f. lagging.",
+        "options": {
+            "a": "275 KVA",
+            "b": "245 KVA",
+            "c": "285 KVA",
+            "d": "260 kVA"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1600
+    },
+    {
+        "question": "Two 100-kW, single-phase transformers are connected in parallel both on the primary and secondary. One transformer has an ohmic drop of 0.5% at full-load and an inductive drop of 8% at full-load current. The other has an ohmic drop of 0.75% and inductive drop of 2%. They will share a load of 180 kW at 0.9 power factor. Determine the power transmitted by the first transformer?",
+        "options": {
+            "a": "41.4 kW",
+            "b": "57.9 kW",
+            "c": "51.2 kW",
+            "d": "74.5 kW"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1601
+    },
+    {
+        "question": "Obtain the equivalent circuit of a 200/400-V, 50-Hz, 1-phase transformer from the following test data: O.C test: 200 V, 0.7 A, 70 W \u2013 on L.V. side S.C. test: 15 V, 10 A, 85 W \u2013 on H.V. side Calculate the secondary voltage when delivering 5 kW at 0.8 p.f. lagging, the primary voltage being 200V.",
+        "options": {
+            "a": "377.8 V",
+            "b": "386.5 V",
+            "c": "398.2 V",
+            "d": "421.3 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1602
+    },
+    {
+        "question": "A 5 kVA 200/1000 V, 50 Hz, single-phase transformer gave the following test results: O.C. Test (L.V. Side): 2000 V, 1.2 A, 90 W S.C. Test (H.V. Side): 50 V, 5A, 110 W Calculate the output secondary voltage when delivering 3 kW at 0.8 p.f. lagging, the input primary voltage being 200 V.",
+        "options": {
+            "a": "932.3 V",
+            "b": "966.6 V",
+            "c": "1129.3 V",
+            "d": "1078.4 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1603
+    },
+    {
+        "question": "A 30 kVA, 2400/120-V, 50-Hz transformer has a high voltage winding resistance of 0.1 $\\Omega$ and a leakage reactance of 0.22 $\\Omega$. The low voltage winding resistance is 0.035 $\\Omega$ and the leakage reactance is 0.012 $\\Omega$. Find the equivalent winding impedance referred to the low-voltage side.",
+        "options": {
+            "a": "0.0374 ohm",
+            "b": "0.0425 ohm",
+            "c": "0.0297 ohm",
+            "d": "0.0164 ohm"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1604
+    },
+    {
+        "question": "The corrected instrument readings obtained from open and short-circuit tests on 10-kVA, 450/120-V, 50-Hz transformer are: O.C. test: $V_1 = 120 V$; $I_1 = 4.2 A$; $W_1 = 80 W$ as read on the low-voltage side. S.C. test: $V_1 = 9.65 V$; $I_1 = 22.2 A$; $W_1 = 120 W$ \u2212 with low-voltage winding short-circuited. Compute the voltage regulation at half full-load and 80% lagging p.f. load.",
+        "options": {
+            "a": "97.34%",
+            "b": "98.21%",
+            "c": "86.78%",
+            "d": "90.79%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1605
+    },
+    {
+        "question": "Consider a 20 kVA, 2200/220 V, 50 Hz transformer. The O.C./S.C. test results are as follows: O.C. test: 220 V, 4.2 A, 148 W (l.v. side) S.C. test: 86 V, 10.5 A, 360 W (h.v. side) Determine the regulation at 0.8 p.f. lagging and at full load.",
+        "options": {
+            "a": "4.5%",
+            "b": "7.8%",
+            "c": "1.32%",
+            "d": "2.9%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1606
+    },
+    {
+        "question": "A 120-kVA, 6,000/400-V, Y/Y 3-ph, 50-Hz transformer has an iron loss of 1,600 W. The maximum efficiency occurs at 3/4 full load. Find the efficiency of the transformer at full-load and 0.8 power factor.",
+        "options": {
+            "a": "96.57%",
+            "b": "98.53%",
+            "c": "92.56%",
+            "d": "90.75%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1607
+    },
+    {
+        "question": "A 5 kVA, 1000/200 V, 50 Hz, single-phase transformer gave the following test results: OC test (LV side): 200 V, 1.2 A, 90 w SC test (HV side): 50 V, 5 A, 110 w Determine efficiency at half-load at 0.8 pf lagging.",
+        "options": {
+            "a": "94.45%",
+            "b": "95.46%",
+            "c": "97.64%",
+            "d": "99.43%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1608
+    }
+]

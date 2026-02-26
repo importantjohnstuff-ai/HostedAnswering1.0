@@ -1,0 +1,282 @@
+[
+    {
+        "id": 221,
+        "question": "A box contains 2 white socks and 2 blue socks. Two socks are drawn at random. Find the probability $p$ that they are a match (same color).",
+        "options": {
+            "a": "1/3",
+            "b": "1/8",
+            "c": "1/4",
+            "d": "1"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 222,
+        "question": "A bag contains 4 blue, 5 white and 6 green balls. Two balls are drawn at random. What is the probability that both the balls are blue?",
+        "options": {
+            "a": "2/35",
+            "b": "1/17",
+            "c": "1/15",
+            "d": "2/21"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 223,
+        "question": "The probability of obtaining at least two 'SIX' in throwing a fair die 4 times is:",
+        "options": {
+            "a": "425/432",
+            "b": "19/144",
+            "c": "13/144",
+            "d": "125/432"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 224,
+        "question": "The probability that a program will fail is 12.5%. Determine the probability that 5 or less out of 32 programs will fail?",
+        "options": {
+            "a": "67.8%",
+            "b": "23.4%",
+            "c": "78.5%",
+            "d": "89.3%"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 225,
+        "question": "Compute the harmonic mean of 13, 19, 18, 21 and 32.",
+        "options": {
+            "a": "19.73",
+            "b": "18.34",
+            "c": "19.23",
+            "d": "18.94"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 226,
+        "question": "Determine the root mean square (RMS) of the numbers 2.7, 3.2, 3.8, 4.3.",
+        "options": {
+            "a": "1.55",
+            "b": "2.55",
+            "c": "3.55",
+            "d": "4.55"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 227,
+        "question": "What is the sample variance of the following observation? 0.50, 0.80, 0.75, 0.52, 0.60",
+        "options": {
+            "a": "0.0146",
+            "b": "0.1128",
+            "c": "0.0183",
+            "d": "0.1209"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 228,
+        "question": "Calculate the variance from the data given below: | $x_i$ | 3.5 | 4.5 | 5.5 | 6.5 | 7.5 | 8.5 | 9.5 | | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | | $f_i$ | 3 | 7 | 22 | 60 | 85 | 32 | 8 |",
+        "options": {
+            "a": "2.651",
+            "b": "1.321",
+            "c": "3.225",
+            "d": "1.766"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 229,
+        "question": "The annual precipitation data of a city is normally distributed with mean and standard deviation as 1000 mm and 200 mm, respectively. The probability that the annual precipitation will be more than 1200 mm is:",
+        "options": {
+            "a": "16%",
+            "b": "8%",
+            "c": "50%",
+            "d": "23%"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 230,
+        "question": "Suppose 30% of the women in an engineering class received an A on the test and 25% of the men received an A. The class is 60% women. Given that a person chosen at random received an A, what is the probability this person is a woman?",
+        "options": {
+            "a": "0.783",
+            "b": "0.452",
+            "c": "0.642",
+            "d": "0.118"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 231,
+        "question": "5 boys and 5 girls are chosen from a group of 8 boys and 9 girls to sit on a row of chairs. How many possible arrangements are there if the girls and boys are alternated?",
+        "options": {
+            "a": "160,690,800",
+            "b": "270,420,800",
+            "c": "230,780,800",
+            "d": "203,212,800"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 232,
+        "question": "Three cards are drawn from a standard deck one at a time. What is the probability that the first card is a face card, the second is a red card and the third is a black or a face card?",
+        "options": {
+            "a": "17/35",
+            "b": "15/34",
+            "c": "5/17",
+            "d": "9/34"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 233,
+        "question": "A bag contains 4 white and 5 black marbles. If 4 marbles are drawn, what is the probability that the first two marbles are white and the last two marbles are black?",
+        "options": {
+            "a": "4/5",
+            "b": "5/63",
+            "c": "4/63",
+            "d": "3/5"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 234,
+        "question": "Three randomly chosen senior high school students were administered a drug test. Each student was evaluated as positive to the drug test (P) or negative to the drug test (N). Assuming each possible combination is equally likely, what is the probability that all 3 students get positive results?",
+        "options": {
+            "a": "1/8",
+            "b": "3/4",
+            "c": "1/4",
+            "d": "1/2"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 235,
+        "question": "A quality control engineer finds that 5% of the computer chips produced at a certain factory are defective. If a random sample of 200 chips is inspected, what are the mean and variance of the number of defective chips?",
+        "options": {
+            "a": "Mean = 10, Variance = 10",
+            "b": "Mean = 10, Variance = 9.5",
+            "c": "Mean = 100, Variance = 95",
+            "d": "Mean = 5, Variance = 4.75"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 236,
+        "question": "A multiple-choice exam in Circuits 1 consists of 50 questions, each with 4 possible options and only one correct answer. If a student guesses randomly on every question, what is the variance of the number of correct answers?",
+        "options": {
+            "a": "12.5",
+            "b": "37.5",
+            "c": "9.375",
+            "d": "6.25"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 237,
+        "question": "A circle has a diameter of 8 inches. Find the probability that a point chosen from the circle is not located 1.5 inches from the center.",
+        "options": {
+            "a": "5/8",
+            "b": "8/55",
+            "c": "55/64",
+            "d": "5/64"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 238,
+        "question": "Sofia and Tess will each randomly choose one of the 10 integers from 1 to 10. What is the probability that neither integer will be chosen the square of the other?",
+        "options": {
+            "a": "0.64",
+            "b": "0.72",
+            "c": "0.81",
+            "d": "0.95"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 239,
+        "question": "The probability of obtaining at least two `SIX' in throwing a fair dice 4 times is",
+        "options": {
+            "a": "425/432",
+            "b": "19/144",
+            "c": "13/144",
+            "d": "125/432"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 240,
+        "question": "The probability of John's winning whenever he plays a certain game is 1/3. If he plays 4 times, find the probability that he wins just twice.",
+        "options": {
+            "a": "0.2369",
+            "b": "0.2963",
+            "c": "0.2693",
+            "d": "0.2639"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    }
+]

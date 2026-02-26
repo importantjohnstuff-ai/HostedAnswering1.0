@@ -1,0 +1,156 @@
+[
+    {
+        "id": 535,
+        "question": "A rectangular box is to have a square base and a volume of $20\\ ft^3$. If the material for the base costs $P30/ft^2$ while that for the sides cost $P10/ft^2$, and that for the top $P30/ft^2$. Determine the height of the box that can be constructed at minimum cost.",
+        "options": {
+            "a": "2.31 ft",
+            "b": "1.88 ft",
+            "c": "5.7 ft",
+            "d": "4.6 ft"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 536,
+        "question": "Suppose that 80 cm$^3$/sec of gasoline is poured on a container that is a 100 cm long horizontal prism with isosceles trapezoid as its base. The upper and lower bases are 40 cm and 30 cm respectively and the depth is 20 cm. Determine the how fast is level rising when it is full:",
+        "options": {
+            "a": "1/30 cm/sec",
+            "b": "1/50 cm/sec",
+            "c": "1/40 cm/sec",
+            "d": "1/30 cm/sec"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 537,
+        "question": "A series RLC circuit has $R = 40$ ohms, $L = 100$ mH and $C = 50$ uF. The circuit is connected across an ac source of $100 \\sin 344t$ volts. Determine the rms current of the resulting current: $$L\\frac{d^2I}{dt^2} + R\\frac{dI}{dt} + \\frac{1}{C}I = \\frac{dV}{dt}$$",
+        "options": {
+            "a": "253 mA",
+            "b": "218 mA",
+            "c": "189 mA",
+            "d": "152 mA"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 538,
+        "question": "An RLC circuit is composed of a 3 ohm resistor, 4 mF capacitor and 0.002 H inductor. The combination is connected to a source of 240 V, 50 Hz supply. Determine the rms current of the circuit at steady state:",
+        "options": {
+            "a": "142 mA",
+            "b": "159 mA",
+            "c": "218 mA",
+            "d": "331 mA"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 539,
+        "question": "An RLC circuit is composed of a 3 ohm resistor, 4 mF capacitor and 0.002 H inductor. The combination is connected to a source of 240 V, 50 Hz supply. Determine the rms current of the circuit at steady state:",
+        "options": {
+            "a": "142 mA",
+            "b": "159 mA",
+            "c": "218 mA",
+            "d": "331 mA"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 540,
+        "question": "Why is the exhaust process in the Otto and Diesel cycles replaced with a constant-volume process?",
+        "options": {
+            "a": "To simulate zero heat transfer of the actual exhaust process",
+            "b": "To restore the air to its original state",
+            "c": "To ensure that the first law is satisfied",
+            "d": "To simulate zero work of the actual exhaust process"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 541,
+        "question": "A 10-ohm resistance R and a 1.0-Henry inductance L are in series. An AC voltage $e(t) = 100 \\sin 377t$ is applied across the series circuit. The applicable differential equation is $Ri + L(di/dt) = e(t)$. Solve for the particular solution, determine the amplitude of the resulting sinusoidal current $i(t)$.",
+        "options": {
+            "a": "0.292 A",
+            "b": "0.241 A",
+            "c": "0.321 A",
+            "d": "0.265 A"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 542,
+        "question": "Suppose that 80 cm$^3$/sec of gasoline is poured on a container that is a 100 cm long horizontal prism with isosceles trapezoid as its base. The upper and lower bases are 40 cm and 30 cm respectively and the depth is 20 cm. Determine how fast the level is rising when it is full:",
+        "options": {
+            "a": "1/30 cm/sec",
+            "c": "1/40 cm/sec",
+            "b": "1/50 cm/sec",
+            "d": "1/30 cm/sec"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 543,
+        "question": "If a material has a half-life of 30 minutes, what percent of the original mass is expected to remain after 0.9 hour?",
+        "options": {
+            "a": "34%",
+            "b": "29%",
+            "c": "67%",
+            "d": "21%"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 544,
+        "question": "A series RL circuit is composed of 14 ohm resistor and 0.006 Henry choke coil. Determine the peak of the steady current of this circuit if connected to a 60Hz 120 V (peak) supply?",
+        "options": {
+            "a": "8.46 A",
+            "b": "4.52 A",
+            "c": "7.89 A",
+            "d": "3.12 A"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 545,
+        "question": "A series RLC circuit is composed of 25 ohm resistor, 80 uF capacitor and 4 mH Henry coil. Determine the rms value of the steady current of this circuit if connected to a 60Hz 120 V (peak) supply?",
+        "options": {
+            "a": "4.8 A",
+            "b": "2.1 A",
+            "c": "5.6 A",
+            "d": "8.4 A"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    }
+]

@@ -1,0 +1,262 @@
+[
+    {
+        "question": "The most common three-phase connections are: A. Star-delta, delta-star",
+        "options": {
+            "b": "Delta-zigzag",
+            "c": "Star-open",
+            "d": "Delta-short"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1489
+    },
+    {
+        "question": "Star-star transformers are not common because:",
+        "options": {
+            "a": "High cost",
+            "b": "No neutral",
+            "d": "Cannot carry load"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1490
+    },
+    {
+        "question": "Delta-connected windings provide:",
+        "options": {
+            "a": "Neutral point",
+            "c": "Higher voltage",
+            "d": "No short-circuit path"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1491
+    },
+    {
+        "question": "In a Y\u2013\u0394 transformer, line voltage ratio is:",
+        "options": {
+            "a": "Equal to turns ratio",
+            "b": "Turns ratio / \u221a3",
+            "d": "Always 1"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1492
+    },
+    {
+        "question": "Three-phase transformer power rating is:",
+        "options": {
+            "a": "3 \u00d7 single-phase kVA",
+            "c": "V \u00d7 I",
+            "d": "kW only"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1493
+    },
+    {
+        "question": "A \u0394\u2013Y step-up transformer has secondary: A. High voltage, neutral available",
+        "options": {
+            "b": "Low voltage",
+            "c": "No neutral",
+            "d": "Zero phase shift"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1494
+    },
+    {
+        "question": "In a \u0394 winding, line current is:",
+        "options": {
+            "a": "Phase current",
+            "b": "\u221a3 \u00d7 phase current",
+            "d": "Zero"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1495
+    },
+    {
+        "question": "A three-phase transformer bank is used when:",
+        "options": {
+            "a": "Low power required",
+            "c": "Efficiency is priority",
+            "d": "Load is purely resistive"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1496
+    },
+    {
+        "question": "The phase shift between \u0394\u2013Y winding is typically:",
+        "options": {
+            "a": "90\u00b0",
+            "c": "180\u00b0",
+            "d": "0\u00b0"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1497
+    },
+    {
+        "question": "A transformer has primary voltage 200 V and turns ratio 4. Secondary voltage =",
+        "options": {
+            "a": "50 V",
+            "c": "200 V",
+            "d": "400 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1498
+    },
+    {
+        "question": "A 2 kVA transformer supplying 1 kW load operates at:",
+        "options": {
+            "a": "PF = 0.25",
+            "c": "PF = 0.75",
+            "d": "PF = 1"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1499
+    },
+    {
+        "question": "A transformer draws 2 A on no-load for magnetizing current. Real power is 40 W. No-load PF \u2248",
+        "options": {
+            "a": "1",
+            "c": "0.02",
+            "d": "0.5"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1500
+    },
+    {
+        "question": "A 230/115 V transformer steps down voltage. If primary has 300 turns, secondary turns =",
+        "options": {
+            "a": "600",
+            "c": "300",
+            "d": "115"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1501
+    },
+    {
+        "question": "In a transformer, efficiency rises as load: A. Goes from 0% to optimum",
+        "options": {
+            "b": "Goes from optimum to 200%",
+            "c": "Goes to no load",
+            "d": "Increases indefinitely"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1502
+    },
+    {
+        "question": "A transformer has 1000 W copper loss at full load. At half load:",
+        "options": {
+            "a": "1000 W",
+            "b": "500 W",
+            "d": "125 W"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1503
+    },
+    {
+        "question": "A transformer rated 50 kVA, 400/200 V. If secondary current = 200 A, load in kVA \u2248",
+        "options": {
+            "a": "40 kVA",
+            "c": "60 kVA",
+            "d": "80 kVA"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1504
+    },
+    {
+        "question": "A transformer at 95% efficiency delivering 950 W input power is: A. 902.5 W output",
+        "options": {
+            "b": "1000 W output",
+            "c": "950 W output",
+            "d": "850 W output"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1505
+    },
+    {
+        "question": "A 120 V primary draws 10 A. Secondary delivers 5 A. Secondary voltage =",
+        "options": {
+            "a": "60 V",
+            "c": "120 V",
+            "d": "5 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1506
+    },
+    {
+        "question": "A transformer with 200 turns primary, 50 turns secondary, Vp = 400 V. A. 100 V",
+        "options": {
+            "b": "200 V",
+            "c": "400 V",
+            "d": "50 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1507
+    },
+    {
+        "question": "If load PF decreases, transformer regulation:",
+        "options": {
+            "a": "Improves",
+            "c": "No effect",
+            "d": "Goes to zero"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1508
+    }
+]

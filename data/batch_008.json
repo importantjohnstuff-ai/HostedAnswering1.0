@@ -1,0 +1,277 @@
+[
+    {
+        "id": 141,
+        "question": "Two railroad tracks are perpendicular to each other. At 12:00 P.M. there is a train at each track approaching the crossing at 50 kph, one being 100 km and the other 150 km away from the crossing. How fast in kph is the distance between the two trains changing at 4:00 P.M.?",
+        "options": {
+            "a": "67.08",
+            "b": "68.08",
+            "c": "69.08",
+            "d": "70.08"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 142,
+        "question": "Two posts, one 8 ft. high and the other 12 ft. high, stand 15 ft. apart from each other. They are to be stayed by wires attached to a single stake at ground level, the wires running to the tops of the posts. How far from the shorter post should the stake be placed to use the least amount of wire?",
+        "options": {
+            "a": "6 ft.",
+            "b": "5 ft.",
+            "c": "9 ft.",
+            "d": "8 ft."
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 143,
+        "question": "The Spolarium's frame is 12 feet wide is placed 7 feet from the floor. Jose is 6 feet tall while Maria is 5 feet tall. Both positioned themselves such that their angle of view are maximum. What is their distance from one another?",
+        "options": {
+            "a": "2.52 ft",
+            "b": "1.69 ft",
+            "c": "3.11 ft",
+            "d": "3.53 ft"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 144,
+        "question": "What is the volume, in cm$^3$, of the largest cylinder that can be fitted inside a cone that is 30 cm tall and 18 cm across at the base?",
+        "options": {
+            "a": "420 pi",
+            "b": "240 pi",
+            "c": "360pi",
+            "d": "300 pi"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 145,
+        "question": "A car is initially 100 km west of a truck. At the same time both started to travel such that the car is at 20 kph northward and the truck is at 40 kph eastward. Determine the rate of distance between them changes after 2 hours.",
+        "options": {
+            "a": "44 kph",
+            "b": "33 kph",
+            "c": "22 kph",
+            "d": "55 kph"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 146,
+        "question": "What is the volume of the largest cylinder that can be inscribed inside a 5 feet-radius sphere:",
+        "options": {
+            "a": "302.2",
+            "b": "344.5",
+            "c": "273.3",
+            "d": "674.2"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 147,
+        "question": "A statue 3 m high is standing on a base of 4 m high. If an observer's eye is 1.5 m above the ground, how far should he stand from the base in order that the angle subtended by the statue is a maximum.",
+        "options": {
+            "a": "3.41 m",
+            "b": "3.51 m",
+            "c": "3.71 m",
+            "d": "4.41 m"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 148,
+        "question": "Find the minimum amount of tin sheet that can be made into a-closed cylinder having a volume of 108 cu. inches in square inches.",
+        "options": {
+            "a": "125.50",
+            "b": "136.40",
+            "c": "113.0",
+            "d": "121.7"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 149,
+        "question": "The perimeter of a Norman window is 880 inches. What is the width of the window in order to admit maximum illumination?",
+        "options": {
+            "a": "331 in",
+            "b": "217 in",
+            "c": "319 in",
+            "d": "246 in"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 150,
+        "question": "A box is to be constructed from a piece of zinc 20 x 20 sq.in by cutting equal squares from each corner and turning up the zinc to form the side. What is the volume of the largest box that can be so constructed?",
+        "options": {
+            "a": "599.95 cu in.",
+            "b": "579.50 cu in.",
+            "c": "592.59 cu in.",
+            "d": "622.49 cu in"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 151,
+        "question": "*   **Solution** is any function (or formula for a function) that satisfies the equation. *   **General solution** - a formula that describes all solutions to the equation. *   **Specific solution** - a formula that describes a solution at a boundary. *   Initial Value Problem (IVP) *   Boundary Value Problem",
+        "options": {},
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 152,
+        "question": "Solve $y' = 2xy^2$",
+        "options": {
+            "a": "$y = \\frac{1}{x^2 + C}$",
+            "b": "$y = \\frac{1}{x + C}$",
+            "c": "$y = -\\frac{1}{x^2 + C}$",
+            "d": "$y = -\\frac{1}{x^2 + C}$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 153,
+        "question": "Solve the ODE: $(x^5 + 3y)dx - xdy = 0$.",
+        "options": {
+            "a": "$2y = x^3 + cx^5$",
+            "b": "$y = -2x^5 + cx^3$",
+            "c": "$2y = x^5 + cx^3$",
+            "d": "$y = 2x^3 + cx^5$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 154,
+        "question": "Solve the D.E.: $2(2x^2 + y^2)dx - xydy = 0$",
+        "options": {
+            "a": "$x^4 = C(4x^2 - y^2)$",
+            "b": "$x^2 = C(2x^2 + y^2)$",
+            "c": "$x^2 = C(2x^2 - y^2)$",
+            "d": "$x^4 = C(4x^2 + y^2)$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 155,
+        "question": "Solve the equation $xy \\, dx - (x + 2y) \\, dy = 0$.",
+        "options": {
+            "a": "$e^{x/y} = c y^3 (xy)$",
+            "b": "$e^{x/y} = c y^3 (x + y)$",
+            "c": "$e^{x/y} = c y^3 (x - y)$",
+            "d": "$e^{x/y} = c y^4 (x - 1)$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 156,
+        "question": "Solve the differential equation, $(6x + y^2)dx + y(2x - 3y)dy = 0$",
+        "options": {
+            "a": "$x^2 - y^3 = C$",
+            "b": "$3x^2 - y^3 + xy^2 = C$",
+            "c": "$2x^2 - xy^3 + y^2 = C$",
+            "d": "$3x^2 + xy^3 - y^2 = C$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 157,
+        "question": "Solve $(y - \\sqrt{x^2 + y^2}) dx - x dy = 0$",
+        "options": {
+            "a": "$\\sqrt{x^2 + y^2} + y = C$",
+            "b": "$\\sqrt{x^2 + y^2 + y} = C$",
+            "c": "$\\sqrt{x + y} + y = C$",
+            "d": "$\\sqrt{x^2 - y} + y = C$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 158,
+        "question": "Solve the D.E.: $y'' + 7y' + 12y = 5e^{2x}$",
+        "options": {
+            "a": "$y = Ae^{3x} + Be^{4x} + \\frac{1}{4}e^{2x}$",
+            "b": "$y = Ae^{3x} + Be^{4x} + \\frac{1}{6}e^{2x}$",
+            "c": "$y = Ae^{-3x} + Be^{-4x} + \\frac{1}{4}e^{2x}$",
+            "d": "$y = Ae^{-3x} + Be^{-4x} + \\frac{1}{6}e^{2x}$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 159,
+        "question": "Solve the D.E.: $y'' - 2y' - 8y = 3e^{-2x}$",
+        "options": {
+            "a": "$y = Ae^{2x} + Be^{-4x} + \\frac{1}{4}e^{2x}$",
+            "b": "$y = Ae^{2x} + Be^{-4x} + \\frac{1}{2}xe^{2x}$",
+            "c": "$y = Ae^{-2x} + Be^{4x} - \\frac{1}{2}xe^{-2x}$",
+            "d": "$y = Ae^{-2x} + Be^{-4x} + \\frac{1}{4}xe^{2x}$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 160,
+        "question": "The differential equation $\\frac{d^2x}{dt^2} + 10\\frac{dx}{dt} + 25x = 0$ will have a solution of the form:",
+        "options": {
+            "a": "$(c_1 + c_2 t)e^{-5t}$",
+            "b": "$c_1 e^{-2t}$",
+            "c": "$c_1 e^{-5t} + c_2 e^{5t}$",
+            "d": "$c_1 e^{-5t} + c_2 e^{2t}$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    }
+]

@@ -1,0 +1,278 @@
+[
+    {
+        "id": 201,
+        "question": "A spherical (diameter = 6 m) tank is full of water. Find the work required to pump the water out of the spout. The spout is 1 meter from the top of the tank:",
+        "options": {
+            "a": "144 min",
+            "b": "378 min",
+            "c": "200 min",
+            "d": "157 min"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 202,
+        "question": "How many ways can 3 men and 4 women be seated on a bench if the women are to be together?",
+        "options": {
+            "a": "720",
+            "b": "576",
+            "c": "5040",
+            "d": "1024"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 203,
+        "question": "4 boys and 5 girls are chosen from a group of 8 boys and 9 girls to sit on a row of chairs. How many possible arrangements are there if the girls and boys are alternated?",
+        "options": {
+            "a": "4,503,200",
+            "c": "16,289,950",
+            "d": "32,420,620"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 204,
+        "question": "How many ways can 4 letters, 4 numbers, 4 symbols, and 4 shapes be arranged in a 12-element code such that there is alternation?",
+        "options": {
+            "a": "7,962,624",
+            "b": "7,765,320",
+            "c": "1,8965,940",
+            "d": "2,346,860"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 205,
+        "question": "If five persons enter a bus in which there are 15 seats, how many ways are there for the 5 to be seated?",
+        "options": {
+            "a": "360,360",
+            "b": "540,540",
+            "c": "380,380",
+            "d": "370,370"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 206,
+        "question": "From a deck of ordinary cards, what is the probability of drawing a heart or face card?",
+        "options": {
+            "a": "48.08%",
+            "b": "42.31%",
+            "c": "5.77%",
+            "d": "33.33%"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 207,
+        "question": "Three cards are drawn from a standard deck one at a time. What is the probability that the first card is a face card, the second is a red card and the third is a black card or a face card?",
+        "options": {
+            "a": "15/221",
+            "b": "34/345",
+            "c": "71/980",
+            "d": "17/225"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 208,
+        "question": "From past experience, it is known 90% of one year old children can distinguish their mother's voice from the voice of a similar sounding female. A random sample of 20 one year olds are given this voice recognition test. Let the random variable $x$ denote the number of children who do not recognize their mother's voice. Find the variance.",
+        "options": {
+            "a": "2",
+            "b": "1.8",
+            "c": "4.2",
+            "d": "1.5"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 209,
+        "question": "A die is tossed five times. What is the probability that more than two times it will show an even number?",
+        "options": {
+            "a": "2/5",
+            "b": "1/5",
+            "c": "1/3",
+            "d": "1/2"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 210,
+        "question": "A bag contains 3 white and 5 red balls. If two balls are drawn at random, find the probability that both are white.",
+        "options": {
+            "a": "0.375",
+            "b": "0.10714",
+            "c": "0.46667",
+            "d": "0.28571"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 211,
+        "question": "Suppose you are given two jars. Jar I contains one black and 4 white marbles, and Jar II contains 4 black and 6 white marbles. If a jar is selected at random and a marble is chosen: 1. If the chosen marble is black, what is the probability that it came from Jar I?",
+        "options": {
+            "a": "1/3 | b. 2/3 | c. 1/6 | d. 5/6"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 212,
+        "question": "Concrete blocks of Mr. Chu Hollow Blocks are tested and it is found that, on average, 7% fail to meet the required specification. For a batch of 9 blocks, determine the probabilities that 2 or less blocks will fail to meet the specification.",
+        "options": {
+            "a": "97.11%",
+            "b": "97.91%",
+            "c": "100%",
+            "d": "99.56%"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 213,
+        "question": "The proportions of blood phenotypes A, B, AB and O in the population of all Caucasians in the US are reported as 0.41, 0.10, 0.04 and 0.45, respectively. If the Caucasian is chosen randomly from the population, what is the probability that he or she will have either type A or type AB blood?",
+        "options": {
+            "a": "0.45",
+            "b": "0.35",
+            "c": "0.15",
+            "d": "0.10"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 214,
+        "question": "A contractor has undertaken a job to construct a bridge. The probabilities of completion of the bridge on time with and without rain are 0.44 and 0.95 respectively. If the probability that it will rain is 0.45, then determine the probability that the bridge will be completed on time.",
+        "options": {
+            "a": "0.6231",
+            "b": "0.8654",
+            "c": "0.7205",
+            "d": "0.5412"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 215,
+        "question": "Five horses are in a race. A woman picks two of the horses at random, and bets on one of them. Find the probability \u201cp\u201d that the person picked the winner.",
+        "options": {
+            "a": "1/10",
+            "b": "2/5",
+            "c": "3/10",
+            "d": "7/10"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 216,
+        "question": "The probability that $a$ hits the target is 1/3 and the probability that $b$ hits the target is 1/5. They both fire at the target. Find the probability that one of them hits the target.",
+        "options": {
+            "a": "2/5",
+            "b": "3/5",
+            "c": "3/7",
+            "d": "9/10"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 217,
+        "question": "At a local pet adoption center for dogs and cats, it is known that if a person adopts a dog or a cat, there is 0.45 probability that it is a cat and 0.55 probability that it is a dog. If a cat is adopted, the probability that it is a female is 0.6 and if a dog is adopted, the probability that it is female is 0.35. If a pet is selected at random such that it is found to be a male, what is the probability that it is a dog?",
+        "options": {
+            "a": "0.6651",
+            "b": "0.6156",
+            "c": "0.1566",
+            "d": "0.5616"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 218,
+        "question": "The mean thickness of a spline from a mechanical shop is 23.67 mm with standard deviation of 2.42 mm. What is the probability that a spline will measure more than 22.78 mm considering tolerance offset?",
+        "options": {
+            "a": "30.55%",
+            "b": "69.32%",
+            "c": "64.35%",
+            "d": "35.65%"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 219,
+        "question": "In a 15-item true or false question test, what is the probability that you will get a raw score of more than 10?",
+        "options": {
+            "a": "13.21%",
+            "b": "5.92%",
+            "c": "48.54%",
+            "d": "89.65%"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 220,
+        "question": "Seven dice are tossed at once. What is the probability that more than five will show an odd number?",
+        "options": {
+            "a": "1/16",
+            "b": "7/18",
+            "c": "3/16",
+            "d": "5/16"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    }
+]

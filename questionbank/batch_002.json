@@ -1,0 +1,282 @@
+[
+    {
+        "id": 21,
+        "question": "Find the derivative of $y = 2^{(4x)}$.",
+        "options": {
+            "a": "$3^{(4x+2)} \\ln 2$",
+            "b": "$2^{(4x+2)} \\ln 2$",
+            "c": "$6^{(3x+2)} \\ln 2$",
+            "d": "$4^{(4x+2)} \\ln 2$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 22,
+        "question": "Find $y'$ if $y = \\arcsin(x)$.",
+        "options": {
+            "a": "$\\sqrt{1 - x^2}$",
+            "b": "$1/\\sqrt{1 - x^2}$",
+            "c": "$1/(1 + x^2)$",
+            "d": "$(1 + x)/\\sqrt{1 - x^2}$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 23,
+        "question": "Find the second derivative of $\\frac{\\sin x}{1 + \\cos x}$.",
+        "options": {
+            "a": "$\\frac{\\cos x}{(1 + \\cos x)^2}$",
+            "b": "$\\frac{2 \\sin x}{(1 - \\sin x)^2}$",
+            "c": "$\\frac{\\sin x}{(1 + \\cos x)^2}$",
+            "d": "$\\frac{2 \\sin x}{(1 - \\cos x)^2}$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 24,
+        "question": "What is the second derivative of $\\text{arccot}(3x)$?",
+        "options": {
+            "a": "$\\frac{27x}{(9x^2 - 1)^2}$",
+            "b": "$\\frac{54x}{(9x^2 + 1)^2}$",
+            "c": "$\\frac{54x}{\\sqrt{9x^2 - 1}}$",
+            "d": "$\\frac{1}{\\sqrt{9x^2 + 1}} \\frac{54x}{\\dots}$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 25,
+        "question": "Water is flowing into a spherical tank of diameter 6 feet at a rate of 70 $ft^3/hr$. What is the rate at which the level rises at $h = 1$ foot?",
+        "options": {
+            "a": "4.45 ft/hr",
+            "b": "1.32 ft/hr",
+            "c": "6.34 ft/hr",
+            "d": "0.67 ft/hr"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 26,
+        "question": "What is the slope of the curve: $x^2 + y^2 - 6x + 10y + 5 = 0$ at (1, 0)?",
+        "options": {
+            "a": "2/5",
+            "b": "-2/5",
+            "c": "5/2",
+            "d": "-5/2"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 27,
+        "question": "Determine the equation of the line that is normal to the curve $9x^3 - 6x^2y + y^2 = 0$ at (1, 3)?",
+        "options": {
+            "a": "$3x + 4y - 6 = 0$",
+            "b": "$4x - 3y + 5 = 0$",
+            "c": "$4x - 3y - 11 = 0$",
+            "d": "$3x + 4y + 9 = 0$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 28,
+        "question": "Find the equation of the line tangent to the curve $y = \\sqrt{x}$ at the point (4, 2).",
+        "options": {
+            "a": "$X - 4Y + 2 = 0$",
+            "b": "$X - 4Y + 4 = 0$",
+            "c": "$X + 4Y + 2 = 0$",
+            "d": "$X - 2Y - 3 = 0$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 29,
+        "question": "Find the radius of curvature for $y = 3x^2 + 2x - 5$ at $x = 1$:",
+        "options": {
+            "a": "45.75 units",
+            "b": "87.34 units",
+            "c": "61.32 units",
+            "d": "73.45 units"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 30,
+        "question": "Find the equation of the line tangent to $y = x(2 - x)^2$ at point (1, 1)?",
+        "options": {
+            "a": "$x + y = 1$",
+            "b": "$x + y = 2$",
+            "c": "$x + y = 3$",
+            "d": "$x + y = 4$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 31,
+        "question": "A conical tank (vertex down) is 10 ft across the top and 12 ft deep. If water is flowing into the tank at the rate of $10\\ ft^3/min$, find the rate of change of the depth of the water when the water is 8 ft deep.",
+        "options": {
+            "a": "0.342 ft/min",
+            "b": "0.287 ft/min",
+            "c": "1.023 ft/min",
+            "d": "0.702 ft/min"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 32,
+        "question": "Water is flowing into a frustum of a cone at a rate of 100 liter/min. The upper radius of the frustum of a cone is 1.5 m while the lower radius is 1m and a height of 2 m. If the water rises at the rate of 0.04916 cm/sec, find the depth of water.",
+        "options": {
+            "a": "10.3 cm",
+            "b": "13.6 cm",
+            "c": "15.5 cm",
+            "d": "18.9 cm"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 33,
+        "question": "Water is running into a hemispherical bowl having a radius of 10 cm at a constant rate of $3\\ cm^3/min$. When the water is $x$ cm. deep, the water level is rising at the rate of .0149 cm/min. What is the value of $x$?",
+        "options": {
+            "a": "3",
+            "b": "2",
+            "c": "4",
+            "d": "5"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 34,
+        "question": "A particle moves in a plane according to the parametric equations of motions: $x = t^2, y = t^3$. Find the magnitude of the acceleration when the $t = 0.6667$.",
+        "options": {
+            "a": "6.12",
+            "b": "5.10",
+            "c": "4.90",
+            "d": "4.47"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 35,
+        "question": "Sand is falling off a conveyor onto a conical pile at the rate of $15\\ cm^3/min$. The base of the cone is approximately twice the altitude. Find the height of the pile if the height of the pile is changing at the rate 0.047746 cm/min.",
+        "options": {
+            "a": "12 cm",
+            "b": "10 cm",
+            "c": "8 cm",
+            "d": "6 cm"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 36,
+        "question": "A spherical balloon is being filled with air at a rate of 1 cubic foot per second. Compute the time rate of change of the surface area of the balloon at the instant when its volume is 113.1 cubic feet.",
+        "options": {
+            "a": "$0.67\\ ft^2/s$",
+            "b": "$1.73\\ ft^2/s$",
+            "c": "$3.0\\ ft^2/s$",
+            "d": "$3.7\\ ft^2/s$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 37,
+        "question": "The volume of a cube is increasing at the rate of $6\\ cm^3/min$. How fast is the surface increasing when the length of each edge is 12 cm?",
+        "options": {
+            "a": "$3\\ cm^2/min$",
+            "b": "$4\\ cm^2/min$",
+            "c": "$2\\ cm^2/min$",
+            "d": "$5\\ cm^2/min$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 38,
+        "question": "A boat is being towed toward a pier which is 20 feet above the water. The rope is pulled in at a rate of 6 ft/sec. How fast is the boat approaching the base of the pier when 25 feet of rope remain to be pulled in?",
+        "options": {
+            "a": "8 ft/sec",
+            "b": "12 ft/sec",
+            "c": "10 ft/sec",
+            "d": "15 ft/sec"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 39,
+        "question": "A helicopter is rising vertically from the ground at constant rate of 15 ft per second. When it is 250 feet off the ground, a jeep passed beneath the helicopter travelling in a straight line at a constant speed of 50 mph. Determine how fast the distance between them is changing after one second.",
+        "options": {
+            "a": "34 ft/sec",
+            "b": "45 ft/sec",
+            "c": "38 ft/sec",
+            "d": "60 ft/sec"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 40,
+        "question": "A balloon rising vertically upward over a point A on the ground at a rate of 18 fps. Point B on the ground is level with and 30 ft from A when the balloon is 40 ft from A. What is the rate of its distance from B changing?",
+        "options": {
+            "a": "11.2 fps",
+            "b": "18.7 fps",
+            "c": "14.4 fps",
+            "d": "9.72 fps"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    }
+]

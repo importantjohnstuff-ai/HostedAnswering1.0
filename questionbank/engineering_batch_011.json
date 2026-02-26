@@ -1,0 +1,282 @@
+[
+    {
+        "id": 745,
+        "question": "When a pressure of 2.0 MPa is applied to a sample of kerosene, it contracts by 0.15 percent. The bulk modulus of kerosene is:",
+        "options": {
+            "a": "1.6 GPa",
+            "b": "1.8 GPa",
+            "c": "1.3 GPa",
+            "d": "1.1 GPa"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials"
+    },
+    {
+        "id": 746,
+        "question": "A metal cube, 2.00 cm on each side, has a density of $6600 \\text{ kg/m}^3$. Find its apparent mass when it is totally submerged in water.",
+        "options": {
+            "a": "58.2 g",
+            "b": "52.8 g",
+            "c": "48.4 g",
+            "d": "44.8 g"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Fluid Mechanics"
+    },
+    {
+        "id": 747,
+        "question": "Find the depth of the water having a pressure of $1.01 \\times 10^5 \\text{ kPa}$ at the bottom ($\\rho_{H2O} = 1000 \\text{ kg/cu. m}$).",
+        "options": {
+            "a": "12,400 m",
+            "b": "9,800 m",
+            "c": "10,300 m",
+            "d": "11,200 m"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Fluid Mechanics"
+    },
+    {
+        "id": 748,
+        "question": "Water flows from a reservoir with an elevation of 25 m out a short pipe that contains a turbine. The exit is at an elevation of 5 m. If the flow rate is $0.01 \\text{ m}^3/\\text{s}$, the maximum power output is:",
+        "options": {
+            "a": "1960 W",
+            "b": "2430 W",
+            "c": "2560 W",
+            "d": "3480 W"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics"
+    },
+    {
+        "id": 749,
+        "question": "For an orifice, head above the orifice is 4 m, and $C_c = 0.6$. Then the actual velocity of flow through the orifice will be:",
+        "options": {
+            "a": "5.32 m/s",
+            "b": "8.96 m/s",
+            "c": "12.56 m/s",
+            "d": "16.32 m/s"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Fluid Mechanics"
+    },
+    {
+        "id": 750,
+        "question": "An ice with mass of 0.9 kg is freely floating in water. Find the buoyant force experienced by the ice.",
+        "options": {
+            "a": "7.8 N",
+            "b": "8.82 N",
+            "c": "10.2 N",
+            "d": "9.64 N"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Fluid Mechanics"
+    },
+    {
+        "id": 751,
+        "question": "What is the static head corresponding to a flow velocity of 10 ft/sec?",
+        "options": {
+            "a": "1.55 ft",
+            "b": "1.75 ft",
+            "c": "2.05 ft",
+            "d": "2.25 ft"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics"
+    },
+    {
+        "id": 752,
+        "question": "A high velocity flow of gas at 800 ft/sec possesses kinetic energy nearest to which of the following?",
+        "options": {
+            "a": "1.03 BTU/lb",
+            "b": "4.10 BTU/lb",
+            "c": "9.95 BTU/lb",
+            "d": "12.8 BTU/lb"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics"
+    },
+    {
+        "id": 753,
+        "question": "A sharp edge orifice will be required to produce a discharge of 35 liters/sec of water under a head of 3 m. The required diameter is nearest to, when $C = 0.596$.",
+        "options": {
+            "a": "125 mm",
+            "b": "100 mm",
+            "c": "75 mm",
+            "d": "50 mm"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Fluid Mechanics"
+    },
+    {
+        "id": 754,
+        "question": "You stand by the railroad tracks as a train passes by. You hear a 1 000-Hz frequency when the train approaches, which changes to 800 Hz as it goes away. How fast is the train moving? The speed of sound in air is 340 m/s.",
+        "options": {
+            "a": "15.7 m/s",
+            "b": "21.2 m/s",
+            "c": "28.0 m/s",
+            "d": "37.8 m/s"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics"
+    },
+    {
+        "id": 755,
+        "question": "With no machinery operating, the background noise in a room has a sound pressure level of 43 dB. With the machinery operating, the sound pressure level is 45 dB. The sound pressure level due to the machinery alone is:",
+        "options": {
+            "a": "41 dB",
+            "b": "47 dB",
+            "c": "49 dB",
+            "d": "32 dB"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics"
+    },
+    {
+        "id": 756,
+        "question": "A single milling machine loudness level at point A is 120 dB as heard from point B. What will be the sound level at point B if two more milling machines are turned on at A?",
+        "options": {
+            "a": "183 dB",
+            "b": "123 dB",
+            "c": "240 dB",
+            "d": "117 dB"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics"
+    },
+    {
+        "id": 757,
+        "question": "A jack hammer on operation produces an S-wave which releases 130 watts of power. Determine the sound intensity level at a distance of 8 m from the jackhammer is most nearly:",
+        "options": {
+            "a": "78 dB",
+            "b": "89 dB",
+            "c": "112 dB",
+            "d": "148 dB"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics"
+    },
+    {
+        "id": 758,
+        "question": "What is the first overtone frequency for an organ pipe 2.00 m in length, closed at one end?",
+        "options": {
+            "a": "42.5 Hz",
+            "b": "85.0 Hz",
+            "c": "128 Hz",
+            "d": "680 Hz"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics"
+    },
+    {
+        "id": 759,
+        "question": "An organ pipe closed at one end has a second overtone of 250 Hz. What is the magnitude of the 3rd overtone?",
+        "options": {
+            "a": "300 Hz",
+            "b": "360 Hz",
+            "c": "350 Hz",
+            "d": "410 Hz"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Fluid Mechanics"
+    },
+    {
+        "id": 760,
+        "question": "A diver is 1.2 m beneath the surface of a still pond of water. At what angle must the diver shine a beam of light toward the surface in order for a person on a distant bank to see it?",
+        "options": {
+            "a": "41 deg",
+            "b": "49 deg",
+            "c": "59 deg",
+            "d": "90 deg"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics"
+    },
+    {
+        "id": 761,
+        "question": "What principle is responsible for light spreading as it passes through a narrow slit?",
+        "options": {
+            "a": "refraction",
+            "b": "polarization",
+            "c": "diffraction",
+            "d": "interference"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics"
+    },
+    {
+        "id": 762,
+        "question": "An oil layer that is 5.0 cm thick is spread smoothly and evenly over the surface of water on a windless day. What is the angle of refraction in the water for a ray of light that has an angle of incidence of 45\u00b0 as it enters the oil from the air above? (The index of refraction for oil is 1.15)",
+        "options": {
+            "a": "27 deg",
+            "b": "32 deg",
+            "c": "36 deg",
+            "d": "39 deg"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics"
+    },
+    {
+        "id": 763,
+        "question": "A convergent meniscus lens (n = 1.45) is used to correct projection image in a theatre. The radii of curvatures at both sides are +40 cm and -100 cm. What is the refractive power in Diopters?",
+        "options": {
+            "a": "-0.333 D",
+            "b": "-0.800 D",
+            "c": "+0.255 D",
+            "d": "+0.675 D"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics"
+    },
+    {
+        "id": 764,
+        "question": "A thin 2.00-m string of mass 50.0 g is fixed at both ends and under a tension of 70.0 N. If it is set into small-amplitude oscillation, what is the frequency of the first harmonic mode?",
+        "options": {
+            "a": "6.61 Hz",
+            "b": "13.2 Hz",
+            "c": "26.5 Hz",
+            "d": "52.9 Hz"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics"
+    }
+]

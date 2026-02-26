@@ -1,0 +1,241 @@
+[
+    {
+        "question": "The input power of a three-phase motor was measured by the two-wattmeter method. The readings of two wattmeters are 5.2 kW and \u20131.7 kW and the line voltage is 415 V. Calculate the line current.",
+        "options": {
+            "a": "12.3 A",
+            "b": "18.5 A",
+            "c": "12.7 A",
+            "d": "17.4 A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1409
+    },
+    {
+        "question": "STEP 1: Set RYB voltages ($V_{RY}, V_{YB}, V_{BR}$).",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1410
+    },
+    {
+        "question": "STEP 2: Solve for phase currents ($I_1, I_2, I_3$).",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1411
+    },
+    {
+        "question": "STEP 3: Solve for line currents: $I_R = I_1 - I_3$ $I_Y = I_2 - I_1$ $I_B = I_3 - I_2$",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1412
+    },
+    {
+        "question": "STEP 1: Convert Y to \u0394 using: $Z_{12} = \\frac{Z_1Z_2 + Z_2Z_3 + Z_3Z_1}{Z_3}$",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1413
+    },
+    {
+        "question": "STEP 2: Solve for phase currents.",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1414
+    },
+    {
+        "question": "STEP 3: Solve for line currents.",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1415
+    },
+    {
+        "question": "Three impedances $Z_1, Z_2$ and $Z_3$ are delta-connected to a symmetrical 3-phase, 400 V supply of phase sequence RYB: $Z_1 = (8 - j6) \\Omega$ (between R and Y) $Z_2 = (6 + j8) \\Omega$ (between Y and B) $Z_3 = (10 + j0) \\Omega$ (between B and R) Calculate line current along line Y:",
+        "options": {
+            "a": "54.3 A",
+            "b": "77.3 A",
+            "c": "85.4 A",
+            "d": "92.3 A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1416
+    },
+    {
+        "question": "A 400 V symmetrical 3-phase supply feeds a star-connected asymmetrical load consisting of three impedances $Z_1 = (4 + j3) \\Omega, Z_2 = (8 + j6) \\Omega$ and $Z_3 = (6 + j4.5) \\Omega$. Determine the total power.",
+        "options": {
+            "a": "18,461 W",
+            "b": "16,644 W",
+            "c": "11,590 W",
+            "d": "17,727 W"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1417
+    },
+    {
+        "question": "The main function of the commutator in a DC generator is to:",
+        "options": {
+            "a": "Reduce armature reaction",
+            "c": "Reduce eddy currents",
+            "d": "Cool the armature"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Machines",
+        "id": 1418
+    },
+    {
+        "question": "Increasing the speed of a DC generator will primarily increase its:",
+        "options": {
+            "a": "Field current",
+            "c": "Iron losses",
+            "d": "Commutation"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Machines",
+        "id": 1419
+    },
+    {
+        "question": "If the load of a shunt generator increases, the terminal voltage generally:",
+        "options": {
+            "a": "Increases",
+            "c": "Remains constant",
+            "d": "Becomes zero"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Machines",
+        "id": 1420
+    },
+    {
+        "question": "Residual magnetism in a generator is essential for:",
+        "options": {
+            "a": "Commutation",
+            "c": "Speed regulation",
+            "d": "Load sharing"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1421
+    },
+    {
+        "question": "A generator fails to build up voltage. The most likely cause is:",
+        "options": {
+            "a": "High speed",
+            "c": "High armature resistance",
+            "d": "High load"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1422
+    },
+    {
+        "question": "In a self-excited generator, proper voltage build-up requires that field and armature currents be:",
+        "options": {
+            "a": "In phase",
+            "c": "Opposing each other",
+            "d": "Independent"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1423
+    },
+    {
+        "question": "A DC generator\u2019s voltage regulation is defined as:",
+        "options": {
+            "a": "Change in load current / current",
+            "c": "Speed ratio",
+            "d": "Resistance drop"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Machines",
+        "id": 1424
+    },
+    {
+        "question": "Armature reaction in a DC generator causes:",
+        "options": {
+            "a": "Increased terminal voltage",
+            "c": "Decreased speed",
+            "d": "Reduced copper losses"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Machines",
+        "id": 1425
+    },
+    {
+        "question": "To counter armature reaction, generators use: A. Interpoles",
+        "options": {
+            "b": "Copper bars",
+            "c": "Ball bearings",
+            "d": "Cooling fans"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Machines",
+        "id": 1426
+    },
+    {
+        "question": "In a compound generator, the series field compensates for:",
+        "options": {
+            "a": "Commutation",
+            "b": "Brush wear",
+            "d": "Residual magnetism"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Machines",
+        "id": 1427
+    },
+    {
+        "question": "A long-shunt compound generator connects the shunt field:",
+        "options": {
+            "a": "Across series field",
+            "b": "Across the armature only",
+            "d": "In series with load"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Machines",
+        "id": 1428
+    }
+]

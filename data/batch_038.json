@@ -1,0 +1,282 @@
+[
+    {
+        "id": 1830,
+        "question": "Determine the particular solution for the D.E.: y'' - 9y = 5e^x",
+        "options": {
+            "a": "yp = (-4/3)xe^x",
+            "b": "yp = (9/13)e^x",
+            "c": "yp = (-5/7)xe^x",
+            "d": "yp = (-5/8)e^x"
+        },
+        "answer": "d",
+        "correct_answer_text": "yp = (-5/8)e^x",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 1831,
+        "question": "REELE APR2024: Solve the O.D.E: dy/dx = (x + 2y) / (3y - 2x)",
+        "options": {
+            "a": "x2 + 4xy - 3y2 = c",
+            "b": "x2 + 2xy + 4y2 = c",
+            "c": "x2 - 2y2 = c",
+            "d": "xy - 2y2 = c"
+        },
+        "answer": "a",
+        "correct_answer_text": "x2 + 4xy - 3y2 = c",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 1832,
+        "question": "The D.E., (y - x3) dx + (x + y3) dy = 0 is said to be:",
+        "options": {
+            "a": "Exact",
+            "b": "Homogenous",
+            "c": "Inexact",
+            "d": "Linear"
+        },
+        "answer": "a",
+        "correct_answer_text": "Exact",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 1833,
+        "question": "C-14 (half-life = 5760 yr) dating is used on an amber-preserved fern leaf. Living ferns have activity of 13x10^9 counts/min while the sample has 1x10^6 counts/min. The age is most nearly:",
+        "options": {
+            "a": "45,320 yrs",
+            "b": "59,580 yrs",
+            "c": "89,360 yrs",
+            "d": "78,800 yrs"
+        },
+        "answer": "d",
+        "correct_answer_text": "78,800 yrs",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 1834,
+        "question": "REELE Apr2024. A series RL circuit is composed of 14 ohm resistor and 0.006 Henry choke coil. Determine the peak of the steady current if connected to a 60Hz 120 V (peak) supply?",
+        "options": {
+            "a": "8.46 A",
+            "b": "4.52 A",
+            "c": "7.89 A",
+            "d": "3.12 A"
+        },
+        "answer": "a",
+        "correct_answer_text": "8.46 A",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 1835,
+        "question": "The rate of decrease in volume of a cubic pellet is proportional to its surface area. At t=0 the size is 8 cm^3 and after 2 hours the size is 1 cm^3. The pellet will dissolve in nearly:",
+        "options": {
+            "a": "3 hours",
+            "b": "4 hours",
+            "c": "8 hours",
+            "d": "16 hours"
+        },
+        "answer": "b",
+        "correct_answer_text": "4 hours",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 1836,
+        "question": "A metallic ball at 80degC is immersed in a water bath at 10degC. In 5 minutes the temperature is 20degC. What is the temperature of the ball in 10 minutes?",
+        "options": {
+            "a": "73.45degC",
+            "b": "78.57degC",
+            "c": "11.43degC",
+            "d": "none of these"
+        },
+        "answer": "c",
+        "correct_answer_text": "11.43degC",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 1837,
+        "question": "Solve the D.E.: 2x2y'' + 8xy' + 4y = 0",
+        "options": {
+            "a": "c1/x + c2/x^3",
+            "b": "c1/x + c2/x^2",
+            "c": "c1x + c2/x^3",
+            "d": "c1x + c2/x^2"
+        },
+        "answer": "b",
+        "correct_answer_text": "c1/x + c2/x^2",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 1838,
+        "question": "Solve the particular solution of the D.E.: y'' - 2y' - 8y = 6e^3x",
+        "options": {
+            "a": "-6/5 e^3x",
+            "b": "3/4 e^3x",
+            "c": "1/7 e^3x",
+            "d": "-4/5 e^3x"
+        },
+        "answer": "a",
+        "correct_answer_text": "-6/5 e^3x",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 1839,
+        "question": "What is the value of 1 radian in degrees?",
+        "options": {
+            "a": "89.550",
+            "b": "57.30",
+            "c": "60.30",
+            "d": "45.580"
+        },
+        "answer": "b",
+        "correct_answer_text": "57.30",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 1840,
+        "question": "Determine the radius of the circle 2x^2 + 2y^2 - 6x + 15y - 19 = 0?",
+        "options": {
+            "a": "3.45",
+            "b": "6.89",
+            "c": "7.21",
+            "d": "5.08"
+        },
+        "answer": "d",
+        "correct_answer_text": "5.08",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 1841,
+        "question": "What is the lateral surface of a cone that is 12 cm in diameter at the base and altitude of 8 cm?",
+        "options": {
+            "a": "50pi",
+            "b": "60pi",
+            "c": "80pi",
+            "d": "40pi"
+        },
+        "answer": "b",
+        "correct_answer_text": "60pi",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 1842,
+        "question": "The inclination of the line passing (-6, 9) and (41/3, 5) is most nearly:",
+        "options": {
+            "a": "41.58°",
+            "b": "67.87°",
+            "c": "68.67",
+            "d": "144.55°"
+        },
+        "answer": "d",
+        "correct_answer_text": "144.55°",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 1843,
+        "question": "The area of the circle with center at (-7, 5) and is tangent to 2x + 4y + 5 = 0 is:",
+        "options": {
+            "a": "121pi/20",
+            "b": "7pi",
+            "c": "178pi/35",
+            "d": "8pi"
+        },
+        "answer": "a",
+        "correct_answer_text": "121pi/20",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 1844,
+        "question": "Approximate the volume of heptagonal pyramid whose base is 3 inch on a side and the apex is 10 inch from the base?",
+        "options": {
+            "a": "210 in2",
+            "b": "156 in2",
+            "c": "109 in2",
+            "d": "178 in2"
+        },
+        "answer": "c",
+        "correct_answer_text": "109 in2",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 1845,
+        "question": "The length of the longest diagonal of a parallelogram whose sides are 40 and 60 cm and included angle of 50 degrees is:",
+        "options": {
+            "a": "75 cm",
+            "b": "91 cm",
+            "c": "43 cm",
+            "d": "102 cm"
+        },
+        "answer": "b",
+        "correct_answer_text": "91 cm",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 1846,
+        "question": "Find the area of a circle whose equation is x^2 + y^2 + 4x + 6y - 23 = 0",
+        "options": {
+            "a": "36pi",
+            "b": "30pi",
+            "c": "40pi",
+            "d": "45pi"
+        },
+        "answer": "a",
+        "correct_answer_text": "36pi",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 1847,
+        "question": "The area of a triangle whose vertices are formed by points A (4, -3), B(7, 4), C(-3, 6) is",
+        "options": {
+            "a": "28 sq. u.",
+            "b": "38 sq. u.",
+            "c": "48 sq. u.",
+            "d": "58 sq.u."
+        },
+        "answer": "b",
+        "correct_answer_text": "38 sq. u.",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 1848,
+        "question": "Determine the distance from (5, 10) to the line x - y = 0",
+        "options": {
+            "a": "3.86",
+            "b": "3.54",
+            "c": "3.68",
+            "d": "3.72"
+        },
+        "answer": "b",
+        "correct_answer_text": "3.54",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 1849,
+        "question": "Determine the diameter of a circle, x^2 + y^2 - 6x + 4y - 12 = 0",
+        "options": {
+            "a": "9 units",
+            "b": "11 units",
+            "c": "12 units",
+            "d": "10 unit"
+        },
+        "answer": "d",
+        "correct_answer_text": "10 unit",
+        "category": "Math",
+        "sub_category": "Geometry"
+    }
+]

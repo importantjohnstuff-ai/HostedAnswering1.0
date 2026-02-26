@@ -1,0 +1,44 @@
+[
+    {
+        "id": 867,
+        "question": "A solid steel shaft that should not twist through more than $3^\\circ$ in a $6\\text{-m}$ length when subjected to a torque of $12 \\text{ kN}\\cdot\\text{m}$? ($G = 83 \\text{ GPa}$) What is the minimum diameter (mm)?",
+        "options": {
+            "a": "$114$",
+            "b": "$102$",
+            "c": "$143$",
+            "d": "$122$"
+        },
+        "answer": "d",
+        "correct_answer_text": "$122$",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials"
+    },
+    {
+        "id": 868,
+        "question": "A $2\\text{-in}$-diameter steel shaft of an induction motor rotates at $240 \\text{ rpm}$. If the shearing stress is limited to $12 \\text{ ksi}$, determine the maximum horsepower that can be transmitted.",
+        "options": {
+            "a": "$71.8 \\text{ hp}$",
+            "b": "$82.3 \\text{ hp}$",
+            "c": "$74.2 \\text{ hp}$",
+            "d": "$82.4 \\text{ hp}$"
+        },
+        "answer": "d",
+        "correct_answer_text": "$82.4 \\text{ hp}$",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials"
+    },
+    {
+        "id": 869,
+        "question": "Determine the maximum shearing stress and elongation in a helical steel spring composed of $20$ turns of $20\\text{-mm}$-diameter wire on a mean radius of $90 \\text{ mm}$ when the spring is supporting a load of $1.5 \\text{ kN}$. Assume heavy spring and $G = 83 \\text{ GPa}$.",
+        "options": {
+            "a": "$99.87 \\text{ MPa}, 108 \\text{ mm}$",
+            "b": "$99.87 \\text{ MPa}, 129 \\text{ mm}$",
+            "c": "$45.78 \\text{ MPa}, 88 \\text{ mm}$",
+            "d": "$23.67 \\text{ MPa}, 45 \\text{ mm}$"
+        },
+        "answer": "a",
+        "correct_answer_text": "$99.87 \\text{ MPa}, 108 \\text{ mm}$",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials"
+    }
+]

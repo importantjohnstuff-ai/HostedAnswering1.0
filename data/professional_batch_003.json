@@ -1,0 +1,282 @@
+[
+    {
+        "question": "Which type of induction motor is commonly used in ceiling fans?",
+        "options": {
+            "a": "Two-pole DC motor",
+            "b": "Capacitor-run single-phase induction motor",
+            "c": "Stepper motor",
+            "d": "Capacitor-run three-phase induction motor"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Machines",
+        "id": 909
+    },
+    {
+        "question": "The power input to a 3-phase induction motor is 60 kW. The stator losses total 1 kW. Find the mechanical power developed if the motor is running with a slip of 3%.",
+        "options": {
+            "a": "53.24 kW",
+            "b": "57.23 kW",
+            "c": "51.89 kW",
+            "d": "58.56 kW"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 910
+    },
+    {
+        "question": "The power input to a 500-V, 50-Hz, 6-pole, 3-phase induction motor running at 975 rpm is 40 kW. The stator losses are 1 kW and the friction and windage losses total 2 kW. Calculate the efficiency.",
+        "options": {
+            "a": "90%",
+            "b": "96%",
+            "c": "84%",
+            "d": "93%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 911
+    },
+    {
+        "question": "An induction motor is running at 20% slip, the output is 36.775 kW and the total mechanical losses are 1500 W. Estimate Cu losses in the rotor circuit. If the stator losses are 3 kW, estimate efficiency of the motor.",
+        "options": {
+            "a": "72.35%",
+            "b": "78.56%",
+            "c": "89.56%",
+            "d": "45.67%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 912
+    },
+    {
+        "question": "100-kW (output), 3300-V, 50-Hz, 3-phase, star-connected induction motor has a synchronous speed of 500 r.p.m. The full-load slip is 1.8% and F.L. power factor 0.85. Stator copper loss = 2440 W. Iron loss = 3500 W. Rotational losses = 1200 W. Calculate the full-load efficiency.",
+        "options": {
+            "a": "78.4%",
+            "b": "96.5%",
+            "c": "91.7%",
+            "d": "86.5%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 913
+    },
+    {
+        "question": "An 18.65-kW, 4-pole, 50-Hz, 3-phase induction motor has friction and windage losses of 2.5 per cent of the output. The full-load slip is 4%. Compute the rotor Cu loss and the gross electromagnetic torque.",
+        "options": {
+            "a": "132.5 N-m",
+            "b": "126.8 N-m",
+            "c": "123.7 N-m",
+            "d": "120.8 N-m"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 914
+    },
+    {
+        "question": "A 6-pole, 50-Hz, 3-phase, induction motor running on full load with 4% slip develops a torque of 149.3 N-m at its pulley rim. The friction and windage losses are 200 W and the stator Cu and iron losses equal 1,620 W. Calculate the efficiency at full-load.",
+        "options": {
+            "a": "86%",
+            "b": "78%",
+            "c": "92%",
+            "d": "81%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 915
+    },
+    {
+        "question": "A synchronous motor runs at constant speed because:",
+        "options": {
+            "a": "Load torque is constant at constant torque angle",
+            "b": "Rotor flux locks with stator rotating field",
+            "c": "Slip increases with load",
+            "d": "Rotor resistance is high"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 916
+    },
+    {
+        "question": "The synchronous speed of a motor depends on:",
+        "options": {
+            "a": "Load and the voltage of the supply",
+            "b": "Line losses",
+            "c": "Supply frequency and number of poles",
+            "d": "Armature reaction"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Machines",
+        "id": 917
+    },
+    {
+        "question": "A 2300 V, 3-phase star-connected synchronous motor has Z_stator = (0.2 + j2.2) ohm per phase. The motor is operating at 0.5 power factor leading with a line current of 200 A. Determine the generated line emf.",
+        "options": {
+            "a": "2960 V",
+            "b": "2750 V",
+            "c": "3129 V",
+            "d": "2150 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 918
+    },
+    {
+        "question": "A synchronous motor is not self-starting because:",
+        "options": {
+            "a": "No starting windings are provided",
+            "b": "No torque is produced at standstill",
+            "c": "Rotor resistance is very low",
+            "d": "It has constant speed"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 919
+    },
+    {
+        "question": "Damper (amortisseur) windings in synchronous motors are used for:",
+        "options": {
+            "a": "Increasing power factor",
+            "b": "Starting the motor",
+            "c": "Increasing synchronous reactance",
+            "d": "Reducing field current"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 920
+    },
+    {
+        "question": "A 3-phase, 400 V synchronous motor takes 60 A at a power factor of 0.8 leading. Determine the induced emf. The motor impedance per phase is (0.25 + j3.2):",
+        "options": {
+            "a": "458 V",
+            "b": "643 V",
+            "c": "757 V",
+            "d": "863 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 921
+    },
+    {
+        "question": "When the field current of a synchronous motor is increased (overexcitation):",
+        "options": {
+            "a": "Motor takes leading power factor",
+            "b": "Motor takes lagging power factor",
+            "c": "Armature current becomes zero",
+            "d": "Motor speed increases"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 922
+    },
+    {
+        "question": "If a synchronous motor loses synchronism suddenly, it:",
+        "options": {
+            "a": "Speeds up",
+            "b": "Stalls",
+            "c": "Becomes an induction motor",
+            "d": "Continues with reduced torque"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 923
+    },
+    {
+        "question": "A 3-phase synchronous motor of 10 kW at 1100 V has synchronous reactance of 8 ohms per phase. Find the torque angle at unity pf. The efficiency of the machine is 80%. Neglect armature resistance.",
+        "options": {
+            "a": "2.77 deg elec",
+            "b": "4.72 deg elec",
+            "c": "5.74 deg elec",
+            "d": "1.95 deg elec"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 924
+    },
+    {
+        "question": "Which of the following can a synchronous motor NOT do?",
+        "options": {
+            "a": "Operate at leading power factor",
+            "b": "Correct power factor of a system",
+            "c": "Operate at variable speed under constant frequency",
+            "d": "Operate at lagging power factor"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 925
+    },
+    {
+        "question": "The field winding of a synchronous motor is normally energized with:",
+        "options": {
+            "a": "DC supply",
+            "b": "AC single-phase",
+            "c": "AC three-phase",
+            "d": "Pulsed DC"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 926
+    },
+    {
+        "question": "A 1000 kVA, 11 kV, 3-phase star-connected synchronous motor has an armature resistance and reactance per phase of 3.5 ohm and 40 ohm respectively. Determine the back emf at 0.8 power factor leading.",
+        "options": {
+            "a": "12.6 kV",
+            "b": "10.5 kV",
+            "c": "13.3 kV",
+            "d": "8.78 kV"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Machines",
+        "id": 927
+    },
+    {
+        "question": "A 1000 kVA, 11 kV, 3-phase star-connected synchronous motor has an armature resistance and reactance per phase of 3.5 ohm and 40 ohm respectively. Determine the back emf at 0.8 power factor leading.",
+        "options": {
+            "a": "12.6 kV",
+            "b": "10.5 kV",
+            "c": "13.3 kV",
+            "d": "8.78 kV"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Machines",
+        "id": 928
+    }
+]

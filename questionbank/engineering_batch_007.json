@@ -1,0 +1,198 @@
+[
+    {
+        "id": 665,
+        "question": "It states that if two bodies are in thermal equilibrium with a third body, they are also in equilibrium with each other.",
+        "options": {
+            "a": "First law of thermodynamics",
+            "b": "Zeroth law of thermodynamics",
+            "c": "Third law of thermodynamics",
+            "d": "Second law of thermodynamics"
+        },
+        "answer": "b",
+        "correct_answer_text": "Zeroth law of thermodynamics",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics"
+    },
+    {
+        "id": 666,
+        "question": "The circuit conductors between the final overcurrent device protecting the circuit and the outlet(s).",
+        "options": {
+            "a": "Feeder",
+            "b": "Service lateral",
+            "c": "Branch circuit",
+            "d": "Service conductor"
+        },
+        "answer": "c",
+        "correct_answer_text": "Branch circuit",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics"
+    },
+    {
+        "id": 667,
+        "question": "The term \u201cThermodynamics\u201d comes from Greek words \u201cTherme\u201d and \u201cDynamis\u201d which means",
+        "options": {
+            "a": "heat, power",
+            "b": "heat, motion",
+            "c": "heat, transfer",
+            "d": "heat, energy"
+        },
+        "answer": "a",
+        "correct_answer_text": "heat, power",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics"
+    },
+    {
+        "id": 668,
+        "question": "A conducting connections, whether intentional or accidental, between an electric circuit or equipment and the earth, or to some conducting body that serves in place of the earth.",
+        "options": {
+            "a": "Grounded",
+            "b": "Ground",
+            "c": "Short",
+            "d": "Fault"
+        },
+        "answer": "b",
+        "correct_answer_text": "Ground",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics"
+    },
+    {
+        "id": 669,
+        "question": "An essential part of a large dam and provides an efficient and safe means of releasing flow of water that exceeds the design capacity of the reservoir.",
+        "options": {
+            "a": "Spillway",
+            "b": "Weir",
+            "c": "Culverts",
+            "d": "Standpipe"
+        },
+        "answer": "a",
+        "correct_answer_text": "Spillway",
+        "category": "Engineering Sciences",
+        "sub_category": "Fluid Mechanics"
+    },
+    {
+        "id": 671,
+        "question": "The ampacity of the fuse should be 125% of the continuous load current is covered by",
+        "options": {
+            "a": "Installation design",
+            "b": "Wiring design",
+            "c": "Manufacturing design",
+            "d": "Construction design"
+        },
+        "answer": "b",
+        "correct_answer_text": "Wiring design",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics"
+    },
+    {
+        "id": 672,
+        "question": "Determine the mass rate of water along a pipeline with I.D. of 30 cm and that the water runs at 5 m/s:",
+        "options": {
+            "a": "383 kg/s",
+            "b": "1209 kg/s",
+            "c": "454 kg/s",
+            "d": "353 kg/s"
+        },
+        "answer": "c",
+        "correct_answer_text": "454 kg/s",
+        "category": "Engineering Sciences",
+        "sub_category": "Fluid Mechanics"
+    },
+    {
+        "id": 674,
+        "question": "What will you do when you install a new heat sink?",
+        "options": {
+            "a": "Insert thermal compound between processor and system board",
+            "b": "Apply isopropyl alcohol between processor and heat sink",
+            "c": "Insert thermal compound between processor and heat sink",
+            "d": "Apply isopropyl alcohol between processor and system board"
+        },
+        "answer": "c",
+        "correct_answer_text": "Insert thermal compound between processor and heat sink",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics"
+    },
+    {
+        "id": 675,
+        "question": "Assuming i = annual rate of return, n = number of years, F = future worth, and P = present worth, what is the future worth of a present amount P(F/P, i, n).",
+        "options": {
+            "a": "P(1 + i)^n",
+            "b": "P(1 + i)^(n-1)",
+            "c": "P(1 + i)^-1",
+            "d": "P(1 + n)^i"
+        },
+        "answer": "a",
+        "correct_answer_text": "P(1 + i)^n",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy"
+    },
+    {
+        "id": 676,
+        "question": "The ideal, reversible Carnot cycle involve four basic processes. What type of processes are they?",
+        "options": {
+            "a": "All isothermal",
+            "b": "All adiabatic",
+            "c": "Two adiabatic and two isentropic",
+            "d": "Two isothermal and two isentropic"
+        },
+        "answer": "d",
+        "correct_answer_text": "Two isothermal and two isentropic",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics"
+    },
+    {
+        "id": 679,
+        "question": "Find the MW of HNO3 in g/mole.",
+        "options": {
+            "a": "72",
+            "b": "61",
+            "c": "73",
+            "d": "63"
+        },
+        "answer": "d",
+        "correct_answer_text": "63",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry"
+    },
+    {
+        "id": 680,
+        "question": "What is the chemical formula of Sulfuric acid?",
+        "options": {
+            "a": "HSO4",
+            "b": "H2SO4",
+            "c": "H3SO2",
+            "d": "HSO2"
+        },
+        "answer": "b",
+        "correct_answer_text": "H2SO4",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry"
+    },
+    {
+        "id": 681,
+        "question": "A water jet is produced from the penstock of hydropower plant that is 25 cm in diameter and releases 67 cubic feet/sec of water. Determine the velocity of water in m/sec:",
+        "options": {
+            "a": "45.3 m/s",
+            "b": "38.6 m/s",
+            "c": "78.3 m/s",
+            "d": "11.90 m/s"
+        },
+        "answer": "c",
+        "correct_answer_text": "78.3 m/s",
+        "category": "Engineering Sciences",
+        "sub_category": "Fluid Mechanics"
+    },
+    {
+        "id": 682,
+        "question": "The atmospheric pressure in meters of ammonia (NH3) with density of 600kg/cu.m is nearest to",
+        "options": {
+            "a": "10",
+            "b": "15",
+            "c": "17",
+            "d": "12"
+        },
+        "answer": "c",
+        "correct_answer_text": "17",
+        "category": "Engineering Sciences",
+        "sub_category": "Fluid Mechanics"
+    }
+]

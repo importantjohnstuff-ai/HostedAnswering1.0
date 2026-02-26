@@ -1,0 +1,271 @@
+[
+    {
+        "question": "A 440-V, 50-Hz induction motor takes a line current of 45 A at a power factor of 0.8 (lagging). Three D-connected capacitors are installed to improve the power factor to 0.95 (lagging). Calculate the capacitance of each capacitor.",
+        "options": {
+            "a": "1.3 uF",
+            "b": "0.89 uF",
+            "d": "7.8 uF"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Power Factor Correction",
+        "id": 1189
+    },
+    {
+        "question": "A substation which is fed by a single feeder cable supplies the following loads: 1,000 kW at p.f. 0.85 lagging, 1,500 kW at 0.8 lagging, 2,000 kW at 0.75 lagging; 500 kW at 0.9 leading. Find the p.f. of the supply to the substation.",
+        "options": {
+            "a": "0.97",
+            "b": "0.56",
+            "c": "0.88"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1190
+    },
+    {
+        "question": "A 3-phase synchronous motor is connected in parallel with a load of 200 kW at 0.8 p.f. (lagging) and its excitation is adjusted until it raises the total p.f. to 0.9 (lagging). If the mechanical load on the motor, including losses, takes 50 kW, calculate the kVA input to the motor. A. 57.8 kVA",
+        "options": {
+            "b": "69.7 kVA",
+            "c": "14.5 kVA",
+            "d": "153 kVA"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1191
+    },
+    {
+        "question": "3-phase, 3,000-V, 50-Hz motor develops 375 h.p. (223.8 kW), the p.f. being 0.75 lagging and the efficiency 92%. A bank of capacitors is star-connected in parallel with the motor and the total p.f. raised to 0.9 lagging. Each phase of the capacitor bank is made up of 3 capacitors joined in series. Determine the capacitance of each.",
+        "options": {
+            "a": "153 uF",
+            "b": "59 uF",
+            "c": "118 \u03bcF"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Power Factor Correction",
+        "id": 1192
+    },
+    {
+        "question": "A 340-kW, 3300-V, 50-Hz, 3f star-connected induction motor has full-load efficiency of 85% and power factor of 0.8 lagging. It is desired to improve power factor to 0.96 lagging by using a bank of three capacitors. Calculate the kVA rating of the capacitor bank. A. 183.33 kVAR",
+        "options": {
+            "b": "154.42 kVAR",
+            "c": "107.85 kVAR",
+            "d": "78.43 kVAR"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Power Factor Correction",
+        "id": 1193
+    },
+    {
+        "question": "A 340-kW, 3300-V, 50-Hz, 3f star-connected induction motor has full-load efficiency of 85% and power factor of 0.8 lagging. It is desired to improve power factor to 0.96 lagging by using a bank of three capacitors. Calculate the capacitance of each limb of the capacitor bank connected in delta.",
+        "options": {
+            "a": "11.75 uF",
+            "b": "4.53 uF",
+            "d": "41.32 uF"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Power Factor Correction",
+        "id": 1194
+    },
+    {
+        "question": "A 3-phase, 50-Hz, 3,000-V motor develops 600 h.p. (447.6 kW), the power factor being 0.75 lagging and the efficiency 0.93. A bank of capacitors is connected in delta across the supply terminals and power factor raised to 0.95 lagging. Each of the capacitance units is built of five similar capacitors. Determine capacitance of each capacitor.",
+        "options": {
+            "a": "312 uF",
+            "b": "223 uF",
+            "d": "896 uF"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1195
+    },
+    {
+        "question": "A synchronous motor having a power consumption of 50 kW is connected in parallel with a load of 200 kW having a lagging power factor of 0.8. If the combined load has a p.f. of 0.9, what is the value of leading reactive kVA supplied by the motor and at what p.f. is it working?",
+        "options": {
+            "a": "34.5 kVAR, 0.86 (lead)",
+            "c": "28.9 kVAR, 0.86 (lead)",
+            "d": "28.9 kVAR, 0.93 (lead)"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1196
+    },
+    {
+        "question": "A generating station supplies power to the following: lighting load 100-kW; an induction motor 400 h.p. (298.4 kW), power factor 0.8, efficiency 0.92; a rotary converter giving 100 A at 500 V at an efficiency of 0.94. What must be the power factor of the rotary converter in order that the power factor of the supply station may be unity? A. 0.214 leading",
+        "options": {
+            "b": "0.892 leading",
+            "c": "0.564 leading",
+            "d": "0.831 leading"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1197
+    },
+    {
+        "question": "An industrial load of 4 MW is supplied at 11 kV, the p.f. being 0.8 lag. A synchronous motor is required to meet additional load of 1500 h.p. (1,119 kW) and at the same time to raise the resultant p.f. to 0.95 lag. Find the kVA capacity of the motor and the p.f. at which it must operate. The efficiency of the motor is 80%.",
+        "options": {
+            "a": "1875 kVA; 0.8865 (lead)",
+            "c": "2135 kVA; 0.8865 (lead)",
+            "d": "2135 kVA; 0.7466 (lead)"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1198
+    },
+    {
+        "question": "A 440-V, 50-Hz induction motor takes a line current of 45 A at a power factor of 0.8 (lagging). Three D-connected capacitors are installed to improve the power factor to 0.95 (lagging). Calculate the kVA of the capacitor bank and the capacitance of each capacitor.",
+        "options": {
+            "a": "15.45 kVA; 8.9 \u03bcF",
+            "b": "21.78 kVA; 2.7 \u03bcF",
+            "c": "10.43 kVA; 1.9 \u03bcF"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Power Factor Correction",
+        "id": 1199
+    },
+    {
+        "question": "The average power delivered to an impedance $(4 - j3) \\Omega$ by a current $5 \\cos(100\\pi t + 100^\\circ) A$ is:",
+        "options": {
+            "a": "44.2 W",
+            "b": "50 W",
+            "c": "62.5 W",
+            "d": "125 W"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1200
+    },
+    {
+        "question": "As the mean length of an iron core of a magnetic circuit increases, the magnetic reluctance:",
+        "options": {
+            "a": "increases",
+            "b": "decreases",
+            "c": "is constant",
+            "d": "infinite"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Electromagnetism",
+        "id": 1201
+    },
+    {
+        "question": "Find the flux linking a 500-turn, 0.1-H coil carrying a 2-mA current.",
+        "options": {
+            "a": "$3.5 \\mu\\text{Wb}$",
+            "b": "$0.4 \\mu\\text{Wb}$",
+            "c": "$1.6 \\text{ mWb}$",
+            "d": "$0.9 \\text{ mWb}$"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1202
+    },
+    {
+        "question": "The current in a 300-mH inductor increases uniformly from 0.2 to 1 A in 0.5 s. What is the inductor voltage for this time?",
+        "options": {
+            "a": "2.3 V",
+            "b": "0.56 V",
+            "c": "2.56 V",
+            "d": "0.48 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1203
+    },
+    {
+        "question": "If a change in current in a 0.2-H inductor produces a constant 5-V inductor voltage, how long does the current take to increase from 30mA to 200 mA?",
+        "options": {
+            "a": "6.8 ms",
+            "b": "7.9 ms",
+            "c": "1.22 ms",
+            "d": "0.672 ms"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1204
+    },
+    {
+        "question": "If the inductance of a resonance RLC circuit is doubled and the capacitance is halved:",
+        "options": {
+            "a": "the resonance frequency increases",
+            "b": "the resonance frequency decreases",
+            "c": "the resonance frequency remains the same",
+            "d": "no way to tell."
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1205
+    },
+    {
+        "question": "What is the inductance of a coil for which a changing current increasing uniformly from 150 to 275 mA in 300 micro-seconds and induces 75 mV in the coil?",
+        "options": {
+            "a": "$210 \\mu\\text{H}$",
+            "b": "$87 \\mu\\text{H}$",
+            "c": "$1750 \\mu\\text{H}$",
+            "d": "$180 \\mu\\text{H}$"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Electromagnetism",
+        "id": 1206
+    },
+    {
+        "question": "Find the average power absorbed by a circuit component that has a voltage $v = 20.3 \\cos(754t - 10^\\circ) V$ across it when a current $i = 15.6 \\cos(754t - 30^\\circ) mA$ flows through it.",
+        "options": {
+            "a": "233 mW",
+            "b": "149 mW",
+            "c": "53 mW",
+            "d": "87 mW"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1207
+    },
+    {
+        "question": "Two coils are wound close together on the same paxolin tube. Current is passed through the first coil and is varied at a uniform rate of 500 mA per second, inducing an e.m.f. of 0.1 V in the second coil. The second coil has 100 turns. Calculate the number of turns in the first coil if its inductance is 0.4 H.",
+        "options": {
+            "a": "200 turns",
+            "b": "140 turns",
+            "c": "420 turns",
+            "d": "300 turns"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Electromagnetism",
+        "id": 1208
+    }
+]

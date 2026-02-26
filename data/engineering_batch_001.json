@@ -1,0 +1,282 @@
+[
+    {
+        "id": 545,
+        "question": "Which of the following is the chemical formula for methyl chloride?",
+        "options": {
+            "a": "CClF3",
+            "b": "CHCl2F",
+            "c": "CH3Cl",
+            "d": "C2H5Cl"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry"
+    },
+    {
+        "id": 546,
+        "question": "Which of the following is a variety of bituminous or sub-bituminous coal, commonly having a dull luster and grayish-black color, of compact structure often containing a few thin irregular bands with vitreous luster?",
+        "options": {
+            "a": "Banded coal",
+            "b": "Splint coal",
+            "c": "Boghead coal",
+            "d": "Cannel coal"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry"
+    },
+    {
+        "id": 547,
+        "question": "In an Orsat apparatus, the order of absorption in the three absorption flasks is _______.",
+        "options": {
+            "a": "CO, CO2, O2",
+            "b": "CO2, O2, CO",
+            "c": "O2, CO, CO2",
+            "d": "CO2, CO, O2"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry"
+    },
+    {
+        "id": 548,
+        "question": "Which of the following factors is defined as the ratio of the maximum generator demand to the generator capacity?",
+        "options": {
+            "a": "Plant use",
+            "b": "Load",
+            "c": "Utilization",
+            "d": "Plant capacity"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry"
+    },
+    {
+        "id": 549,
+        "question": "Which of the following is the chemical formula for butane?",
+        "options": {
+            "a": "C2H5Cl",
+            "b": "C4H10",
+            "c": "C2H4O2",
+            "d": "C3H8"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry"
+    },
+    {
+        "id": 550,
+        "question": "Which of the following statements is INCORRECT regarding the maximum temperature attained in a chemical reaction?",
+        "options": {
+            "a": "It reduces if the combustion is incomplete",
+            "b": "It increases if the products of combustion dissociate",
+            "c": "It reduces if excess oxygen is supplied for combustion",
+            "d": "It depends upon the type of fuel used"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry"
+    },
+    {
+        "id": 551,
+        "question": "Which of the following is a COMMON Constituent between water gas and producer gas?",
+        "options": {
+            "a": "CO",
+            "b": "CO2",
+            "c": "N2",
+            "d": "H2"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry"
+    },
+    {
+        "id": 552,
+        "question": "Dulong's formula is used for evaluating the calorific value of a fuel containing _______.",
+        "options": {
+            "a": "Hydrogen",
+            "b": "Carbon",
+            "c": "Sulfur",
+            "d": "Oxygen"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry"
+    },
+    {
+        "id": 553,
+        "question": "For an endothermic reaction, if the temperature is increased, the equilibrium constant _______.",
+        "options": {
+            "a": "remains constant",
+            "b": "decreases",
+            "c": "will depend on initial temperature",
+            "d": "increases"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry"
+    },
+    {
+        "id": 554,
+        "question": "Which of the following is a variety of bituminous or sub-bituminous coal, characterized by a high percentage of algal remains and volatile matter?",
+        "options": {
+            "a": "Cannel coal",
+            "b": "Splint coal",
+            "c": "Banded coal",
+            "d": "Boghead coal"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry"
+    },
+    {
+        "id": 555,
+        "question": "Which of the following feeding and burning method of coal is based on the upward, parallel flows of fuel and air?",
+        "options": {
+            "a": "Crossfeed method",
+            "b": "Underfeed method",
+            "c": "Gravity feed method",
+            "d": "Overfeed method"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry"
+    },
+    {
+        "id": 556,
+        "question": "It is a small-scale laboratory test that indicates the caking and coking properties of coal and gives an approximate measure of the material in coal that fuses and becomes plastic when heated.",
+        "options": {
+            "a": "Plastic property test",
+            "b": "Fusibility test",
+            "c": "Agglutinating value",
+            "d": "Free swelling"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry"
+    },
+    {
+        "id": 557,
+        "question": "Which of the following is caused by the union of coal with oxygen, and is similar to the combustion process in the furnace but progresses at a considerably lower rate?",
+        "options": {
+            "a": "Imperfect combustion",
+            "b": "Spontaneous combustion",
+            "c": "Theoretical combustion",
+            "d": "Stoichiometric combustion"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics"
+    },
+    {
+        "id": 558,
+        "question": "Which of the following is an excellent fuel for hand-fired furnaces and fireplaces?",
+        "options": {
+            "a": "Hog fuel",
+            "b": "Disco",
+            "c": "Wood",
+            "d": "Coal"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry"
+    },
+    {
+        "id": 559,
+        "question": "What is the stoichiometric air-fuel ratio of gasoline and air?",
+        "options": {
+            "a": "15.15",
+            "b": "17",
+            "c": "14.15",
+            "d": "10"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry"
+    },
+    {
+        "id": 560,
+        "question": "Which of the following fuel is defined by ASTM D288-47 as refined petroleum naphtha suitable for use as carburetant in internal combustion engines?",
+        "options": {
+            "a": "Fuel oil",
+            "b": "Diesel",
+            "c": "Kerosene",
+            "d": "Gasoline"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics"
+    },
+    {
+        "id": 561,
+        "question": "The cost of electricity can be calculated by:",
+        "options": {
+            "a": "Electrical energy generated / (Fixed cost + Variable cost)",
+            "b": "(Fixed cost + Variable cost) / Electrical energy generated",
+            "c": "Variable cost / Electrical energy generated",
+            "d": "Fixed cost / Electrical energy generated"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics"
+    },
+    {
+        "id": 562,
+        "question": "Which of the following power plant is preferred as a peak load type?",
+        "options": {
+            "a": "Nuclear",
+            "b": "Hydroelectric",
+            "c": "Thermal",
+            "d": "Gas turbine"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics"
+    },
+    {
+        "id": 563,
+        "question": "Which of the following best describe Joule's law?",
+        "options": {
+            "a": "The change of internal energy is proportional to temperature change",
+            "b": "The sum of all heat transfer is proportional to sum of all work transfer",
+            "c": "The change of volume is proportional to temperature change",
+            "d": "The change of pressure is proportional to temperature change"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry"
+    },
+    {
+        "id": 564,
+        "question": "Which of the following is INCORRECT about the first law of thermodynamics?",
+        "options": {
+            "a": "The net heat transfer equals the work output for an engine operating on a cycle",
+            "b": "The heat transfer equals the quasiequilibrium work of a system for a constant-volume process",
+            "c": "The internal energy change equals the work of a system for an adiabatic process",
+            "d": "The heat transfer equals the enthalpy change for an adiabatic process"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics"
+    }
+]

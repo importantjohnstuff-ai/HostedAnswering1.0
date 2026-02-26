@@ -1,0 +1,198 @@
+[
+    {
+        "id": 521,
+        "question": "Determine the total surface of a regular octagonal pyramid to be painted. The pyramid is 9 ft and the area of the base is 214 sq. ft.",
+        "options": {
+            "a": "367 sq. ft",
+            "b": "768 sq. ft",
+            "c": "530 sq. ft",
+            "d": "293 sq. ft"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 522,
+        "question": "A conical vessel has a height of 24 cm and a base diameter of 12 cm. It holds water to a depth of 18 cm above its vertex. Find the volume (in cm$^3$) of its content.",
+        "options": {
+            "a": "188.40",
+            "b": "298.40",
+            "c": "381.70",
+            "d": "412.60"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 523,
+        "question": "What is the volume of a frustum of a cone whose upper base is 15 cm in diameter and lower base 10 cm in diameter with an altitude of 25 cm?",
+        "options": {
+            "a": "3018.87 cm$^3$",
+            "b": "3180.87 cm$^3$",
+            "c": "3108.87 cm$^3$",
+            "d": "3081.87 cm$^3$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 524,
+        "question": "A frustum of a pyramid has an upper base 100 m by 10 m and a lower base of 80 m by 8 m. If the altitude of the frustum is 5 m, find its volume.",
+        "options": {
+            "a": "4567.67 cu. m.",
+            "b": "3873.33 cu. m.",
+            "c": "4066.67 cu. m.",
+            "d": "2345.98 cu. m."
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 525,
+        "question": "The volume of the water is a spherical tank is 1470.265 cm$^3$. Determine the depth of water if the tank has a diameter of 30 cm.",
+        "options": {
+            "a": "8",
+            "b": "6",
+            "c": "4",
+            "d": "10"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 526,
+        "question": "The volume of a sphere is 904.78 cu. m. Find the volume of the spherical segment of height 4 m.",
+        "options": {
+            "a": "234.57 cu. m.",
+            "b": "256.58 cu. m.",
+            "c": "145.69 cu. m.",
+            "d": "124.58 cu. m."
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 527,
+        "question": "The volume of water in the spherical tank of diameter 4 m is 9 m$^3$. What is the depth of water in the tank?",
+        "options": {
+            "a": "1.07 m",
+            "b": "1.36 m",
+            "c": "0.67 m",
+            "d": "1.34 m"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 528,
+        "question": "The length of the apothem of a regular octagon with side 10 units is:",
+        "options": {
+            "a": "12.1",
+            "b": "14.5",
+            "c": "8.5",
+            "d": "9.3"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 529,
+        "question": "The volume of a regular hexagonal pyramid with base perimeter of 60 cm and altitude of 30 cm is:",
+        "options": {
+            "a": "2958 cm$^3$",
+            "b": "2598 cm$^3$",
+            "c": "2859 cm$^3$",
+            "d": "2589 cm$^3$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 530,
+        "question": "What is the unit vector of $23\\hat{i} + 45\\hat{j} - 64\\hat{k}$ ?",
+        "options": {
+            "a": "$0.31\\hat{i} + 0.55\\hat{j} \u2013 0.43\\hat{k}$",
+            "b": "$0.11\\hat{i} + 0.54\\hat{j} \u2013 0.85\\hat{k}$",
+            "c": "$0.64\\hat{i} + 0.53\\hat{j} \u2013 0.78\\hat{k}$",
+            "d": "$0.28\\hat{i} + 0.55\\hat{j} \u2013 0.78\\hat{k}$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 531,
+        "question": "What is the resultant force of the following three force vectors: Force 1: 3030 kN, 120\u00b0 Force 2: 1009 kN, 78\u00b0 Force 3: 970 kN, 336\u00b0",
+        "options": {
+            "a": "3244",
+            "b": "1572",
+            "c": "4892",
+            "d": "3741"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 532,
+        "question": "In still water a boat can 80 kph N30\u00b0E. However the wind blows at 10kph S18\u00b0E. The resulting speed and bearing of the boat will be:",
+        "options": {
+            "a": "73.7 kph, E 54.21\u00b0 N",
+            "c": "77.8 kph, E 43.21\u00b0 N",
+            "b": "67.8 kph, E 53.89\u00b0 N",
+            "d": "75.6 kph, E 52.81\u00b0 N"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 533,
+        "question": "Three forces vectors at at 100 kN N45\u00b0W, 200 kN S10\u00b0W and 500 kN E60\u00b0N. The resultant force is nearly:",
+        "options": {
+            "a": "700 kN",
+            "b": "650 kN",
+            "c": "340 kN",
+            "d": "230 kN"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 534,
+        "question": "Determine the angle between the vectors $-3\\hat{i} - 7\\hat{j}$ and $12\\hat{i} + 8\\hat{j}$:",
+        "options": {
+            "a": "56.7 degrees",
+            "b": "33.1 degrees",
+            "c": "78.3 degrees",
+            "d": "17.3 degrees"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Geometry"
+    }
+]

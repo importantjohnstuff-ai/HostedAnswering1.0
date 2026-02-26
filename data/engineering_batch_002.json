@@ -1,0 +1,268 @@
+[
+    {
+        "id": 566,
+        "question": "Which of the following phenomena occurs when gas in a piston-cylinder assembly expands reversibly at constant pressure?",
+        "options": {
+            "a": "Heat is removed from the gas",
+            "b": "Gas does work from its own stored energy",
+            "c": "Gas undergoes adiabatic expansion",
+            "d": "Heat is added to the gas"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics"
+    },
+    {
+        "id": 567,
+        "question": "Which of the following is NOT an extensive property?",
+        "options": {
+            "a": "Kinetic energy",
+            "b": "Density",
+            "c": "Momentum",
+            "d": "Mass"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry"
+    },
+    {
+        "id": 568,
+        "question": "Which of the following does NOT transfer work to or from a system?",
+        "options": {
+            "a": "A moving piston",
+            "b": "An electrical resistance heater",
+            "c": "A membrane that bursts",
+            "d": "The expanding membrane of a balloon"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics"
+    },
+    {
+        "id": 569,
+        "question": "Which statement about work for a quasiequilibrium process is INCORRECT?",
+        "options": {
+            "a": "Work is a path function",
+            "b": "Work is the area under a P-T diagram",
+            "c": "The differential of work is inexact",
+            "d": "Work is always zero for a constant-volume process"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics"
+    },
+    {
+        "id": 570,
+        "question": "Air undergoes a three-process cycle with P = constant, T = constant, and V = constant processes. Which statement is correct for a piston-cylinder arrangement?",
+        "options": {
+            "a": "Q = 0 for the V = constant process",
+            "b": "W = 0 for the P = constant process",
+            "c": "W 0 for the V = constant process",
+            "d": "Q = 0 for the T = constant process"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics"
+    },
+    {
+        "id": 571,
+        "question": "What is the key concept in analyzing the filling of an evacuated tank?",
+        "options": {
+            "a": "The internal energy in the tank remains constant",
+            "b": "The mass flow rate into the tank remains constant",
+            "c": "The temperature in the tank remains constant",
+            "d": "The enthalpy across a valve remains constant"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry"
+    },
+    {
+        "id": 572,
+        "question": "Why is the exhaust process in the Otto and Diesel cycles replaced with a constant-volume process?",
+        "options": {
+            "a": "To simulate zero heat transfer of the actual exhaust process",
+            "b": "To restore the air to its original state",
+            "c": "To ensure that the first law is satisfied",
+            "d": "To simulate zero work of the actual exhaust process"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics"
+    },
+    {
+        "id": 573,
+        "question": "Which component in a Rankine cycle leads to relatively low cycle efficiency?",
+        "options": {
+            "a": "The pump",
+            "b": "The boiler",
+            "c": "The turbine",
+            "d": "The condenser"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics"
+    },
+    {
+        "id": 574,
+        "question": "Which one of the following statements is CORRECT during adiabatic charging of an ideal gas into an empty cylinder from a supply main?",
+        "options": {
+            "a": "Specific internal energy in supply equals that in cylinder",
+            "b": "Specific enthalpy in supply equals that in cylinder",
+            "c": "Specific enthalpy in supply equals specific internal energy in cylinder",
+            "d": "Specific internal energy in supply equals specific enthalpy in cylinder"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics"
+    },
+    {
+        "id": 575,
+        "question": "Which of the following BEST describes a closed thermodynamic system?",
+        "options": {
+            "a": "No energy or mass transfer",
+            "b": "Both energy and mass transfer",
+            "c": "Energy transfer exists, no mass transfer",
+            "d": "Mass transfer exists, no energy transfer"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics"
+    },
+    {
+        "id": 576,
+        "question": "He defined the thermodynamic efficiency of a heat engine and showed the usefulness of P-v diagrams as related to work.",
+        "options": {
+            "a": "Rudolf Clausius",
+            "b": "Emile Clapeyron",
+            "c": "William John Macquorn Rankine",
+            "d": "William Thomson"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics"
+    },
+    {
+        "id": 577,
+        "question": "An engineer steaming siomai using a pressure cooker wonders which thermodynamic process is illustrated.",
+        "options": {
+            "a": "Isobaric",
+            "b": "Isothermal",
+            "c": "Isochoric",
+            "d": "Isenthalpic"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics"
+    },
+    {
+        "id": 578,
+        "question": "Which of the following is useful in predicting gas properties when critical properties are known?",
+        "options": {
+            "a": "Beattie-Bridgeman equation",
+            "b": "Van der Waals equation",
+            "c": "Generalized compressibility chart",
+            "d": "Redlich-Kwong equation"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry"
+    },
+    {
+        "id": 579,
+        "question": "The following air properties increase with temperature EXCEPT",
+        "options": {
+            "a": "Thermal conductivity",
+            "b": "Dynamic viscosity",
+            "c": "Thermal diffusivity",
+            "d": "Density"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry"
+    },
+    {
+        "id": 580,
+        "question": "Transient heat conduction in a solid is explained by",
+        "options": {
+            "a": "Prandtl and Peclet numbers",
+            "b": "Biot and Fourier numbers",
+            "c": "Mach number and Biot number",
+            "d": "Peclet number"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics"
+    },
+    {
+        "id": 581,
+        "question": "Which of the following has the LEAST thermal conductivity?",
+        "options": {
+            "a": "Rubber",
+            "b": "Air",
+            "c": "Plastic",
+            "d": "Water"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics"
+    },
+    {
+        "id": 582,
+        "question": "Which of the following has the HIGHEST thermal conductivity?",
+        "options": {
+            "a": "Solid ice",
+            "b": "Steam",
+            "c": "Melting ice",
+            "d": "Water"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics"
+    },
+    {
+        "id": 583,
+        "question": "Why are metals good thermal conductors?",
+        "options": {
+            "a": "Atoms are closer",
+            "b": "Atoms are larger",
+            "c": "Presence of free electrons",
+            "d": "Reflective surfaces"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry"
+    },
+    {
+        "id": 584,
+        "question": "In a petrol engine car, which performance characteristic is affected by front-end volatility?",
+        "options": {
+            "a": "Spark plug fouling and hot starting",
+            "b": "Vapor lock, engine warm-up, spark plug fouling",
+            "c": "Hot starting and vapor lock",
+            "d": "Engine warm-up and spark plug fouling"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry"
+    }
+]

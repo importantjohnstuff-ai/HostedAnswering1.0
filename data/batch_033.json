@@ -1,0 +1,282 @@
+[
+    {
+        "id": 1730,
+        "question": "The perimeter of a Norman window is 880 inches. What is the width of the window in order to admit maximum illumination?",
+        "options": {
+            "a": "331 in",
+            "b": "217 in",
+            "c": "319 in",
+            "d": "246 in"
+        },
+        "answer": "d",
+        "correct_answer_text": "246 in",
+        "category": "Math",
+        "sub_category": "Minima/Maxima"
+    },
+    {
+        "id": 1731,
+        "question": "Oil, at a rate of 10 ft3/min, is pouring into a leaky cistern whose shape is a cone 16 ft deep and 8 ft in diameter at the top. At the time the water is 12 ft deep, the water level is rising at 4 in/min. How fast is the water leaking away?",
+        "options": {
+            "a": "0.45 ft3/min",
+            "b": "0.58 ft3/min",
+            "c": "0.71 ft3/min",
+            "d": "0.97 ft3/min"
+        },
+        "answer": "d",
+        "correct_answer_text": "0.97 ft3/min",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 1732,
+        "question": "Determine the second derivative of: ln (sqrt(x))",
+        "options": {
+            "a": "1/sqrt(x)",
+            "b": "-1/(2x^2)",
+            "c": "2/x^2",
+            "d": "-2/(x^2)"
+        },
+        "answer": "b",
+        "correct_answer_text": "-1/(2x^2)",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 1733,
+        "question": "Determine the length units of the curve y^2 + x - 3 = 0 from x = 2 to x = 5;",
+        "options": {
+            "a": "3.32",
+            "b": "4.33",
+            "c": "1.17",
+            "d": "1.06"
+        },
+        "answer": "a",
+        "correct_answer_text": "3.32",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 1734,
+        "question": "Find the area bounded by the line x - 2y + 10 = 0, the x-axis, the y-axis and x = 10.",
+        "options": {
+            "a": "75",
+            "b": "50",
+            "c": "100",
+            "d": "25"
+        },
+        "answer": "a",
+        "correct_answer_text": "75",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 1735,
+        "question": "The area bounded by the curve y^2 = 12x and the line x = 3 is rotated along x = 3. What is the volume generated?",
+        "options": {
+            "a": "179",
+            "b": "181",
+            "c": "183",
+            "d": "185"
+        },
+        "answer": "b",
+        "correct_answer_text": "181",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 1736,
+        "question": "Find the volume of the solid of revolution formed by rotating the region bounded by the parabola y = x^2 and the lines y = 0 and x = 2 about the y-axis.",
+        "options": {
+            "a": "25.01 cu. units",
+            "b": "15.50 cu. units",
+            "c": "30.14 cu. units",
+            "d": "20.11 cu. units"
+        },
+        "answer": "a",
+        "correct_answer_text": "25.01 cu. units",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 1737,
+        "question": "Find the volume of the solid obtained by rotating the region bounded by y = 7 - x^2, x = -2, x = 2 and the x-axis about the x-axis.",
+        "options": {
+            "a": "2012pi/15",
+            "b": "2013pi/17",
+            "c": "2022pi/15",
+            "d": "2023pi/18"
+        },
+        "answer": "c",
+        "correct_answer_text": "2022pi/15",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 1738,
+        "question": "Find the volume of the solid obtained by rotating the region bounded by x = y^2 - 4 and x = 3y about the line x = 24.",
+        "options": {
+            "a": "43658pi/15",
+            "b": "21589pi/11",
+            "c": "11767pi/13",
+            "d": "31556pi/15"
+        },
+        "answer": "d",
+        "correct_answer_text": "31556pi/15",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 1739,
+        "question": "The area on the first and second quadrant of the circle x^2 + y^2 = 36 is revolved about the line x = 6. What is the volume generated?",
+        "options": {
+            "a": "2131.83",
+            "b": "2242.46",
+            "c": "2421.36",
+            "d": "2342.38"
+        },
+        "answer": "b",
+        "correct_answer_text": "2242.46",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 1740,
+        "question": "Locate the centroid of the area bounded by the parabola y^2 = 4x, the line y - 2 = 0 and the y-axis.",
+        "options": {
+            "a": "6/5, 3",
+            "b": "2/5, 3/2",
+            "c": "3/5, 3",
+            "d": "4/5, 3"
+        },
+        "answer": "b",
+        "correct_answer_text": "2/5, 3/2",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 1741,
+        "question": "Given the area in the first quadrant bounded by x^2 = 8y, the line y = 4 and the y-axis. What is the volume generated when this area is revolved about the x-axis?",
+        "options": {
+            "a": "20.32 cu units",
+            "b": "34.45 cu units",
+            "c": "40.21 cu units",
+            "d": "45.56 cu units"
+        },
+        "answer": "c",
+        "correct_answer_text": "40.21 cu units",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 1742,
+        "question": "The first term of an arithmetic progression is 6. The 8th term is 15. What is the 20th term?",
+        "options": {
+            "a": "50",
+            "b": "51",
+            "c": "67",
+            "d": "45"
+        },
+        "answer": "c",
+        "correct_answer_text": "67",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 1743,
+        "question": "Evaluate the limit: lim x->0 (ln cos x) / x^2",
+        "options": {
+            "a": "-1/2",
+            "b": "2/3",
+            "c": "-1/3",
+            "d": "0"
+        },
+        "answer": "a",
+        "correct_answer_text": "-1/2",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 1744,
+        "question": "The adjoint is the product of the inverse and the determinant of a matrix. Find the adjoint of the matrix A = [[0, -1, 7], [1.25, -0.25, 0.75], [-0.5, 0.5, -0.5]]:",
+        "options": {
+            "a": "[[5, -1, 3], [-2, 2, -2], [1, -1, 3]]",
+            "b": "[[4, -1, 7], [-2, 2, -2], [5, -3, 1]]",
+            "c": "[[1, 8, 3], [-6, 2, 2], [1, -1, 4]]",
+            "d": "[[9, 0, -2], [1, 5, 0], [3, 0, 1]]"
+        },
+        "answer": "a",
+        "correct_answer_text": "[[5, -1, 3], [-2, 2, -2], [1, -1, 3]]",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 1745,
+        "question": "Convert the binary number 11010110 into its hexadecimal equivalent:",
+        "options": {
+            "a": "D6",
+            "b": "A12",
+            "c": "67",
+            "d": "19E"
+        },
+        "answer": "a",
+        "correct_answer_text": "D6",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 1746,
+        "question": "Solve the equation x^3 - 2x^2 - x + 2 = 0:",
+        "options": {
+            "a": "1, 2, -1",
+            "b": "1, 2, -2",
+            "c": "1, -1, -2",
+            "d": "2, -2, 0"
+        },
+        "answer": "a",
+        "correct_answer_text": "1, 2, -1",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 1747,
+        "question": "The remainder of a polynomial f(x) divided by x-a is R=f(a). Find the remainder when 3x^2 - 4x + 2 is divided by (x-2):",
+        "options": {
+            "a": "3",
+            "b": "9",
+            "c": "6",
+            "d": "1"
+        },
+        "answer": "c",
+        "correct_answer_text": "6",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 1748,
+        "question": "Find the sum of the first 12 terms of the series 5, 9, 13, 17...",
+        "options": {
+            "a": "324",
+            "b": "322",
+            "c": "317",
+            "d": "334"
+        },
+        "answer": "a",
+        "correct_answer_text": "324",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 1749,
+        "question": "Convert 7431 (octal) into hexadecimal:",
+        "options": {
+            "a": "D90",
+            "b": "119",
+            "c": "F19",
+            "d": "A74"
+        },
+        "answer": "c",
+        "correct_answer_text": "F19",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    }
+]

@@ -1,0 +1,280 @@
+[
+    {
+        "question": "A 230 V D.C. shunt motor takes 32 A at full load. Find the back e.m.f. on full load if the resistances of motor armature and shunt field windings are 0.2 ohm and 115 ohms respectively.",
+        "options": {
+            "a": "245 V",
+            "b": "224 V",
+            "c": "319 V",
+            "d": "326 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Machines",
+        "id": 949
+    },
+    {
+        "question": "The power input to a 230 volts D.C. shunt motor is 8.477 kW. The field resistance is 230 $\\Omega$ and armature resistance is 0.28 $\\Omega$. Find the back e.m.f.",
+        "options": {
+            "a": "231.56 V",
+            "b": "282.51 V",
+            "c": "219.96 V",
+            "d": "203.54 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Machines",
+        "id": 950
+    },
+    {
+        "question": "A six-pole lap-connected 230 V shunt motor has 410 armature conductors. It takes 41 A on full load. The flux per pole is 0.05 weber. The armature and field resistances are 0.1 ohm and 230 ohms respectively. Contact drop per brush = 1 V.",
+        "options": {
+            "a": "783 rpm",
+            "b": "656 rpm",
+            "c": "485 rpm",
+            "d": "590 rpm"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 951
+    },
+    {
+        "question": "A 250 volt d.c. shunt motor, on no load, runs at 1000 rpm and takes 5 A. The field and armature resistances are 250 ohms and 0.25 ohm respectively. Calculate the speed when the motor is loaded such that it takes 41 A if the armature reaction weakens the field by 3%.",
+        "options": {
+            "a": "993.67 rpm",
+            "b": "898.76 rpm",
+            "c": "997.44 rpm",
+            "d": "989.56 rpm"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Machines",
+        "id": 952
+    },
+    {
+        "question": "A 120 volt d.c. shunt motor has an armature resistance of 0.2 ohms and a field resistance of 60 ohms. The full-load line current is 60 A and full-load speed is 1800 r.p.m. If the brush contact drop is 3 V, find the speed of the motor at half-load.",
+        "options": {
+            "a": "1899 rpm",
+            "b": "1774 rpm",
+            "c": "1857 rpm",
+            "d": "1804 rpm"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Machines",
+        "id": 953
+    },
+    {
+        "question": "A 440 V, 4-pole, lap connected shunt motor has a no-load input current of 15 A and a shunt field current of 10 A. At full-load it takes a current of 150 A. If armature resistance = 0.1 ohm, flux per pole on no-load = 0.05 weber, number of armature conductors = 750 and contact drop per brush = 1 V, calculate the speed regulation. Assuming that the armature reaction weakens the field by 1% on full load.",
+        "options": {
+            "a": "2.493%",
+            "b": "1.893%",
+            "c": "0.764%",
+            "d": "1.637%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 954
+    },
+    {
+        "question": "A 8-pole 240 V lap-wound, series motor has armature and series field resistances of 0.2 ohm and 0.02 ohm respectively. There are 660 armature conductors. If the flux/pole is 0.3 Wb and the total torque developed in the armature is 320 Nm, find the current taken by the motor and its speed.",
+        "options": {
+            "a": "632.5 rpm",
+            "b": "659.6 rpm",
+            "c": "678.6 rpm",
+            "d": "710.5 rpm"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 955
+    },
+    {
+        "question": "A six-pole, lap-wound 400 V series motor has the following data: Number of armature conductors = 920, flux/pole = 0.045 Wb, total motor resistance = 0.6 ohm, iron and friction losses = 2 kW. If the current taken by the motor is 90 A, the power output is most nearly:",
+        "options": {
+            "a": "38 kW",
+            "b": "21 kW",
+            "c": "78 kW",
+            "d": "29 kW"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 956
+    },
+    {
+        "question": "The armature circuit resistance of a 18.65 kW 250-V series motor is 0.1 $\\Omega$, the brush voltage drop is 3V, and the series field resistance is 0.05. When the motor takes 80 A, speed is 600 r.p.m. Calculate the speed when the current is 100 A.",
+        "options": {
+            "a": "474 rpm",
+            "b": "530 rpm",
+            "c": "490 rpm",
+            "d": "620 rpm"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Machines",
+        "id": 957
+    },
+    {
+        "question": "A 20-kW Siemens-N1000 d.c. shunt generator delivering rated output at 1000 r.p.m. has a terminal voltage of 500 V. The armature resistance is 0.1 $\\Omega$, voltage drop per brush is 1 volt and the field resistance is 500 $\\Omega$. Calculate the speed at which the machine will run as a motor taking an input of 20 kW from a 500 V d.c. supply.",
+        "options": {
+            "a": "976.1 rpm",
+            "b": "908.3 rpm",
+            "c": "943.3 rpm",
+            "d": "911.5 rpm"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Machines",
+        "id": 958
+    },
+    {
+        "question": "A three phase, \u0394-Y transformer with rating 100 kVA, 11 kV/400 has its primary and secondary leakage reactance as 12 \u03a9/phase and 0.05 \u03a9/phase respectively. Calculate the p.u. reactance of transformer. A. 0.0346 pu",
+        "options": {
+            "b": "0.0411 pu",
+            "c": "0.0726 pu",
+            "d": "0.0371 pu"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 959
+    },
+    {
+        "question": "A three phase \u0394-Y transformer is constructed using three identical single phase transformers of rating 200 kVA, 63.51 kV/11 kV transformer. The impedances of primary and secondary are 20 + j45\u03a9 and 0.1 + j0.2\u03a9 respectively. Calculate the p.u. impedance of the transformer.",
+        "options": {
+            "a": "0.0015 + j0.0074 pu",
+            "c": "0.0024 + j0.0074 pu",
+            "d": "0.0024 + j0.0032 pu"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 960
+    },
+    {
+        "question": "A 120 MVA, 19.5 kV generator has a synchronous reactance of 0.15 p.u. and it is connected to a transmission line through a transformer rated 150 MVA, 230/18 kV (Y/\u0394) with X = 0.1 pu. Calculate the p.u. reactances for a base value of 100 MVA and 220 kV on HT side of transformer.",
+        "options": {
+            "a": "0.0675 p.u. for the transformer and 0.1417 p.u. for the generator",
+            "b": "0.0675 p.u. for the transformer and 0.1603 p.u. for the generator",
+            "c": "0.0729 p.u. for the transformer and 0.1417 p.u. for the generator",
+            "d": "0.0729 p.u. for the transformer and 0.1603 p.u. for the generator"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transmission Lines",
+        "id": 961
+    },
+    {
+        "question": "A 50 kW, three phase, Y connected load is fed by a 200 kVA transformer with voltage rating 11 kV/400 V through a feeder. The length of the feeder is 0.5 km and the impedance of the feeder is 0.1+j0.2 \u03a9/km. If the load p.f. is 0.8, calculate the p.u. impedance of the load based on the transformer rating?",
+        "options": {
+            "a": "1.45 + j0.87 p.u.",
+            "b": "2.56 + j1.92 p.u.",
+            "c": "0.62 + j0.67 p.u.",
+            "d": "none of these"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Powerplants",
+        "id": 962
+    },
+    {
+        "question": "Two 3-phase alternators A and B are connected on a single bus bar to a 12 kV-transmission line. Alternator A is rated at 15 MVA and 30% p.u. reactance and alternator B is rated at 20 MVA and 50 p.u. reactance. Determine the short-circuit current if the fault occurs on the transmission line:",
+        "options": {
+            "a": "3650 A",
+            "b": "5270 A",
+            "c": "4330 A",
+            "d": "6890 A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Fault Analysis",
+        "id": 963
+    },
+    {
+        "question": "A synchronous generator rated for 30,000 kVA, 13.2 kV and a motor both have subtransient reactance of 20%. The line connecting them has a reactance of 10% on the base of generator rating. The motor is drawing 20,000 kW at 0.8 pf leading. The terminal voltage of the motor is 12.8 kV. When a symmetrical three-phase fault occurs at motor terminals, find the subtransient current during the fault?",
+        "options": {
+            "a": "17.8 kA",
+            "b": "10.2 kA",
+            "c": "4.5 kA",
+            "d": "23.4 kA"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Fault Analysis",
+        "id": 964
+    },
+    {
+        "question": "A 3-phase transmission line operating at 10 kV and having a resistance of 1\u03a9 and reactance of 4 \u03a9 is connected to the generating station bus-bars through 5 MVA step-up transformer having a reactance of 5% p.u. The bus-bars are supplied by a 10 MVA alternator having 10% p.u. reactance. Calculate the short-circuit kVA fed to symmetrical fault between phases if it occurs at the high voltage terminals of the transformer.",
+        "options": {
+            "a": "13,700 kVA",
+            "b": "16,440 kVA",
+            "c": "50,000 kVA",
+            "d": "53,200 kVA"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Fault Analysis",
+        "id": 965
+    },
+    {
+        "question": "The section bus-bars A and B are linked by a bus-bar reactor rated at 5000 kVA with 10% per unit reactance. On bus-bar A, there are two generators G1 and G2 each of 10,000 kVA with 10% per unit reactance and on B two generators G3 and G4 each of 8000 kVA with 12% per unit reactance. Find the steady fault MVA fed into a dead short circuit at section B with bus-bar reactor in the circuit.",
+        "options": {
+            "a": "173.31 MVA",
+            "b": "89.34 MVA",
+            "c": "233.33 MVA",
+            "d": "56.78 MVA"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Fault Analysis",
+        "id": 966
+    },
+    {
+        "question": "A 10 MVA, 6.6 kV, 3-phase star-connected alternator having a reactance of 20% p.u. is connected through a 5 MVA, 6.6 kV/33 kV transformer of 10% p.u. reactance to a transmission line having a resistance and reactance per conductor per kilometre of 0.2 \u03a9 and 1 \u03a9 respectively. Fifty kilometres along the line, a fault occurs at the load end. Find the current fed to the fault by the alternator:",
+        "options": {
+            "a": "213 A",
+            "b": "1012 A",
+            "c": "3450 A",
+            "d": "710 A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Fault Analysis",
+        "id": 967
+    },
+    {
+        "question": "The plant capacity of a 3-phase generating station consists of two 8 MVA generators of reactance 14.5% each and one 4 MVA generator of reactance 9.5%. These are connected to a common bus-bar from which loads are taken through a number of 3 MVA step-up transformers each having 4% reactance. Determine the MVA rating of the circuit breakers on H.V. side. Reactances given are based on the MVA of each equipment.",
+        "options": {
+            "a": "50.25 MVA",
+            "b": "34.89 MVA",
+            "c": "67.34 MVA",
+            "d": "27.93 MVA"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Powerplants",
+        "id": 968
+    }
+]

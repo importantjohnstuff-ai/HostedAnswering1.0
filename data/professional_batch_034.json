@@ -1,0 +1,274 @@
+[
+    {
+        "question": "The auto-transformer is most advantageous when the ratio of transformation is:",
+        "options": {
+            "a": "Very high",
+            "c": "Exactly 2:1",
+            "d": "Unknown"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1529
+    },
+    {
+        "question": "The oil in an oil-immersed transformer serves mainly to:",
+        "options": {
+            "a": "Conduct electricity",
+            "c": "Generate flux",
+            "d": "Clean the windings"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1530
+    },
+    {
+        "question": "A delta-connected primary with a grounded neutral on the secondary is used primarily for:",
+        "options": {
+            "a": "Reducing voltage surges",
+            "c": "Increasing power factor",
+            "d": "Reducing iron losses"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1531
+    },
+    {
+        "question": "The efficiency of a transformer is highest when: A) Copper losses = Iron losses",
+        "options": {
+            "b": "Copper losses > Iron losses",
+            "c": "Copper losses < Iron losses",
+            "d": "Load current is zero"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1532
+    },
+    {
+        "question": "The no-load losses of a transformer are mainly due to:",
+        "options": {
+            "a": "Copper resistance",
+            "b": "Flux leakage",
+            "c": "Windage and friction"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1533
+    },
+    {
+        "question": "If the secondary winding of a transformer is shorted, the primary current will:",
+        "options": {
+            "a": "Drop to zero",
+            "c": "Remain the same",
+            "d": "Reverse direction"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1534
+    },
+    {
+        "question": "The primary side of a transformer draws more current when: A) Load increases",
+        "options": {
+            "b": "Voltage decreases",
+            "c": "Frequency increases",
+            "d": "Secondary is open"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1535
+    },
+    {
+        "question": "The polarity test of a transformer is done to determine:",
+        "options": {
+            "a": "Primary inductance",
+            "c": "Copper losses",
+            "d": "Insulation level"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1536
+    },
+    {
+        "question": "In an RL circuit, $E = \\text{supply voltage (200 volts)}$, $R = \\text{resistance (20 ohms)}$, $L = \\text{inductance (1 henry)}$, $t = \\text{time in seconds}$, $i = \\text{current in amperes}$. $i = 0$ when $t = 0$, find $i$ after a long time.",
+        "options": {
+            "a": "110 A",
+            "b": "112 A",
+            "c": "12 A",
+            "d": "10 A"
+        },
+        "answer": "d",
+        "correct_answer_text": "10 A",
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Electromagnetism",
+        "id": 1537
+    },
+    {
+        "question": "A coil has a resistance of 10 ohms and a time constant of 1 second. If the coil is connected across a steady potential of 24 V, how much is the current after 2 ms?",
+        "options": {
+            "a": "1.76 V",
+            "b": "2.352 V",
+            "c": "3.248 V",
+            "d": "5.633 V"
+        },
+        "answer": "c",
+        "correct_answer_text": "3.248 V",
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1538
+    },
+    {
+        "question": "The shunt winding of a machine has a resistance of 80 ohms and an inductance of 4 H is suddenly switched on to a 220-V. Find the time taken for the current to rise to half its steady-state value.",
+        "options": {
+            "a": "0.05 sec.",
+            "b": "0.0346 sec",
+            "c": "0.0251 sec",
+            "d": "0.0172 sec"
+        },
+        "answer": "b",
+        "correct_answer_text": "0.0346 sec",
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1539
+    },
+    {
+        "question": "A 6.0 H coil whose resistance is 12 ohms is connected in series with a 24 ohms-resistor and to a 144 V battery and a switch. The switch is closed at $t = 0$. Determine the current at $t = 0.1$ second.",
+        "options": {
+            "a": "1.538 A",
+            "b": "1.750 A",
+            "c": "1.805 A",
+            "d": "1.624 A"
+        },
+        "answer": "c",
+        "correct_answer_text": "1.805 A",
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1540
+    },
+    {
+        "question": "A resistance of 100 k$\\Omega$ is connected in series with a 100 $\\mu$F capacitor. The combination is suddenly connected across a 125 V DC source. Determine the current one second after the switch is closed.",
+        "options": {
+            "a": "108.6 V",
+            "b": "113.1 V",
+            "c": "78.97 V",
+            "d": "none of these"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1541
+    },
+    {
+        "question": "A 100 pF capacitor initially charged to 24 V is discharged across a combination of a 1 k$\\Omega$ resistor and a 200 pF capacitor. Find the current after 1 microsec?",
+        "options": {
+            "a": "7.34 nA",
+            "b": "7.24 nA",
+            "c": "8.43 nA",
+            "d": "8.84 nA"
+        },
+        "answer": "a",
+        "correct_answer_text": "7.34 nA",
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1542
+    },
+    {
+        "question": "A series RLC circuit has $R = 40 \\text{ ohms}$, $L = 100 \\text{ mH}$ and $C = 50 \\text{ uF}$. The circuit is connected across an ac source of $100 \\sin 344t \\text{ volts}$. Determine the rms voltage of the resulting current:",
+        "options": {
+            "a": "253 mA",
+            "b": "218 mA",
+            "c": "189 mA",
+            "d": "152 mA"
+        },
+        "answer": "d",
+        "correct_answer_text": "152 mA",
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1543
+    },
+    {
+        "question": "An RLC circuit is composed of a 3 ohm resistor, 4 uF capacitor and 0.002 H inductor. The combination is connected to a source of 240 V, 50 Hz supply. Determine the rms current of the circuit at steady state:",
+        "options": {
+            "a": "142 mA",
+            "b": "159 mA",
+            "c": "218 mA",
+            "d": "331 mA"
+        },
+        "answer": "c",
+        "correct_answer_text": "218 mA",
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1544
+    },
+    {
+        "question": "A 0.1 uF capacitor, initially charged to 230 V, is discharged through a 3-megaohm resistor. Find the capacitor voltage 0.2 s after the capacitor starts to discharge.",
+        "options": {
+            "a": "118 V",
+            "b": "209 V",
+            "c": "103 V",
+            "d": "87 V"
+        },
+        "answer": "a",
+        "correct_answer_text": "118 V",
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1545
+    },
+    {
+        "question": "A coil for a relay has a resistance of 20 $\\Omega$ and an inductance of 1.2 H. The relay requires 300 mA to operate. How soon will the relay operate after a 20-V source with 5 ohm of internal resistance is applied to the coil?",
+        "options": {
+            "a": "45.6 ms",
+            "b": "22.6 ms",
+            "c": "13.8 ms",
+            "d": "87.6 ms"
+        },
+        "answer": "b",
+        "correct_answer_text": "22.6 ms",
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1546
+    },
+    {
+        "question": "A switch closing connects in series a 10-V source, an 8.2-ohm resistor, and a 1.2-H inductor. How long does the current take to reach its maximum value, and what is this value?",
+        "options": {
+            "a": "0.67 A",
+            "b": "1.83 A",
+            "c": "0.97 A",
+            "d": "1.22 A"
+        },
+        "answer": "d",
+        "correct_answer_text": "1.22 A",
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1547
+    },
+    {
+        "question": "A ballroom floor 12.2 m x 24.4 m is to be illuminated by fluorescent lamps having an output of 1300 lumens per lamp arranged in 4 rows. The maintenance factor and utilization factor are 0.7 and 0.6 respectively. If the required illumination is 100 lux, calculate the number of fixtures required in each row.",
+        "options": {
+            "a": "23 lamps per row",
+            "b": "14 lamps per row",
+            "c": "8 lamps per row",
+            "d": "40 lamps per row"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1548
+    }
+]

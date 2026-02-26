@@ -1,0 +1,282 @@
+[
+    {
+        "question": "In a 3-phase, 4-wire system, the currents in R, Y and B lines under abnormal conditions of loading are as under : IR = 100 \u222030\u00ba A ; IY = 50 \u2220300\u00ba A ; IB = 30 \u2220180\u00ba A Calculate the negative sequence current in the red phase:",
+        "options": {
+            "a": "18.96 A",
+            "b": "11.34 A",
+            "c": "5.67 A",
+            "d": "8.23 A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Fault Analysis",
+        "id": 969
+    },
+    {
+        "question": "The currents in a 3-phase unbalanced system are : IR = (12 + j 6) A ; IY = (12 \u2013 j 12) A ; IB = (-15 + j 10) A. The phase sequence is RYB. Calculate the positive phase sequence component of the current in the red phase.",
+        "options": {
+            "a": "3.89 A",
+            "b": "5.81 A",
+            "c": "6.23 A",
+            "d": "5.77 A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Fault Analysis",
+        "id": 970
+    },
+    {
+        "question": "The sequence voltages in the red phase are as under : ER0 = 100 V ; ER1 = (200 \u2013 j 100) V ; ER2 = \u2013 100 V Find the phase voltage of E_B",
+        "options": {
+            "a": "453.89 cis 62.4 volts",
+            "b": "243.35 cis 68.9 volts",
+            "c": "657.89 cis 73.6 volts",
+            "d": "338.57 cis 66.2 volts"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Fault Analysis",
+        "id": 971
+    },
+    {
+        "question": "The sequence ampacity in the C-phase of and ABC transmission are I_C0 = 7.4 cis 45 deg Amps, I_C1 = 3.8 cis -86 deg Amps and I_C2 = 10.3 cis -126 deg Amps. Determine the total current on the A- phase:",
+        "options": {
+            "a": "13.4 A",
+            "b": "11.8 A",
+            "c": "8.22 A",
+            "d": "9.41 A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Fault Analysis",
+        "id": 972
+    },
+    {
+        "question": "A 3-phase, 10 MVA, 11 kV generator with a solidly earthed neutral point supplies a feeder. The relevant impedances of the generator and feeder in ohms are as under : | Sequence Impedance | Generator | Feeder | |---|---|---| | Positive | j 1.2 | j 1.0 | | Negative | j 0.9 | j 1.0 | | Zero | j 0.4 | j 3.0 | The fault current is most nearly :",
+        "options": {
+            "a": "+j6352 A",
+            "b": "-j3219 A",
+            "c": "-j2538 A",
+            "d": "+j1383 A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Fault Analysis",
+        "id": 973
+    },
+    {
+        "question": "A 3-phase, 11 kV, 25 MVA generator with X0 = 0.05 p.u., X1 = 0.2 p.u. and X2 = 0.2 p.u. is grounded through a reactance of 0.3 \u03a9. Calculate the fault current for a single line to ground fault.",
+        "options": {
+            "a": "6188 A",
+            "b": "6763 A",
+            "c": "6304 A",
+            "d": "6089 A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Fault Analysis",
+        "id": 974
+    },
+    {
+        "question": "A 3-phase, 3-wire system has a normal voltage of 10.4 kV between the lines. It is supplied by a generator having positive, negative and zero sequence reactances of 0.6, 0.5 and 0.2 \u03a9 per phase respectively. Calculate the fault current which flows when a line-to line fault occurs at the generator terminals.",
+        "options": {
+            "a": "8624.6 A",
+            "b": "9445.6 A",
+            "c": "3494.5 A",
+            "d": "5985.7 A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Fault Analysis",
+        "id": 975
+    },
+    {
+        "question": "The per unit values of positive, negative and zero sequence reactances of a network at fault are 0.08, 0.07 and 0.05. Determine the fault current if the fault is double line-to ground.",
+        "options": {
+            "a": "j34 p.u. amperes",
+            "b": "j67 p.u. amperes",
+            "c": "j21 p.u. amperes",
+            "d": "j12 p.u. amperes"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Fault Analysis",
+        "id": 976
+    },
+    {
+        "question": "A 3-phase, 12 MVA, 6 kV synchronous motor has the impedance phase sequences X = 0.05, X' = j0.05 and X\" = 0.05 - j0.05. Determine the line to ground fault current possible:",
+        "options": {
+            "a": "41,280 A",
+            "b": "34,640 A",
+            "c": "23,250 A",
+            "d": "12,890 A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Fault Analysis",
+        "id": 977
+    },
+    {
+        "question": "A 3-phase, 12 MVA, 6 kV synchronous motor has the impedance phase sequences X = 0.05, X' = j0.05 and X\" = 0.05 - j0.05. Determine the line to ground fault current possible:",
+        "options": {
+            "a": "41,280 A",
+            "b": "34,640 A",
+            "c": "23,250 A",
+            "d": "12,890 A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Fault Analysis",
+        "id": 978
+    },
+    {
+        "question": "REELE Aug2023. Find out the negative-phase sequence component of the B-line from the following set of three unbalanced voltage vectors: VA = 10 cis 30\u00b0 VB = 30 cis -60\u00b0 and VC = 15 cis145\u00b0 volts",
+        "options": {
+            "a": "6.78 cis -78.5 A",
+            "b": "9.12 cis -14.6 A",
+            "c": "8.24 cis -36.2 A",
+            "d": "10.7 cis -18.5 A```"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Fault Analysis",
+        "id": 979
+    },
+    {
+        "question": "A lamp has a mean spherical candle power of 30. Calculate the total flux of light from the lamp.",
+        "options": {
+            "a": "344 lumens",
+            "b": "377 lumens",
+            "c": "256 lumens",
+            "d": "419 lumens"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 980
+    },
+    {
+        "question": "A 230-V lamp has a total flux of 2,000 lumens and takes a current of 0.4348 A. Calculate the MSCP per watt.",
+        "options": {
+            "a": "1.3982",
+            "b": "1.438",
+            "c": "1.592",
+            "d": "1.720"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 981
+    },
+    {
+        "question": "A 200-V lamp takes a current of 1.2 A, it produces a total flux of 2,860 lumens. Calculate the MSCP of the lamp:",
+        "options": {
+            "a": "227.59",
+            "b": "342.56",
+            "c": "218.23",
+            "d": "424.88"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 982
+    },
+    {
+        "question": "A room with an area of 6 x 9 m is illustrated by ten 80-W lamps. The luminous efficiency of the lamp is 80 lumens/W and the coefficient of utilization is 0.65. Find the average illumination.",
+        "options": {
+            "a": "675.78 lux",
+            "b": "343.89 lux",
+            "c": "770.37 lux",
+            "d": "896.67 lux"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 983
+    },
+    {
+        "question": "Two lamps are hung at a height of 6 m from the floor level. The distance between the lamps is 8 m. Lamp one is of 500 CP. If the illumination on the floor vertically below this lamp is 20 lux, find the candle power of the second lamp.",
+        "options": {
+            "a": "1018 CP",
+            "b": "2190 CP",
+            "c": "890 CP",
+            "d": "1450 CP"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 984
+    },
+    {
+        "question": "Two lamps A and 6B having intensities of 300 cp and 500 cp respectively are situated 12 ft apart. A screen is placed between them in order that the illuminations on any sides are equal, how much is this illumination?",
+        "options": {
+            "a": "11.45 fc",
+            "b": "10.92 fc",
+            "c": "12.45 fc",
+            "d": "13.15 fc"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 985
+    },
+    {
+        "question": "Two sources of candle power or luminous intensity 200 candela and 250 candela are mounted at 8 and 10 m, respectively. The horizontal distance between the lamp posts is 40 m, calculate the illumination in the middle of the posts.",
+        "options": {
+            "a": "0.2145 lux",
+            "b": "0.3825 lux",
+            "c": "0.9648 lux",
+            "d": "0.6741 lux"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 986
+    },
+    {
+        "question": "A 100-cd lamp, which emits light uniformly in all directions, is suspended 2.5 m above the center of the working table, which is 3 m square. Calculate the illumination at each corner of the table.",
+        "options": {
+            "a": "29.56 lux",
+            "b": "26.63 lux",
+            "c": "24.94 lux",
+            "d": "28.38 lux"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 987
+    },
+    {
+        "question": "A lamp of 500 cd is placed at the center of a room, 20 m x 10 m x 5 m. Calculate the illumination in each corner of the floor.",
+        "options": {
+            "a": "0.83 lux",
+            "b": "0.81 lux",
+            "c": "0.78 lux",
+            "d": "0.98 lux"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 988
+    }
+]

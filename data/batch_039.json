@@ -1,0 +1,282 @@
+[
+    {
+        "id": 1850,
+        "question": "The base edge of a regular pentagonal prism is 6 cm and its bases are 12 cm apart. Find its volume in cu. cm.",
+        "options": {
+            "a": "743.22 cm3",
+            "b": "786.89 cm3",
+            "c": "567.45 cm3",
+            "d": "842.12 cm3"
+        },
+        "answer": "a",
+        "correct_answer_text": "743.22 cm3",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 1851,
+        "question": "Find the eccentricity of the curve: 9X^2 - 4Y^2 - 36X + 8Y = 4",
+        "options": {
+            "a": "1.76",
+            "b": "1.80",
+            "c": "1.86",
+            "d": "1.92"
+        },
+        "answer": "b",
+        "correct_answer_text": "1.80",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 1852,
+        "question": "The locus of a point that moves so that its distance from fixed point and a line is always equal is known as",
+        "options": {
+            "a": "a parabola",
+            "b": "a hyperbola",
+            "c": "a circle",
+            "d": "an ellipse"
+        },
+        "answer": "a",
+        "correct_answer_text": "a parabola",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 1853,
+        "question": "Find the equation of the circle with the center at (-4, -5) and tangent to the line 2x + 7y - 10 = 0",
+        "options": {
+            "a": "x2+y2+8x-10y-12=0",
+            "b": "x2+y2+8x-10y+12=0",
+            "c": "x2+y2+8x+10y-12=0",
+            "d": "x2+y2-8x+10y+12=0"
+        },
+        "answer": "c",
+        "correct_answer_text": "x2+y2+8x+10y-12=0",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 1854,
+        "question": "A surveyor measures the angle of elevation of the top of a perpendicular building as 19. He moves 120m nearer the building and finds the angle of elevation is now 47. Determine the height of the building.",
+        "options": {
+            "a": "60.85 m",
+            "b": "65.42 m",
+            "c": "43.21 m",
+            "d": "48.21 m"
+        },
+        "answer": "b",
+        "correct_answer_text": "65.42 m",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 1855,
+        "question": "A quadrilateral ABCD has vertices at A(0,0), B(4,0), C(4,3), D(0,3). The centroid (center of mass assuming uniform density) is located at:",
+        "options": {
+            "a": "(2,1.5)",
+            "b": "(2,2)",
+            "c": "(1.5,2)",
+            "d": "(3,1.5)"
+        },
+        "answer": "a",
+        "correct_answer_text": "(2,1.5)",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 1856,
+        "question": "If an equilateral triangle is circumscribed about a circle of radius 10-cm, determine the side of the triangle.",
+        "options": {
+            "a": "34.64",
+            "b": "64.12",
+            "c": "36.44",
+            "d": "32.1"
+        },
+        "answer": "a",
+        "correct_answer_text": "34.64",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 1857,
+        "question": "Three spheres of radii 1, 2 and 3 inches, respectively, are melted and formed into a new sphere. Find the radius of this new sphere.",
+        "options": {
+            "a": "3.3",
+            "b": "4.3",
+            "c": "5",
+            "d": "6"
+        },
+        "answer": "a",
+        "correct_answer_text": "3.3",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 1858,
+        "question": "A polygon has 350 diagonals. How many sides are there?",
+        "options": {
+            "a": "28",
+            "b": "25",
+            "c": "32",
+            "d": "30"
+        },
+        "answer": "a",
+        "correct_answer_text": "28",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 1859,
+        "question": "Point masses at A(0,0) of 2 kg, B(4,0) of 1kg, C(5,2) of 3kg, D(1,3) of 4 kg. The centroid is closest to:",
+        "options": {
+            "a": "(2.10, 1.70)",
+            "b": "(2.30, 1.80)",
+            "c": "(2.50, 1.50)",
+            "d": "(2.80, 1.90)"
+        },
+        "answer": "b",
+        "correct_answer_text": "(2.30, 1.80)",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 1860,
+        "question": "The slope of the line joining (2,-3) and the midpoint of the line segment joining (0,4) and (5,-2) is",
+        "options": {
+            "a": "8",
+            "b": "-8",
+            "c": "3",
+            "d": "-3"
+        },
+        "answer": "a",
+        "correct_answer_text": "8",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 1861,
+        "question": "Find the distance from the point (2,3) to the line 3x + 4y + 9 = 0",
+        "options": {
+            "a": "5",
+            "b": "5.4",
+            "c": "5.8",
+            "d": "6.2"
+        },
+        "answer": "b",
+        "correct_answer_text": "5.4",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 1862,
+        "question": "Find the acute angle formed by the lines 2x + y - 8 = 0 and x + 3y + 4 = 0",
+        "options": {
+            "a": "30°",
+            "b": "35°",
+            "c": "45°",
+            "d": "60°"
+        },
+        "answer": "c",
+        "correct_answer_text": "45°",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 1863,
+        "question": "Masses of 2 kg at (0,0), 3kg at (4,0), 1 kg at (5,2), 4 kg at (2,4), and 2 kg at (-1,2). The centroid is:",
+        "options": {
+            "a": "(1.92, 1.83)",
+            "b": "(2.10, 1.70)",
+            "c": "(2.25, 2.00)",
+            "d": "(1.75, 1.50)"
+        },
+        "answer": "a",
+        "correct_answer_text": "(1.92, 1.83)",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 1864,
+        "question": "A trough is 8 ft long and has a trapezoidal sides that is 3 ft on the top and 2 feet at the bottom, and 1 foot deep. The trough contains gasoline to a height of 0.8 ft. Determine the volume of gasoline:",
+        "options": {
+            "a": "12.86 ft3",
+            "b": "17.54 ft3",
+            "c": "10.97 ft3",
+            "d": "16.64 ft3"
+        },
+        "answer": "d",
+        "correct_answer_text": "16.64 ft3",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 1865,
+        "question": "The angle which the line of sight to the object makes with the horizontal which is above the eye of the observer is called as:",
+        "options": {
+            "a": "Angle of elevation",
+            "b": "Angle of depression",
+            "c": "Acute angle",
+            "d": "Bearing"
+        },
+        "answer": "a",
+        "correct_answer_text": "Angle of elevation",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 1866,
+        "question": "Masses on a hexagon 2 kg at (0,0), 2 kg at (4,0), 1kg at (6,2), 3kg at (5,5), 2 kg at (2,6), 2 kg at (-1,3). The centroid is:",
+        "options": {
+            "a": "(2.58, 2.92)",
+            "b": "(2.40, 2.60)",
+            "c": "(2.75, 3.10)",
+            "d": "(2.20, 2.80)"
+        },
+        "answer": "b",
+        "correct_answer_text": "(2.40, 2.60)",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 1867,
+        "question": "What is the largest diameter circle in inches that will fit inside a regular pentagon with 2 in. sides?",
+        "options": {
+            "a": "1.23",
+            "b": "2.752",
+            "c": "1.534",
+            "d": "6.234"
+        },
+        "answer": "b",
+        "correct_answer_text": "2.752",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 1868,
+        "question": "A frustum of a cone has a lower base of 10 in. and an upper radius of 5 in. Determine the volume if the height is 12 inches?",
+        "options": {
+            "a": "400pi",
+            "b": "50pi",
+            "c": "600pi",
+            "d": "700pi"
+        },
+        "answer": "d",
+        "correct_answer_text": "700pi",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 1869,
+        "question": "The acute angle between the two straight lines: y = 3x + 2 and y = 4x + 7 is close to:",
+        "options": {
+            "a": "0.4",
+            "b": "90°",
+            "c": "4.39°",
+            "d": "5.19°"
+        },
+        "answer": "c",
+        "correct_answer_text": "4.39°",
+        "category": "Math",
+        "sub_category": "Geometry"
+    }
+]

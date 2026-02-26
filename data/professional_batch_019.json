@@ -1,0 +1,282 @@
+[
+    {
+        "question": "For a series resonance circuit, when the frequency is set such that the value is less than the resonance frequency:",
+        "options": {
+            "a": "the circuit is inductive",
+            "b": "the circuit is capacitive",
+            "c": "the circuit is resistive",
+            "d": "it depends on the values of R, L and C."
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1229
+    },
+    {
+        "question": "A capacitor and resistor in series have an impedance of $1.34 \\angle -45^\\circ \\text{ k}\\Omega$ at 400 Hz. Find the capacitance and resistance.",
+        "options": {
+            "a": "$0.47 \\mu\\text{F}, 673 \\Omega$",
+            "b": "$0.47 \\mu\\text{F}, 948 \\Omega$",
+            "c": "$0.56 \\mu\\text{F}, 673 \\Omega$",
+            "d": "$0.56 \\mu\\text{F}, 948 \\Omega$"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1230
+    },
+    {
+        "question": "A load has a voltage of $240 \\angle 75^\\circ V$ and a current of $20 \\angle 60^\\circ A$ at a frequency of 60 Hz. Find the two-element series circuit that the load can be.",
+        "options": {
+            "a": "15.7-ohm resistor and an 8.24-mH inductor",
+            "b": "11.6-ohm resistor and an 8.24-mH inductor",
+            "c": "15.7-ohm resistor and an 23.4-mH inductor",
+            "d": "15.7-ohm resistor and an 23.4-mH inductor"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1231
+    },
+    {
+        "question": "A 100-ohm resistor is in series with a 120-mH inductor. At what frequency do the circuit voltage and current have a phase angle difference at 35\u00b0?",
+        "options": {
+            "a": "60.0 Hz",
+            "b": "92.9 Hz",
+            "c": "55 Hz",
+            "d": "100 Hz"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1232
+    },
+    {
+        "question": "What resistor in series with a 2-H inductor limits the current to 120 mA when 120 V at 60 Hz is applied?",
+        "options": {
+            "a": "$657 \\Omega$",
+            "b": "$116 \\Omega$",
+            "c": "$272 \\Omega$",
+            "d": "$1090 \\Omega$"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1233
+    },
+    {
+        "question": "Two circuit elements in series draw a current of $24 \\sin(5000t - 10^\\circ) mA$ in response to an applied voltage of $120\\sqrt{2} \\sin(5000t + 30^\\circ) V$. Find the inductance of the circuit.",
+        "options": {
+            "a": "1.567 H",
+            "b": "0.0312 H",
+            "c": "0.909 H",
+            "d": "2.878 H"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Electromagnetism",
+        "id": 1234
+    },
+    {
+        "question": "What is the total impedance in ohms, of two parallel components that have impedances of $80 \\angle -30^\\circ$ and $60 \\angle 40^\\circ \\Omega$?",
+        "options": {
+            "a": "$35.3 \\angle 17.6^\\circ$",
+            "b": "$41.6 \\angle 10.7^\\circ$",
+            "c": "$21.9 \\angle -19.8^\\circ$",
+            "d": "$41.8 \\angle -15.6^\\circ$"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1235
+    },
+    {
+        "question": "When the resistance of an RLC resonance series circuit is increased:",
+        "options": {
+            "a": "the resonance frequency will increase",
+            "b": "the resonance frequency will decrease",
+            "c": "the resonance frequency remains the same",
+            "d": "the circuit will be out of resonance."
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1236
+    },
+    {
+        "question": "A 120-mH coil with a 30-ohm winding resistance is in parallel with a 20-ohm resistor. What series resistor and inductor produce the SAME impedance at 60 Hz as this parallel combination?",
+        "options": {
+            "a": "$11.6 \\Omega, 19.8 \\text{ mH}$",
+            "b": "$11.6 \\Omega, 10.6 \\text{ mH}$",
+            "c": "$15.6 \\Omega, 19.8 \\text{ mH}$",
+            "d": "$15.6 \\Omega, 10.6 \\text{ mH}$"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1237
+    },
+    {
+        "question": "A voltage that has a phasor of $200 \\angle -40^\\circ V$ is applied across a resistor and capacitor that are in series. If the capacitor rms voltage is $120 V \\angle -90^\\circ$, what is the resistor voltage?",
+        "options": {
+            "a": "220 V",
+            "b": "110 V",
+            "c": "160 V",
+            "d": "90 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1238
+    },
+    {
+        "question": "A coil of inductance 50 mH and resistance 5-ohms is connected to a 110 V, d.c. supply. Determine the value of the voltage across the inductance after 6 ms?",
+        "options": {
+            "a": "43.6 V",
+            "b": "60.4 V",
+            "c": "75.6 V",
+            "d": "11.8 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1239
+    },
+    {
+        "question": "An inductor has a value of 44 mH at 60 Hz. What is the inductive susceptance, stated as an imaginary number?",
+        "options": {
+            "a": "$-j0.06$",
+            "b": "$-j17$",
+            "c": "$j0.06$",
+            "d": "$j17$"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1240
+    },
+    {
+        "question": "When the voltage applied to a circuit is given by $(2 + j5) V$, the current flowing is given by $(8 + j4) A$. Determine the power dissipated in the circuit.",
+        "options": {
+            "a": "67 W",
+            "b": "36 W",
+            "c": "24 W",
+            "d": "22 W"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1241
+    },
+    {
+        "question": "A coil has a 50 ohms resistance and a 70 ohms reactance. A capacitor is connected in parallel to produce resonance. The source voltage is 120 V. What is the power drawn by the circuit?",
+        "options": {
+            "a": "162 W",
+            "b": "132 W",
+            "c": "97 W",
+            "d": "52 W"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1242
+    },
+    {
+        "question": "A conductor 30 cm long is situated at right-angles to a magnetic field. Calculate the flux density of the magnetic field if a current of 15A in the conductor produces a force on it of 3.6 N.",
+        "options": {
+            "a": "0.80 T",
+            "b": "0.4 T",
+            "c": "0.50 T",
+            "d": "0.70 T"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1243
+    },
+    {
+        "question": "Three identical coils each of resistance 30 ohm and inductance 127.3 mH are connected in delta to a 440 V, 50 Hz, 3-phase supply. Determine the line current.",
+        "options": {
+            "a": "13.09 A",
+            "b": "15.24 A",
+            "c": "18.44 A",
+            "d": "11.90 A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1244
+    },
+    {
+        "question": "A balanced delta connected load of $(4 + j3)$ ohms per phase, 230 V supply. Find the total kVA.",
+        "options": {
+            "a": "19.04 kVA",
+            "b": "37.01 kVA",
+            "c": "31.74 kVA",
+            "d": "25.39 kVA"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Powerplants",
+        "id": 1245
+    },
+    {
+        "question": "A coil takes a current of 2 A from a 12 V d.c. supply. When connected to a 240 V, 50 Hz supply the current is 20 A. Calculate the inductance of the coil.",
+        "options": {
+            "a": "33 mH",
+            "b": "56 mH",
+            "c": "12 mH",
+            "d": "75 mH"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1246
+    },
+    {
+        "question": "The following three impedances are connected in series across a 40 V, 20 kHz supply: - a resistance of 8 ohm, - a coil of inductance $130 \\mu\\text{H}$ and 5 ohm resistance, and - a 10 ohm resistor in series with a $0.25 \\mu\\text{F}$ capacitor. Calculate the circuit current.",
+        "options": {
+            "a": "2.33 A",
+            "b": "2.44 A",
+            "c": "1.44 A",
+            "d": "1.67 A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1247
+    },
+    {
+        "question": "A 200 V, 60 Hz supply is applied to a capacitive circuit. The current flowing is 2 A and the power dissipated is 150 W. Calculate the values of the resistance and capacitance.",
+        "options": {
+            "a": "$12.54 \\mu\\text{F}$",
+            "b": "$34.67 \\mu\\text{F}$",
+            "c": "$45.34 \\mu\\text{F}$",
+            "d": "$28.61 \\mu\\text{F}$"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1248
+    }
+]

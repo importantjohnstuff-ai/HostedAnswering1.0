@@ -1,0 +1,282 @@
+[
+    {
+        "id": 1930,
+        "question": "Find the limit of (z^2 - 3z - 5) / (z^2 - 1) as z approaches i?",
+        "options": {
+            "a": "5i",
+            "b": "+infinity",
+            "c": "-3 + 3i / 2",
+            "d": "zero"
+        },
+        "answer": "c",
+        "correct_answer_text": "-3 + 3i / 2",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 1931,
+        "question": "Which of the following method of integration uses series of quadratic curves or parabolas?",
+        "options": {
+            "a": "trapezoidal rule",
+            "b": "rectangular rule",
+            "c": "Simpson's rule",
+            "d": "Peter Griffin"
+        },
+        "answer": "c",
+        "correct_answer_text": "Simpson's rule",
+        "category": "Math",
+        "sub_category": "Numerical Methods"
+    },
+    {
+        "id": 1932,
+        "question": "Simplify the limit of (ix^2 - x) / x as x approaches i:",
+        "options": {
+            "a": "0",
+            "b": "-i",
+            "c": "-2",
+            "d": "2i"
+        },
+        "answer": "c",
+        "correct_answer_text": "-2",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 1933,
+        "question": "Evaluate the following limit: lim x->0 ((1 + 2ix + 3x^2) - 1) / x",
+        "options": {
+            "a": "2i",
+            "b": "3",
+            "c": "2i + 3",
+            "d": "0"
+        },
+        "answer": "a",
+        "correct_answer_text": "2i",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 1934,
+        "question": "Derive the expression: ln(x + i)",
+        "options": {
+            "a": "1 / (x + i)",
+            "b": "i / (x + i)",
+            "c": "1 / x + i",
+            "d": "1 / i + x"
+        },
+        "answer": "a",
+        "correct_answer_text": "1 / (x + i)",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 1935,
+        "question": "Find the limit of (2z^3 - iz) / (z - 1) as z approaches i + 1?",
+        "options": {
+            "a": "5 + 6i / 7",
+            "b": "-3 + 3i",
+            "c": "-4 - 6i / 7",
+            "d": "150"
+        },
+        "answer": "b",
+        "correct_answer_text": "-3 + 3i",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 1936,
+        "question": "Find the derivative: f(x) = 1 / (x + i)",
+        "options": {
+            "a": "1 / (x + i)^2",
+            "b": "-1 / (x + i)^2",
+            "c": "i / (x + i)^2",
+            "d": "-i / (x + i)^2"
+        },
+        "answer": "b",
+        "correct_answer_text": "-1 / (x + i)^2",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 1937,
+        "question": "Evaluate the derivative: d/dx (3ix^4 - 2ix^3)",
+        "options": {
+            "a": "3ix^2(-1 + 3x)",
+            "b": "6ix^2(-1 + 2x)",
+            "c": "4ix^2(1 - 2x)",
+            "d": "12ix^3 - 6ix^2"
+        },
+        "answer": "d",
+        "correct_answer_text": "12ix^3 - 6ix^2",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 1938,
+        "question": "Perform the derivative: d/dx (ln(ix^2))",
+        "options": {
+            "a": "i/x",
+            "b": "x + i",
+            "c": "2/x",
+            "d": "2i/x"
+        },
+        "answer": "c",
+        "correct_answer_text": "2/x",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 1939,
+        "question": "The Caterpillar Inc. has found that 80% of its new management hires are meeting expectations in selling their new line of backhoe loader, while 20% are not. Of the satisfactory hires, 75% had sales experience, while of the unsatisfactory hires, 55% had sales experience. What is the probability that a new hire with sales experience will meet expectations?",
+        "options": {
+            "a": "0.856",
+            "b": "0.845",
+            "c": "0.332",
+            "d": "0.913"
+        },
+        "answer": "b",
+        "correct_answer_text": "0.845",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 1940,
+        "question": "At a local pet adoption center of dogs and cats, it known that if a person adopts a dog or a cat, there is 0.45 probability that it is a cat and 0.55 probability that it is a dog. If a cat is adopted, the probability that it is a female is 0.6 and if a dog is adopted, the probability that it is female is 0.35. If a pet is selected at random such that is found to be a male, what is the probability that it is a dog?",
+        "options": {
+            "a": "0.6651",
+            "b": "0.6156",
+            "c": "0.1566",
+            "d": "0.5616"
+        },
+        "answer": "a",
+        "correct_answer_text": "0.6651",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 1941,
+        "question": "Three urns contain 6 red, 4 black; 4 red, 6 black, and 5 red, 5 black balls respectively. One of the urns is selected at random and a ball is drawn from it. If the ball drawn is red, find the probability that it is drawn from the first urn.",
+        "options": {
+            "a": "3/7",
+            "b": "2/5",
+            "c": "1/8",
+            "d": "3/5"
+        },
+        "answer": "b",
+        "correct_answer_text": "2/5",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 1942,
+        "question": "Sunlife insurance company insured 2000 motorbike drivers, 4000 car drivers, and 6000 truck drivers. The probability of an accident involving a motorbike driver, car driver, and a truck is 0.01, 0.03, and 0.015 respectively. One of the insured persons meets with an accident. What is the probability that he is a motorbike driver?",
+        "options": {
+            "a": "1/40",
+            "b": "1/52",
+            "c": "2/35",
+            "d": "2/53"
+        },
+        "answer": "b",
+        "correct_answer_text": "1/52",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 1943,
+        "question": "In a bolt factory, three machines M1, M2 and M3 manufacture 2000, 2500, and 4000 bolts every day. Of their output 3%, 4%, and 2.5% are defective bolts. One of the bolts is drawn very randomly from a day's production and is found to be defective. What is the probability that it was produced by machine M2?",
+        "options": {
+            "a": "5/13",
+            "b": "3/16",
+            "c": "4/15",
+            "d": "3/14"
+        },
+        "answer": "c",
+        "correct_answer_text": "4/15",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 1944,
+        "question": "SM Malls buy 50% of its appliances from Manufacturer A, 30% from Manufacturer B, and 20% from Manufacturer C. It is estimated that 6% of Manufacturer A's appliances, 5% of Manufacturer B's appliances, and 4% of Manufacturer C's appliances need repair before the warranty expires. An appliance is chosen at random. If the appliance chosen needed repair before the warranty expired, what is the probability that the appliance was manufactured by Manufacturer A?",
+        "options": {
+            "a": "0.763",
+            "b": "0.324",
+            "c": "0.566",
+            "d": "0.159"
+        },
+        "answer": "c",
+        "correct_answer_text": "0.566",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 1945,
+        "question": "Suppose 36% of families own a dog, 30% of families own a cat, and 22% of the families that have a dog also have a cat. A family is chosen at random and found to have a cat. What is the probability they also own a dog?",
+        "options": {
+            "a": "43.6%",
+            "b": "26.4%",
+            "c": "12.78%",
+            "d": "electrical"
+        },
+        "answer": "b",
+        "correct_answer_text": "26.4%",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 1946,
+        "question": "Suppose 30% of the women in an engineering class received an A on the test and 25% of the men received an A. The class is 60% women. Given that a person chosen at random received an A, what is the probability this person is a woman?",
+        "options": {
+            "a": "0.783",
+            "b": "0.452",
+            "c": "0.642",
+            "d": "0.118"
+        },
+        "answer": "c",
+        "correct_answer_text": "0.642",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 1947,
+        "question": "Colorblindness is a sex-linked condition, and 5% of men and 0.25% of women are color blind. The population of the Philippines is 51% female. What is the probability that a color-blind Filipino is a man?",
+        "options": {
+            "a": "0.9505",
+            "b": "0.8764",
+            "c": "0.6722",
+            "d": "0.1903"
+        },
+        "answer": "a",
+        "correct_answer_text": "0.9505",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 1948,
+        "question": "Two factories in Cebu City supply light bulbs to the city government. Bulbs from factory X work for over 5000 hours in 99% of cases whereas bulbs from factory Y work for over 5000 hours in 95% of cases. It is known that factory X supplies 60% of the total bulbs available in the market. Given that a light bulb works for more than 5000 hours, what is the probability that it was supplied by factory Y?",
+        "options": {
+            "a": "0.65",
+            "b": "0.74",
+            "c": "0.46",
+            "d": "0.39"
+        },
+        "answer": "d",
+        "correct_answer_text": "0.39",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 1949,
+        "question": "A fair dice is tossed six times. What is the probability that more than four times it will show an even number?",
+        "options": {
+            "a": "5/32",
+            "b": "9/64",
+            "c": "8/25",
+            "d": "7/64"
+        },
+        "answer": "d",
+        "correct_answer_text": "7/64",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    }
+]

@@ -1,0 +1,240 @@
+[
+    {
+        "id": 825,
+        "question": "What modulus of elasticity in tension is required to obtain a unit deformation of 0.00203 m/m from a load producing a unit tensile stress of 35,000 psi?",
+        "options": {
+            "a": "12.22 x 10\u2076 psi",
+            "b": "14.75 x 10\u2076 psi",
+            "c": "15.75 x 10\u2076 psi",
+            "d": "17.24 x 10\u2076 psi"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials"
+    },
+    {
+        "id": 826,
+        "question": "The shaft whose torque varies from 3000 to 8000 in-lbs has 2 1/2 inches in diameter. Compute the shaft mean stress.",
+        "options": {
+            "a": "1120.2 psi",
+            "b": "1350.4 psi",
+            "c": "1792.7 psi",
+            "d": "2010.8 psi"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials"
+    },
+    {
+        "id": 828,
+        "question": "A copper rolled wire 10 meters long and 1.5 mm in diameter when supporting a weight of 35.7 kg, elongates by 1.86 cm. Compute the value of the modulus of elasticity for this wire in kg/cm\u00b2.",
+        "options": {
+            "a": "1,086,132",
+            "b": "1,975,231",
+            "c": "2,860,345",
+            "d": "2,976,317"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials"
+    },
+    {
+        "id": 829,
+        "question": "A single bolt is used to lap join two steel bars together. Tensile force on the bars is 4,400 lbs. Determine the diameter of the bolt if the allowable shearing stress is 10,000 psi.",
+        "options": {
+            "a": "0.453 in",
+            "b": "0.748 in",
+            "c": "0.925 in",
+            "d": "0.985 in"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials"
+    },
+    {
+        "id": 830,
+        "question": "What power transmitted by a 50.8 mm diameter shaft rotating at 480 rpm. Stress allowed is 59 N/mm\u00b2.",
+        "options": {
+            "a": "60 kW",
+            "b": "65 kW",
+            "c": "76 kW",
+            "d": "90 kW"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials"
+    },
+    {
+        "id": 832,
+        "question": "Compute for the load in kN on a 3 cm diameter, 100 cm long steel rod if its maximum elongation exceed 0.12 cm.",
+        "options": {
+            "a": "178",
+            "b": "148",
+            "c": "196",
+            "d": "287"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials"
+    },
+    {
+        "id": 833,
+        "question": "Compute the allowable load in kN on a 20 mm x 120 cm long steel rod with a maximum elongation must not exceed 1 mm.",
+        "options": {
+            "a": "35",
+            "b": "66",
+            "c": "55",
+            "d": "76"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials"
+    },
+    {
+        "id": 834,
+        "question": "What pressure is required for punching a hole 2 inches in diameter thru a 1/4 in steel A plate?",
+        "options": {
+            "a": "0 tons",
+            "b": "20 tons",
+            "c": "30 tons",
+            "d": "40 tons"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials"
+    },
+    {
+        "id": 836,
+        "question": "A steel hollow tube is use to carry a tensile load of 500 kN at a stress of 140 MPa. If outside diameter is 10 times the tube thickness, find the thickness of the tube.",
+        "options": {
+            "a": "11.24 mm",
+            "b": "20.64 mm",
+            "c": "10.7 mm",
+            "d": "22.61 mm"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials"
+    },
+    {
+        "id": 837,
+        "question": "A steel wire 10m long, hanging vertically supports a tensile load of 2 kN. Neglecting the weight of wire, determine the required diameter if the stress is not to exceed 140 MPa and the total elongation is not to exceed 5 mm. Assume 200 GPa.",
+        "options": {
+            "a": "2mm",
+            "b": "4mm",
+            "c": "3mm",
+            "d": "5mm"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials"
+    },
+    {
+        "id": 838,
+        "question": "For a given material, the modulus of elasticity is 100 GN/m\u00b2 tension and 40 GN/m\u00b2 in shear. Find the Poisson's ratio.",
+        "options": {
+            "a": "0.10",
+            "b": "0.25",
+            "c": "0.50",
+            "d": "0.35"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials"
+    },
+    {
+        "id": 839,
+        "question": "One mole of nitrogen at 8 bar and 600 K is contained in a piston-cylinder assembly. It is brought to 1 bar isothermally against a resisting pressure of 1 bar. The work done (in joules) by the gas is:",
+        "options": {
+            "a": "30554",
+            "b": "10373",
+            "c": "4988.4",
+            "d": "4364.9"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics"
+    },
+    {
+        "id": 840,
+        "question": "The Zeroth Law of Thermodynamics establishes the concept of:",
+        "options": {
+            "a": "Entropy",
+            "b": "Temperature",
+            "c": "Energy",
+            "d": "Work"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics"
+    },
+    {
+        "id": 841,
+        "question": "A $0.5\\text{-m}^3$ rigid tank contains nitrogen gas at 600 kPa and 300 K. Now the gas is compressed isothermally to a volume of $0.1\\text{ m}^3$. The work done on the gas during this compression process is:",
+        "options": {
+            "a": "720 kJ",
+            "b": "240 kJ",
+            "c": "483 kJ",
+            "d": "175 kJ"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics"
+    },
+    {
+        "id": 842,
+        "question": "The First Law of Thermodynamics is a statement of:",
+        "options": {
+            "a": "Conservation of momentum",
+            "b": "Conservation of energy",
+            "c": "Conservation of mass",
+            "d": "Increase of entropy"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics"
+    },
+    {
+        "id": 843,
+        "question": "A rigid vessel of $0.06\\text{ m}^3$ volume contains an ideal diatomic gas, at 500 K and 1 bar. If heat in the amount of 15 kJ is transferred to the gas, determine its entropy change in J/K:",
+        "options": {
+            "a": "20.794",
+            "b": "24.632",
+            "c": "14.632",
+            "d": "10.794"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics"
+    },
+    {
+        "id": 844,
+        "question": "The internal energy of an ideal gas depends only on:",
+        "options": {
+            "a": "Pressure",
+            "b": "Volume",
+            "c": "Temperature",
+            "d": "Both pressure and volume"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics"
+    }
+]

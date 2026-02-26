@@ -1,0 +1,282 @@
+[
+    {
+        "id": 1710,
+        "question": "One train, starting at 11 A.M., travels east at 45 mi/h while another, starting at noon from the same point, travels south at 60 mi/h. How fast are they separating at 3 P.M.?",
+        "options": {
+            "a": "105sqrt(2)/2 mi/h",
+            "b": "43sqrt(3)/2 mi/h",
+            "c": "70sqrt(2)/2 mi/h",
+            "d": "43sqrt(2)/2 mi/h"
+        },
+        "answer": "a",
+        "correct_answer_text": "105sqrt(2)/2 mi/h",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 1711,
+        "question": "Mario is making an open rectangular box with square ends to be built to hold 6400 ft3 at a cost of P 0.75/ft2 for the base and P 0.25/ft2 for the sides. Find the most economical dimensions in ft x ft x ft units:",
+        "options": {
+            "a": "20 x 20 x 16",
+            "b": "12 x 12 x 10",
+            "c": "10 x 10 x 20",
+            "d": "25 x 25 x 8"
+        },
+        "answer": "a",
+        "correct_answer_text": "20 x 20 x 16",
+        "category": "Math",
+        "sub_category": "Minima/Maxima"
+    },
+    {
+        "id": 1712,
+        "question": "Simplify the expression lim (x^2 - 16) / (x - 4) as x approaches 2.",
+        "options": {
+            "a": "8",
+            "b": "4",
+            "c": "6",
+            "d": "10"
+        },
+        "answer": "c",
+        "correct_answer_text": "6",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 1713,
+        "question": "The location of a body as a function of time is z(t) = 18t + 9t^2. Find the body's velocity at t = 2.",
+        "options": {
+            "a": "20",
+            "b": "24",
+            "c": "36",
+            "d": "54"
+        },
+        "answer": "d",
+        "correct_answer_text": "54",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 1714,
+        "question": "A guy wire is running from the tip of two poles; one is 17 ft. and the other is 21 ft. high, and 200 ft. from each other. The wire is stretched such that the lowest point is on the ground. How far from the taller pole must the point be in order to minimize the length of guy wire?",
+        "options": {
+            "a": "89.5 ft.",
+            "b": "110.5 ft.",
+            "c": "77.8 ft.",
+            "d": "122.2 ft."
+        },
+        "answer": "b",
+        "correct_answer_text": "110.5 ft.",
+        "category": "Math",
+        "sub_category": "Minima/Maxima"
+    },
+    {
+        "id": 1715,
+        "question": "Water is flowing into a frustum of a cone at a rate of 100 liter/min. The upper radius is 1.5 m, the lower radius is 1 m, and the height is 2 m. If the water rises at the rate of 0.04916 cm/sec, find the depth of water.",
+        "options": {
+            "a": "10.3 cm",
+            "b": "13.6 cm",
+            "c": "15.5 cm",
+            "d": "18.9 cm"
+        },
+        "answer": "c",
+        "correct_answer_text": "15.5 cm",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 1716,
+        "question": "Find the derivative of arc sec (2x):",
+        "options": {
+            "a": "1 / [x * sqrt(4x^2 - 1)]",
+            "b": "1 / [x * sqrt(1 - 4x^2)]",
+            "c": "2 / [x * sqrt(4x^2 - 1)]",
+            "d": "2 / [x * sqrt(1 - 4x^2)]"
+        },
+        "answer": "c",
+        "correct_answer_text": "2 / [x * sqrt(4x^2 - 1)]",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 1717,
+        "question": "Determine the amount of work required to pump all the water of a full spherical tank of diameter 40 feet to a height of 50 feet?",
+        "options": {
+            "a": "62,700,000 ft-lbf",
+            "b": "89,300,000 ft-lbf",
+            "c": "23,000,000 ft-lbf",
+            "d": "none of these"
+        },
+        "answer": "a",
+        "correct_answer_text": "62,700,000 ft-lbf",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 1718,
+        "question": "The motion of a dodge ball is given by x(t) = 60t^2 + 2t + 10 where x is in feet and t is in minutes. What is the acceleration of the ball at t = 3 min?",
+        "options": {
+            "a": "140",
+            "b": "100",
+            "c": "90",
+            "d": "120"
+        },
+        "answer": "d",
+        "correct_answer_text": "120",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 1719,
+        "question": "A spherical snow ball is melting in such a way that its surface area decreases at a rate of 1 cm^2/min. How fast is its radius shrinking when it is 3 cm?",
+        "options": {
+            "a": "-1/24pi",
+            "b": "-1/48pi",
+            "c": "-1/20pi",
+            "d": "-1/12pi"
+        },
+        "answer": "a",
+        "correct_answer_text": "-1/24pi",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 1720,
+        "question": "If xy = 6, find the minimum value of 2x + 3y:",
+        "options": {
+            "a": "12",
+            "b": "10",
+            "c": "9",
+            "d": "15"
+        },
+        "answer": "a",
+        "correct_answer_text": "12",
+        "category": "Math",
+        "sub_category": "Minima/Maxima"
+    },
+    {
+        "id": 1721,
+        "question": "What is the integral of x^2 dx / (x + 1) if the lower limit is zero and the upper limit is 1.",
+        "options": {
+            "a": "0.14",
+            "b": "0.28",
+            "c": "0.34",
+            "d": "0.19"
+        },
+        "answer": "d",
+        "correct_answer_text": "0.19",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 1722,
+        "question": "Determine the volume generated by rotating the region bounded by the line 2x + y - 4 = 0 about the y-axis.",
+        "options": {
+            "a": "16pi/3",
+            "b": "4pi/3",
+            "c": "2pi/3",
+            "d": "pi/4"
+        },
+        "answer": "a",
+        "correct_answer_text": "16pi/3",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 1723,
+        "question": "Find the area of the region bounded by the lines x = y, x = 2, and y = 1/x^2.",
+        "options": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "1.167"
+        },
+        "answer": "d",
+        "correct_answer_text": "1.167",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 1724,
+        "question": "Water is pouring into a swimming pool. After t hours, there are t * sqrt(t) gallons in the pool. At what rate, in GPM, is water pouring into the pool when t = 9 hours?",
+        "options": {
+            "a": "0.0194",
+            "b": "1.167",
+            "c": "1.235",
+            "d": "0.025"
+        },
+        "answer": "d",
+        "correct_answer_text": "0.025",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 1725,
+        "question": "A sphere's volume increases at a rate of 5 cu.ft./min. At what rate is its radius changing when the radius is 1/2 ft?",
+        "options": {
+            "a": "1.333",
+            "b": "1.59",
+            "c": "2.67",
+            "d": "1.833"
+        },
+        "answer": "b",
+        "correct_answer_text": "1.59",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 1726,
+        "question": "Water is flowing into a spherical tank of diameter 6 feet at a rate of 70 ft3/hr. What is the rate at which the level rises at h = 1 foot?",
+        "options": {
+            "a": "4.45 ft/hr",
+            "b": "1.32 ft/hr",
+            "c": "6.34 ft/hr",
+            "d": "0.67 ft/hr"
+        },
+        "answer": "a",
+        "correct_answer_text": "4.45 ft/hr",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 1727,
+        "question": "A photographer views a sculpture 3.6 meters tall above a 2.5 m podium. The photographer is 1.2 meters tall. Where should he position himself from the base of the podium to get the maximum view angle?",
+        "options": {
+            "a": "3.21 m",
+            "b": "4.32 m",
+            "c": "2.52 m",
+            "d": "1.92 m"
+        },
+        "answer": "c",
+        "correct_answer_text": "2.52 m",
+        "category": "Math",
+        "sub_category": "Minima/Maxima"
+    },
+    {
+        "id": 1728,
+        "question": "What is the longest steel beam that can pass through perpendicular corridors that are 12 feet and 15 feet in width?",
+        "options": {
+            "a": "30.4 feet",
+            "b": "17.3 feet",
+            "c": "42.1 feet",
+            "d": "38.1 feet"
+        },
+        "answer": "d",
+        "correct_answer_text": "38.1 feet",
+        "category": "Math",
+        "sub_category": "Minima/Maxima"
+    },
+    {
+        "id": 1729,
+        "question": "Find the equation of the line tangent to y = x(2-x)^2 at point (1,1)?",
+        "options": {
+            "a": "x + y = 1",
+            "b": "x + y = 2",
+            "c": "x + y = 3",
+            "d": "x + y = 4"
+        },
+        "answer": "b",
+        "correct_answer_text": "x + y = 2",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    }
+]

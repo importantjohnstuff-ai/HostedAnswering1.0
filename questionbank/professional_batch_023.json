@@ -1,0 +1,237 @@
+[
+    {
+        "question": "The energy used by a 1.5 kW heater in 5 minutes is: (a) 5 J (b) 450 J (c) 7500 J (d) 450 000 J",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1309
+    },
+    {
+        "question": "The length of a certain conductor of resistance 100 ohm is doubled and its cross-sectional area is halved. Its new resistance is: (a) 100 ohm (b) 200 ohm (c) 50 ohm (d) 400 ohm",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1310
+    },
+    {
+        "question": "The resistance of a 2 km length of cable of cross-sectional area 2 mm\u00b2 and resistivity of $2 \\times 10^{-8}$ ohm-m is: (a) 0.02 ohm (b) 20 ohm (c) 0.02 mohm (d) 200 ohm",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1311
+    },
+    {
+        "question": "A piece of graphite has a cross-sectional area of 10 mm\u00b2. If its resistance is 0.1 ohm and its resistivity $10 \\times 10^{-8}$ ohm-m, its length is: (a) 10 km (b) 10 cm (c) 10 mm (d) 10 m",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1312
+    },
+    {
+        "question": "A coil of wire has a resistance of 10 ohm at 0\u00b0C. If the temperature coefficient of resistance for the wire is 0.004/\u00b0C, its resistance at 100\u00b0C is: (a) 0.4 ohm (b) 1.4 ohm (c) 14 ohm (d) 10 ohm",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1313
+    },
+    {
+        "question": "A nickel coil has a resistance of 13 $\\Omega$ at 50\u00b0C. If the temperature coefficient of resistance at 0\u00b0C is 0.006/\u00b0C, the resistance at 0\u00b0C is: (a) 16.9 ohm (b) 10 ohm (c) 43.3 ohm (d) 0.1 ohm",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1314
+    },
+    {
+        "question": "A colour coding of red-violet-black on a resistor indicates a value of: (a) 27 ohm \u00b1 20% (b) 270 ohm (c) 270 ohm \u00b1 20% (d) 27 ohm \u00b1 10%",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1315
+    },
+    {
+        "question": "A resistor marked as 4K7G indicates a value of: (a) 47 ohm \u00b1 20% (b) 4.7 k-ohm \u00b1 20% (c) 0.47 ohm \u00b1 10% (d) 4.7 k-ohm \u00b1 2%",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1316
+    },
+    {
+        "question": "For the series-parallel arrangement shown, find the p.d. across the 6-ohm resistor: (Circuit diagram shows $R_1=2.5\\Omega$ in series with a parallel branch of $R_2=6\\Omega$ and $R_3=2\\Omega$, followed by $R_4=4\\Omega$ in series, all connected to 200V) (a) 34.5 V (b) 25.4 V (c) 37.5 V (d) 75.5 V",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1317
+    },
+    {
+        "question": "For the circuit shown, the total resistance of the circuit is 100 ohm, determine the value of resistor R2. (Circuit diagram shows $R_1$, $R_2$, $R_3$ in series with voltages 10V, 4V, and $V_3$ respectively across them, connected to a 25V source)",
+        "options": {
+            "a": "15 ohm",
+            "b": "16 ohm",
+            "c": "12 ohm",
+            "d": "24 ohm"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1318
+    },
+    {
+        "question": "A 12V battery is connected in a circuit having three series-connected resistors having resistances of 4 ohm, 9 ohm and 11 ohm. Find the power dissipated in the 11 ohm resistor.",
+        "options": {
+            "a": "2.75 W",
+            "b": "1.33 W",
+            "c": "3.67 W",
+            "d": "5.20 W"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1319
+    },
+    {
+        "question": "The p.d\u2019s measured across three resistors connected in series are 5V, 7V and 10V, and the supply current is 2A. Determine the values of the three resistors.",
+        "options": {
+            "a": "2.8 ohm, 3.2 ohm, 4 ohm",
+            "b": "2.8 ohm, 3.5 ohm, 6 ohm",
+            "c": "2.5 ohm, 3.2 ohm, 4 ohm",
+            "d": "2.5 ohm, 3.5 ohm, 5 ohm"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1320
+    },
+    {
+        "question": "When the switch in the circuit shown is closed the reading on voltmeter 1 is 30V and that on voltmeter 2 is 10V. Determine the reading on the ammeter and the value of resistor R. (Circuit diagram shows a 5$\\Omega$ resistor in parallel with $R_x$, with an ammeter in the main line and two voltmeters $V_1$ and $V_2$)",
+        "options": {
+            "a": "4 A",
+            "b": "2 A",
+            "c": "9 A",
+            "d": "8 A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1321
+    },
+    {
+        "question": "The electric flux density between two plates separated by polystyrene of relative permittivity 2.5 is 5 \u03bcC/m\u00b2. Find the voltage gradient between the plates.",
+        "options": {
+            "a": "226 kV/m",
+            "b": "324 kV/m",
+            "c": "192 kV/m",
+            "d": "442 kV/m"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1322
+    },
+    {
+        "question": "Two parallel plates having a p.d. of 250V between them are spaced 1 mm apart. Determine the electric field strength. Find also the electric flux density when the dielectric between the plates is mica of relative permittivity 5.",
+        "options": {
+            "a": "15.876 \u03bcC/m\u00b2",
+            "b": "13.534 \u03bcC/m\u00b2",
+            "c": "10.245 \u03bcC/m\u00b2",
+            "d": "11.063 \u03bcC/m\u00b2"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1323
+    },
+    {
+        "question": "A waxed paper capacitor has two parallel plates, each of effective area 0.2 m\u00b2. If the capacitance is 4000 pF determine the effective thickness of the paper if its relative permittivity is 2.",
+        "options": {
+            "a": "0.657 mm",
+            "b": "0.885 mm",
+            "c": "0.778 mm",
+            "d": "0.265 mm"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Electromagnetism",
+        "id": 1324
+    },
+    {
+        "question": "Calculate the capacitance of a parallel plate capacitor having 5 plates, each 30 mm by 20 mm and separated by a dielectric 0.75 mm thick having a relative permittivity of 2.3.",
+        "options": {
+            "a": "65.14 pF",
+            "b": "48.98 pF",
+            "c": "67.89 pF",
+            "d": "34.98 pF"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Electromagnetism",
+        "id": 1325
+    },
+    {
+        "question": "A parallel plate capacitor is made from 25 plates, each 70 mm by 120 mm interleaved with mica of relative permittivity 5. If the capacitance of the capacitor is 3000 pF determine the thickness of the mica sheet.",
+        "options": {
+            "a": "7.80 mm",
+            "b": "3.67 mm",
+            "c": "4.42 mm",
+            "d": "2.97 mm"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Electromagnetism",
+        "id": 1326
+    },
+    {
+        "question": "The capacitance of a parallel plate capacitor is 1000 pF. It has 19 plates, each 50 mm by 30 mm separated by a dielectric of thickness 0.40 mm. Determine the relative permittivity of the dielectric.",
+        "options": {
+            "a": "1.67",
+            "b": "2.33",
+            "c": "1.33",
+            "d": "2.67"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Electromagnetism",
+        "id": 1327
+    },
+    {
+        "question": "Capacitors of 2 \u03bcF and 6 \u03bcF are connected in parallel in series. Determine the equivalent capacitance in each case.",
+        "options": {
+            "a": "8 \u03bcF",
+            "b": "1.5 \u03bcF",
+            "c": "1.8 \u03bcF",
+            "d": "1.9 \u03bcF"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Electromagnetism",
+        "id": 1328
+    }
+]

@@ -1,0 +1,282 @@
+[
+    {
+        "id": 1790,
+        "question": "Which of the following equations is a variable separable DE?",
+        "options": {
+            "a": "(x+x2y) dy = (2x+xy2) dx",
+            "b": "(x+y)dx - 2y dy = 0",
+            "c": "2y dx = (x2+1) dy",
+            "d": "2 dx + (2x - 3y) dy = 0"
+        },
+        "answer": "c",
+        "correct_answer_text": "2y dx = (x2+1) dy",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 1791,
+        "question": "Solve (y - √(x2 + y2)) dx - x dy = 0",
+        "options": {
+            "a": "√(x2 + y2) + y = c",
+            "b": "√(x2 + y2 + y) = c",
+            "c": "√(x + y) + y = c",
+            "d": "√(x2 - y) + y = c"
+        },
+        "answer": "a",
+        "correct_answer_text": "√(x2 + y2) + y = c",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 1792,
+        "question": "A radioactive sludge of a nuclear power plant contains toxic amount of Kr-87 (half-life 8.9 hours). The sludge is safe for handling and disposal if the radiation is reduced by 99.9%. When will a fresh sludge become safe?",
+        "options": {
+            "a": "After 2.5 days",
+            "b": "After 1.22 days",
+            "c": "After 7.76 days",
+            "d": "After 3.7 days"
+        },
+        "answer": "d",
+        "correct_answer_text": "After 3.7 days",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 1793,
+        "question": "Solve y(x-1)dx + x(2y-1)dy = 0",
+        "options": {
+            "a": "ln (xy) = 2(x-y) + c",
+            "b": "ln (xy) = x - 2y + c",
+            "c": "ln (xy) = 2y - x + c",
+            "d": "ln (xy) = x + 2y + c"
+        },
+        "answer": "d",
+        "correct_answer_text": "ln (xy) = x + 2y + c",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 1794,
+        "question": "Solve (x + y) dy = (x - y) dx",
+        "options": {
+            "a": "x2 + y2 = c",
+            "b": "x2 + 2xy + y2 = c",
+            "c": "x2 - 2xy - y2 = c",
+            "d": "x2 - 2xy + y2 = c"
+        },
+        "answer": "c",
+        "correct_answer_text": "x2 - 2xy - y2 = c",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 1795,
+        "question": "Radium decomposes at a rate proportional to the amount at any instant. In 100 years, 100 mg of radium decomposes to 96 mg. How many mg will be left after another 100 years?",
+        "options": {
+            "a": "88.60",
+            "b": "95.32",
+            "c": "92.16",
+            "d": "90.72"
+        },
+        "answer": "c",
+        "correct_answer_text": "92.16",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 1796,
+        "question": "The population of a country doubles in 50 years. How many years will it be five times as much? Assume that the rate of increase is proportional to the number of inhabitants.",
+        "options": {
+            "a": "100 years",
+            "b": "116 years",
+            "c": "120 years",
+            "d": "98 years"
+        },
+        "answer": "b",
+        "correct_answer_text": "116 years",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 1797,
+        "question": "According to Newton's law of cooling, the rate at which a substance cools in air is directly proportional to the difference between the temperatures of the substance and that of air. If the temperature of the air is 30° and the substance cools from 100° to 70° in 15 minutes, how long will it take to cool from 100° to 50°?",
+        "options": {
+            "a": "33.59 min",
+            "b": "43.60 min",
+            "c": "35.39 min",
+            "d": "45.30 min"
+        },
+        "answer": "a",
+        "correct_answer_text": "33.59 min",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 1798,
+        "question": "An ingot of molybdenum steel initially at 90 F is placed in a furnace at 4200 F. The melting point of the metal is 3100 F. After 30 minutes at the furnace the temperature of the metal becomes 230 F. When will the metal begin to melt?",
+        "options": {
+            "a": "7 hours",
+            "b": "19 hours",
+            "c": "23 hours",
+            "d": "5 hours"
+        },
+        "answer": "b",
+        "correct_answer_text": "19 hours",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 1799,
+        "question": "Solve for the homogenous solution of the second order D.E.: y'' - y' - 6y = 0",
+        "options": {
+            "a": "Y = Ae^3x + Be^-2x",
+            "b": "Y = Ae^-3x + Be^2x",
+            "c": "Y = Ae^3x + Bxe^3x",
+            "d": "Y = Ae^-2x + Bxe^-2x"
+        },
+        "answer": "a",
+        "correct_answer_text": "Y = Ae^3x + Be^-2x",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 1800,
+        "question": "Solve for the homogenous solution of the second order D.E.: y''' + 16y' = 0",
+        "options": {
+            "a": "Y = Asin4x + Bcos4x",
+            "b": "Y = Asin4x + Bcos4x + C",
+            "c": "Y = Asin4x + Bcos4x + Ce^x",
+            "d": "Y = Asin4x + Bcos4x + Ce^-x"
+        },
+        "answer": "b",
+        "correct_answer_text": "Y = Asin4x + Bcos4x + C",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 1801,
+        "question": "Solve the particular solution of the D.E.: y'' - 10y' + 25y = 2sin(5x)",
+        "options": {
+            "a": "y = (-1/5)e^5x",
+            "b": "Y = (1/5)cos(5x)",
+            "c": "y = (1/25)sin(5x)",
+            "d": "Y = (1/25)cos(5x)"
+        },
+        "answer": "d",
+        "correct_answer_text": "Y = (1/25)cos(5x)",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 1802,
+        "question": "Solve the particular solution of: Y'' + 8Y' + 7Y = 3e^x",
+        "options": {
+            "a": "yp = (4/15)e^x",
+            "b": "yp = (3/16)e^x",
+            "c": "yp = (1/16)e^x",
+            "d": "yp = (2/15)e^x"
+        },
+        "answer": "b",
+        "correct_answer_text": "yp = (3/16)e^x",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 1803,
+        "question": "Solve for the particular solution: Y'' - 3Y' = 6 cos(3x)",
+        "options": {
+            "a": "Y = Cxe^(-3x)",
+            "b": "Y = sin(x) - cos(x)",
+            "c": "Y = (1/3)sin(3x) - (1/3)cos(3x)",
+            "d": "Y = -1/3 (sin 3x + cos 3x)"
+        },
+        "answer": "d",
+        "correct_answer_text": "-1/3 (sin 3x + cos 3x)",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 1804,
+        "question": "The differential equation (x + 3y) dx + (x^2 + y) dy = 0 is",
+        "options": {
+            "a": "order one, degree two, and linear",
+            "b": "order two, degree one, and linear",
+            "c": "order one, degree one, and non-linear",
+            "d": "order two, degree two, and non-linear"
+        },
+        "answer": "c",
+        "correct_answer_text": "order one, degree one, and non-linear",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 1805,
+        "question": "The solution of the differential equation 2(y + 3) dx - xy dy = 0",
+        "options": {
+            "a": "e^y = cx^3(y+3)",
+            "b": "e^y = cx^2(y+3)^2",
+            "c": "e^y = cx(y+3)^3",
+            "d": "e^y = cx^2(y+3)"
+        },
+        "answer": "b",
+        "correct_answer_text": "e^y = cx^2(y+3)^2",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 1806,
+        "question": "The differential equation x^3 y^4 / (x + 2y) is a homogeneous function of degree",
+        "options": {
+            "a": "2",
+            "b": "3",
+            "c": "1",
+            "d": "6"
+        },
+        "answer": "d",
+        "correct_answer_text": "6",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 1807,
+        "question": "The solution of the differential equation (x - y + 2) dx + 3 dy = 0",
+        "options": {
+            "a": "c = x - 3ln(x-y+5)",
+            "b": "c = x - 2ln(x-y+5)",
+            "c": "c = x - 5ln(x-y+3)",
+            "d": "c = x - 3ln(x-y+3)"
+        },
+        "answer": "a",
+        "correct_answer_text": "c = x - 3ln(x-y+5)",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 1808,
+        "question": "30% of a radioactive substance disappears in 13 years. Find the half-life of the substance.",
+        "options": {
+            "a": "25 years",
+            "b": "36 years",
+            "c": "28 years",
+            "d": "none of the given"
+        },
+        "answer": "a",
+        "correct_answer_text": "25 years",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 1809,
+        "question": "A body falls from rest against a resistance that is proportional to the speed at any instant. If a terminal velocity of the body is 128 fps, find the speed after 2 sec.",
+        "options": {
+            "a": "6.08 fps",
+            "b": "50.4 fps",
+            "c": "34.7 fps",
+            "d": "50.3 fps"
+        },
+        "answer": "d",
+        "correct_answer_text": "50.3 fps",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    }
+]

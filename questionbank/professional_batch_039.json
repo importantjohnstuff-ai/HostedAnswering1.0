@@ -1,0 +1,282 @@
+[
+    {
+        "question": "A short 3-phase, 3-wire line has a resistance of 5 ohms and reactance of 12 ohms per wire and transmit power to a 3-phase load drawing 1000 kW at 13,120 volts line to line, 0.8 pf lagging, 60 Hz. Solve for the sending end voltage.",
+        "options": {
+            "a": "14.200 V",
+            "b": "14 330 V",
+            "c": "14,130 V",
+            "d": "14.240 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transmission Lines",
+        "id": 1629
+    },
+    {
+        "question": "A 3-phase line has a reactance of 4.32 ohms and a resistance of 4.15 ohms. The load at the receiving end is 3800 kW at 75%-power factor lagging and the voltage at the sending end is 36 kV. Determine the voltage at the receiving end.",
+        "options": {
+            "a": "34.24 kV",
+            "b": "34.86 kV",
+            "c": "35.14 kV",
+            "d": "35.45 kV"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transmission Lines",
+        "id": 1630
+    },
+    {
+        "question": "A short 230-kV transmission line has impedance of 5 cis 78 ohms. The sending end power is 100 MW at 230 kV and 85% power factor. What is the voltage at the other end?",
+        "options": {
+            "a": "225.4 kV",
+            "b": "226.3 kV",
+            "c": "223.2 kV",
+            "d": "228.2 kV"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transmission Lines",
+        "id": 1631
+    },
+    {
+        "question": "A three-phase transmission line, 15 km long serves a substation rated 15 MVA at 34.5 kV, 60 Hz. If the line resistance is 0.12 ohm per kilometer and the line reactance is 0.457 ohm per kilometer, what should the sending end voltage be so that the transformer can be fully loaded at its rated voltage and unity pf.",
+        "options": {
+            "a": "37,200 V",
+            "b": "36,500 V",
+            "c": "35,408 V",
+            "d": "34,990 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transmission Lines",
+        "id": 1632
+    },
+    {
+        "question": "A three-phase transmission line, 10 km long delivers a load of 5000 kW at 11 kV and 0.8 pf lagging at the receiving end. The resistance of the line per km per phase is 0.1 ohm and the reactance per phase per km is 0.2 ohm. Solve for the regulation of the line.",
+        "options": {
+            "a": "12.44%",
+            "b": "11.05%",
+            "c": "10.45%",
+            "d": "10.12%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transmission Lines",
+        "id": 1633
+    },
+    {
+        "question": "A 3-phase, 3-wire short transmission line having an impedance of 3.6 + j16 ohms per wire is used to supply an inductive load of 100 A at 0.707 pf and a capacitive load of 50 A at 0.50 pf the receiving and voltage is 4160 volts per phase. Find the percent regulation.",
+        "options": {
+            "a": "25.46%",
+            "b": "20.33%",
+            "c": "26.34%",
+            "d": "23.71%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transmission Lines",
+        "id": 1634
+    },
+    {
+        "question": "It is desired to deliver 4,000 kW, three-phase at a distance of 25 miles. The load voltage being 33 kV, 60 Hz and the power factor of the load being 85% lagging. The reactance of the line per phase is 0.692 ohm per mile. The line loss is 10% of the power delivered. Determine voltage regulation of the line.",
+        "options": {
+            "a": "11.2%",
+            "b": "12.3%",
+            "c": "13.2%",
+            "d": "14.8%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1635
+    },
+    {
+        "question": "A short 230 kV transmission line has an impedance of 5 cis 78 ohms. The sending end power is 100 MW at 230 kV and 85% power factor. What is the percent regulation of the line?",
+        "options": {
+            "a": "3.6%",
+            "b": "1.5%",
+            "c": "2.2%",
+            "d": "0.77%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transmission Lines",
+        "id": 1636
+    },
+    {
+        "question": "A short sub-transmission line serves at its end an induction motor rated 500 HP, 0.88 pf, 0.90 efficiency, at 2,400 volts phase to neutral. If the transmission line has a resistance of 1.5 ohms and a reactance of 2.4 ohms per phase. Solve for the voltage regulation of the line.",
+        "options": {
+            "a": "6.77%",
+            "b": "7.02%",
+            "c": "6.48%",
+            "d": "6.25%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transmission Lines",
+        "id": 1637
+    },
+    {
+        "question": "Each conductor of a three, phase, 3-wire transmission line has impedance of 15 + j 20 ohms at 60 Hz. The voltage between line conductors at the sending end is 13,200 volts. The load connected to this line is balanced and takes 1000 kW at a lagging power factor. The current per conductor is 70 A. What is the load power factor?",
+        "options": {
+            "a": "0.803 lagging",
+            "b": "0.824 lagging",
+            "c": "0.850 lagging",
+            "d": "0.815 lagging"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transmission Lines",
+        "id": 1638
+    },
+    {
+        "question": "A 15 MW, 132 kV, 80% pf three phase load is to be serve by a transmission line having conductors whose resistance is 0.5 ohm/km. If the losses on the line shall not exceed 4.5%, how long must this line be?",
+        "options": {
+            "a": "68 km",
+            "b": "70 km",
+            "c": "66 km",
+            "d": "75 km"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transmission Lines",
+        "id": 1639
+    },
+    {
+        "question": "A 3-phase, 3-wire transmission line supplies at the receiving end an inductive load of 5,000 kW at 0.8 pf and the line to line voltage of 13,250 V and in addition a capacitor bank that draws a line current of 90 A. The effective impedance of the transmission line is 2 + j3 ohms per wire. Determine the sending end power.",
+        "options": {
+            "a": "5317 kW",
+            "b": "5530 kW",
+            "c": "5255 kW",
+            "d": "5410 kW"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transmission Lines",
+        "id": 1640
+    },
+    {
+        "question": "A short 3-phase, 3-wire line has a resistance of 5 ohms and reactance of 12 ohms per wire and transmit power to a 3-phase load drawing 1000 kW at 13,120 volts line to line, 0.8 pf lagging, 60 Hz. Solve for the sending end power factor.",
+        "options": {
+            "a": "0.755 lagging",
+            "b": "0.745 lagging",
+            "c": "0.754 lagging",
+            "d": "0.773 lagging"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transmission Lines",
+        "id": 1641
+    },
+    {
+        "question": "The sending end voltage of a balanced 3-phase transmission line is 8410 volts, phase to neutral. The line current is 200 amperes with a sending end lagging power factor of 0.803. The receiving end voltage is 7600 volts, phase to neutral, with the line current having a lagging power factor of 0.85. Solve for the impedance of the transmission line.",
+        "options": {
+            "a": "1.47 + j5.15 ohm",
+            "b": "1.42 + 5.15 ohm",
+            "c": "1.47 + i 5.04 ohm",
+            "d": "1.42 + j 5.04 ohm"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transmission Lines",
+        "id": 1642
+    },
+    {
+        "question": "A short, 3-phase, 3-wire transmission line has a receiving end voltage of 4160 V phase to neutral and serving a balanced 3 phase load of 998,400 volt amperes at 0.82 pf lagging. At the sending end the voltage is 4600 V, phase to neutral and the pf is 0.77 lagging. Solve the resistance of the line.",
+        "options": {
+            "a": "1.345 ohm",
+            "b": "1 462 ohm",
+            "c": "1 457 ohm",
+            "d": "1.635 ohm"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transmission Lines",
+        "id": 1643
+    },
+    {
+        "question": "At the sending end of a 3-phase transmission line, the voltage is measured to be 2 540 volts phase to neutral and the line current to be 60 A at a lagging power factor of 0.75. At the receiving end, the voltage measured is 2,200 volts phase to neutral and the power factor is 0.80, likewise lagging current. Solve for the resistance and reactance of the line.",
+        "options": {
+            "a": "2.2 + i 4",
+            "b": "2.4 + j 6",
+            "c": "2.0 + j 5",
+            "d": "2.1 + j 3"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transmission Lines",
+        "id": 1644
+    },
+    {
+        "question": "A three-phase transmission line 5 km long delivers 2 MVA at a power factor 0.80 lagging. The resistance and reactance per km of each conductor are 0.3 ohm and 0.6 ohm, respectively. Calculate the voltage at the sending end. Assume a transmission line loss of 7.2% of the power delivered to the load.",
+        "options": {
+            "a": "4405.45 V",
+            "b": "4166.67 V",
+            "c": "4810.50 V",
+            "d": "4652.85 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transmission Lines",
+        "id": 1645
+    },
+    {
+        "question": "A three-phase, 3-wire transmission line has an impedance per wire of 3 + j7 ohms, the receiving end load is 1950 kW, 0.65 pf lagging with the line voltage of 13,200 V. Determine the efficiency of the line.",
+        "options": {
+            "a": "92.64%",
+            "b": "95.21%",
+            "c": "90.24%",
+            "d": "93.05%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transmission Lines",
+        "id": 1646
+    },
+    {
+        "question": "A short line has a resistance of 4 ohms and a reactance of 12 ohms per wire and transmits power to a concentrated load of 1000 kVA, 13,200 volts, 3-phase, 60 Hz, 0.8 pf inductive load. Find its efficiency.",
+        "options": {
+            "a": "93.30%",
+            "b": "96.95%",
+            "c": "95.75%",
+            "d": "97.21%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1647
+    },
+    {
+        "question": "PROBLEM. REE APR2022, REE SEPT 2024 A 3-phase, 50-Hz overhead transmission line 100 km long has the following line constants: Resistance/km/phase = 0.1 $\\Omega$ Inductive reactance/km/phase = 0.2 $\\Omega$ Capacitive susceptance/km/phase = $0.04 \\times 10^{-4}$ siemen. Determine the sending end voltage when supplying a balanced load of 10,000 kW at 66 kV, p.f. 0.8 lagging.",
+        "options": {
+            "a": "67.83 kV",
+            "b": "69.53 kV",
+            "c": "72.32 kV",
+            "d": "71.78 kV"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transmission Lines",
+        "id": 1648
+    }
+]

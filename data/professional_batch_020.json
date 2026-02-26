@@ -1,0 +1,282 @@
+[
+    {
+        "question": "Find the voltage induced in a 50-turn coil from a constant flux of 104 Wb, and also from a changing flux of 3 Wb/s.",
+        "options": {
+            "a": "120 V",
+            "b": "150 V",
+            "c": "190 V",
+            "d": "120 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1249
+    },
+    {
+        "question": "Determine the RMS value of the saw-tooth waveform of the form: $V(t) = 30t$ for $0 < t < 2$ sec?",
+        "options": {
+            "a": "46.75 V",
+            "b": "34.64 V",
+            "c": "27.83 V",
+            "d": "31.29 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1250
+    },
+    {
+        "question": "For a sine wave with peak value $I_{max}$ the r.m.s. value is:",
+        "options": {
+            "a": "$0.5 I_{max}$",
+            "b": "$0.707 I_{max}$",
+            "c": "$0.9 I_{max}$",
+            "d": "$1.414 I_{max}$"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1251
+    },
+    {
+        "question": "Find the inductance of a 100-turn coil that is linked by $3 \\times 10^{-4} \\text{ Wb}$ when a 20-mA current flows through it.",
+        "options": {
+            "a": "0.8 H",
+            "b": "1.2 H",
+            "c": "1.5 H",
+            "d": "0.292 H"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Electromagnetism",
+        "id": 1252
+    },
+    {
+        "question": "Two coils are wound close together on the same paxolin tube. Current is passed through the first coil is varied at a uniform rate of 500 mA per second, inducing an e.m.f. of 0.1 V in the second coil. Determine the mutual inductance:",
+        "options": {
+            "a": "0.5 H",
+            "b": "0.2 H",
+            "c": "0.1 H",
+            "d": "0.4 H"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Electromagnetism",
+        "id": 1253
+    },
+    {
+        "question": "A capacitor has a capacitance of $20 \\mu\\text{F}$. Find the current if the supply voltage is 230 V at 50 Hz.",
+        "options": {
+            "a": "0.827 A",
+            "b": "2.782 A",
+            "c": "1.729 A",
+            "d": "1.445 A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1254
+    },
+    {
+        "question": "The current in a circuit is given by: $i = 100 \\sin(314 t)$ amperes, the rms value and frequency of current are:",
+        "options": {
+            "a": "$50\\sqrt{2} A, 100 \\text{ Hz}$",
+            "b": "100 A, 50 Hz",
+            "c": "$100\\sqrt{2} A, 100 \\text{ Hz}$",
+            "d": "70.7 A, 50 Hz."
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Electromagnetism",
+        "id": 1255
+    },
+    {
+        "question": "The source of an AC circuit is given by $220 \\sin(344t)$ is connected to an impedance of $5 - j2 \\Omega$. Determine the true power consumed by the circuit:",
+        "options": {
+            "a": "4.17 kW",
+            "b": "6.45 kW",
+            "c": "3.56 kW",
+            "d": "0.678 kW"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1256
+    },
+    {
+        "question": "Find the approximate inductance of a single-layer coil that has 300 turns wound on a plastic cylinder 12 cm long and 0.5 cm in diameter.",
+        "options": {
+            "a": "$18.5 \\mu\\text{H}$",
+            "b": "$13.7 \\mu\\text{H}$",
+            "c": "$19.6 \\mu\\text{H}$",
+            "d": "$23.6 \\mu\\text{H}$"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Electromagnetism",
+        "id": 1257
+    },
+    {
+        "question": "An RC circuit of a drone consumes a current of $15 \\cos(314t - 50^\\circ)$ amperes when connected to a $240 \\sin(314t)$ source. Determine the resistance of the circuit:",
+        "options": {
+            "a": "$17.5 \\Omega$",
+            "b": "$12.2 \\Omega$",
+            "c": "$23.2 \\Omega$",
+            "d": "$6.56 \\Omega$"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Electromagnetism",
+        "id": 1258
+    },
+    {
+        "question": "A coil having a resistance of 24 ohms and an inductance of 0.2 H is connected across a 200 V, 50 Hz supply. Calculate the power factor.",
+        "options": {
+            "a": "0.4108 lag",
+            "b": "0.3568 lag",
+            "c": "0.3982 lag",
+            "d": "0.6722 lag"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1259
+    },
+    {
+        "question": "Find the voltage induced in a 200-mH coil at $t = 3 \\text{ ms}$ if the current increases uniformly from 30 mA at $t = 2 \\text{ ms}$ to 90 mA at $t = 5 \\text{ ms}$.",
+        "options": {
+            "a": "3 V",
+            "b": "4 V",
+            "c": "5 V",
+            "d": "6 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Electromagnetism",
+        "id": 1260
+    },
+    {
+        "question": "An RC circuit of a drone consumes a current of $15 \\cos(314t - 50^\\circ)$ amperes when connected to a $240 \\sin(314t)$ source. Determine the capacitance of the circuit:",
+        "options": {
+            "a": "$127 \\mu\\text{F}$",
+            "b": "$78 \\mu\\text{F}$",
+            "c": "$18 \\mu\\text{F}$",
+            "d": "$310 \\mu\\text{F}$"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Electromagnetism",
+        "id": 1261
+    },
+    {
+        "question": "The r.m.s. value and mean value is the same in the case of:",
+        "options": {
+            "a": "triangular wave",
+            "b": "square wave",
+            "c": "sine wave",
+            "d": "half wave rectified sine wave."
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1262
+    },
+    {
+        "question": "Find the average power absorbed by an 82-ohm resistor that has a voltage $v = 311 \\cos(377t - 45^\\circ) V$ across it.",
+        "options": {
+            "a": "590 W",
+            "b": "670 W",
+            "c": "190 W",
+            "d": "109 W"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1263
+    },
+    {
+        "question": "What is the average power absorbed by a 910-ohm resistor that has a current $i = 9.76 \\sin(754t - 36^\\circ) mA$ flowing through it?",
+        "options": {
+            "a": "43.3 mW",
+            "b": "23.9 mW",
+            "c": "19.7 mW",
+            "d": "78.4 mW"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1264
+    },
+    {
+        "question": "Find the average power absorbed by a resistor having a voltage $v = 87.7 \\cos(400\\pi t - 15^\\circ) V$ across it and a current $i = 2.72 \\cos(400\\pi t - 15^\\circ) mA$ flowing through it.",
+        "options": {
+            "a": "138 mW",
+            "b": "323 mW",
+            "c": "72 mW",
+            "d": "119 mW"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1265
+    },
+    {
+        "question": "Two coils of inductances 4 and 6 henry are connected in parallel. If their mutual inductance is 3 henry, calculate the equivalent inductance of the combination if mutual inductance assists the self-inductance (series-aiding):",
+        "options": {
+            "a": "2.78 H",
+            "b": "1.82 H",
+            "c": "0.829 H",
+            "d": "3.75 H"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Electromagnetism",
+        "id": 1266
+    },
+    {
+        "question": "A circuit is composed of 5 ohms resistor and $1 + j8$ ohm inductor in series connected to a 100 V, 60 Hz mains. Determine the power factor of this arrangement:",
+        "options": {
+            "a": "2/3",
+            "b": "3/5",
+            "c": "6/7",
+            "d": "2/5"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1267
+    },
+    {
+        "question": "An iron core ($\\mu_r = 700$) is made from 50 cm diameter plate is wound with 600 turns of copper. The circuit's reluctance is increased by placing 1 mm air gap. Determine the required current to generate 1 Tesla:",
+        "options": {
+            "a": "63 A",
+            "b": "1.9 A",
+            "c": "0.23 A",
+            "d": "4.3 A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Electromagnetism",
+        "id": 1268
+    }
+]

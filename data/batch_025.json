@@ -1,0 +1,282 @@
+[
+    {
+        "id": 481,
+        "question": "Determine the solution to the second-order D.E.: $x^2y'' - 5xy' + 9y = 0$",
+        "options": {
+            "a": "$(A + B \\ln(x))x^3$",
+            "b": "$(A + B \\ln(x))x^{-3}$",
+            "c": "$Ax^3 + Bx^4$",
+            "d": "$Ax^3 + Bx^4 \\ln x$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 482,
+        "question": "Solve $(y - \\sqrt{x^2 + y^2})dx - xdy = 0$",
+        "options": {
+            "a": "$\\sqrt{x^2 + y^2} + y = C$",
+            "b": "$\\sqrt{x^2 + y^2 + y} = C$",
+            "c": "$\\sqrt{x + y} + y = C$",
+            "d": "$\\sqrt{x^2 - y} + y = C$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 483,
+        "question": "A conical tank that is 50 meter high and 40 meters across at the opening is filled with water to 30-meter level. Determine the amount of work necessary to pump all the water to a height 100 meters from the vertex of the tank?",
+        "options": {
+            "a": "3440 MJ",
+            "b": "1569 MJ",
+            "c": "6780 MJ",
+            "d": "2170 MJ"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 484,
+        "question": "**REELE APR2019:** A radioactive isotope is used for dating an artifact of a lizard which contains only 2% of activity as compared with a living sample. The half life of the isotope is 8000 years. How old is the artifact?",
+        "options": {
+            "a": "about 56,000 years ago",
+            "b": "about 76,000 years ago",
+            "c": "about 23,000 years ago",
+            "d": "about 45,000 years ago"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 485,
+        "question": "A bread is heated inside a microwave oven at 230degC. The initial temperature of the bread is 30degC. In 1 minute, the temperature (in degC) will double. The thermocouple will signal the transducer to turn the circuit off when T = 80degC. How long will the heating occur?",
+        "options": {
+            "a": "106 sec",
+            "b": "245 sec",
+            "c": "280 sec",
+            "d": "80 sec"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 486,
+        "question": "Determine the particular solution for the D.E.: $y'' + y = \\sin(2x)$",
+        "options": {
+            "a": "$Y_p = (-1/3) \\sin(2x)$",
+            "b": "$Y_p = (2/3) \\cos(2x)$",
+            "c": "$Y_p = (-4/3) \\sin(2x)$",
+            "d": "$Y_p = (1/3) \\cos(2x)$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 487,
+        "question": "Determine the particular solution for the D.E.: $y'' - 9y' + 8y = 5e^x$",
+        "options": {
+            "a": "$Y_p = (-4/3)xe^x$",
+            "b": "$Y_p = (9/13)e^x$",
+            "c": "$Y_p = (-5/7)xe^x$",
+            "d": "$Y_p = (-2/5)e^x$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 488,
+        "question": "**REELE APR2024:** Solve the O.D.E: $dy/dx = (x + 2y) / (3y - 2x)$",
+        "options": {
+            "a": "$x^2 + 4xy - 3y^2 = C$",
+            "b": "$x^2 + 2xy + 4y^2 = C$",
+            "c": "$x^2 - 2y^2 = C$",
+            "d": "$xy - 2y^2 = C$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 489,
+        "question": "The O.D.E., $(y - x^3) dx + (x + y^3) dy = 0$ is said to be:",
+        "options": {
+            "a": "Exact",
+            "b": "Homogenous",
+            "c": "Inexact",
+            "d": "Linear"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 490,
+        "question": "Solve the particular solution of the higher-order D.E.: $y''' + 2y' + 2y = e^{3x}$",
+        "options": {
+            "a": "$(1/12)e^{3x}$",
+            "b": "$(1/15)e^{3x}$",
+            "c": "$(2/3)e^{3x}$",
+            "d": "$(2/15)e^{3x}$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 491,
+        "question": "A 30-Li tank initially containing 0.4 mg/Li of sugar is filled with a solution containing 0.1 mg/Li of sugar using a valve at 500 Li/min. The exit stream is at the same rate. Determine the mass of sugar in the tank 20 minutes after the solution was introduced:",
+        "options": {
+            "a": "57 mg",
+            "b": "78 mg",
+            "c": "32 mg",
+            "d": "12 mg"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 492,
+        "question": "C-14 (half-life = 5760 yr) dating is used on an amber-preserved fern leaf. Today\u2019s living ferns have average activity of $13 \\times 10^8$ counts/min while the sample has $1 \\times 10^6$ counts/min. The age of the fern leaf is most nearly:",
+        "options": {
+            "a": "45,320 yrs",
+            "b": "59,580 yrs",
+            "c": "89,360 yrs",
+            "d": "1,420,860 yrs"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 493,
+        "question": "The rate of decrease in volume of a cubic pellet is proportional to its surface area. At t = 0 the size of the pellet is $8\\text{ cm}^3$, and after 2 hours the size is $1\\text{ cm}^3$. The entire pellet will dissolve in nearly:",
+        "options": {
+            "a": "3 hours",
+            "b": "4 hours",
+            "c": "8 hours",
+            "d": "16 hours"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 494,
+        "question": "A metallic ball at 80degC is immersed in a large water bath at 10degC. In 5 minutes the thermocouple reads the temperature to be 20degC. What is the temperature of the ball in 10 minutes?",
+        "options": {
+            "a": "73.45degC",
+            "b": "78.57degC",
+            "c": "48.64 degC",
+            "d": "none of these"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 495,
+        "question": "Solve the D.E.: $2x^2y'' + 8xy' + 4y = 0$",
+        "options": {
+            "a": "$C_1/x + C_2/x^3$",
+            "b": "$C_1/x + C_2/x^2$",
+            "c": "$C_1x + C_2/x^3$",
+            "d": "$C_1x + C_2/x^2$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 496,
+        "question": "The coordinates of the square are : (2,2), (-2,-2), (-2,2). Find the length of the side of the square:",
+        "options": {
+            "a": "2",
+            "b": "3",
+            "c": "4",
+            "d": "5"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 497,
+        "question": "The three vertices of a square are A(2,1), B(0,4), C(3,6). Find the fourth vertex D:",
+        "options": {
+            "a": "(3, 5)",
+            "b": "(5, 3)",
+            "c": "(4, 5)",
+            "d": "(5, 4)"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 498,
+        "question": "Given three vertices of a triangle whose coordinates are A(1,1), B(3, -3) and C(5, -3) find the area of the triangle:",
+        "options": {
+            "a": "3",
+            "b": "4",
+            "c": "5",
+            "d": "6"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 499,
+        "question": "Determine the area of the triangle formed by (2, -1, 3), (3, -5, 4), and (-5, 3, -7):",
+        "options": {
+            "a": "13",
+            "b": "22",
+            "c": "35",
+            "d": "6"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 500,
+        "question": "Particles of masses 5, 10, 4 and 3 units are located at the points P1 (-2,3), P2 (2, -6), P3 (7, -3) and P4 (5,1) respectively. Find the coordinates of the center of the mass of the system.",
+        "options": {
+            "a": "(2.15, -3.67)",
+            "b": "(1.56, -2.56)",
+            "c": "(2.40, -2.45)",
+            "d": "(0.89, -4.53)"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Geometry"
+    }
+]

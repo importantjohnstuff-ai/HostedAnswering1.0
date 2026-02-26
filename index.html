@@ -1,0 +1,1206 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Math Collab App v3</title>
+    <!-- MathJax -->
+    <script>
+        window.MathJax = {
+            tex: {
+                inlineMath: [['$', '$'], ['\\(', '\\)']],
+                displayMath: [['$$', '$$'], ['\\[', '\\]']],
+                processEscapes: true
+            },
+            options: {
+                ignoreHtmlClass: 'tex2jax_ignore',
+                processHtmlClass: 'tex2jax_process'
+            }
+        };
+    </script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <!-- Cropper.js -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/cropperjs/1.5.13/cropper.min.css" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/cropperjs/1.5.13/cropper.min.js"></script>
+    <style>
+        :root {
+            --primary: #6366f1;
+            --bg: #f8fafc;
+            --card-bg: #ffffff;
+            --text: #1e293b;
+            --solved: #22c55e;
+            --locked: #ef4444;
+            --editing: #f59e0b;
+            --flagged: #dc2626;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: var(--bg);
+            color: var(--text);
+            margin: 0;
+            padding: 20px;
+            padding-top: 80px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        /* --- Control Panel --- */
+        .control-panel {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            background: white;
+            padding: 10px 20px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+            z-index: 1500;
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .control-panel label {
+            font-size: 0.8rem;
+            font-weight: bold;
+        }
+
+        .control-panel select,
+        .control-panel input[type="checkbox"] {
+            padding: 4px 8px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 0.85rem;
+        }
+
+        .control-panel .user-badge {
+            margin-left: auto;
+            background: var(--primary);
+            color: white;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            font-weight: bold;
+            cursor: pointer;
+            text-decoration: underline;
+        }
+
+        .control-panel .user-badge:hover {
+            opacity: 0.85;
+        }
+
+        .control-panel .problem-count {
+            font-size: 0.8rem;
+            color: #666;
+        }
+
+        /* --- Cards --- */
+        .problem-card {
+            background: var(--card-bg);
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+            position: relative;
+            border: 2px solid transparent;
+        }
+
+        .problem-card.flagged {
+            border-color: var(--flagged);
+            background-color: #fef2f2;
+        }
+
+        .flagged-banner {
+            color: var(--flagged);
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        .status-badge {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            font-weight: bold;
+            color: white;
+            z-index: 10;
+        }
+
+        .status-available {
+            background: var(--primary);
+        }
+
+        .status-solved {
+            background: var(--solved);
+        }
+
+        .status-locked {
+            background: var(--locked);
+        }
+
+        .status-editing {
+            background: var(--editing);
+        }
+
+        .options {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 10px;
+            margin: 15px 0;
+        }
+
+        .button {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-weight: bold;
+            transition: opacity 0.2s;
+            margin-right: 5px;
+            margin-bottom: 5px;
+        }
+
+        .button-primary {
+            background: var(--primary);
+            color: white;
+        }
+
+        .button-success {
+            background: var(--solved);
+            color: white;
+        }
+
+        .button-danger {
+            background: var(--locked);
+            color: white;
+        }
+
+        .button-warning {
+            background: var(--editing);
+            color: white;
+        }
+
+        .button-flag {
+            background: var(--flagged);
+            color: white;
+        }
+
+        .button:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+
+        .edit-fields input,
+        .edit-fields select {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+
+        .options-edit {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 10px;
+        }
+
+        .error-banner {
+            background: #ffe4e6;
+            color: #b91c1c;
+            padding: 10px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            display: none;
+        }
+
+        .solution-image {
+            max-width: 100%;
+            height: auto;
+            max-height: 400px;
+            object-fit: contain;
+            display: block;
+            border-radius: 8px;
+            margin-top: 10px;
+            border: 1px solid #ddd;
+        }
+
+        .camera-input {
+            margin-top: 10px;
+        }
+
+        .image-preview {
+            max-width: 100%;
+            margin-top: 10px;
+            border-radius: 4px;
+        }
+
+        /* --- Solution Block --- */
+        .solution-block {
+            background: #f0fdf4;
+            border: 1px solid #bbf7d0;
+            border-radius: 8px;
+            padding: 12px;
+            margin-top: 10px;
+        }
+
+        .solution-block .sol-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .solution-block .sol-header strong {
+            color: var(--solved);
+        }
+
+        .delete-sol-btn {
+            background: #fee2e2;
+            color: var(--flagged);
+            border: 1px solid #fca5a5;
+            border-radius: 4px;
+            padding: 4px 10px;
+            cursor: pointer;
+            font-size: 0.8rem;
+            font-weight: bold;
+        }
+
+        .delete-sol-btn:hover {
+            background: #fecaca;
+        }
+
+        /* --- Modals --- */
+        .modal-overlay {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.7);
+            z-index: 3000;
+        }
+
+        /* Cropper modal uses flexbox to pin buttons */
+        .cropper-modal-inner {
+            display: flex;
+            flex-direction: column;
+            height: 90vh;
+            max-height: 600px;
+            background: white;
+            margin: 3% auto;
+            padding: 20px;
+            width: 90%;
+            max-width: 500px;
+            border-radius: 8px;
+        }
+
+        .cropper-modal-inner h3 {
+            margin: 0 0 10px 0;
+            flex-shrink: 0;
+        }
+
+        .cropper-image-container {
+            flex-grow: 1;
+            overflow: hidden;
+            position: relative;
+        }
+
+        .cropper-image-container img {
+            max-width: 100%;
+            display: block;
+        }
+
+        .cropper-modal-buttons {
+            flex-shrink: 0;
+            padding-top: 15px;
+            text-align: center;
+            display: flex;
+            gap: 8px;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+
+        .modal-content {
+            background: white;
+            margin: 5% auto;
+            padding: 20px;
+            width: 90%;
+            max-width: 600px;
+            border-radius: 8px;
+            max-height: 85vh;
+            overflow-y: auto;
+        }
+
+        .modal-content img {
+            max-width: 100%;
+            display: block;
+        }
+
+        /* --- Pagination --- */
+        .pagination-controls {
+            text-align: center;
+            margin-top: 20px;
+            padding-bottom: 30px;
+        }
+
+        .pagination-controls button {
+            padding: 8px 20px;
+            border: 1px solid #ddd;
+            border-radius: 6px;
+            background: white;
+            cursor: pointer;
+            font-weight: bold;
+            transition: background 0.2s;
+        }
+
+        .pagination-controls button:hover:not(:disabled) {
+            background: #f0f0f0;
+        }
+
+        .pagination-controls button:disabled {
+            opacity: 0.4;
+            cursor: not-allowed;
+        }
+
+        .pagination-controls .page-info {
+            margin: 0 15px;
+            font-weight: bold;
+            font-size: 0.9rem;
+        }
+
+        /* --- Hidden Card --- */
+        .problem-card.hidden-card {
+            opacity: 0.45;
+            border: 2px dashed #94a3b8;
+            background: #f1f5f9;
+        }
+
+        .hidden-banner {
+            background: #e2e8f0;
+            color: #475569;
+            padding: 4px 10px;
+            border-radius: 4px;
+            font-size: 0.8rem;
+            margin-bottom: 8px;
+            display: inline-block;
+        }
+
+        /* --- Inline Edit --- */
+        .edit-sol-inline {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            margin-left: 8px;
+        }
+
+        .edit-sol-inline select {
+            padding: 2px 6px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 0.8rem;
+        }
+
+        .edit-sol-btn,
+        .edit-opts-btn,
+        .hide-btn {
+            background: #e0e7ff;
+            color: #4338ca;
+            border: 1px solid #a5b4fc;
+            border-radius: 4px;
+            padding: 4px 10px;
+            cursor: pointer;
+            font-size: 0.8rem;
+            font-weight: bold;
+        }
+
+        .edit-sol-btn:hover,
+        .edit-opts-btn:hover {
+            background: #c7d2fe;
+        }
+
+        .hide-btn {
+            background: #f1f5f9;
+            color: #64748b;
+            border-color: #cbd5e1;
+        }
+
+        .hide-btn:hover {
+            background: #e2e8f0;
+        }
+
+        .inline-edit-options {
+            display: grid;
+            grid-template-columns: auto 1fr;
+            gap: 6px 8px;
+            align-items: center;
+            margin: 10px 0;
+            padding: 10px;
+            background: #f8fafc;
+            border: 1px solid #e2e8f0;
+            border-radius: 6px;
+        }
+
+        .inline-edit-options label {
+            font-weight: bold;
+            font-size: 0.85rem;
+        }
+
+        .inline-edit-options input {
+            padding: 6px 8px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 0.85rem;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Load pre-merged problem data (works with file:// protocol, no CORS issues) -->
+    <script src="data/all_problems.js"></script>
+
+    <!-- Control Panel (Fixed Top) -->
+    <div class="control-panel">
+        <label>Status:
+            <select id="filterStatus">
+                <option value="all">All</option>
+                <option value="solved">Solved Only</option>
+                <option value="unsolved">Unsolved Only</option>
+            </select>
+        </label>
+        <label>Category:
+            <select id="filterCategory">
+                <option value="all">All</option>
+            </select>
+        </label>
+        <label>Subcategory:
+            <select id="filterSubcategory">
+                <option value="all">All</option>
+            </select>
+        </label>
+        <label>Show:
+            <select id="filterLimit">
+                <option value="10">10</option>
+                <option value="20" selected>20</option>
+                <option value="50">50</option>
+                <option value="100">100</option>
+            </select>
+        </label>
+        <label style="font-size:0.8rem;">
+            <input type="checkbox" id="toggle-solutions" onchange="applyFilters()"> Hide Solutions
+        </label>
+        <label style="font-size:0.8rem;">
+            <input type="checkbox" id="toggle-hidden" onchange="applyFilters()"> Show Hidden
+        </label>
+        <span class="problem-count" id="problemCount"></span>
+        <span class="user-badge" id="userDisplay" onclick="editName()" title="Click to change name">User</span>
+    </div>
+
+    <div class="container">
+        <header>
+            <h1>Math Collab App v3</h1>
+            <div id="errorBanner" class="error-banner"></div>
+        </header>
+        <div id="app">Loading problems...</div>
+    </div>
+
+    <!-- Pagination Controls -->
+    <div class="pagination-controls" id="pagination-controls">
+        <button id="prev-btn" onclick="changePage(-1)" disabled>⬅ Previous</button>
+        <span class="page-info" id="page-info">Page 1</span>
+        <button id="next-btn" onclick="changePage(1)">Next ➡</button>
+    </div>
+
+    <!-- Flag Modal -->
+    <div id="flag-modal" class="modal-overlay" style="z-index:2000;">
+        <div class="modal-content" style="max-width:350px;">
+            <h3>Flag Problem <span id="flag-problem-id-display"></span></h3>
+            <input type="hidden" id="flag-problem-id">
+            <input type="hidden" id="flag-source-file">
+            <label><input type="radio" name="flag_type" value="No correct answer"> (a) No correct answer</label><br>
+            <label><input type="radio" name="flag_type" value="Missing answers"> (b) Missing answers</label><br>
+            <label><input type="radio" name="flag_type" value="Incorrect given"> (c) Incorrect given</label><br>
+            <label><input type="radio" name="flag_type" value="Others" id="radio-others"> (d) Others</label><br>
+            <input type="text" id="flag-others-text" placeholder="Specify reason..."
+                style="display:none; width:90%; margin-top:10px;"><br><br>
+            <button class="button button-primary" onclick="submitFlag()">Submit Flag</button>
+            <button class="button button-danger" onclick="closeFlagModal()">Cancel</button>
+        </div>
+    </div>
+
+    <!-- Cropper / Image Editor Modal (Flexbox layout) -->
+    <div id="cropper-modal" class="modal-overlay">
+        <div class="cropper-modal-inner">
+            <h3>Edit Image</h3>
+            <div class="cropper-image-container">
+                <img id="cropper-image" src="" alt="Edit">
+            </div>
+            <div class="cropper-modal-buttons">
+                <button class="button button-primary" onclick="cropperRotate()">Rotate 90°</button>
+                <button class="button button-success" onclick="cropperConfirm()">Confirm Crop</button>
+                <button class="button button-danger" onclick="cropperCancel()">Cancel</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Delete Warning Modal -->
+    <div id="delete-modal"
+        style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(200,0,0,0.8); z-index:4000;">
+        <div
+            style="background:white; margin:15% auto; padding:30px; width:350px; border-radius:8px; text-align:center;">
+            <h2 style="color:red;">⚠️ WARNING</h2>
+            <p>Are you absolutely sure you want to delete this solution? This action <strong>cannot be undone</strong>
+                and the image file will be permanently destroyed.</p>
+            <input type="hidden" id="delete-prob-id">
+            <input type="hidden" id="delete-sol-id">
+            <input type="hidden" id="delete-source-file">
+            <div style="margin-top:15px;">
+                <button class="button" onclick="executeDelete()"
+                    style="background:red; color:white; font-weight:bold;">Yes, Delete Permanently</button>
+                <button class="button" onclick="closeDeleteModal()"
+                    style="background:#ccc; color:black;">Cancel</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // ===== Persistent Editable Username (localStorage) =====
+        let currentUser = localStorage.getItem('collab_username');
+        if (!currentUser || currentUser.trim() === '') {
+            currentUser = prompt("Welcome! Please enter your name:");
+            if (currentUser && currentUser.trim() !== '') {
+                localStorage.setItem('collab_username', currentUser.trim());
+                currentUser = currentUser.trim();
+            } else {
+                currentUser = 'Anonymous';
+            }
+        }
+        document.getElementById('userDisplay').innerText = `👤 ${currentUser} (Click to change)`;
+
+        function editName() {
+            let newName = prompt("Edit your name:", currentUser);
+            if (newName && newName.trim() !== "") {
+                currentUser = newName.trim();
+                localStorage.setItem('collab_username', currentUser);
+                document.getElementById('userDisplay').innerText = `👤 ${currentUser} (Click to change)`;
+            }
+        }
+
+        function reportError(msg, details = '') {
+            console.error("APP ERROR:", msg, details);
+            const banner = document.getElementById('errorBanner');
+            banner.innerText = msg;
+            banner.style.display = 'block';
+        }
+
+        // ===== LocalStateManager — localStorage-based persistence =====
+        const LocalState = {
+            STORAGE_KEY: 'collab_overrides',
+
+            getOverrides() {
+                try {
+                    return JSON.parse(localStorage.getItem(this.STORAGE_KEY)) || {};
+                } catch { return {}; }
+            },
+
+            saveOverrides(overrides) {
+                localStorage.setItem(this.STORAGE_KEY, JSON.stringify(overrides));
+            },
+
+            // Get the override for a specific problem, or empty object
+            getProblemOverride(id) {
+                const overrides = this.getOverrides();
+                return overrides[id] || {};
+            },
+
+            // Save override for a specific problem
+            setProblemOverride(id, data) {
+                const overrides = this.getOverrides();
+                overrides[id] = { ...this.getProblemOverride(id), ...data };
+                this.saveOverrides(overrides);
+            },
+
+            // Apply all localStorage overrides onto the base problem list
+            applyOverrides(problems) {
+                const overrides = this.getOverrides();
+                return problems.map(p => {
+                    const ov = overrides[p.id];
+                    if (!ov) return { ...p };
+                    const merged = { ...p };
+                    if (ov.locked_by !== undefined) merged.locked_by = ov.locked_by;
+                    if (ov.flagged_by !== undefined) merged.flagged_by = ov.flagged_by;
+                    if (ov.flag_reason !== undefined) merged.flag_reason = ov.flag_reason;
+                    if (ov.hidden_by !== undefined) merged.hidden_by = ov.hidden_by;
+                    if (ov.options !== undefined) merged.options = { ...p.options, ...ov.options };
+                    // Merge solutions: start with base, apply edits/deletes/adds
+                    let solutions = [...(p.solutions || [])];
+                    if (ov.deleted_solutions) {
+                        solutions = solutions.filter(s => !ov.deleted_solutions.includes(s.solution_id));
+                    }
+                    if (ov.edited_solutions) {
+                        solutions = solutions.map(s => {
+                            const edit = ov.edited_solutions[s.solution_id];
+                            if (edit) return { ...s, ...edit };
+                            return s;
+                        });
+                    }
+                    if (ov.added_solutions) {
+                        solutions = solutions.concat(ov.added_solutions);
+                    }
+                    merged.solutions = solutions;
+                    return merged;
+                });
+            },
+
+            lockProblem(id, user) {
+                this.setProblemOverride(id, { locked_by: user });
+            },
+
+            unlockProblem(id, user) {
+                const ov = this.getProblemOverride(id);
+                if (ov.locked_by === user) {
+                    this.setProblemOverride(id, { locked_by: null });
+                }
+            },
+
+            forceUnlock(id) {
+                this.setProblemOverride(id, { locked_by: null });
+            },
+
+            saveSolution(id, user, chosenOption, options, imageDataUrl) {
+                const ov = this.getProblemOverride(id);
+                const newSol = {
+                    solution_id: 'sol_local_' + Date.now() + '_' + Math.random().toString(36).substr(2, 6),
+                    user: user,
+                    chosen_option: chosenOption,
+                    image: imageDataUrl || null
+                };
+                const addedSolutions = ov.added_solutions || [];
+                addedSolutions.push(newSol);
+                const update = { locked_by: null, flagged_by: null, flag_reason: null, added_solutions: addedSolutions };
+                if (options) update.options = options;
+                this.setProblemOverride(id, update);
+            },
+
+            deleteSolution(probId, solId) {
+                const ov = this.getProblemOverride(probId);
+                // Check if it's a locally-added solution
+                let addedSolutions = ov.added_solutions || [];
+                const localIdx = addedSolutions.findIndex(s => s.solution_id === solId);
+                if (localIdx >= 0) {
+                    addedSolutions.splice(localIdx, 1);
+                    this.setProblemOverride(probId, { added_solutions: addedSolutions });
+                } else {
+                    // It's a base solution — track deletion
+                    const deleted = ov.deleted_solutions || [];
+                    deleted.push(solId);
+                    this.setProblemOverride(probId, { deleted_solutions: deleted });
+                }
+            },
+
+            editSolution(probId, solId, newAnswer) {
+                const ov = this.getProblemOverride(probId);
+                // Check if locally added
+                let addedSolutions = ov.added_solutions || [];
+                const localSol = addedSolutions.find(s => s.solution_id === solId);
+                if (localSol) {
+                    localSol.chosen_option = newAnswer;
+                    this.setProblemOverride(probId, { added_solutions: addedSolutions });
+                } else {
+                    // Base solution — track edit
+                    const edited = ov.edited_solutions || {};
+                    edited[solId] = { chosen_option: newAnswer };
+                    this.setProblemOverride(probId, { edited_solutions: edited });
+                }
+            },
+
+            editOptions(probId, options) {
+                this.setProblemOverride(probId, { options: options });
+            },
+
+            flagProblem(id, user, reason) {
+                this.setProblemOverride(id, { flagged_by: user, flag_reason: reason });
+            },
+
+            unflagProblem(id, user) {
+                const ov = this.getProblemOverride(id);
+                if (ov.flagged_by === user) {
+                    this.setProblemOverride(id, { flagged_by: null, flag_reason: null });
+                }
+            },
+
+            toggleHide(id, user) {
+                const ov = this.getProblemOverride(id);
+                if (ov.hidden_by) {
+                    this.setProblemOverride(id, { hidden_by: null });
+                } else {
+                    this.setProblemOverride(id, { hidden_by: user });
+                }
+            }
+        };
+
+        // ===== Global Data Store =====
+        let baseProblems = [];  // immutable data from JSON
+        let allProblems = [];   // base + localStorage overrides
+        let currentRenderedJson = '';
+        let cropperInstance = null;
+        let cropperProblemId = null;
+        let currentPage = 1;
+        let itemsPerPage = 20;
+        let lastFilteredCount = 0;
+
+        // ===== Load Data =====
+        function loadData() {
+            if (window.ALL_PROBLEMS && Array.isArray(window.ALL_PROBLEMS)) {
+                baseProblems = window.ALL_PROBLEMS;
+                refreshFromLocal();
+            } else {
+                reportError("Failed to load data. Make sure data/all_problems.js exists and was loaded correctly.");
+            }
+        }
+
+        // Re-apply localStorage overrides and re-render
+        function refreshFromLocal() {
+            allProblems = LocalState.applyOverrides(baseProblems);
+            populateFilterDropdowns();
+            applyFilters();
+            document.getElementById('errorBanner').style.display = 'none';
+        }
+
+        function populateFilterDropdowns() {
+            const catSelect = document.getElementById('filterCategory');
+            const subSelect = document.getElementById('filterSubcategory');
+
+            const categories = [...new Set(allProblems.map(p => p.category).filter(Boolean))].sort();
+            const currentCat = catSelect.value;
+            catSelect.innerHTML = '<option value="all">All</option>';
+            categories.forEach(c => {
+                catSelect.innerHTML += `<option value="${c}" ${c === currentCat ? 'selected' : ''}>${c}</option>`;
+            });
+
+            const selectedCat = catSelect.value;
+            let filtered = allProblems;
+            if (selectedCat !== 'all') {
+                filtered = allProblems.filter(p => p.category === selectedCat);
+            }
+            const subcategories = [...new Set(filtered.map(p => p.sub_category).filter(Boolean))].sort();
+            const currentSub = subSelect.value;
+            subSelect.innerHTML = '<option value="all">All</option>';
+            subcategories.forEach(s => {
+                subSelect.innerHTML += `<option value="${s}" ${s === currentSub ? 'selected' : ''}>${s}</option>`;
+            });
+        }
+
+        function applyFilters() {
+            const statusVal = document.getElementById('filterStatus').value;
+            const catVal = document.getElementById('filterCategory').value;
+            const subVal = document.getElementById('filterSubcategory').value;
+            itemsPerPage = parseInt(document.getElementById('filterLimit').value);
+            const showHidden = document.getElementById('toggle-hidden').checked;
+
+            let filtered = [...allProblems];
+
+            if (!showHidden) filtered = filtered.filter(p => !p.hidden_by);
+            if (statusVal === 'solved') filtered = filtered.filter(p => p.solutions && p.solutions.length > 0);
+            else if (statusVal === 'unsolved') filtered = filtered.filter(p => !p.solutions || p.solutions.length === 0);
+            if (catVal !== 'all') filtered = filtered.filter(p => p.category === catVal);
+            if (subVal !== 'all') filtered = filtered.filter(p => p.sub_category === subVal);
+
+            lastFilteredCount = filtered.length;
+            const totalPages = Math.max(1, Math.ceil(filtered.length / itemsPerPage));
+            if (currentPage > totalPages) currentPage = totalPages;
+            if (currentPage < 1) currentPage = 1;
+
+            const startIndex = (currentPage - 1) * itemsPerPage;
+            const endIndex = startIndex + itemsPerPage;
+            const problemsToDisplay = filtered.slice(startIndex, endIndex);
+
+            document.getElementById('problemCount').innerText =
+                `${startIndex + 1}–${Math.min(endIndex, filtered.length)} of ${filtered.length} (${allProblems.length} total)`;
+            document.getElementById('page-info').innerText = `Page ${currentPage} of ${totalPages}`;
+            document.getElementById('prev-btn').disabled = (currentPage <= 1);
+            document.getElementById('next-btn').disabled = (currentPage >= totalPages);
+
+            const hideSol = document.getElementById('toggle-solutions').checked;
+            const newJson = JSON.stringify(problemsToDisplay) + '|hide=' + hideSol + '|showHidden=' + showHidden;
+            if (newJson !== currentRenderedJson) {
+                currentRenderedJson = newJson;
+                renderProblems(problemsToDisplay);
+            }
+        }
+
+        function changePage(direction) {
+            currentPage += direction;
+            applyFilters();
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+
+        // ===== Render =====
+        function renderProblems(data) {
+            const app = document.getElementById('app');
+            app.innerHTML = '';
+            const hideSolutions = document.getElementById('toggle-solutions').checked;
+
+            if (data.length === 0) {
+                app.innerHTML = '<p style="text-align:center;color:#999;">No problems match your filters.</p>';
+                return;
+            }
+
+            data.forEach(p => {
+                const card = document.createElement('div');
+                card.className = 'problem-card';
+                if (p.flagged_by) card.classList.add('flagged');
+                if (p.hidden_by) card.classList.add('hidden-card');
+
+                const hasSolutions = p.solutions && p.solutions.length > 0;
+                const isLocked = !!p.locked_by;
+
+                let status = 'Available';
+                let statusClass = 'status-available';
+
+                if (isLocked) {
+                    if (p.locked_by === currentUser) {
+                        status = 'Editing by You';
+                        statusClass = 'status-editing';
+                    } else {
+                        status = `Locked by ${p.locked_by}`;
+                        statusClass = 'status-locked';
+                    }
+                } else if (hasSolutions) {
+                    status = `${p.solutions.length} Solution(s)`;
+                    statusClass = 'status-solved';
+                }
+
+                const sf = encodeURIComponent(p.source_file);
+
+                let contentHtml = `
+                    <div class="status-badge ${statusClass}">${status}</div>
+                    ${p.hidden_by ? `<div class="hidden-banner">👁 Hidden by ${p.hidden_by}</div>` : ''}
+                    ${p.flagged_by ? `<div class="flagged-banner">🚩 Flagged by ${p.flagged_by}: ${p.flag_reason || 'No reason given'}</div>` : ''}
+                    <p><strong>Problem #${p.id}</strong> (${p.category} → ${p.sub_category})</p>
+                    <div class="math-content tex2jax_process">${p.question}</div>
+                    <div class="options tex2jax_process" id="opts-display-${p.id}">
+                        ${Object.entries(p.options).map(([key, val]) => `
+                            <div><strong>${key})</strong> ${val}</div>
+                        `).join('')}
+                    </div>
+                `;
+                card.innerHTML = contentHtml;
+
+                // === Show existing solutions (or hide them) ===
+                if (hasSolutions) {
+                    if (hideSolutions) {
+                        const hiddenNote = document.createElement('p');
+                        hiddenNote.innerHTML = `<em style="color:#999;">📦 ${p.solutions.length} solution(s) hidden. Uncheck "Hide Solutions" to view.</em>`;
+                        card.appendChild(hiddenNote);
+                    } else {
+                        p.solutions.forEach(sol => {
+                            const solDiv = document.createElement('div');
+                            solDiv.className = 'solution-block';
+                            let solHtml = `
+                                <div class="sol-header">
+                                    <strong>✅ ${sol.user} → Option <span id="sol-answer-${sol.solution_id}">${sol.chosen_option.toUpperCase()}</span></strong>
+                                    <span>
+                                        <button class="edit-sol-btn" onclick="toggleEditSolution('${sol.solution_id}',${p.id},'${sf}','${sol.chosen_option}')">✏️ Edit</button>
+                                        <button class="delete-sol-btn" onclick="openDeleteModal(${p.id},'${sol.solution_id}','${sf}')">🗑️ Delete</button>
+                                    </span>
+                                </div>
+                                <div id="edit-sol-${sol.solution_id}" style="display:none; margin-top:6px;">
+                                    <div class="edit-sol-inline">
+                                        <select id="edit-sol-select-${sol.solution_id}">
+                                            <option value="a" ${sol.chosen_option === 'a' ? 'selected' : ''}>A</option>
+                                            <option value="b" ${sol.chosen_option === 'b' ? 'selected' : ''}>B</option>
+                                            <option value="c" ${sol.chosen_option === 'c' ? 'selected' : ''}>C</option>
+                                            <option value="d" ${sol.chosen_option === 'd' ? 'selected' : ''}>D</option>
+                                        </select>
+                                        <button class="button button-success" style="padding:4px 12px; font-size:0.8rem;" onclick="saveEditSolution(${p.id},'${sol.solution_id}','${sf}')">Save</button>
+                                        <button class="button button-danger" style="padding:4px 12px; font-size:0.8rem;" onclick="document.getElementById('edit-sol-${sol.solution_id}').style.display='none'">Cancel</button>
+                                    </div>
+                                </div>
+                            `;
+                            if (sol.image) {
+                                solHtml += `<img src="${sol.image}" class="solution-image" alt="Solution by ${sol.user}">`;
+                            }
+                            solDiv.innerHTML = solHtml;
+                            card.appendChild(solDiv);
+                        });
+                    }
+                }
+
+                // === Action buttons ===
+                if (p.locked_by === currentUser) {
+                    const editDiv = document.createElement('div');
+                    editDiv.className = 'edit-fields';
+                    editDiv.innerHTML = `
+                        <label>Correct Answer:</label>
+                        <select id="answer_${p.id}">
+                            <option value="a">a</option>
+                            <option value="b">b</option>
+                            <option value="c">c</option>
+                            <option value="d">d</option>
+                        </select>
+                        <div class="options-edit">
+                            ${Object.keys(p.options).map(key => `
+                                <input type="text" id="option_${p.id}_${key}" placeholder="Option ${key}" value="${p.options[key]}">
+                            `).join('')}
+                        </div>
+                        <div class="camera-input">
+                            <label>Upload Solution Image (Camera):</label>
+                            <input type="file" id="image_${p.id}" accept="image/*" capture="environment"
+                                   onchange="handleImageInput(${p.id}, this)">
+                            <img id="preview_${p.id}" class="image-preview" style="display:none;">
+                        </div>
+                        <div style="margin-top:10px;">
+                            <button class="button button-success" onclick="saveProblem(${p.id},'${sf}')">Save & Solve</button>
+                            <button class="button button-danger" onclick="unlockProblem(${p.id},'${sf}')">Cancel</button>
+                        </div>
+                    `;
+                    card.appendChild(editDiv);
+                } else if (!isLocked) {
+                    const btnDiv = document.createElement('div');
+                    btnDiv.style.marginTop = '10px';
+                    let btns = '';
+                    if (hasSolutions) {
+                        btns += `<button class="button button-primary" onclick="lockProblem(${p.id},'${sf}')">➕ Add Alternative Solution</button>`;
+                    } else {
+                        btns += `<button class="button button-primary" onclick="lockProblem(${p.id},'${sf}')">Work on this</button>`;
+                    }
+                    btns += `<button class="edit-opts-btn" onclick="toggleEditOptions(${p.id},'${sf}')">✏️ Edit Choices</button> `;
+                    btns += `<button class="hide-btn" onclick="toggleHide(${p.id},'${sf}')">${p.hidden_by ? '👁 Show' : '👁 Hide'}</button> `;
+                    btns += `<button class="button button-flag" onclick="openFlagModal(${p.id},'${sf}')">Flag Issue</button>`;
+                    if (p.flagged_by === currentUser) {
+                        btns += `<button class="button button-warning" onclick="unflagProblem(${p.id},'${sf}')">Remove My Flag</button>`;
+                    }
+                    btnDiv.innerHTML = btns;
+
+                    const editOptsDiv = document.createElement('div');
+                    editOptsDiv.id = `edit-opts-${p.id}`;
+                    editOptsDiv.style.display = 'none';
+                    editOptsDiv.innerHTML = `
+                        <div class="inline-edit-options">
+                            ${Object.entries(p.options).map(([key, val]) => `
+                                <label>${key.toUpperCase()})</label>
+                                <input type="text" id="edit-opt-${p.id}-${key}" value="${val.replace(/"/g, '&quot;')}">
+                            `).join('')}
+                        </div>
+                        <button class="button button-success" style="padding:6px 14px; font-size:0.85rem;" onclick="saveEditOptions(${p.id},'${sf}')">💾 Save Choices</button>
+                        <button class="button button-danger" style="padding:6px 14px; font-size:0.85rem;" onclick="document.getElementById('edit-opts-${p.id}').style.display='none'">Cancel</button>
+                    `;
+                    card.appendChild(btnDiv);
+                    card.appendChild(editOptsDiv);
+                } else {
+                    const btnDiv = document.createElement('div');
+                    btnDiv.style.marginTop = '10px';
+                    btnDiv.innerHTML = `<button class="button button-warning" onclick="forceUnlock(${p.id},'${sf}')">🔓 Force Unlock (cancel ${p.locked_by}'s work)</button>`;
+                    card.appendChild(btnDiv);
+                }
+
+                app.appendChild(card);
+            });
+
+            if (window.MathJax && window.MathJax.typesetPromise) {
+                MathJax.typesetPromise();
+            }
+        }
+
+        // ===== Actions (all localStorage-based, no server calls) =====
+        function lockProblem(id, sf) {
+            LocalState.lockProblem(id, currentUser);
+            refreshFromLocal();
+        }
+
+        function unlockProblem(id, sf) {
+            LocalState.unlockProblem(id, currentUser);
+            refreshFromLocal();
+        }
+
+        function forceUnlock(id, sf) {
+            if (!confirm("Force unlock this problem? This will cancel the other user's work.")) return;
+            LocalState.forceUnlock(id);
+            refreshFromLocal();
+        }
+
+        // ===== Edit Solution (chosen answer) =====
+        function toggleEditSolution(solId, probId, sf, currentAnswer) {
+            const editDiv = document.getElementById(`edit-sol-${solId}`);
+            editDiv.style.display = editDiv.style.display === 'none' ? 'block' : 'none';
+        }
+
+        function saveEditSolution(probId, solId, sf) {
+            const newAnswer = document.getElementById(`edit-sol-select-${solId}`).value;
+            LocalState.editSolution(probId, solId, newAnswer);
+            refreshFromLocal();
+        }
+
+        // ===== Edit Options (choice text) =====
+        function toggleEditOptions(probId, sf) {
+            const editDiv = document.getElementById(`edit-opts-${probId}`);
+            editDiv.style.display = editDiv.style.display === 'none' ? 'block' : 'none';
+        }
+
+        function saveEditOptions(probId, sf) {
+            const options = {};
+            ['a', 'b', 'c', 'd'].forEach(key => {
+                options[key] = document.getElementById(`edit-opt-${probId}-${key}`).value;
+            });
+            LocalState.editOptions(probId, options);
+            refreshFromLocal();
+        }
+
+        // ===== Toggle Hide =====
+        function toggleHide(probId, sf) {
+            LocalState.toggleHide(probId, currentUser);
+            refreshFromLocal();
+        }
+
+        function unflagProblem(id, sf) {
+            LocalState.unflagProblem(id, currentUser);
+            refreshFromLocal();
+        }
+
+        // ===== Flag Modal =====
+        function openFlagModal(id, sf) {
+            document.getElementById('flag-problem-id').value = id;
+            document.getElementById('flag-source-file').value = decodeURIComponent(sf);
+            document.getElementById('flag-problem-id-display').innerText = '#' + id;
+            document.querySelectorAll('input[name="flag_type"]').forEach(r => r.checked = false);
+            document.getElementById('flag-others-text').value = '';
+            document.getElementById('flag-others-text').style.display = 'none';
+            document.getElementById('flag-modal').style.display = 'block';
+        }
+        function closeFlagModal() { document.getElementById('flag-modal').style.display = 'none'; }
+
+        function submitFlag() {
+            const id = document.getElementById('flag-problem-id').value;
+            const selected = document.querySelector('input[name="flag_type"]:checked');
+            if (!selected) { alert('Please select a reason.'); return; }
+            let finalReason = selected.value;
+            if (finalReason === 'Others') {
+                const otherText = document.getElementById('flag-others-text').value.trim();
+                if (otherText) finalReason = 'Others: ' + otherText;
+            }
+            LocalState.flagProblem(parseInt(id), currentUser, finalReason);
+            closeFlagModal();
+            refreshFromLocal();
+        }
+
+        // ===== Delete Modal =====
+        function openDeleteModal(probId, solId, sf) {
+            document.getElementById('delete-prob-id').value = probId;
+            document.getElementById('delete-sol-id').value = solId;
+            document.getElementById('delete-source-file').value = decodeURIComponent(sf);
+            document.getElementById('delete-modal').style.display = 'block';
+        }
+        function closeDeleteModal() { document.getElementById('delete-modal').style.display = 'none'; }
+
+        function executeDelete() {
+            const probId = parseInt(document.getElementById('delete-prob-id').value);
+            const solId = document.getElementById('delete-sol-id').value;
+            LocalState.deleteSolution(probId, solId);
+            closeDeleteModal();
+            refreshFromLocal();
+        }
+
+        // ===== Cropper.js Image Editing =====
+        function handleImageInput(problemId, inputEl) {
+            const file = inputEl.files[0];
+            if (!file) return;
+            cropperProblemId = problemId;
+            const reader = new FileReader();
+            reader.onload = (e) => {
+                const imgEl = document.getElementById('cropper-image');
+                imgEl.src = e.target.result;
+                document.getElementById('cropper-modal').style.display = 'block';
+                if (cropperInstance) { cropperInstance.destroy(); cropperInstance = null; }
+                imgEl.onload = () => {
+                    cropperInstance = new Cropper(imgEl, {
+                        viewMode: 2, responsive: true, autoCropArea: 1
+                    });
+                };
+            };
+            reader.readAsDataURL(file);
+        }
+
+        function cropperRotate() { if (cropperInstance) cropperInstance.rotate(90); }
+
+        function cropperConfirm() {
+            if (!cropperInstance) return;
+            const dataUrl = cropperInstance.getCroppedCanvas().toDataURL('image/jpeg', 0.7);
+            const preview = document.getElementById(`preview_${cropperProblemId}`);
+            if (preview) { preview.src = dataUrl; preview.style.display = 'block'; }
+            window[`editedImage_${cropperProblemId}`] = dataUrl;
+            cropperInstance.destroy(); cropperInstance = null;
+            document.getElementById('cropper-modal').style.display = 'none';
+        }
+
+        function cropperCancel() {
+            if (cropperInstance) { cropperInstance.destroy(); cropperInstance = null; }
+            document.getElementById('cropper-modal').style.display = 'none';
+        }
+
+        // ===== Save Problem =====
+        async function saveProblem(id, sf) {
+            const answer = document.getElementById(`answer_${id}`).value;
+            const options = {};
+            ['a', 'b', 'c', 'd'].forEach(key => {
+                options[key] = document.getElementById(`option_${id}_${key}`).value;
+            });
+
+            let imageData = window[`editedImage_${id}`] || "";
+            if (!imageData) {
+                const imageFile = document.getElementById(`image_${id}`).files[0];
+                if (imageFile) {
+                    imageData = await new Promise(resolve => {
+                        const r = new FileReader();
+                        r.onload = (e) => resolve(e.target.result);
+                        r.readAsDataURL(imageFile);
+                    });
+                }
+            }
+
+            LocalState.saveSolution(id, currentUser, answer, options, imageData);
+            delete window[`editedImage_${id}`];
+            refreshFromLocal();
+        }
+
+        // ===== Event Listeners for Filters =====
+        document.getElementById('filterStatus').addEventListener('change', () => { currentPage = 1; applyFilters(); });
+        document.getElementById('filterCategory').addEventListener('change', () => {
+            currentPage = 1;
+            populateFilterDropdowns();
+            applyFilters();
+        });
+        document.getElementById('filterSubcategory').addEventListener('change', () => { currentPage = 1; applyFilters(); });
+        document.getElementById('filterLimit').addEventListener('change', () => { currentPage = 1; applyFilters(); });
+
+        // Radio button listener for "Others"
+        document.querySelectorAll('input[name="flag_type"]').forEach(radio => {
+            radio.addEventListener('change', (e) => {
+                document.getElementById('flag-others-text').style.display =
+                    e.target.value === 'Others' ? 'block' : 'none';
+            });
+        });
+
+        // ===== Start (static — no polling needed) =====
+        loadData();
+    </script>
+</body>
+
+</html>

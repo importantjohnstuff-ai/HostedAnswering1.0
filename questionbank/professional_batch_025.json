@@ -1,0 +1,187 @@
+[
+    {
+        "question": "The example of non-ohmic resistance is: (a) copper wire (b) aluminium (c) tungsten wire (d) gold wire",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1349
+    },
+    {
+        "question": "The electric current is due to the flow of: (a) positive charges only (b) both positive and negative charges (c) negative charges only (d) magnetic field lines.",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Electromagnetism",
+        "id": 1350
+    },
+    {
+        "question": "Eureka has \\_\\_\\_\\_\\_\\_\\_\\_ temperature co-efficient of resistance. (a) almost zero (b) negative (c) positive (d) none of the above",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1351
+    },
+    {
+        "question": "An electric fan and a heater are marked 100 Watt, 220 V and 1000 Watt, 220 V respectively. The resistance of the heater is: (a) greater than that of fan (b) less than that of fan (c) equal to that of fan (d) none of the above",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1352
+    },
+    {
+        "question": "The figure shown represents a part of a closed circuit. The potential difference between A and B is: (Diagram shows a 3A current source, a 3V battery with 1$\\Omega$ internal resistance, and a 6$\\Omega$ resistor) (a) 24 V (b) 18 V (c) 0 V (d) 6 V",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1353
+    },
+    {
+        "question": "The capacitance of a capacitor is \\_\\_\\_\\_\\_\\_\\_\\_ relative permittivity. (a) directly proportional to (b) independent of (c) inversely proportional to (d) directly proportional to square of",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Electromagnetism",
+        "id": 1354
+    },
+    {
+        "question": "A capacitor opposes: (a) change in current (b) both change in current and voltage (c) change in voltage (d) none of the above",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1355
+    },
+    {
+        "question": "A parallel-plate air capacitor is immersed in oil of dielectric constant 2. The electric field between the plates is: (a) increased 2 times (b) decreased 2 times (c) increased 4 times (d) none of above",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Electromagnetism",
+        "id": 1356
+    },
+    {
+        "question": "Two capacitors have capacitances 25 \u00b5F when in parallel and 6 \u00b5F when in series. Their individual capacitances are: (a) 12 \u00b5F and 13 \u00b5F (b) 10 \u00b5F and 8 \u00b5F (c) 15 \u00b5F and 10 \u00b5F (d) none of above",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Electromagnetism",
+        "id": 1357
+    },
+    {
+        "question": "A flux density of 1.2 Wb/m\u00b2 is required in 2-mm air gap of an electromagnet having an iron path 1 m long. Calculate the current required if the electromagnet has 1,273 turns. Assume relative permeability of iron to be 1,500. (a) 1 A (b) 2 A (c) 3 A (d) 4 A",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1358
+    },
+    {
+        "question": "Determine the resistance R shown on the circuit: (Diagram shows a 35V source, a 600$\\Omega$ resistor, a voltmeter reading 5V across a 1.2k$\\Omega$ resistor, and resistor R)",
+        "options": {
+            "a": "2100 ohm",
+            "b": "2400 ohm",
+            "c": "2700 ohm",
+            "d": "3000 ohm"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1359
+    },
+    {
+        "question": "Which of the following does not change when a glass slab is introduced between the plates of a charged parallel plate capacitor? (a) electric charge (b) capacitance (c) electric energy (d) electric field intensity",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Electromagnetism",
+        "id": 1360
+    },
+    {
+        "question": "A 16 \u00b5F capacitor is charged to 100 V. After being disconnected, it is immediately connected in parallel with an uncharged capacitor of capacitance 4\u00b5F. Determine the potential difference across the combination: (a) 90 V (b) 40 V (c) 60 V (d) 80 V",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Electromagnetism",
+        "id": 1361
+    },
+    {
+        "question": "An another unit of inductance is: (a) Wb T/A (b) V-s/A (c) H-turns\u00b2 (d) All three are equivalent",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Electromagnetism",
+        "id": 1362
+    },
+    {
+        "question": "A parallel-plate capacitor has plates 0.1 mm apart, a plate area of $1 \\times 10^5$ mm\u00b2, and a dielectric with a relative permittivity of 5. What is the voltage between the plates, if the capacitor has a charge of 5 uC? (a) 112.94 V (b) 183.23 V (c) 23.74 V (d) 75.53 V",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Electromagnetism",
+        "id": 1363
+    },
+    {
+        "question": "Calculate the resistance of a copper tube with the external diameter of 10 cm, internal diameter of 9 cm, length of 2 m and resistivity of copper as $1.72 \\times 10^{-8}$ ohm-m. (a) 21.72 micro-ohm (b) 22.05 micro-ohm (c) 25.76 micro-ohm (d) 23.09 micro-ohm",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1364
+    },
+    {
+        "question": "Hysteresis loss in a magnetic material depends upon: (a) area of hysteresis loop (b) volume of magnetic material (c) frequency of reversed of field (d) All the above",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Electromagnetism",
+        "id": 1365
+    },
+    {
+        "question": "The magnetic strength of an electromagnet can be increased by: (a) increasing current in the solenoid (b) increasing the number of turns of the solenoid (c) Both (a) and (b) (d) None of above",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Electromagnetism",
+        "id": 1366
+    },
+    {
+        "question": "Find the relative permeability of a piece of silicon iron if a flux density of 1.3 T is produced by a magnetic field strength of 700 A/m. (a) 1478 (b) 3291 (c) 1282 (d) 938",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1367
+    },
+    {
+        "question": "A coil of 0.02 mH is carrying a current of 1 A. If this current is reversed in 0.02 s, the induced emf in the coil will be: (a) 0.08 V (b) 0.004 V (c) 0.002 V (d) 0.02 V",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Electromagnetism",
+        "id": 1368
+    }
+]

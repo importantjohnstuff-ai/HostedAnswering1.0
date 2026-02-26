@@ -1,0 +1,268 @@
+[
+    {
+        "id": 585,
+        "question": "Which factor increases knocking tendency in a compression ignition engine?",
+        "options": {
+            "a": "Increasing speed, injection advance, coolant temperature",
+            "b": "Increasing compression ratio",
+            "c": "Increasing speed and injection advance",
+            "d": "Increasing compression ratio and coolant temperature"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics"
+    },
+    {
+        "id": 586,
+        "question": "For a given compression ratio, which ideal cycles have equal thermal efficiency?",
+        "options": {
+            "a": "Otto and Joule",
+            "b": "Diesel and Stirling",
+            "c": "Stirling and Otto",
+            "d": "Joule and Diesel"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics"
+    },
+    {
+        "id": 587,
+        "question": "In Otto cycle analysis, which is NOT assumed?",
+        "options": {
+            "a": "Constant specific heats",
+            "b": "Constant-pressure combustion",
+            "c": "Exhaust replaced by heat rejection",
+            "d": "Quasiequilibrium processes"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics"
+    },
+    {
+        "id": 588,
+        "question": "A higher octane number means the fuel has _______.",
+        "options": {
+            "a": "Higher flash point",
+            "b": "Longer ignition delay",
+            "c": "Higher heating value",
+            "d": "Lower volatility"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry"
+    },
+    {
+        "id": 589,
+        "question": "Brake power of a diesel engine can be increased by _______.",
+        "options": {
+            "a": "Increasing intake air pressure",
+            "b": "Decreasing intake air pressure",
+            "c": "Decreasing intake air density",
+            "d": "Increasing intake air temperature"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics"
+    },
+    {
+        "id": 590,
+        "question": "Which inversion mechanism is also known as the gnome engine?",
+        "options": {
+            "a": "Two-stroke engine",
+            "b": "Crank and lever mechanism",
+            "c": "Rotary I.C. engine",
+            "d": "Four-stroke engine"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry"
+    },
+    {
+        "id": 591,
+        "question": "When will exhaust hydrocarbons be maximum in an I.C. engine?",
+        "options": {
+            "a": "Cruising",
+            "b": "Idling",
+            "c": "Running at high speed",
+            "d": "Accelerating"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry"
+    },
+    {
+        "id": 592,
+        "question": "What is the first hydroelectric power plant in the Philippines?",
+        "options": {
+            "a": "South Pulangi",
+            "b": "Camp John Hay",
+            "c": "Ambuklao",
+            "d": "Magat"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics"
+    },
+    {
+        "id": 594,
+        "question": "Which type of hydraulic turbine is generally used for heads under 30 meters?",
+        "options": {
+            "a": "Kaplan",
+            "b": "Pelton",
+            "c": "Francis",
+            "d": "Propeller"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics"
+    },
+    {
+        "id": 595,
+        "question": "A company pays 3.5% interest quarterly. What is the effective annual interest rate?",
+        "options": {
+            "a": "10.75% (ANS: 3.55%)",
+            "b": "14.75%",
+            "c": "17.45%",
+            "d": "24.75%"
+        },
+        "answer": "a",
+        "correct_answer_text": "10.75% (ANS: 3.55%)",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy"
+    },
+    {
+        "id": 596,
+        "question": "A savings certificate that costs P5000 now will pay P8000 in five years. What is the interest rate?",
+        "options": {
+            "a": "9.85%",
+            "b": "11.85%",
+            "c": "18.55%",
+            "d": "25.55%"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy"
+    },
+    {
+        "id": 597,
+        "question": "An induction motor has a cost of 50,000 and has a life of 10 yrs and gas no SV. The company net profit increase is 12,500 for 10 years. The company tax rate is 51%. What is the before tax interest rate?",
+        "options": {
+            "a": "35.6%",
+            "b": "2.41%",
+            "c": "3.50%",
+            "d": "14.7%"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy"
+    },
+    {
+        "id": 598,
+        "question": "Kutz Sara wants to maintain her 5m2 room of steel with wood veneers. The annual maintenance cost is 85,000 and the annual interest is 5%. Determine the amount must she need to invest?",
+        "options": {
+            "a": "1,250,000 P",
+            "b": "1,700,000 P",
+            "c": "1,400,000 P",
+            "d": "950,000 P"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy"
+    },
+    {
+        "id": 599,
+        "question": "A certain compound is 93.71% carbon and 6.29% hydrogen. The estimate molecular weight is 192. Determine the molecular formula:",
+        "options": {
+            "a": "C12H10",
+            "b": "C10H12",
+            "c": "C15H12",
+            "d": "C12H15"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry"
+    },
+    {
+        "id": 600,
+        "question": "What is the present worth of 60,000 due in 5 years if money is worth 15% and is compounded semi-annually?",
+        "options": {
+            "a": "P19,111.63",
+            "b": "P29,111.63",
+            "c": "P39,111.63",
+            "d": "P49,111.63"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy"
+    },
+    {
+        "id": 601,
+        "question": "A sum of money is deposited now in a savings account. The effective annual interest rate is 12% and interest is compounded monthly. How much money must be deposited to yield P1,500.00 at the end of 10 months?",
+        "options": {
+            "a": "P1351.99",
+            "b": "P1551.99",
+            "c": "P2351.99",
+            "d": "P3351.99"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy"
+    },
+    {
+        "id": 602,
+        "question": "Find the compound amount if P7500 is invested at 12% compounded quarterly for 7 years and 6 months.",
+        "options": {
+            "a": "P18,204.47",
+            "b": "P28,204.47",
+            "c": "P38,204.47",
+            "d": "P48,204.47"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry"
+    },
+    {
+        "id": 603,
+        "question": "How much money must be invested today in order to withdraw P12,000 per year for 12 years if the interest rate is 12%?",
+        "options": {
+            "a": "P44,332.49",
+            "b": "P54,332.49",
+            "c": "P74,332.49",
+            "d": "P94,332.49"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy"
+    },
+    {
+        "id": 604,
+        "question": "How long will it take a sum of money to double at 10% annual percentage rate?",
+        "options": {
+            "a": "5.27 years",
+            "b": "7.27 years",
+            "c": "9.27 years",
+            "d": "12.27 years"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy"
+    }
+]

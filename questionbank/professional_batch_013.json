@@ -1,0 +1,277 @@
+[
+    {
+        "question": "A 4-pole, 3-phase, 50 Hz induction motor has a voltage between slip-rings on open-circuit of 520 V. The star-connected rotor has a standstill reactance and resistance of 2.0 and 0.4 $\\Omega$ per phase respectively. Determine the full-load torque if full-load speed is 1,425 r.p.m.",
+        "options": {
+            "a": "150 Nm",
+            "b": "200 Nm",
+            "c": "140 Nm",
+            "d": "250 Nm"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1109
+    },
+    {
+        "question": "A three-phase star connected alternator has an armature resistance of 0.1 ohm per phase. When excited to 860 V line voltage and on short-circuit the alternator gave 200 A. What should be the emf (in line terms) the alternator must be excited to, in order to maintain a terminal p.d. of 400 volt with 100 ampere armature current at 0.8 p.f. lagging.",
+        "options": {
+            "a": "534 V",
+            "b": "467 V",
+            "c": "431 V",
+            "d": "452 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1110
+    },
+    {
+        "question": "The power input to a 3-phase induction motor is 60 kW. The stator losses total 1 kW. Find the rotor copper loss per phase if the motor is running with a slip of 3%.",
+        "options": {
+            "a": "780 W",
+            "b": "240 W",
+            "c": "590 W",
+            "d": "114 W"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1111
+    },
+    {
+        "question": "A 50 kW, 400 V, 3-phase synchronous motor is operating at full load with an efficiency of 92%. If the field current is adjusted to make its power factor 0.8 leading, estimate the armature current.",
+        "options": {
+            "a": "67A",
+            "b": "98A",
+            "c": "129A",
+            "d": "56A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1112
+    },
+    {
+        "question": "The power input to the rotor of a 400 V, 50-Hz, 6-pole, 3-phase induction motor is 20 kW. The slip is 3%. Calculate the rotor resistance per phase if rotor current is 60 A.",
+        "options": {
+            "a": "0.055 ohm",
+            "b": "0.233 ohm",
+            "c": "67.78 ohm",
+            "d": "0.004 ohm"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1113
+    },
+    {
+        "question": "The effective resistance and synchronous reactance of a 2000 V, 3-phase, star-connected synchronous motor are 0.2 ohms and 2.2 ohms per phase, respectively. The input is 800 kW at normal voltage and the induced line emf is 2500 V. Calculate the line current:",
+        "options": {
+            "a": "572 A",
+            "b": "188 A",
+            "c": "254 A",
+            "d": "93 A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1114
+    },
+    {
+        "question": "The power input to a 500 V, 50-Hz, 6-pole, 3-phase induction motor running at 975 rpm is 40 kW. The stator losses are 1 kW and the friction and windage losses total 2 kW. Calculate the efficiency:",
+        "options": {
+            "a": "80%",
+            "b": "85%",
+            "c": "75%",
+            "d": "90%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1115
+    },
+    {
+        "question": "A 600 volt, 60 kVA, single-phase alternator has an effective armature resistance of 0.3 ohm. An exciting current of 5 ampere produces an emf of 400 volt on open circuit and an armature current of 200 ampere on short circuit. Calculate the full load regulation with 0.8 p.f. lagging.",
+        "options": {
+            "a": "24.81%",
+            "b": "28.97%",
+            "c": "17.65%",
+            "d": "13.78%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1116
+    },
+    {
+        "question": "A 100-kW (output), 3300-V, 50-Hz, 3-phase, star-connected induction motor has a synchronous speed of 500 r.p.m. The full-load slip is 1.8% and F.L. power factor 0.85. Stator copper loss = 2440 W. Iron loss = 3500 W. Rotational losses = 1200 W. Calculate the line current:",
+        "options": {
+            "a": "45.6 A",
+            "b": "22.4 A",
+            "c": "17.8 A",
+            "d": "18.2 A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1117
+    },
+    {
+        "question": "As compared to shunt and compound motors, series motor has the highest torque because of its comparatively __________ at the start. (a) lower armature resistance (b) stronger series field (c) fewer series turns (d) larger armature current",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Machines",
+        "id": 1118
+    },
+    {
+        "question": "A 660 V, 3-phase, star-connected synchronous motor draws 50 kW at power factor 0.8 lagging. Find the new current when the back emf increases by 50%. The machine has synchronous reactance of 3 ohms per phase and effective resistance is negligible.",
+        "options": {
+            "a": "49.2A",
+            "b": "58.7A",
+            "c": "89.3A",
+            "d": "102.4A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Machines",
+        "id": 1119
+    },
+    {
+        "question": "A three-phase, star-connected, 1000 kVA, 3000 V, 50 Hz alternator produces a short-circuit current of 200 A and an open circuit voltage of 1040 V with the same field current 40 A. if its armature has an effective resistance of 0.2 ohm per phase, calculate full-load percentage regulation of the machine at a pf of 0.8 lagging.",
+        "options": {
+            "a": "24.34%",
+            "b": "21.54%",
+            "c": "27.84%",
+            "d": "19.78%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1120
+    },
+    {
+        "question": "A 3-phase, 440-V (bus bar to stator), 50-Hz, 40-pole, Y-connected induction motor has rotor resistance of 0.1 $\\Omega$ and reactance 0.9 $\\Omega$ per phase. The ratio of stator to rotor turns is 3.5. Calculate gross output at a slip of 5%:",
+        "options": {
+            "a": "3420 W",
+            "b": "7250 W",
+            "c": "1130 W",
+            "d": "4390 W"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1121
+    },
+    {
+        "question": "A 500-V, 50-kVA, monophasic alternator has an effective resistance of 0.2 $\\Omega$. A field current of 10 A produces an armature current of 200 A on short-circuit and an e.m.f. of 450 V on open circuit. Calculate the full-load regulation at p.f. 0.8 lag.",
+        "options": {
+            "a": "34.4%",
+            "b": "47.8%",
+            "c": "14.5%",
+            "d": "67.8%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1122
+    },
+    {
+        "question": "A 3-$\\phi$ star-connected alternator is rated at 1600 kVA, 13,500 V. The armature effective resistance and synchronous reactance are 1.5 $\\Omega$ and 30 $\\Omega$ respectively per phase. Calculate the percentage regulation for a load of 1280 kW at power factors of 0.8 lagging.",
+        "options": {
+            "a": "-11.8%",
+            "b": "18.6%",
+            "c": "-19.3%",
+            "d": "7.65%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1123
+    },
+    {
+        "question": "In a synchronous motor, the magnitude of stator back e.m.f. Eb depends on:",
+        "options": {
+            "a": "speed of the motor",
+            "b": "both the speed and rotor flux",
+            "c": "load on the motor",
+            "d": "d.c. excitation only"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1124
+    },
+    {
+        "question": "A 3-phase, 6,600-volts, 50-Hz, star-connected synchronous motor takes 50 A current. The resistance and synchronous reactance per phase are 1 ohm and 20 ohm respectively. Find the power supplied to the motor and induced emf for a power factor of 0.8 leading.",
+        "options": {
+            "a": "7700 V",
+            "b": "3290 V",
+            "c": "8450 V",
+            "d": "10,670 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1125
+    },
+    {
+        "question": "A 500-V, 50-kVA, single-phase alternator has an effective resistance of 0.2 $\\Omega$. A field current of 10 A produces an armature current of 200 A on short-circuit and e.m.f. of 450 V on open-circuit. Calculate the full-load regulation with 0.8 p.f. lagging.",
+        "options": {
+            "a": "26.4%",
+            "b": "45.7%",
+            "c": "16.7%",
+            "d": "34.4%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1126
+    },
+    {
+        "question": "The direction of rotation of a synchronous motor can be reversed by reversing:",
+        "options": {
+            "a": "current to the field winding",
+            "b": "polarity of rotor poles",
+            "c": "supply phase sequence",
+            "d": "none of the above"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1127
+    },
+    {
+        "question": "Two 3-$\\phi$, 6,600-V, star-connected alternators working in parallel supply the following loads: Load 1: Lighting load of 400 kW Load 2: 300 kW at p.f. 0.9 lagging Load 3: 400 kW at p.f. 0.8 lagging Load 4: 1000 kW at p.f. 0.71 lagging Find the output of the other machine if the armature current of one machine is 110 A at 0.9 p.f. lagging.",
+        "options": {
+            "a": "900 kW",
+            "b": "1055 kW",
+            "c": "970 kW",
+            "d": "650 kW"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1128
+    }
+]

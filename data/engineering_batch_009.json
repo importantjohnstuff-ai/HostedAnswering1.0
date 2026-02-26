@@ -1,0 +1,226 @@
+[
+    {
+        "id": 705,
+        "question": "What is the metal used to recover copper from a solution of copper sulphate?",
+        "options": {
+            "a": "Na",
+            "b": "Ag",
+            "c": "Hg",
+            "d": "Fe"
+        },
+        "answer": "d",
+        "correct_answer_text": "Fe",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry"
+    },
+    {
+        "id": 707,
+        "question": "Calculate the kinetic energy in Joules of car driving 60 mi/hr and the weight of the car is 1500 kg.",
+        "options": {
+            "a": "6.34 x 10^5",
+            "b": "5.95 x 10^5",
+            "c": "6.54 x 10^5",
+            "d": "5.55 x 10^5"
+        },
+        "answer": "d",
+        "correct_answer_text": "5.55 x 10^5",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics"
+    },
+    {
+        "id": 710,
+        "question": "How is the material purchase price variance defined?",
+        "options": {
+            "a": "(quantity purchased)(actual price) \u2013 (quantity purchased)(standard price)",
+            "b": "(quantity issued \u2013 standard quantity)(standard price)",
+            "c": "(actual price \u2013 standard price)(quantity used)",
+            "d": "(quantity purchased \u2013 quantity used)(actual price)"
+        },
+        "answer": "a",
+        "correct_answer_text": "(quantity purchased)(actual price) \u2013 (quantity purchased)(standard price)",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy"
+    },
+    {
+        "id": 711,
+        "question": "When using the net present worth calculations to compare two project which of the following could invalidate the calculation?",
+        "options": {
+            "a": "evaluating over different time period",
+            "b": "mutually exclusive projects",
+            "c": "non conventional cash flows",
+            "d": "difference in the magnitude of the project"
+        },
+        "answer": "a",
+        "correct_answer_text": "evaluating over different time period",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy"
+    },
+    {
+        "id": 712,
+        "question": "What most investments with the same present worth and unequal lives have?",
+        "options": {
+            "a": "different uniform annual cash flows",
+            "b": "identical savage values",
+            "c": "different salvage values",
+            "d": "identical equivalent uniform annual cash flows"
+        },
+        "answer": "a",
+        "correct_answer_text": "different uniform annual cash flows",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy"
+    },
+    {
+        "id": 713,
+        "question": "What is acid test ratio?",
+        "options": {
+            "a": "the ratio of current assets (exclusive of inventory) to the total current liabilities",
+            "b": "the ratio of owner`s equity to total current liabilities",
+            "c": "the ratio of assets to total liabilities",
+            "d": "the ratio of profit after taxes to equity"
+        },
+        "answer": "a",
+        "correct_answer_text": "the ratio of current assets (exclusive of inventory) to the total current liabilities",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry"
+    },
+    {
+        "id": 715,
+        "question": "The length of time usually in years, for the cumulative annual profit to equalized the initial investment is.",
+        "options": {
+            "a": "payback period",
+            "b": "receivable turnover",
+            "c": "return on investment",
+            "d": "useful life"
+        },
+        "answer": "a",
+        "correct_answer_text": "payback period",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy"
+    },
+    {
+        "id": 716,
+        "question": "The resulted unrecovered depreciation which from poor estimate of the life of equipment.",
+        "options": {
+            "a": "sunk cost",
+            "b": "in-place value",
+            "c": "economic life",
+            "d": "annuity"
+        },
+        "answer": "a",
+        "correct_answer_text": "sunk cost",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy"
+    },
+    {
+        "id": 717,
+        "question": "It is the reduction in the level of national income and output usually accompanied by the fall in general price level.",
+        "options": {
+            "a": "deflation",
+            "b": "inflation",
+            "c": "devaluation",
+            "d": "depreciation"
+        },
+        "answer": "a",
+        "correct_answer_text": "deflation",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry"
+    },
+    {
+        "id": 718,
+        "question": "It is the decrease in money`s purchasing power due to increase in material cost and services.",
+        "options": {
+            "a": "inflation",
+            "b": "deflation",
+            "c": "devaluation",
+            "d": "depreciation"
+        },
+        "answer": "a",
+        "correct_answer_text": "inflation",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy"
+    },
+    {
+        "id": 719,
+        "question": "It is the difference between the present worth and the future worth of negotiable paper.",
+        "options": {
+            "a": "discount",
+            "b": "interest",
+            "c": "rate of interest",
+            "d": "rate of discount"
+        },
+        "answer": "a",
+        "correct_answer_text": "discount",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy"
+    },
+    {
+        "id": 720,
+        "question": "It is a method of paying debt including the principal and interest which is usually done in a series of equal payments occurring at equal period of interval of time.",
+        "options": {
+            "a": "amortization",
+            "b": "depreciation",
+            "c": "depletion",
+            "d": "annuity"
+        },
+        "answer": "a",
+        "correct_answer_text": "amortization",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy"
+    },
+    {
+        "id": 721,
+        "question": "It is type of annuity where payments are made indefinitely or forever.",
+        "options": {
+            "a": "perpetuity",
+            "b": "ordinary annuity",
+            "c": "annuity due",
+            "d": "deferred annuity"
+        },
+        "answer": "a",
+        "correct_answer_text": "perpetuity",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy"
+    },
+    {
+        "id": 722,
+        "question": "It is the sum of the first cost and the present worth of annual maintenance and operational costs, costs of repair and the renewal costs.",
+        "options": {
+            "a": "capitalized cost",
+            "b": "annual cost",
+            "c": "marginal cost",
+            "d": "future worth cost"
+        },
+        "answer": "a",
+        "correct_answer_text": "capitalized cost",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy"
+    },
+    {
+        "id": 723,
+        "question": "It is the measure of the effectiveness of an investment.",
+        "options": {
+            "a": "rate of return",
+            "b": "profit",
+            "c": "dividends",
+            "d": "revenue"
+        },
+        "answer": "a",
+        "correct_answer_text": "rate of return",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy"
+    },
+    {
+        "id": 724,
+        "question": "The difference between capital recovery factor (CRF) and the sinking fund factor (SFF) is equal to",
+        "options": {
+            "a": "rate of interest",
+            "b": "discount",
+            "c": "depreciation",
+            "d": "profit"
+        },
+        "answer": "a",
+        "correct_answer_text": "rate of interest",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy"
+    }
+]

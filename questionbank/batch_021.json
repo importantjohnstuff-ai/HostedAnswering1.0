@@ -1,0 +1,276 @@
+[
+    {
+        "id": 401,
+        "question": "A water trough is 10 m long and has vertical cross-sections perpendicular to its long axis with the shape of an isosceles trapezoid that is 30 cm wide at the bottom, 80 cm wide at the top, and has height of 50 cm. If the trough is being filled with water at the rate of 0.2 cubic metres per minute, how fast in m/min is the water level rising when the water is 30 cm deep?",
+        "options": {
+            "a": "1/30",
+            "b": "1/25",
+            "c": "1/40",
+            "d": "1/35"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 402,
+        "question": "Determine the slope of the orthonormal line to the curve $y = x^3 - 2x$ at the point (2, 4)?",
+        "options": {
+            "a": "10",
+            "b": "1/10",
+            "c": "-1/10",
+            "d": "1"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 403,
+        "question": "Find the slope of the line tangent to the curve $y = e^{2x}$ at the point $(\\ln 3, 9)$:",
+        "options": {
+            "a": "3",
+            "b": "9",
+            "c": "18",
+            "d": "27"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 404,
+        "question": "What is the longest steel rod that can be fitted on perpendicular corridor of widths 5 meters and 3 meters?",
+        "options": {
+            "a": "11.2 m",
+            "b": "13.5 m",
+            "c": "8.45 m",
+            "d": "9.33 m"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 405,
+        "question": "A gold square box is constructed such that the volume is 80 in$^3$. The cost of the base is P300/in$^2$ while the sides cost P200/in$^2$. The box is open on the top. What is the minimum cost of the box?",
+        "options": {
+            "a": "P20,242",
+            "b": "P23,45",
+            "c": "P26,54"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 406,
+        "question": "A bubble changes its surface area at 10 in$^2$/min. How fast is its volume changing when r = 2 in?",
+        "options": {},
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 407,
+        "question": "Determine the moment of inertia of the area bounded between $x = y^2$ and $x = 2y$ with respect to y-axis:",
+        "options": {
+            "a": "4270/57",
+            "b": "335/51",
+            "c": "1137/31",
+            "d": "4131/140"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 408,
+        "question": "Determine the moment of inertia of the area bounded between $y = x^2 - 4x$ and $y = 2x - 9$ and the y-axis, with respect to x-axis?",
+        "options": {
+            "a": "8181/35",
+            "b": "2174/37",
+            "c": "9183/35",
+            "d": "1724/35"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 409,
+        "question": "What is the moment of inertia of the area bounded between $x = y^3$, and $x = y^2$ with respect to the y-axis?",
+        "options": {
+            "a": "2/45",
+            "b": "3/77",
+            "c": "1/70",
+            "d": "2/47"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 410,
+        "question": "What is the moment of inertia of the area bounded between $y = x^2$ and $y = x + 6$ with respect to the x-axis?",
+        "options": {
+            "a": "671.2",
+            "b": "415.18",
+            "c": "1627.67",
+            "d": "972.12"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 411,
+        "question": "What is the moment of inertia of the area bounded by $x = y^2$, $y = 3$ and the y-axis with respect to the y-axis?",
+        "options": {
+            "a": "452/9",
+            "b": "729/7",
+            "c": "100/11",
+            "d": "474/7"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 412,
+        "question": "What is the length of the longest rod that can be fitted on perpendicular hallway that are 7 feet and 12 feet wide respectively?",
+        "options": {
+            "a": "21.8 ft",
+            "b": "26.5 ft",
+            "c": "19.8 ft",
+            "d": "29.3 ft"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 413,
+        "question": "What is the area bounded by the curve $y = x^3$, the x-axis, and the line $x = -2$ and $x = 1$?",
+        "options": {
+            "a": "4.25 sq. units",
+            "b": "2.45 sq. units",
+            "c": "5.24 sq. units",
+            "d": "5.42 sq. units"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 414,
+        "question": "Determine the center of mass for the region bounded by $y = x^3$ and $y=\\sqrt{x}$?",
+        "options": {
+            "a": "(12/25, 3/7)",
+            "b": "(12/25, 4/7)",
+            "c": "(18/25, 3/7)",
+            "d": "(18/25, 4/7)"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 415,
+        "question": "What is the maximum area of illumination that can be admitted on a Norman window that is 200 cm on the base?",
+        "options": {
+            "a": "5283 cm$^2$",
+            "b": "11,782 cm$^2$",
+            "c": "8927 cm$^2$",
+            "d": "9825 cm$^2$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 416,
+        "question": "A pile of sand is filled at a rate of 8000 ft$^3$/hr and the height of the conical pile is always half the radius. At what rate is the height of the pile changing when it is 10 feet high?",
+        "options": {
+            "a": "3.18 ft/hr",
+            "b": "1.78 ft/hr",
+            "c": "6.37 ft/hr",
+            "d": "0.89 ft/hr"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 417,
+        "question": "Evaluate: $\\lim_{x \\to 2} (x^2 - 4) / (x - 2)$",
+        "options": {
+            "a": "3",
+            "b": "4",
+            "c": "2",
+            "d": "5"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 418,
+        "question": "For a parametric line: $x = 2t - 1$ and $y = -4t + 5$. What is the slope of the line?",
+        "options": {
+            "a": "2",
+            "b": "4",
+            "c": "-2",
+            "d": "-4"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 419,
+        "question": "A manufacturer estimates that the cost of production of \"x\" units of a certain item is $C = 40x - 0.02x - 600$. How many units should be produced for minimum cost?",
+        "options": {
+            "a": "10 units",
+            "b": "100 units",
+            "c": "1000 units",
+            "d": "10000 units"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 420,
+        "question": "A cylinder is fitted inside a 5-m radius sphere such that its volume is a maximum. What is the height if this cylinder?",
+        "options": {
+            "a": "4.89 m",
+            "b": "5.77 m",
+            "c": "6.54 m",
+            "d": "7.24 m"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    }
+]

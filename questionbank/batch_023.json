@@ -1,0 +1,280 @@
+[
+    {
+        "id": 441,
+        "question": "Find the volume of the solid obtained by rotating the region bounded by the curve $y = x^2$, $y = 0$, $x = 2$ about the x-axis?",
+        "options": {
+            "a": "$32\\pi/5$",
+            "b": "$16\\pi/3$",
+            "c": "$4\\pi$",
+            "d": "$8\\pi/5$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 442,
+        "question": "What is the area bounded by the parabola $x^2 = 4y$, $y = 1$ and the y-axis?",
+        "options": {
+            "a": "2",
+            "b": "2/3",
+            "c": "3",
+            "d": "3/4"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 443,
+        "question": "Evaluate $d/dx (1/x^6)$.",
+        "options": {
+            "b": "$-6x^{-6}$",
+            "c": "$6x^{-7}$",
+            "d": "$6x^{-6}$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 444,
+        "question": "A sphere's volume increases at a rate of 5 cu.ft./min. At what rate is its radius changing when the radius is 1/2 ft?",
+        "options": {
+            "a": "1.333",
+            "b": "1.59",
+            "c": "2.67",
+            "d": "1.833"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 445,
+        "question": "A hemispherical tank with a diameter of 8 ft is full of water. Find the work done in ft-lb in pumping all the liquid out of the top of the tank. e) 15,246",
+        "options": {
+            "b": "12,546",
+            "c": "10,628",
+            "d": "16,210"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 446,
+        "question": "Find the centroid of the region under the curve $y = e^x$ and $y = 0$ over the interval $1 \\le x \\le 3$:",
+        "options": {
+            "a": "(2.313, 4.23)",
+            "b": "(2.313, 5.700)",
+            "c": "(3.239, 1.929)",
+            "d": "(3.290, 7.392)"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 447,
+        "question": "Evaluate: $\\int \\sinh^2 x \\, dx$, from $x = 0$ to $x = 1$.",
+        "options": {
+            "a": "0.40672",
+            "b": "0.04672",
+            "c": "0.46072",
+            "d": "0.46702"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 448,
+        "question": "Find the moment of inertia about the x-axis of the area bounded by the curves, $x^2=8y$, $x=4$ and $y=0$.",
+        "options": {
+            "a": "1.43",
+            "b": "1.32",
+            "c": "1.78",
+            "d": "1.14"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 449,
+        "question": "Which of the following equations is an exact DE?",
+        "options": {
+            "a": "$(x^2 + 1) dx - xy dy = 0$",
+            "b": "$x dy + (3x - 2y) dx = 0$",
+            "c": "$2xy dx + (2 + x^2) dy = 0$",
+            "d": "$x^2y dy - y dx = 0$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 450,
+        "question": "Which of the following equations is a variable separable DE?",
+        "options": {
+            "a": "$(x + x^2 y) dy = (2x + xy^2) dx$",
+            "b": "$(x + y) dx - 2y dy = 0$",
+            "c": "$2y dx = (x^2 + 1) dy$",
+            "d": "$y^2 dx + (2x - 3y) dy = 0$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 451,
+        "question": "Solve $y(x - 1)dx + x(2y - 1)dy = 0$",
+        "options": {
+            "a": "$\\ln (xy) = 2 (x - y) + C$",
+            "b": "$\\ln (xy) = x - 2y + C$",
+            "c": "$\\ln (xy) = 2y - x + C$",
+            "d": "$\\ln (xy) = x + 2y + C$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 452,
+        "question": "Solve $(x + y) dy = (x - y) dx$",
+        "options": {
+            "a": "$x^2 + y^2 = C$",
+            "b": "$x^2 + 2xy + y^2 = C$",
+            "c": "$x^2 - 2xy - y^2 = C$",
+            "d": "$x^2 - 2xy + y^2 = C$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 453,
+        "question": "Radium decomposes at a rate proportional to the amount at any instant. In 100 years, 100 mg of radium decomposes to 96 mg. How many mg will be left after 100 years?",
+        "options": {
+            "a": "88.60",
+            "b": "95.32",
+            "c": "92.16",
+            "d": "90.72"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 454,
+        "question": "The population of a country doubles in 50 years. How many years will it be five times as much? Assume that the rate of increase is proportional to the number inhabitants.",
+        "options": {
+            "a": "100 years",
+            "b": "116 years",
+            "c": "120 years",
+            "d": "98 years"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 455,
+        "question": "According to Newton\u2019s law of cooling, the rate at which a substance cools in air is directly proportional to the difference between the temperatures of the substance and that of air. If the temperature of the air is 30\u00b0 and the substance cools from 100\u00b0 to 70\u00b0 in 15 minutes, how long will it take to cool 100\u00b0 to 50\u00b0?",
+        "options": {
+            "a": "33.59 min",
+            "b": "43.60 min",
+            "c": "35.39 min",
+            "d": "45.30 min"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 456,
+        "question": "Solve for the homogenous solution of the second order D.E.: $y'' - y - 6 = 0$",
+        "options": {
+            "a": "$Y = Ae^{3x} + Be^{-2x}$",
+            "b": "$Y = Ae^{-3x} + Be^{2x}$",
+            "c": "$Y = Ae^{3x} + Bxe^{3x}$",
+            "d": "$Y = Ae^{-2x} + Bxe^{-2x}$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 457,
+        "question": "Solve for the homogenous solution of the second order D.E.: $y''' + 16y' = 0$",
+        "options": {
+            "a": "$Y = A \\sin 4x + B \\sin 4x$",
+            "b": "$Y = A \\sin 4x + B \\sin 4x + C$",
+            "c": "$Y = A \\sin 4x + B \\sin 4x + Ce^x$",
+            "d": "$Y = A \\sin 4x + B \\sin 4x + Ce^x$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 458,
+        "question": "Solve the particular solution of the D.E.: $y'' - 10y' + 25y = 2 \\sin(5x)$",
+        "options": {
+            "a": "$Y = (-1/5)e^{5x}$",
+            "b": "$Y = (1/5) \\cos(5x)$",
+            "c": "$Y = (1/25) \\sin(5x)$",
+            "d": "$Y = (-1/25) \\cos(4x)$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 459,
+        "question": "Solve the particular solution of: $Y'' + 8Y' + 7Y = 3e^x$",
+        "options": {
+            "a": "$Y = (4/15)e^x$",
+            "b": "$Y = (3/16)e^x$",
+            "c": "$Y = (1/16)e^x$",
+            "d": "$Y = (2/15)e^x$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 460,
+        "question": "Solve for the particular solution: $Y'' - 3Y' = 6 \\cos(3x)$",
+        "options": {
+            "a": "$Y = Cxe^{-3x}$",
+            "b": "$Y = Cxe^{-x/3}$",
+            "c": "$Y = Ce^{-x/3}$",
+            "d": "$Y = Ce^{-3x}$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    }
+]

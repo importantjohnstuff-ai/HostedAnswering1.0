@@ -1,0 +1,282 @@
+[
+    {
+        "id": 1910,
+        "question": "Integrate (iz^2 + z) / (z + i) along a contour enclosing -i:",
+        "options": {
+            "a": "-(2 + i)pi",
+            "b": "4pi * i",
+            "c": "-72pi * i",
+            "d": "(3 + i)pi"
+        },
+        "answer": "a",
+        "correct_answer_text": "-(2 + i)pi",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 1911,
+        "question": "Determine the Laplace transform of 3e^(4t):",
+        "options": {
+            "a": "3 / (s + 4)^2",
+            "b": "6 / (s - 4)",
+            "c": "3 / (s - 4)",
+            "d": "-6 / (s + 4)"
+        },
+        "answer": "c",
+        "correct_answer_text": "3 / (s - 4)",
+        "category": "Math",
+        "sub_category": "Laplace Transform"
+    },
+    {
+        "id": 1912,
+        "question": "Determine the Laplace transform of 5 sin(2t) - 3 cos(2t):",
+        "options": {
+            "a": "(10 - 3s) / (s^2 + 4)",
+            "b": "(5 - 2s) / (s^2 + 4)",
+            "c": "(5 + 3s) / (s^2 + 4)",
+            "d": "(10 - 2s) / (s^2 + 4)"
+        },
+        "answer": "a",
+        "correct_answer_text": "(10 - 3s) / (s^2 + 4)",
+        "category": "Math",
+        "sub_category": "Laplace Transform"
+    },
+    {
+        "id": 1913,
+        "question": "Integrate (2iz^3 + 2iz) / (z - 2i)^2 along a contour enclosing 2i:",
+        "options": {
+            "a": "-44pi",
+            "b": "24pi * i / 5",
+            "c": "24pi / 5",
+            "d": "-44pi * i"
+        },
+        "answer": "d",
+        "correct_answer_text": "-44pi * i",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 1914,
+        "question": "Which of the following statements is TRUE about the Secant Method?",
+        "options": {
+            "a": "It uses tangent lines",
+            "b": "It requires two initial points to start",
+            "c": "It always converges faster than Newton-Raphson",
+            "d": "It converges quadratically"
+        },
+        "answer": "b",
+        "correct_answer_text": "It requires two initial points to start",
+        "category": "Math",
+        "sub_category": "Numerical Methods"
+    },
+    {
+        "id": 1915,
+        "question": "Evaluate ln(50 - j70) + ln(50 + j70):",
+        "options": {
+            "a": "j4.5",
+            "b": "4.5",
+            "c": "9.0",
+            "d": "4.5 + j1.9"
+        },
+        "answer": "c",
+        "correct_answer_text": "9.0",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 1916,
+        "question": "Determine the limit of (z^3 + i) / (z - i) as z approaches i?",
+        "options": {
+            "a": "5i",
+            "b": "-3i",
+            "c": "2i",
+            "d": "i"
+        },
+        "answer": "b",
+        "correct_answer_text": "-3i",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 1917,
+        "question": "The charge on a capacitor varies by Q = 30t^4 + 10t^2 mC. What is the mean value of the current between t = 3 to t = 7 seconds?",
+        "options": {
+            "a": "14.33 A",
+            "b": "17.50 A",
+            "c": "12.0 A",
+            "d": "12.67 A"
+        },
+        "answer": "d",
+        "correct_answer_text": "12.67 A",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 1918,
+        "question": "Integrate z^10 / (z - i)^3 along a contour enclosing i:",
+        "options": {
+            "a": "40pi * i",
+            "b": "(10 - 40i)pi",
+            "c": "-90pi",
+            "d": "-70pi"
+        },
+        "answer": "c",
+        "correct_answer_text": "-90pi",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 1919,
+        "question": "If r = xi + yj + zk, what is the value of div r?",
+        "options": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4"
+        },
+        "answer": "c",
+        "correct_answer_text": "3",
+        "category": "Math",
+        "sub_category": "Vector Analysis"
+    },
+    {
+        "id": 1920,
+        "question": "Simplify cos(2 + 3i):",
+        "options": {
+            "a": "-3.724 - j0.512",
+            "b": "-3.724 - j0.878",
+            "c": "-4.190 - j9.100",
+            "d": "-7.455 - j0.346"
+        },
+        "answer": "c",
+        "correct_answer_text": "-4.190 - j9.100",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 1921,
+        "question": "Simplify sinh(pi * i / 6):",
+        "options": {
+            "a": "1/2",
+            "b": "i/2",
+            "c": "pi * i / 3",
+            "d": "-2pi * i"
+        },
+        "answer": "b",
+        "correct_answer_text": "i/2",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 1922,
+        "question": "Find the resultant of concurrent forces: 50 kN at N40°W, 30 kN at W70°S, and 80 kN along East:",
+        "options": {
+            "a": "58 kN",
+            "b": "21 kN",
+            "c": "128 kN",
+            "d": "39 kN"
+        },
+        "answer": "d",
+        "correct_answer_text": "39 kN",
+        "category": "Math",
+        "sub_category": "Vector Analysis"
+    },
+    {
+        "id": 1923,
+        "question": "If A = xzi - y^2j + 2x^2yk, find the curl A at (2, 1, 3):",
+        "options": {
+            "a": "8i + 8k",
+            "b": "6i + 9k",
+            "c": "8j - 2k",
+            "d": "-10i + 8k"
+        },
+        "answer": "a",
+        "correct_answer_text": "8i + 8k",
+        "category": "Math",
+        "sub_category": "Vector Analysis"
+    },
+    {
+        "id": 1924,
+        "question": "Find the Laplace transform of t^(5/2):",
+        "options": {
+            "a": "7.869 / s^(5/2)",
+            "b": "3.323 / s^(5/2)",
+            "c": "3.323 / s^(7/2)",
+            "d": "3.323 * (15*sqrt(pi)/8) / s^(7/2)"
+        },
+        "answer": "d",
+        "correct_answer_text": "3.323 * (15*sqrt(pi)/8) / s^(7/2)",
+        "category": "Math",
+        "sub_category": "Laplace Transform"
+    },
+    {
+        "id": 1925,
+        "question": "Inverse the Laplace transform: (s + 7) / (s^2 - 3s - 10)",
+        "options": {
+            "a": "(-5/7)e^(-2t) + (12/7)e^(5t)",
+            "b": "(5/7)e^(-2t) - (12/7)e^(5t)",
+            "c": "(5/7)e^(2t) + (15/7)e^(-5t)",
+            "d": "(-5/7)e^(2t) + (15/7)e^(-5t)"
+        },
+        "answer": "a",
+        "correct_answer_text": "(-5/7)e^(-2t) + (12/7)e^(5t)",
+        "category": "Math",
+        "sub_category": "Laplace Transform"
+    },
+    {
+        "id": 1926,
+        "question": "Determine the Laplace transform of the voltage signal 6u(t-2) volts:",
+        "options": {
+            "a": "3e^(-7s) / s",
+            "b": "6e^(-2s) / s",
+            "c": "3e^(2s) / s",
+            "d": "6e^(2s) / s"
+        },
+        "answer": "b",
+        "correct_answer_text": "6e^(-2s) / s",
+        "category": "Math",
+        "sub_category": "Laplace Transform"
+    },
+    {
+        "id": 1927,
+        "question": "Which of the following best describes the key difference between the Bisection Method and the Regula Falsi Method?",
+        "options": {
+            "a": "Bisection uses the derivative",
+            "b": "Bisection method always converges faster",
+            "c": "Regula Falsi uses a linear interpolation between points",
+            "d": "Regula Falsi is limited to continuous functions"
+        },
+        "answer": "c",
+        "correct_answer_text": "Regula Falsi uses a linear interpolation between points",
+        "category": "Math",
+        "sub_category": "Numerical Methods"
+    },
+    {
+        "id": 1928,
+        "question": "Compute the vorticity (curl) of the vector field y^2i + z^2j + x^2k at (1, 1, 3):",
+        "options": {
+            "a": "6i + 2j - 2k",
+            "b": "6i - 2j - 2k",
+            "c": "6i - j + 2k",
+            "d": "5i - 4j - k"
+        },
+        "answer": "a",
+        "correct_answer_text": "6i + 2j - 2k",
+        "category": "Math",
+        "sub_category": "Vector Analysis"
+    },
+    {
+        "id": 1929,
+        "question": "Integrate the expression integral from 1 to 2i+1 of (3z^2 + i) dz:",
+        "options": {
+            "a": "-14 - 21i",
+            "b": "16 - 15i",
+            "c": "-17 + 21i",
+            "d": "11 - 16i"
+        },
+        "answer": "a",
+        "correct_answer_text": "-14 - 21i",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    }
+]

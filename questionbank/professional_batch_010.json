@@ -1,0 +1,264 @@
+[
+    {
+        "question": "A 400 V, three-phase voltage is applied to a balanced three-phase load of phase impedance of (15 + j20) ohms. What is the power consumed per phase?",
+        "options": {
+            "a": "6.39 kW",
+            "b": "2.89 kW",
+            "d": "1.79 kW"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1049
+    },
+    {
+        "question": "In a series circuit on resonance, following will occur:",
+        "options": {
+            "a": "V = VR",
+            "b": "XL = XC",
+            "c": "Z = R"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1050
+    },
+    {
+        "question": "A balanced three-phase, star-connected load draws power from a 440 V supply. The two wattmeters connected in the circuit indicate W1 = 4.2 kW and W2 = 0.8 kW. Calculate the power factor. A. 0.6472",
+        "options": {
+            "b": "0.5303",
+            "c": "0.9203",
+            "d": "0.8934"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Powerplants",
+        "id": 1051
+    },
+    {
+        "question": "440 V symmetrical 3-phase supply feeds an unbalanced star-connected load consisting of three non-inductive resistances 10 $\\Omega$, 5 $\\Omega$ and 12 $\\Omega$ connected to R, Y and B phases respectively. Calculate the line current along blue-phase. The phase sequence is RYB.",
+        "options": {
+            "a": "21.8 A",
+            "c": "39.3 A",
+            "d": "16.2 A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Powerplants",
+        "id": 1052
+    },
+    {
+        "question": "Each phase of a delta-connected load has a resistance of 25 $\\Omega$, an inductance of 0.15 H, and a capacitance of 120 $\\mu$F. The load is connected across a 400 V, 50 Hz, three-phase supply. Determine the volt-ampere reactive power, VAR:",
+        "options": {
+            "a": "3280",
+            "b": "6780",
+            "c": "1290",
+            "d": "9420"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Powerplants",
+        "id": 1053
+    },
+    {
+        "question": "A balanced three-phase, star-connected load draws power from a 440 V supply. The two wattmeters connected in the circuit indicate W1 = 4.2 kW and W2 = 0.8 kW. Calculate the current in the circuit. A. 10.13 A",
+        "options": {
+            "b": "16.54 A",
+            "c": "6.45 A",
+            "d": "2.94 A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Powerplants",
+        "id": 1054
+    },
+    {
+        "question": "A 400 V symmetrical 3-phase supply feeds an unbalanced star-connected load consisting of three impedances ZR = (4 + j 3) $\\Omega$, ZY = (8 + j 6) $\\Omega$ and ZB = (6 + j 4.5) $\\Omega$ connected to R, Y and B phases respectively. Determine the line current along red-phase sequence:",
+        "options": {
+            "a": "49.33 A",
+            "c": "21.90 A",
+            "d": "12.32 A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Powerplants",
+        "id": 1055
+    },
+    {
+        "question": "Three 3-phase balanced loads are connected in parallel across a 400 V, 3-phase, 3-wire balanced supply. Load 1: 12000 W, delta-connected, p.f. = 1 Load 2: 9000 VA, Y-connected, p.f. = 0.866 lag Load 3: 6000 VAR, delta-connected, p.f. = 0, capacitive Find the total power drawn by the loads along the bus-bar:",
+        "options": {
+            "a": "12,650 W",
+            "b": "19,800 W",
+            "d": "11,290 A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1056
+    },
+    {
+        "question": "Find the total p.f. of the three loads in problem 8:",
+        "options": {
+            "a": "0.692 lag",
+            "c": "0.940 lead",
+            "d": "0.492 lag"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1057
+    },
+    {
+        "question": "Analyze the circuit shown in Fig M49-08, find the line current: A. 4.34 A",
+        "options": {
+            "b": "2.98 A",
+            "d": "9.87 A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1058
+    },
+    {
+        "question": "Analyze the circuit shown in Fig M49-08, find the Total power from the source in kW:",
+        "options": {
+            "a": "2.064",
+            "b": "5.643",
+            "c": "8.924",
+            "d": "13.43"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1059
+    },
+    {
+        "question": "What capacitance must be placed in series with an inductance of 0.05 H so that at 100 Hz, the impedance becomes equal to the ohmic resistance? A. 50.5 $\\mu$F",
+        "options": {
+            "b": "70.7 $\\mu$F",
+            "c": "35.5 $\\mu$F",
+            "d": "87 $\\mu$F"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1060
+    },
+    {
+        "question": "In a 230 V, 3-phase, 3-wire system, two wattmeters are connected to measure the power. The ratio of the readings of the wattmeters is 2.5 is to 1. What is the power factor of the system? A. 80.3%",
+        "options": {
+            "b": "76.6%",
+            "c": "83.1%",
+            "d": "86.6%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1061
+    },
+    {
+        "question": "A balanced wye-connected load with resistance of 8 ohms per phase and no reactance is supplied by a 240 v, 3-phase source. Find the real power of the load in watts.",
+        "options": {
+            "a": "6,400",
+            "c": "6,800",
+            "d": "7,600"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Powerplants",
+        "id": 1062
+    },
+    {
+        "question": "To a series RLC circuit, a voltage of 10 v is applied. If Q of the coil at resonant frequency is 20, the voltage across the inductor at resonant frequency will be. A. 200 v",
+        "options": {
+            "b": "100 V",
+            "c": "75 v",
+            "d": "50 v"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1063
+    },
+    {
+        "question": "A 400-ohm resistor is connected in series with a 2358 pF capacitor across a 12 V a.c. supply. Determine the supply frequency if the current flowing in the circuit is 24 mA. A. 225 kHz",
+        "options": {
+            "b": "306 kHz",
+            "c": "325 kHz",
+            "d": "672 kHz"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1064
+    },
+    {
+        "question": "A 100 $\\mu$F capacitor initially charged to 24 v is discharged across a series combination of a 1k$\\Omega$ resistor and a 200 $\\mu$F capacitor. Find the current after 1 sec.",
+        "options": {
+            "a": "7.24 nA",
+            "c": "8.43 nA",
+            "d": "8.84 nA"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1065
+    },
+    {
+        "question": "A 480-V rms line feeds two balanced three-phase loads. If the two loads are rated as follows, Load 1: 5 kVA at 0.8 p.f. lagging Load 2: 10 kVA at 0.9 p.f. lagging Determine the magnitude of the line current from the 480-V rms source.",
+        "options": {
+            "a": "17.97 A",
+            "b": "14.94 A",
+            "c": "13 A",
+            "d": "7.36 A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1066
+    },
+    {
+        "question": "A 60uF capacitor is connected in series with 40,000 $\\Omega$ resistor. If the capacitor is initially uncharged, determine the resistor voltage when t = 1.5 times the time constant for a suddenly applied source emf of 120 volts.",
+        "options": {
+            "a": "93.22v",
+            "c": "80v",
+            "d": "26.78v"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1067
+    },
+    {
+        "question": "A balanced delta connected load of 4 \u2013 j3 per phase is fed by 380 v, 3 \u2013 phase system. Find the reactive power in VAR.",
+        "options": {
+            "a": "42 kVAR",
+            "b": "67 kVAR",
+            "c": "88 kVAR"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Powerplants",
+        "id": 1068
+    }
+]

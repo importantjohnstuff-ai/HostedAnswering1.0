@@ -1,0 +1,281 @@
+[
+    {
+        "id": 241,
+        "question": "At a local pet adoption center of dogs and cats, it is known that if a person adopts a dog or a cat, there is 0.45 probability that it is a cat and 0.55 probability that it is a dog. If a cat is adopted, the probability that it is a female is 0.6 and if a dog is adopted, the probability that it is female is 0.35. If a pet is selected at random such that it is found to be a male, what is the probability that it is a dog?",
+        "options": {
+            "a": "0.6651",
+            "b": "0.6156",
+            "c": "0.1566",
+            "d": "0.5616"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 242,
+        "question": "A factory has three machines producing bolts: Machine A: 50% of production, 2% defect rate Machine B: 30% of production, 4% defect rate Machine C: 20% of production, 5% defect rate A bolt selected at random is found to be defective. What is the probability that it was produced by Machine B?",
+        "options": {
+            "a": "0.24",
+            "b": "0.30",
+            "c": "0.36",
+            "d": "0.40"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 243,
+        "question": "On any given day in Lapu-Lapu Cebu, the probability of rain is 40%. If it rains, a weather app by DOST-PAGASA predicts rain with 85% accuracy. If it does not rain, the app falsely predicts rain 20% of the time. The app predicts rain. What is the probability that it will actually rain?",
+        "options": {
+            "a": "0.59",
+            "b": "0.67",
+            "c": "0.74",
+            "d": "0.81"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 244,
+        "question": "From past experience it is known 90 percent of one-year-old children can distinguish their mother's voice from a similar sounding female. A random sample (20) of one year old children are given this voice recognition test. Find the probability that at least 3 children did not recognize their mother's voice.",
+        "options": {
+            "a": "0.677",
+            "b": "0.729",
+            "c": "0.271",
+            "d": "0.323"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 245,
+        "question": "From past experience it is known 90 percent of one-year-old children can distinguish their mother's voice from a similar sounding female. A random sample (20) of one year old children are given this voice recognition test. Find the variance and mean respectively, of the infants that recognize their mother's voice.",
+        "options": {
+            "a": "18",
+            "b": "10",
+            "c": "4.5",
+            "d": "1.8"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 246,
+        "question": "A couple plans to have 7 children. Find the probability of having at least one girl.",
+        "options": {
+            "a": "0.9922",
+            "b": "0.8822",
+            "c": "0.7722",
+            "d": "0.6622"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 247,
+        "question": "Compute the harmonic mean of 13, 19, 18, 21 and 32",
+        "options": {
+            "a": "19.73",
+            "b": "18.34",
+            "c": "19.23",
+            "d": "18.94"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 248,
+        "question": "What is the sample variance of the following observation? 0.50; 0.80; 0.75; 0.52; 0.60",
+        "options": {
+            "a": "0.0146",
+            "b": "0.1128",
+            "c": "0.0183",
+            "d": "0.1209"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 249,
+        "question": "The annual precipitation data of a city is normally distributed with mean and standard deviation as 1000 mm and 200 mm, respectively. The probability that the annual precipitation will be more than 1200 mm is",
+        "options": {
+            "a": "16%",
+            "b": "8%",
+            "c": "50%",
+            "d": "23%"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 250,
+        "question": "Petron Pilipinas estimates that 0.25% of their output of a component are defective. The components are marketed in packets of 200. Determine the probability of a packet containing less than three defective components.",
+        "options": {
+            "a": "0.9856",
+            "b": "0.9637",
+            "c": "0.9912",
+            "d": "0.9721"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 251,
+        "question": "Derive: $\\frac{d}{dx}(3ix^3 - 4x)$",
+        "options": {
+            "a": "$-4 + 9ix^2$",
+            "b": "$5 - 4ix$",
+            "c": "$-4 - 6ix^2$",
+            "d": "$-2 - 9ix$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 252,
+        "question": "Evaluate $\\lim_{z \\to \\infty} \\frac{|(z^2 + 3i)(z - i)|}{|iz^3 - 3z + 4 - i|}$",
+        "options": {
+            "a": "1",
+            "b": "0",
+            "c": "$i/2$",
+            "d": "$-i/2$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 253,
+        "question": "Evaluate the integral: $\\int_{1+i}^{2+3i} (12z^2 - 4iz) dz$",
+        "options": {
+            "a": "$-156 + 38i$",
+            "b": "$672 - 137i$",
+            "c": "$-178 - 144i$",
+            "d": "$91 - 213i$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 254,
+        "question": "Evaluate: $(1 + i)^{10}$",
+        "options": {
+            "a": "$16i$",
+            "b": "$32i$",
+            "c": "$-32i$",
+            "d": "$-16i$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 255,
+        "question": "Determine the Laplace transform of $3e^{-4t}$",
+        "options": {
+            "a": "$3/(s + 4)$",
+            "b": "$6/(s - 4)$",
+            "c": "$3/(s - 4)$",
+            "d": "$-6/(s + 4)$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Laplace Transform"
+    },
+    {
+        "id": 256,
+        "question": "Evaluate the Inverse Laplace Transform of $\\frac{6}{s^2 + 4}$.",
+        "options": {
+            "a": "$3\\cosh 2t$",
+            "b": "$3\\sin 2t$",
+            "c": "$3\\sinh 2t$",
+            "d": "$3\\cos 2t$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Laplace Transform"
+    },
+    {
+        "id": 257,
+        "question": "Evaluate: $\\sinh(5 + j5)$.",
+        "options": {
+            "a": "$71.16 - j21.05$",
+            "b": "$21.05 + j71.16$",
+            "c": "$21.05 - j71.16$",
+            "d": "$71.16 + j21.05$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 258,
+        "question": "Given the equations: $x + y + z = 2$; $3x - y - 2z = 4$, and $5x - 2y + 3z = -7$. Solve for $y$ by Gaussian elimination.",
+        "options": {
+            "a": "1",
+            "b": "-2",
+            "c": "0",
+            "d": "3"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 259,
+        "question": "Which of the following statements correctly distinguishes the Gauss-Seidel Method from the Jacobi Method when solving a system of linear equations?",
+        "options": {
+            "a": "The Gauss-Seidel Method updates all variables simultaneously like the Jacobi Method.",
+            "b": "The Jacobi Method typically converges faster than the Gauss-Seidel Method for diagonally dominant matrices.",
+            "c": "The Gauss-Seidel Method uses the most recently updated values during iteration, while the Jacobi Method uses only values from the previous iteration."
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Numerical Methods"
+    },
+    {
+        "id": 260,
+        "question": "Which of the following is a true property of the Bisection method when solving $f(x)=0$?",
+        "options": {
+            "a": "It converges quadratically under most conditions.",
+            "b": "It requires knowledge of the derivative of the function.",
+            "c": "It guarantees convergence if the initial interval brackets the root and $f(x)$ is continuous.",
+            "d": "It is faster than the Newton-Raphson method in all cases."
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Numerical Methods"
+    }
+]

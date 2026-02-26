@@ -1,0 +1,282 @@
+[
+    {
+        "id": 1810,
+        "question": "At 2 pm, a thermometer reading 80°F is taken outside where the air is 20°F. At 2:03 pm, the thermometer reading is 43°F. Later the thermometer is brought indoors where the air is 80°F. At 2:10 PM, the reading is 71°F. When was the thermometer brought indoors?",
+        "options": {
+            "a": "2:04 PM",
+            "b": "2:05 PM",
+            "c": "2:06 PM",
+            "d": "2:07 PM"
+        },
+        "answer": "b",
+        "correct_answer_text": "2:05 PM",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 1811,
+        "question": "If 1 gallon of air is fed continuously to a closed vessel containing 3 gallons of O2 initially, and 1 gallon of air is withdrawn from the vessel continuously, how much O2 will be left in the vessel after 3 minutes?",
+        "options": {
+            "a": "1.5 gallons",
+            "b": "2.5 gallons",
+            "c": "1.1 gallons",
+            "d": "none of the given"
+        },
+        "answer": "c",
+        "correct_answer_text": "1.1 gallons",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 1812,
+        "question": "Solve the particular solution of the D.E.: Y'' + 4Y = e^3x",
+        "options": {
+            "a": "Y = (1/12)e^3x",
+            "b": "Y = (1/10)e^3x",
+            "c": "Y = (1/13)e^3x",
+            "d": "Y = (1/13)e^-3x"
+        },
+        "answer": "c",
+        "correct_answer_text": "Y = (1/13)e^3x",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 1813,
+        "question": "A hemispherical tank with radius of 4 feet is filled with water. At t=0, a nozzle (C=1) of 1 inch diameter is opened at the bottom of the tank. How long will it take for all the water to drain from the tank?",
+        "options": {
+            "a": "59 min",
+            "b": "43 min",
+            "c": "36 min",
+            "d": "21 min"
+        },
+        "answer": "c",
+        "correct_answer_text": "36 min",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 1814,
+        "question": "Solve the differential equation: d2y/dx2 + 4x^2 = 0",
+        "options": {
+            "a": "y = (1/3)x4 + c1x + c2",
+            "b": "y = x4 + c1x + c2x2 + c3",
+            "c": "y = c1 + c2x - (1/3)x4",
+            "d": "3y = c1x + c2 + x4"
+        },
+        "answer": "c",
+        "correct_answer_text": "y = c1 + c2x - (1/3)x4",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 1815,
+        "question": "Solve the differential equation: (D3 + 3D2 + 3D + 1)y = 0",
+        "options": {
+            "a": "y = (A + Bx + Cx2) e^-x",
+            "b": "Y = A + Bx + Cx2",
+            "c": "Y = Ae^-x + Bx + Cx2",
+            "d": "y = (Ax - B) e^-x"
+        },
+        "answer": "a",
+        "correct_answer_text": "y = (A + Bx + Cx2) e^-x",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 1816,
+        "question": "REELE APR2024: If a material has a half-life of 30 minutes, what percent of the original mass is expected to remain after 0.9 hour?",
+        "options": {
+            "a": "34%",
+            "b": "29%",
+            "c": "67%",
+            "d": "21%"
+        },
+        "answer": "b",
+        "correct_answer_text": "29%",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 1817,
+        "question": "Solve the particular solution to the O.D.E.: y'' + 5y' + 6y = 3e^x",
+        "options": {
+            "a": "yp = (3/2)e^x",
+            "b": "yp = (3/4)xe^x",
+            "c": "yp = (1/4)e^x",
+            "d": "yp = 3e^x + 2x"
+        },
+        "answer": "c",
+        "correct_answer_text": "yp = (1/4)e^x",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 1818,
+        "question": "REELE SEPT2023: Solve the particular solution to the O.D.E.: y'' - 4y' - 3y = 3cos2x",
+        "options": {
+            "a": "yp = (-3/113)(8cos2x + 7sin2x)",
+            "b": "yp = (-3/233)(2cos2x - 7sin2x)",
+            "c": "yp = (-3/226)(2sin2x + 7cos2x)",
+            "d": "yp = (-3/65)(7cos2x - 8sin2x)"
+        },
+        "answer": "d",
+        "correct_answer_text": "yp = (-3/65)(7cos2x - 8sin2x)",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 1819,
+        "question": "Determine the integral of sec(x):",
+        "options": {
+            "a": "ln(sinx + cosx) + c",
+            "b": "x/sqrt(x^2 + 1) + c",
+            "c": "ln(secx + tanx) + c",
+            "d": "x/sqrt(1 - x^2) + c"
+        },
+        "answer": "c",
+        "correct_answer_text": "ln(secx + tanx) + c",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 1820,
+        "question": "Radium decomposes at the rate proportional to the amount present. If the half-life is 1600 years, find the percentage remaining after at the end of 200 years.",
+        "options": {
+            "a": "95.5%",
+            "b": "91.7%",
+            "c": "81.2%",
+            "d": "79.1%"
+        },
+        "answer": "b",
+        "correct_answer_text": "91.7%",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 1821,
+        "question": "A torispherical tank contains 100 liters of brine containing 50 kg total of dissolved salt. Pure water is allowed to run into the tank at the rate of 3 liters a minute. Brine runs out of the tank at the rate of 2 liters a minute. How much salt is in the tank at the end of one hour?",
+        "options": {
+            "a": "15.45 kg",
+            "b": "19.53 kg",
+            "c": "12.62 kg",
+            "d": "20.62 kg"
+        },
+        "answer": "b",
+        "correct_answer_text": "19.53 kg",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 1822,
+        "question": "Polonium decomposes at a rate proportional to the amount present. If half of the original amount disappears after 1000 years, what is the percentage lost in 100 years?",
+        "options": {
+            "a": "6.70%",
+            "b": "4.50%",
+            "c": "5.35%",
+            "d": "4.30%"
+        },
+        "answer": "a",
+        "correct_answer_text": "6.70%",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 1823,
+        "question": "Solve the differential equation dy/dx + x = 0, if the curve passes through (1,0)?",
+        "options": {
+            "a": "3x2 + 2y - 3 = 0",
+            "b": "2y2 + x2 - 1 = 0",
+            "c": "x2 + 2y - 1 = 0",
+            "d": "2x2 + 2y - 2 = 0"
+        },
+        "answer": "c",
+        "correct_answer_text": "x2 + 2y - 1 = 0",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 1824,
+        "question": "Find the equation of the curve at every point of which the tangent line has a slope of 2x.",
+        "options": {
+            "a": "x = -y2 + c",
+            "b": "y = -x2 + c",
+            "c": "y = x2 + c",
+            "d": "x = y2 + c"
+        },
+        "answer": "c",
+        "correct_answer_text": "y = x2 + c",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 1825,
+        "question": "Determine the solution to the second-order D.E.: x2y'' - 5xy' + 9y = 0",
+        "options": {
+            "a": "(A + Bln(x))x^3",
+            "b": "(A + Bln(x))x^-3",
+            "c": "Ax3 + Bx4",
+            "d": "Ax3 + Bx4 ln x"
+        },
+        "answer": "a",
+        "correct_answer_text": "(A + Bln(x))x^3",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 1826,
+        "question": "A conical tank that is 50 meter high and 40 meters across at the opening is filled with water to 30-meter level. Determine the amount of work necessary to pump all the water to a height 100 meters from the vertex of the tank?",
+        "options": {
+            "a": "3440 MJ",
+            "b": "1569 MJ",
+            "c": "6780 MJ",
+            "d": "2170 MJ"
+        },
+        "answer": "d",
+        "correct_answer_text": "2170 MJ",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 1827,
+        "question": "REELE APR2019: A radioactive isotope is used for dating an artifact of a lizard which contains only 2% of activity as compared with a living sample. The half-life of the isotope is 8000 years. How old is the artifact?",
+        "options": {
+            "a": "about 56,000 years ago",
+            "b": "about 76,000 years ago",
+            "c": "about 23,000 years ago",
+            "d": "about 45,000 years ago"
+        },
+        "answer": "d",
+        "correct_answer_text": "about 45,000 years ago",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 1828,
+        "question": "A bread is heated inside a microwave oven at 230degC. The initial temperature of the bread is 30degC. In 1 minute, the temperature will double. The circuit turns off when T=80degC. How long will the heating occur?",
+        "options": {
+            "a": "106 sec",
+            "b": "245 sec",
+            "c": "280 sec",
+            "d": "80 sec"
+        },
+        "answer": "a",
+        "correct_answer_text": "106 sec",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    },
+    {
+        "id": 1829,
+        "question": "Determine the particular solution for the D.E.: y'' + y = sin(2x)",
+        "options": {
+            "a": "yp = (-1/3)sin(2x)",
+            "b": "yp = (2/3)cos(2x)",
+            "c": "yp = (-4/3)sin(2x)",
+            "d": "yp = (1/3)cos(2x)"
+        },
+        "answer": "a",
+        "correct_answer_text": "yp = (-1/3)sin(2x)",
+        "category": "Math",
+        "sub_category": "Differential Equation"
+    }
+]

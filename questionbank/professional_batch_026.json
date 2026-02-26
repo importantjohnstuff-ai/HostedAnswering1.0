@@ -1,0 +1,207 @@
+[
+    {
+        "question": "mmf is analogous to: (a) electric current in electric circuit (b) current density in conductor (c) electromotive force (d) voltage",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Electromagnetism",
+        "id": 1369
+    },
+    {
+        "question": "Two coils of self-inductance 100 mH and 150 mH and mutual inductance 80 mH are connected in parallel. Determine the equivalent inductance of combination if mutual flux helps the individual fluxes. (a) 95.56 mH (b) 25.34 mH (c) 87.86 mH (d) 43.75 mH",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1370
+    },
+    {
+        "question": "The relative permeability of platinum under a magnetic field is near to 1. The B-H curve is expected to be: (a) S-curve (b) linear (c) parabolic (d) elliptic",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Electromagnetism",
+        "id": 1371
+    },
+    {
+        "question": "A mild steel closed magnetic circuit has a mean length of 75mm and a cross-sectional area of 320.2 mm\u00b2. A current of 0.40 A flows in a coil wound uniformly around the circuit and the flux produced is 200\u00b5Wb. If the relative permeability of the steel at this value of current is 400 find the reluctance of the material. (a) 466,000/H (b) 328,230/H (c) 111,1111/H (d) 298,394/H",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1372
+    },
+    {
+        "question": "A 1 H inductance carrying a current of 3 A will store energy of: (a) 3 W (b) 9 Ws (c) 3 J (d) 9 W",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Electromagnetism",
+        "id": 1373
+    },
+    {
+        "question": "The mutual inductance between two coils in a radio receiver is 100 mH. One coil has 100 mH of self-inductance. What is the self-inductance of the other if coefficient of coupling between the coils is 0.5? (a) 400 mH (b) 500 mH (c) 250 mH (d) 100 mH",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Electromagnetism",
+        "id": 1374
+    },
+    {
+        "question": "Determine the range of values expected for a resistor with colour coding: red-black-green-silver. (a) 1.8 M-ohm to 2.2 M-ohm (b) 1.4 M-ohm to 2.0 M-ohm (c) 1.2 M-ohm to 1.8 M-ohm (d) 1.5 M-ohm to 2.7 M-ohm",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1375
+    },
+    {
+        "question": "The mutual inductance between two coils 1 (primary) and 2 (secondary) can be increased by: (a) Placing the coils far apart (b) Decreasing the current in coil 1 (c) increasing number of turns in coil 1 (d) decreasing number of turns in coil 2",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Electromagnetism",
+        "id": 1376
+    },
+    {
+        "question": "An air gap between two pole pieces is 20mm in length and the area of the flux path across the gap is 5 cm\u00b2. If the flux required in the air gap is 0.75mWb find the mmf necessary. (a) 23,870 A-T (b) 12,333 A-T (c) 45,670 A-T (d) 34,730 A-T",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1377
+    },
+    {
+        "question": "The permeance in a magnetic circuit corresponds to: (a) resistance in an electric circuit (b) emf in an electric circuit (c) current in the circuit (d) conductance in an electric circuit",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1378
+    },
+    {
+        "question": "A sample of silicon steel has a hysteresis coefficient of 100 and a corresponding Steinmetz index of 1.6. Calculate the hysteresis power loss in $10^6$ mm\u00b3 when the flux is alternating at 50 Hz, such that the maximum flux density is 2T. (a) 19.4 W (b) 11.2 W (c) 34.6 W (d) 15.2 W",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1379
+    },
+    {
+        "question": "Almost all power machines requires materials with B-H curve (hysteresis loop) area that are: (a) Small (b) large (c) intermediate (d) zero",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Electromagnetism",
+        "id": 1380
+    },
+    {
+        "question": "The 5-meter wires that supply current to a 120 V, 2kW electric heater are 2 mm apart. What is the force between the wires? (a) 0.50 N (b) 0.14 N (c) 0.29 N (d) 0.78 N",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1381
+    },
+    {
+        "question": "What is the maximum torque developed on an armature of a DC generator composed of 50 turns and cross-section of 30 cm x 45 cm if the current flow is 10 amperes? The magnetic field is 3 tesla. (a) 344 N-m (b) 443 N-m (c) 202.5 N-m (d) 167 N-m",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Machines",
+        "id": 1382
+    },
+    {
+        "question": "Determine the power drawn by the circuit: (Diagram shows a bridge circuit with resistors 8$\\Omega$, 3$\\Omega$, 7$\\Omega$, 4$\\Omega$, 10$\\Omega$ and a 10V source) (a) 19.84 (b) 45.67 (c) 11.23 (d) 9.347",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1383
+    },
+    {
+        "question": "A 12 V battery is connected in a circuit having three series-connected resistors having resistances of 4-ohm, 9-ohm and 11-ohm. Determine the p.d. across the 9-ohm resistor. Find also the power dissipated in the 11-ohm resistor.",
+        "options": {
+            "a": "2.5 V, 4.75 W",
+            "b": "2.5 V, 2.75 W",
+            "c": "4.5 V, 2.75 W",
+            "d": "4.5 V, 4.75 W"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1384
+    },
+    {
+        "question": "Two resistors are connected in series across a 24 V supply and a current of 3 A flows in the circuit. If one of the resistors has a resistance of 2-ohm determine the value of the other resistor, and the p.d. across the 2-ohm resistor.",
+        "options": {
+            "a": "3 V, 6-ohm",
+            "b": "6 V, 5-ohm",
+            "c": "6 V, 6-ohm",
+            "d": "3 V, 5-ohm"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1385
+    },
+    {
+        "question": "An oven takes 15 A at 240 V. It is required to reduce the current to 12 A. Find the resistor which must be connected in series.",
+        "options": {
+            "a": "3-ohm",
+            "b": "5-ohm",
+            "c": "4-ohm",
+            "d": "6-ohm"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1386
+    },
+    {
+        "question": "For the circuit shown, determine the reading on the ammeter, and the value of resistor R2. (Circuit: $R_1=5\\Omega$ with 8A, $R_2$ branch, $R_3=20\\Omega$ branch with ammeter, Total current = 11A).",
+        "options": {
+            "a": "4 A, 40-ohm",
+            "b": "2 A, 40-ohm",
+            "c": "4 A, 50-ohm",
+            "d": "2 A, 60-ohm"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1387
+    },
+    {
+        "question": "A string of Christmas tree lights consists of eight 6-W, 15-V bulbs connected in series. What current flows when the string is plugged into a 120-V outlet, and what is the hot resistance of each bulb?",
+        "options": {
+            "a": "31.6 ohm",
+            "b": "37.5 ohm",
+            "c": "29.8 ohm",
+            "d": "13.4 ohm"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1388
+    }
+]

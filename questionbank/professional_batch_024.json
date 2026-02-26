@@ -1,0 +1,257 @@
+[
+    {
+        "question": "Three 12 \u03bcF capacitors are connected in series across a 750V supply. Calculate the charge on each capacitor.",
+        "options": {
+            "a": "3 mC",
+            "b": "2 mC",
+            "c": "5 mC",
+            "d": "1 mC"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1329
+    },
+    {
+        "question": "Capacitances of 4 \u03bcF, 8 \u03bcF and 16 \u03bcF are connected in parallel across a 200V supply. Determine the total charge.",
+        "options": {
+            "a": "5.2 mC",
+            "b": "6.7 mC",
+            "c": "7.2 mC",
+            "d": "5.6 mC"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Electromagnetism",
+        "id": 1330
+    },
+    {
+        "question": "When a capacitor is connected across a 200V supply the charge is 4 \u03bcC. Find the energy stored.",
+        "options": {
+            "a": "0.4 mJ",
+            "b": "0.5 mJ",
+            "c": "1.2 mJ",
+            "d": "0.4 mJ"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1331
+    },
+    {
+        "question": "A 3300 pF capacitor is required to store 0.5 mJ of energy. Find the p.d. to which the capacitor must be charged.",
+        "options": {
+            "a": "550V",
+            "b": "650V",
+            "c": "220 V",
+            "d": "450 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1332
+    },
+    {
+        "question": "A capacitor, consisting of two metal plates each of area 50 cm\u00b2 and spaced 0.2 mm apart in air, is connected across a 120V supply. Calculate the energy stored.",
+        "options": {
+            "a": "1.593 \u03bcJ",
+            "b": "2.934 \u03bcJ",
+            "c": "0.837 \u03bcJ",
+            "d": "3.878 \u03bcJ"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1333
+    },
+    {
+        "question": "A current of 5A is passed through a 1000-turn coil wound on a circular magnetic circuit of radius 120 mm. Calculate the magnetomotive force.",
+        "options": {
+            "a": "500 A-turn",
+            "b": "600 A-turn",
+            "c": "250 A-turn",
+            "d": "300 A-turn"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Electromagnetism",
+        "id": 1334
+    },
+    {
+        "question": "Find the magnetic field strength applied to a magnetic circuit of mean length 50 cm when a coil of 400 turns is applied to it carrying a current of 1.2A.",
+        "options": {
+            "a": "940 A/m",
+            "b": "670 A/m",
+            "c": "1030 A/m",
+            "d": "960 A/m"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Electromagnetism",
+        "id": 1335
+    },
+    {
+        "question": "A solenoid 20 cm long is wound with 500 turns of wire. Find the current required to establish a magnetising force of 2500A/m inside the solenoid.",
+        "options": {
+            "a": "1A",
+            "b": "2A",
+            "c": "3A",
+            "d": "6A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Electromagnetism",
+        "id": 1336
+    },
+    {
+        "question": "A laminated soft-iron ring has a mean circumference of 600 mm, cross-sectional area 500 mm\u00b2 and has a radial air gap of 1 mm cut through it. It is wound with a coil of 1000 turns. Estimate the current in the coil to produce a flux of 0.5 mWb in the air gap assuming the relative permeability of the soft iron is 1000, the leakage factor is 1.2, and the space factor is 0.9.",
+        "options": {
+            "a": "2.355 A",
+            "b": "1.432 A",
+            "c": "0.899 A",
+            "d": "1.894 A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1337
+    },
+    {
+        "question": "A steel ring of mean diameter 120 mm is uniformly wound with 1500 turns of wire. When a current of 0.30A is passed through the coil a flux density of 1.5 T is set up in the steel. Find the relative permeability of the steel under these conditions.",
+        "options": {
+            "a": "1000",
+            "b": "500",
+            "c": "2500",
+            "d": "4300"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1338
+    },
+    {
+        "question": "An air-gap between two pole pieces is 20 mm in length and the area of the flux path across the gap is 5 cm\u00b2. If the flux required in the air-gap is 0.75 mWb find the m.m.f. necessary.",
+        "options": {
+            "a": "23,870A",
+            "b": "63,784A",
+            "c": "18,798A",
+            "d": "23,589A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1339
+    },
+    {
+        "question": "A mild steel closed magnetic circuit has a mean length of 75 mm and a cross-sectional area of 320.2 mm\u00b2. A current of 0.40A flows in a coil wound uniformly around the circuit and the flux produced is 200 \u03bcWb. If the relative permeability of the steel at this value of current is 400 find the number of turns of the coil.",
+        "options": {
+            "a": "233",
+            "b": "345",
+            "c": "667",
+            "d": "783"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1340
+    },
+    {
+        "question": "A steel ring 30 cm mean diameter and of circular section 2 cm in diameter has an air gap 1 mm long. It is wound uniformly with 600 turns of wire carrying current of 2.5 A. Find the flux. Neglect magnetic leakage. The iron path takes 40% of the total m.m.f.",
+        "options": {
+            "a": "0.36 mWb",
+            "b": "0.76 mWb",
+            "c": "0.13 mWb",
+            "d": "0.27 mWb"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1341
+    },
+    {
+        "question": "The hysteresis loop for a specimen of mass 12 kg is equivalent to 30 W/mm\u00b3. Find the loss of energy in kWh in one hour at 50 Hz. The density of the specimen is 7.8 g/cm\u00b3.",
+        "options": {
+            "a": "0.088 kWh",
+            "b": "0.034 kWh",
+            "c": "0.024 kWh",
+            "d": "0.017 kWh"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Electromagnetism",
+        "id": 1342
+    },
+    {
+        "question": "A transformer is made of 200 kg of steel plate with a specific gravity of 7.5. It may be assumed that the maximum operating flux density is 1.1 Wb/m\u00b2 for all parts of the steel. When a specimen of the steel was tested, it was found to have a hysteresis loop of area 100 cm\u00b2 for a maximum flux density of 1.1 Wb/m\u00b2. If the scales of the hysteresis loop graph were 1 cm = 50 AT/m and 1 cm = 0.1 Wb/m\u00b2, calculate the hysteresis power loss when the transformer is operated on 50 Hz mains.",
+        "options": {
+            "a": "667 W",
+            "b": "532 W",
+            "c": "133 W",
+            "d": "897 W"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1343
+    },
+    {
+        "question": "Two wires A and B of the same material and length L and 2L have radius r and 2r respectively. The ratio of their specific resistance will be: (a) 1 : 1 (b) 1 : 2 (c) 1 : 4 (d) 1 : 8",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1344
+    },
+    {
+        "question": "A network contains linear resistors and ideal voltage sources. If values of all the resistors are doubled then the voltage across each resistor is: (a) halved (b) doubled (c) four times (d) not changed",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1345
+    },
+    {
+        "question": "Two incandescent light bulbs of 40 W and 60 W rating are connected in series across the mains. Then: (a) the bulbs together consume 100 W (b) the bulbs together consume 50 W (c) the 60 W bulb glows brighter (d) the 40 W bulb glows brighter",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1346
+    },
+    {
+        "question": "Find the value of current flowing through the wire AB in Figure M-03: (a) 0.032 A (b) 0.007 A (c) 0.095 A (d) 0.054 A",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1347
+    },
+    {
+        "question": "Find the equivalent resistance between terminals A and B in M-04: (Figure M-04 shows a bridge-like resistor network) (a) 3R/7 (b) 8R/7 (c) 4R/7 (d) 2R/7",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Circuits",
+        "id": 1348
+    }
+]

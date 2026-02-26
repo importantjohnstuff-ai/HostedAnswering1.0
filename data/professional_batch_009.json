@@ -1,0 +1,237 @@
+[
+    {
+        "question": "The photovoltaic cells of a solar power plant is composed of tempered glass glazing and a EVA coating material with the following optical characteristics: Tempered Glass Glaze: reflectivity 0.12, absorptivity 0.08 EVA coating: reflectivity 0.035, absorptivity 0.92 If there are 700 panels of 2.5 m2 per unit area is installed, determine the power of the plant if the average solar flux is 950 W/m2:",
+        "options": {
+            "a": "2.6 MW",
+            "b": "6.7 MW",
+            "c": "1.2 MW",
+            "d": "1.0 MW"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1029
+    },
+    {
+        "question": "A 20 mi/hr wind at standard temperature and pressure passes through a horizontal wind turbine. The wind is perpendicular to the plate of the blades. The turbine has a blade diameter of 30 ft. Air temperature and pressure is 70 deg.F and 1 atm. What is the maximum power that can generate?",
+        "options": {
+            "a": "12 hp",
+            "b": "38 hp",
+            "c": "150 hp",
+            "d": "22 hp"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Powerplants",
+        "id": 1030
+    },
+    {
+        "question": "The wind power plant is served by twenty-five units of identical 80 feet-wind turbine and operates on a shoreline with velocity of 150 mph. The efficiency of the turbogenerator set is 0.42. The power capacity of the plant is most nearly:",
+        "options": {
+            "a": "1840 A",
+            "b": "4920 A",
+            "c": "3580 A",
+            "d": "6200 A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Powerplants",
+        "id": 1031
+    },
+    {
+        "question": "Calculate the number of fission in uranium per second required to produce 2 kW of power if energy released per fission is 200 MeV.",
+        "options": {
+            "a": "$1.78 \\times 10^{16}$",
+            "b": "$1.78 \\times 10^{14}$",
+            "c": "$6.25 \\times 10^{13}$",
+            "d": "$6.25 \\times 10^{13}$"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Powerplants",
+        "id": 1032
+    },
+    {
+        "question": "Assuming that 85% of neutrons absorbed by U-235 cause fission, the rest being absorbed by non-fission capture to produce an isotope U-236, estimate the fuel consumption of U-235 per day to produce 3000 MW of thermal power.",
+        "options": {
+            "a": "2.3 kg/day",
+            "b": "3.7 kg/day",
+            "c": "1.2 kg/day",
+            "d": "4.7 kg/day"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Powerplants",
+        "id": 1033
+    },
+    {
+        "question": "A nuclear reactor is composed of 400 graphite-coated U-235 fuel such that every rod has a fission rate of $5 \\times 10^{15}$ /sec/rod. Determine the daily fuel consumption of this power plant if the capture efficiency, primary loop efficiency, secondary loop efficiency and turbogenerator efficiency are 0.35, 0.92, 0.86, 0.80, respectively.",
+        "options": {
+            "a": "1.5 lb/day",
+            "b": "0.67 lb/day",
+            "c": "0.32 lb/day",
+            "d": "2.5 lb/day"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Powerplants",
+        "id": 1034
+    },
+    {
+        "question": "A power station supplies the following loads to the consumers: | Time in hours | 0-6 | 6-10 | 10-12 | 12-16 | 16-20 | 20-22 | 22-24 | | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | | Load in MW | 30 | 70 | 90 | 60 | 100 | 80 | 60 | Determine:",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Powerplants",
+        "id": 1035
+    },
+    {
+        "question": "The load factor: A. 0.45, B. 0.89, C. 0.65, D. 0.35",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Powerplants",
+        "id": 1036
+    },
+    {
+        "question": "Use factor of a standby equipment of 300 MW capacity if it takes up all loads above 70 MW: A. 0.85, B. 0.75, C. 0.65, D. 0.45",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Powerplants",
+        "id": 1037
+    },
+    {
+        "question": "A cogenerative plant has a maximum demand of 55 MW with a load factor of 0.7 and capacity factor of 0.5. The plant capacity is nearly:",
+        "options": {
+            "a": "77 MW",
+            "b": "43 MW",
+            "c": "63 MW",
+            "d": "83 MW"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Powerplants",
+        "id": 1038
+    },
+    {
+        "question": "A hydro-power plant in Cordillera has the following annual factors: load factor = 0.75, capacity factor = 0.60, use factor = 0.65. Maximum demand is 60 MW. Estimate:",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Powerplants",
+        "id": 1039
+    },
+    {
+        "question": "The annual energy production, in GWh: A. 447.4, B. 394.2, C. 277.3, D. 573.3",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Powerplants",
+        "id": 1040
+    },
+    {
+        "question": "The hours during which the plant is not in service per year: A. 548 hrs, B. 732 hrs, C. 647 hrs, D. 534 hrs",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Powerplants",
+        "id": 1041
+    },
+    {
+        "question": "A main power station has annual factors: Capacity factor=40%, Load Factor = 55%, Use Factor = 42%. The reserve above the peak load is 8500 kW. Find:",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Powerplants",
+        "id": 1042
+    },
+    {
+        "question": "The annual energy production in MWh: A. 109,000, B. 203,000, C. 45,700, D. 67,900",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Powerplants",
+        "id": 1043
+    },
+    {
+        "question": "Hours per year not in service: A. 418 hrs, B. 568 hrs, C. 312 hrs, D. 70 hrs",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Powerplants",
+        "id": 1044
+    },
+    {
+        "question": "A power plant has a fuel consumption of 1 pound per kW-hr generated. Determine the heating value of the fuel used in BTU per pound. The overall efficiency of the plant is 36%.",
+        "options": {
+            "a": "10,000",
+            "b": "9,500",
+            "c": "9,800",
+            "d": "10,050"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Powerplants",
+        "id": 1045
+    },
+    {
+        "question": "The current loads of four circuits are: Circuit 1 = 25 A, Circuit 2 = 38 A, Circuit 3 = 18 A, Circuit 4 = 45 A. If the diversity factor is 1.5, what is the minimum ampacity of the feeder:",
+        "options": {
+            "a": "126 A",
+            "b": "189 A",
+            "c": "84 A",
+            "d": "152 A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Powerplants",
+        "id": 1046
+    },
+    {
+        "question": "A power consumer in Nueva Ecija has four feeder circuits of 220 V, 3-phase. Circuits demands: A: 35 A, B: 46 A, C: 72 A, D: 57 A. If diversity factor is 1.5, determine max demand:",
+        "options": {
+            "a": "46 kW",
+            "b": "26.5 kW",
+            "c": "80 kW",
+            "d": "53 kW"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Powerplants",
+        "id": 1047
+    },
+    {
+        "question": "A central generating station report: CF = 50%, LF = 60%, UF = 45%, Reserved = 10,500 kW. Determine rated capacity:",
+        "options": {
+            "a": "447.4",
+            "b": "394.2",
+            "c": "277.3",
+            "d": "573.3"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Powerplants",
+        "id": 1048
+    }
+]

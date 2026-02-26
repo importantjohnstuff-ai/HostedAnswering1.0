@@ -1,0 +1,282 @@
+[
+    {
+        "id": 181,
+        "question": "Which of the following is a COMMON Constituent between water gas and producer gas?",
+        "options": {
+            "a": "CO",
+            "b": "CO2",
+            "c": "N2",
+            "d": "H2"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 182,
+        "question": "For an endothermic reaction, if the temperature is increased, the equilibrium constant _______.",
+        "options": {
+            "a": "remains constant",
+            "b": "decreases",
+            "c": "will depend on initial temperature",
+            "d": "increases"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 183,
+        "question": "The cost of electricity can be calculated by:",
+        "options": {
+            "a": "Electrical energy generated / (Fixed cost + Variable cost)",
+            "b": "(Fixed cost + Variable cost) / Electrical energy generated",
+            "c": "Variable cost / Electrical energy generated",
+            "d": "Fixed cost / Electrical energy generated"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 184,
+        "question": "Which of the following best describe Joule's law?",
+        "options": {
+            "a": "The change of internal energy is proportional to temperature change",
+            "b": "The sum of all heat transfer is proportional to sum of all work transfer",
+            "c": "The change of volume is proportional to temperature change",
+            "d": "The change of pressure is proportional to temperature change"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 185,
+        "question": "Which of the following is NOT an extensive property?",
+        "options": {
+            "a": "Kinetic energy",
+            "b": "Density",
+            "c": "Momentum",
+            "d": "Mass"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 186,
+        "question": "Which of the following does NOT transfer work to or from a system?",
+        "options": {
+            "a": "A moving piston",
+            "b": "An electrical resistance heater",
+            "c": "A membrane that bursts",
+            "d": "The expanding membrane of a balloon"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 187,
+        "question": "Which statement about work for a quasiequilibrium process is INCORRECT?",
+        "options": {
+            "a": "Work is a path function",
+            "b": "Work is the area under a P-T diagram",
+            "c": "The differential of work is inexact",
+            "d": "Work is always zero for a constant-volume process"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 188,
+        "question": "What is the key concept in analyzing the filling of an evacuated tank?",
+        "options": {
+            "a": "The internal energy in the tank remains constant",
+            "b": "The mass flow rate into the tank remains constant",
+            "c": "The temperature in the tank remains constant",
+            "d": "The enthalpy across a valve remains constant"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 189,
+        "question": "Which one of the following statements is CORRECT during adiabatic charging of an ideal gas into an empty cylinder from a supply main?",
+        "options": {
+            "a": "Specific internal energy in supply equals that in cylinder",
+            "b": "Specific enthalpy in supply equals that in cylinder",
+            "c": "Specific enthalpy in supply equals specific internal energy in cylinder",
+            "d": "Specific internal energy in supply equals specific enthalpy in cylinder"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 190,
+        "question": "Which of the following is useful in predicting gas properties when critical properties are known?",
+        "options": {
+            "a": "Beattie-Bridgeman equation",
+            "b": "Van der Waals equation",
+            "c": "Generalized compressibility chart",
+            "d": "Redlich-Kwong equation"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 191,
+        "question": "The following air properties increase with temperature EXCEPT",
+        "options": {
+            "a": "Thermal conductivity",
+            "b": "Dynamic viscosity",
+            "c": "Thermal diffusivity",
+            "d": "Density"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 192,
+        "question": "Why are metals good thermal conductors?",
+        "options": {
+            "a": "Atoms are closer",
+            "b": "Atoms are larger",
+            "c": "Presence of free electrons",
+            "d": "Reflective surfaces"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 193,
+        "question": "For a given compression ratio, which ideal cycles have equal thermal efficiency?",
+        "options": {
+            "a": "Otto and Joule",
+            "b": "Diesel and Stirling",
+            "c": "Stirling and Otto",
+            "d": "Joule and Diesel"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 194,
+        "question": "Evaluate the integral of $[(\\sinh x)^3][(\\cosh x)^2]dx$",
+        "options": {
+            "a": "$\\ln (e^{x} - 1)^2 + x + C$",
+            "b": "$\\ln (e^{x} + 1) - x + C$",
+            "c": "$\\ln (e^{x} - 1) + x + C$",
+            "d": "$\\ln (e^{x} + 1)^2 - x + C$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 195,
+        "question": "Locate the centroid of the area bounded by the parabola $y^2=4x$, the line $y=4$ and the y-axis.",
+        "options": {
+            "a": "(3/2, 6/5)",
+            "b": "(4/3, 3/5)",
+            "c": "(3/2, 2/5)",
+            "d": "(4/3, 4/5)"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 196,
+        "question": "Find the length of arc of the parabola $x^2 = 4y$ from $x = -2$ to $x = 2$.",
+        "options": {
+            "a": "4.2 units",
+            "b": "4.9 units",
+            "c": "4.6 units",
+            "d": "5.2 units"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 197,
+        "question": "Find the centroid for the region bounded by $y=4-x^2$ that is in the first quadrant.",
+        "options": {
+            "a": "(3/4, 7/8)",
+            "b": "(3/4, 8/5)",
+            "c": "(5/6, 3/4)",
+            "d": "(1/4, 5/6)"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 198,
+        "question": "Find the volume of the solid generated when the area bounded by $y = x$, $y = 0$, $x = 1$ is rotated about the y-axis.",
+        "options": {
+            "a": "3\u03c0/16",
+            "b": "\u03c0/12",
+            "c": "3\u03c0/16",
+            "d": "2\u03c0/15"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 199,
+        "question": "Find the first moment of area about the x-axis of the region bounded by $y = x$, the x-axis, and $x = 2$.",
+        "options": {
+            "a": "11/30",
+            "b": "19/17",
+            "c": "3/19",
+            "d": "4/51"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 200,
+        "question": "Find the moment of inertia about the x-axis of the area bounded by the x-axis and the straight line $y = 2x$ from $x = 0$ to $x = 2$.",
+        "options": {
+            "a": "652/3",
+            "b": "792/5",
+            "c": "133/7",
+            "d": "189/4"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    }
+]

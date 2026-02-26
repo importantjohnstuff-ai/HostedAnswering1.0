@@ -1,0 +1,237 @@
+[
+    {
+        "id": 81,
+        "question": "Find the slope of the tangent line to $y = x^2$ when $x = 2$. **Ans. 4**",
+        "options": {},
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 82,
+        "question": "What is the slope of the line tangent to the curve: $$y = \\sqrt{\\frac{x \\sin x}{x^2 + 1}}$$ at $x = \\pi/2$: **Ans: -0.0907**",
+        "options": {},
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 83,
+        "question": "Evaluate $\\sum_{n=1}^{50} (1 - n)^2$ **Ans. 40,425**",
+        "options": {},
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 84,
+        "question": "Determine the sum of the first 1000 numbers. **Ans. 500,500**",
+        "options": {},
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 85,
+        "question": "Convert the rectangular coordinates (3,4) to polar. **Ans. $r = 5.00$, $\\theta = 53.13^\\circ$** Convert the polar coordinates ($7, 30^\\circ$) to rectangular. **Ans. $X = 6.06$, $Y = 3.5$**",
+        "options": {},
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 86,
+        "question": "Simplify the following expression of $i$: $$5i^{13,452} - 3i^{11,781} + 2i^{144} - 6i^{894}$$",
+        "options": {
+            "a": "$4 + 15i$",
+            "b": "$-14 + 3i$",
+            "c": "$13 - 3i$",
+            "d": "none of these"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 87,
+        "question": "Find: $(58 - i) - (2 - 17i)$",
+        "options": {
+            "a": "$56 + 16i$",
+            "b": "$46 + 16i$",
+            "c": "$45 + 14i$",
+            "d": "$56 + 14i$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 88,
+        "question": "Find the polar form of $3 + j4$:",
+        "options": {
+            "a": "$6 \\angle 53.13^\\circ$",
+            "b": "$5 \\angle 53.13^\\circ$",
+            "c": "$6 \\angle 43.23^\\circ$",
+            "d": "$5 \\angle 43.27^\\circ$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 89,
+        "question": "Determine the value of $(6 + 3i) / (10 + 8i)$",
+        "options": {
+            "a": "$21/41 - 8/82i$",
+            "b": "$23/41 - 7/82i$",
+            "c": "$23/40 - 7/82i$",
+            "d": "$21/41 - 9/82i$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 90,
+        "question": "Compute the value of $(15 - 18i) / (-6 + 7i)$ in polar form:",
+        "options": {
+            "a": "$3.78 \\angle 4.56 \\text{ rad}$",
+            "b": "$3.78 \\angle 1.13 \\text{ rad}$",
+            "c": "$2.54 \\angle 4.56 \\text{ rad}$",
+            "d": "$2.54 \\angle 3.13 \\text{ rad}$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 91,
+        "question": "Find $(2 + 3i)^6$:",
+        "options": {
+            "a": "$2035 - j828$",
+            "b": "$4522 + j675$",
+            "c": "$2035 + j744$",
+            "d": "$543 - j675$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 92,
+        "question": "Compute $(3 + 3i)^5$",
+        "options": {
+            "a": "$-972 - 972i$",
+            "b": "$354 - 708i$",
+            "c": "$354 - 354i$",
+            "d": "$-708 - 708i$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 93,
+        "question": "Compute: $\\sqrt{2i}$",
+        "options": {
+            "a": "$-1 + i, -1 + i$",
+            "b": "$1 + i, -1 - i$",
+            "c": "$1 - i, -1 - i$",
+            "d": "$1 + i, -1 + i$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 94,
+        "question": "What are the three cube roots of 1?",
+        "options": {
+            "a": "$1, -1 \\text{ and } i$",
+            "b": "$1, -i, \\text{ and } i$",
+            "c": "$1, \\frac{-1}{2} - \\frac{\\sqrt{3}}{2}i, \\text{ and } \\frac{-1}{2} + \\frac{\\sqrt{3}}{2}i$",
+            "d": "$1, \\frac{-1}{2} - \\frac{\\sqrt{5}}{2}i, \\text{ and } \\frac{-1}{2} + \\frac{\\sqrt{5}}{2}i$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 95,
+        "question": "**Example:** What is the 12th term of the following sequence? 34, 31, 28, 25, 22, ... **ANS: 1**",
+        "options": {},
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 96,
+        "question": "**Example:** Determine the sum up to the 9th term of the sequence: -18, -10, -2, 6, ... **ANS: 126**",
+        "options": {},
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 97,
+        "question": "**Example:** A water tank develops a leak. Each week, the tank loses 5 gallons of water due to the leak. Initially, the tank is full and contains 1500 gallons. How many gallons are in the tank 20 weeks later? **ANS: 1400 gal** How many weeks until the tank is EMPTY? **ANS: 300 weeks**",
+        "options": {},
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 98,
+        "question": "In how many minutes after 2 PM will the hands of the clock be at in opposite direction for the first time?",
+        "options": {
+            "a": "45.6 min",
+            "b": "47.8 min",
+            "c": "43.6 min",
+            "d": "44.3 min"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 99,
+        "question": "At what time from 3 PM will the hand of the clock be at right angle?",
+        "options": {
+            "a": "3:32:43.6 PM",
+            "b": "3:32: 27.3 PM",
+            "c": "3:33: 38.2 PM",
+            "d": "3:33: 27.3 PM"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    },
+    {
+        "id": 100,
+        "question": "**Example:** Determine the 15th term of the sequence: 81, 27, 9, ... **ANS: 1/59,049**",
+        "options": {},
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Calculator Technique"
+    }
+]

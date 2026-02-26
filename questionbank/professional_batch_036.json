@@ -1,0 +1,282 @@
+[
+    {
+        "question": "A transformer has a turn ratio 4:1. If a 50 ohm resistance is connected across the secondary, what is the resistance referred to the primary?",
+        "options": {
+            "a": "400 ohm",
+            "b": "800 ohm",
+            "c": "1.25 ohm",
+            "d": "1.65 ohm"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1569
+    },
+    {
+        "question": "A resistance connected across the secondary of an ideal transformer has a value of 800 ohm as referred to the primary. The same resistance when connected across the primary has a value of 3.125 ohm as referred to the secondary. Find the turns ratio of the transformer.",
+        "options": {
+            "a": "1/8",
+            "b": "1/2",
+            "c": "1/16",
+            "d": "1/4"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1570
+    },
+    {
+        "question": "A 30 kVA, 2400/120 V, 50 Hz transformer has high-voltage winding resistance of 0.1 ohm and leakage reactance of 0.22 ohm. The low voltage winding resistance is 0.035 ohm and leakage reactance is 0.012 ohm. Calculate the equivalent impedance (ohms) as referred to the secondary winding.",
+        "options": {
+            "a": "0.008",
+            "b": "0.037",
+            "c": "0.099",
+            "d": "0.193"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1571
+    },
+    {
+        "question": "A 50 kVA, 4400/220 V transformer has $R_1 = 3.45 \\Omega$, $R_2 = 0.009 \\Omega$. The reactances are $X_1 = 5.2 \\Omega$ and $X_2 = 0.015 \\Omega$. Calculate for the transformer, the impedance referred to the primary side.",
+        "options": {
+            "a": "15.67 ohm",
+            "b": "14.82 ohm",
+            "c": "13.23 ohm",
+            "d": "11.78 ohm"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1572
+    },
+    {
+        "question": "A 200 kVA, 2200/440 V, 50 Hz, single-phase transformer is operating at full load, 0.8 lagging pf. The voltage on the secondary of the transformer at full load, 0.8 lagging pf is 400 V. Calculate the voltage regulation of the transformer.",
+        "options": {
+            "a": "7.54%",
+            "b": "9.09%",
+            "c": "15.4%",
+            "d": "6.67%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1573
+    },
+    {
+        "question": "A single-phase, 440/220 V, 10 kVA, 50 Hz transformer has a resistance of 0.2 ohm and reactance of 0.6 ohm on the h.v. side. The corresponding values of the l.v. side are 0.04 ohms and 0.14 ohms. Calculate the percentage regulation on full load for 0.8 leading pf.",
+        "options": {
+            "a": "-2.11%",
+            "b": "-7.21%",
+            "c": "-5.93%",
+            "d": "-0.78%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1574
+    },
+    {
+        "question": "Calculate the regulation of a transformer in which resistive drop is 1% per unit of the output and reactive drop is 5% per unit of the output, when the pf is 0.8 lagging.",
+        "options": {
+            "a": "6.7%",
+            "b": "4.2%",
+            "c": "2.8%",
+            "d": "3.8%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1575
+    },
+    {
+        "question": "A 230/460 V transformer has a primary resistance of 0.2 ohm and a reactance of 0.5 ohm and the respective values for the secondary are 0.75 ohm and 1.8 ohm respectively. Find the secondary terminal voltage when 10 A is produced at 0.8 pf lagging.",
+        "options": {
+            "a": "424.8 V",
+            "b": "456.3 V",
+            "c": "342.3 V",
+            "d": "227.3 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1576
+    },
+    {
+        "question": "A 1 kVA-240V/600V single phase transformer primary winding has resistance of 2.3 ohms and reactance of 0.5 ohms. The secondary winding has resistance of 4.5 ohms and reactance of 1.2 ohms. Compute the delivery voltage at 80% loading, pf = 0.87 leading.",
+        "options": {
+            "a": "579.23 V",
+            "b": "580.95 V",
+            "c": "598.23 V",
+            "d": "547.65 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1577
+    },
+    {
+        "question": "A single-phase transformer with a ratio of 4:1 has primary resistance and reactance of 0.5 $\\Omega$ and 1.5 $\\Omega$ and the corresponding values for the secondary are 0.034 $\\Omega$ and 0.1 $\\Omega$, respectively. Determine the percentage regulation when delivering 120 A at 600 V at p.f. of 0.8 leading.",
+        "options": {
+            "a": "-2.476%",
+            "b": "-1.563%",
+            "c": "-1.280%",
+            "d": "-5.489%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1578
+    },
+    {
+        "question": "Iron loss of 80 kVA, 1000/250 V, single-phase, 50 Hz transformer is 500 W. The copper loss when the primary carries a current of 80 A is 400 W. Find the efficiency at 75% of full load at unity pf.",
+        "options": {
+            "a": "98.81%",
+            "b": "97.43%",
+            "c": "91.23%",
+            "d": "90.67%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1579
+    },
+    {
+        "question": "A 25 kVA, 2200/220 V, 50 Hz, single-phase transformer has a primary resistance of 1.8 ohm and a secondary resistance of 0.02 ohm. Determine the efficiency of the transformer at half load and 0.8 lagging pf. Iron loss is 1000 watts.",
+        "options": {
+            "a": "84.32%",
+            "b": "89.91%",
+            "c": "91.34%",
+            "d": "96.45%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1580
+    },
+    {
+        "question": "A 250 kVA, single-phase transformer has 98.135% efficiency at full load and 0.8 lagging pf. The efficiency at half load and 0.8 lagging pf is 97.751%. Calculate the copper loss.",
+        "options": {
+            "a": "1 kW",
+            "b": "2 kW",
+            "c": "3 kW",
+            "d": "4 kW"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1581
+    },
+    {
+        "question": "A 150 kVA, single-phase transformer has iron loss of 1.4 kW and full-load copper loss of 1.6 kW. Determine the maximum efficiency at 0.8 lagging power factor.",
+        "options": {
+            "a": "98.65%",
+            "b": "99.32%",
+            "c": "97.57%",
+            "d": "94.57%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1582
+    },
+    {
+        "question": "A 440/110 V transformer has an effective primary resistance of 0.3 $\\Omega$ and a secondary resistance of 0.02 $\\Omega$. If iron loss on normal input voltage is 150 W, calculate the secondary current at which maximum efficiency will occur. What is the value of this maximum efficiency for unity power factor load?",
+        "options": {
+            "a": "89.5%",
+            "b": "97.3%",
+            "c": "94.3%",
+            "d": "95.8%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1583
+    },
+    {
+        "question": "A 5 kVA, 1000/200 V, 50 Hz, single-phase transformer gives the following test results: OC test (LV side): 200 V, 1.2 A, 90 W SC test (HV side): 50 V, 5 A, 110 W Determine efficiency at half load at 0.8 pf lagging.",
+        "options": {
+            "a": "94.45 %",
+            "b": "91.57 %",
+            "c": "89.43 %",
+            "d": "96.83 %"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1584
+    },
+    {
+        "question": "A 5 kVA, 1000 V/200 V, 50 Hz, 1-f transformer gave the following test results: OC test (HV side): 1000 V, 0.24 A, 90 W SC test (HV side): 50 V, 5 A, 110 W Calculate regulation at half load at 0.8 lagging power factor.",
+        "options": {
+            "a": "4.53%",
+            "b": "3.67%",
+            "c": "2.22%",
+            "d": "1.88%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1585
+    },
+    {
+        "question": "The following readings were obtained from O.C. and S.C. tests on 8 kVA 400/120 V, 50 Hz transformer: O.C. test (l.v. side): 120 V; 4 A; 75 W. S.C. test (h.v. side): 9.5 V; 20 A; 110 W. Calculate the efficiency at half full-load and 0.8 power factor load.",
+        "options": {
+            "a": "97.4%",
+            "b": "96.9%",
+            "c": "96.1%",
+            "d": "98.3%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1586
+    },
+    {
+        "question": "A 25-kVA, 2200/220 V, 50-Hz distribution transformer is tested for efficiency and regulation as follows: O.C. test (l.v. side): 220 V, 4 A, 150 W. S.C. test (h.v. side): 90 V, 10 A, 350 W. Determine the value of the efficiency at half load 0.8 p.f.",
+        "options": {
+            "a": "97.44%",
+            "b": "92.34%",
+            "c": "98.32%",
+            "d": "96.23%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1587
+    },
+    {
+        "question": "A 10 kVA, 2500/250 V, single phase transformer gave the following test results: Open circuit test: 250 V, 0.8 A, 50 W Short circuit test: 60 V, 3 A, 45 W Calculate the efficiency and V.R. at half full-load, 0.8 p.f. leading.",
+        "options": {
+            "a": "97.28%, and -0.609%",
+            "b": "98.28%, and -0.609%",
+            "c": "97.28%, and -0.557%",
+            "d": "98.28%, and -0.557%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1588
+    }
+]

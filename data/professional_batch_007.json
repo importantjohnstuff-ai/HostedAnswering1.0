@@ -1,0 +1,230 @@
+[
+    {
+        "question": "A room 20 x 10 m is illuminated by 60 W incandescent lamps of lumen output of 1,600 lumens. The average illumination required at the workplace is 300 lux. Calculate the number of lamps required to be fitted in the room. Assume utilization and depreciation factors as 0.5 and 1, respectively.",
+        "options": {
+            "a": "4.5",
+            "b": "7.5",
+            "c": "3.5",
+            "d": "8.5"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 989
+    },
+    {
+        "question": "The front of a building 35 x 18 m is illuminated by 15 lamps; the wattage of each lamp is 80 W. The lamps are arranged so that uniform illumination on the surface is obtained. Assuming a luminous efficiency of 20 lumens/W, the coefficient of utilization is 0.8, the waste light factor is 1.25, DF = 0.9. Determine the illumination on the surface.",
+        "options": {
+            "a": "12.56 lux",
+            "b": "27.07 lux",
+            "c": "43.63 lux",
+            "d": "14.88 lux"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 990
+    },
+    {
+        "question": "An illumination of 40 lux is to be produced on the floor of a room 16 x 12 m. 15 lamps are required to produce this illumination in the room; 40% of the emitted light falls on the floor. Determine the power of the lamp in candela. Assume maintenance factor as unity.",
+        "options": {
+            "a": "101.85 cd",
+            "b": "145.63 cd",
+            "c": "224.36 cd",
+            "d": "84.74 cd"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 991
+    },
+    {
+        "question": "Four lamps are suspended 6 m above the ground at the corners of a lawn 4m on each side. If each lamp emits 250 cd, calculate the illumination at the center of the lawn.",
+        "options": {
+            "a": "20.56 lux",
+            "b": "22.34 lux",
+            "c": "21.62 lux",
+            "d": "19.85 lux"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 992
+    },
+    {
+        "question": "Large KVA rating of equipment",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 993
+    },
+    {
+        "question": "Greater conductor size and large copper loss",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 994
+    },
+    {
+        "question": "Poor VR",
+        "options": {
+            "a": "Static Capacitors:",
+            "b": "Synchronous Condenser:"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 995
+    },
+    {
+        "question": "A single phase motor operating at 400 V, 50 Hz draws 31.7 A at a power factor of 0.7 lagging. Calculate the required capacitance in parallel to raise the pf to 0.9 lagging?",
+        "options": {
+            "a": "94.3 uF",
+            "b": "89.1 uF",
+            "c": "13.7 uF",
+            "d": "23.9 uF"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 996
+    },
+    {
+        "question": "A 3-phase 50 Hz 400 V motor develops 100 HP, the motor pf is 0.75 and efficiency is 93%. A bank of capacitors is connected in delta across the supply terminals and the pf is raised to 0.95 lagging, each branch of the bank contains 4 units of capacitors. Determine the capacitance of each capacitor:",
+        "options": {
+            "a": "1343 uF",
+            "b": "1173 uF",
+            "c": "2189 uF",
+            "d": "4479 uF"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 997
+    },
+    {
+        "question": "A station supplies 250 KVA lagging pf of 0.8. A synchronous motor is connected in parallel with the load. If the combined load is 250 kW with a lagging pf of 0.9, determine the leading kVAR supplied by the motor.",
+        "options": {
+            "a": "21.4 KVAR",
+            "b": "28.9 KVAR",
+            "c": "31.6 KVAR",
+            "d": "18.5 KVAR"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 998
+    },
+    {
+        "question": "A 3-phase 400 V synchronous motor having a power consumption of 50 kW is connected in parallel with an induction motor which takes 200 kW at pf of 0.8 lagging. Calculate current from the mains then pf is unity:",
+        "options": {
+            "a": "314 A",
+            "b": "421 A",
+            "c": "893 A",
+            "d": "219 A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 999
+    },
+    {
+        "question": "A synchronous motor improves the pf of a load 200 kW from 0.8 lagging to 0.9 lagging. Simultaneously the motor carries a load of 80 kW. Find the kVA rating of the motor:",
+        "options": {
+            "a": "76.45 kVA",
+            "b": "81.28 kVA",
+            "c": "95.72 kVA",
+            "d": "69.87 kVA"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1000
+    },
+    {
+        "question": "A load of 78 kVA working at 0.8 pf lag is hooked in parallel with a synchronous motor operating at 15 kW at 0.93 pf lead. Determine the new pf of the load. > Answer: 0.884",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1001
+    },
+    {
+        "question": "A synchronous motor operates at 50 kVA, 0.9 pf lead is connected to an induction motor load producing 50 HP at 94% efficiency and 0.8 pf lag, determine the new pf of the load. > Answer: 0.995",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1002
+    },
+    {
+        "question": "It is tasked to increase the pf of a load at 700 kVA, 0.88 pf lag to 0.98 lag. The engineer decides to use a 40 kW synchronous motor condenser. Determine the current obtained from the 660 V source: > Answer: I = 585.5 Amperes",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1003
+    },
+    {
+        "question": "It is tasked to increase the pf of a load at 700 kVA, 0.88 pf lag to 0.98 lag. The engineer decides to use a 40 kW synchronous motor condenser. Determine the pf of the motor: > Answer: pf = 0.196",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1004
+    },
+    {
+        "question": "There are 2 synchronous motor that are installed to increase the power factor to a load of 450 kW at 0.82 pf lag. The motors has a nameplate 56 kVA at 0.55 pf (lead) and 41 kVA at 0.67 (lead). Find the new pf of the load: > Answer: 0.906",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1005
+    },
+    {
+        "question": "The four-wire line from a substation mains is at 0.79 pf lag carrying 300 KVA 60 Hz load at 6600 V source (PEC17). The load end is equipped with capacitor bank with fifteen capacitors per phase rated at 6.316 uF each. Determine the new pf of the line: > Answer: 0.9",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1006
+    },
+    {
+        "question": "A synchronous motor nameplate of 78 kW at 0.89 lead pf is hooked in parallel on a y-connected load which consumes 120 kW of power from the mains at 0.82 pf. Determine the new pf of the load after the installment of the load? > Answer: 0.976",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Powerplants",
+        "id": 1007
+    },
+    {
+        "question": "Large KVA rating of equipment",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Power Factor Correction",
+        "id": 1008
+    }
+]

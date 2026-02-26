@@ -1,0 +1,268 @@
+[
+    {
+        "id": 725,
+        "question": "When the net torque acting on the body is zero, the body is in",
+        "options": {
+            "a": "rotational equilibrium",
+            "b": "unstable equilibrium",
+            "c": "stable equilibrium",
+            "d": "translational equilibrium"
+        },
+        "answer": "a",
+        "correct_answer_text": "rotational equilibrium",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials"
+    },
+    {
+        "id": 726,
+        "question": "When the force that act on an object is have a vector sum of zero, the object is said to be in",
+        "options": {
+            "a": "translational equilibrium",
+            "b": "rotational equilibrium",
+            "c": "unstable equilibrium",
+            "d": "stable equilibrium"
+        },
+        "answer": "a",
+        "correct_answer_text": "translational equilibrium",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics"
+    },
+    {
+        "id": 727,
+        "question": "If a cone is balanced on its apex, it illustrates what type of equilibrium?",
+        "options": {
+            "a": "unstable equilibrium",
+            "b": "translational equilibrium",
+            "c": "rotational equilibrium",
+            "d": "stable equilibrium"
+        },
+        "answer": "a",
+        "correct_answer_text": "unstable equilibrium",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics"
+    },
+    {
+        "id": 728,
+        "question": "What principle states that for a horizontal flow of a fluid through a pipe the sum of pressure and kinetic energy per unit volume of fluid is constant?",
+        "options": {
+            "a": "Bernoulli\u2019s principle",
+            "b": "Pascal\u2019s principle",
+            "c": "Archimedes\u2019 principle",
+            "d": "Torricelli\u2019s principle"
+        },
+        "answer": "a",
+        "correct_answer_text": "Bernoulli\u2019s principle",
+        "category": "Engineering Sciences",
+        "sub_category": "Fluid Mechanics"
+    },
+    {
+        "id": 729,
+        "question": "A driver fills an 18.9 L can with gasoline at 15.0\u00b0C right up to the top. He forgets to replace the cap and leave the can in the back of his truck. The temperature climbs to 30.0\u00b0C by 1 PM. How much gasoline spills out of the can? Assume a coefficient of linear expansion of steel to be $12 \\times 10^{-5} \\text{ K}^{-1}$ and the coefficient of volumetric expansion of gasoline to be $950 \\times 10^{-6} \\text{ K}^{-1}$.",
+        "options": {
+            "a": "0.62 L",
+            "b": "0.26 L",
+            "c": "0.27 L",
+            "d": "0.72 L"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics"
+    },
+    {
+        "id": 730,
+        "question": "A pump has an efficiency of 65%. It is driven by a 0.75 horsepower motor. The pump produced a pressure rise of 120 Pa in water. What is the required flow rate?",
+        "options": {
+            "a": "$3.03 \\text{ m}^3/\\text{s}$",
+            "b": "$4.04 \\text{ m}^3/\\text{s}$",
+            "c": "$4.55 \\text{ m}^3/\\text{s}$",
+            "d": "$4.66 \\text{ m}^3/\\text{s}$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Fluid Mechanics"
+    },
+    {
+        "id": 731,
+        "question": "A solid wooden cube, 30.0 cm on each edge, can be totally submerged in water if it is pushed downward with a force of 54.0 N. What is the density of the wood?",
+        "options": {
+            "a": "$600 \\text{ kg/m}^3$",
+            "b": "$700 \\text{ kg/m}^3$",
+            "c": "$800 \\text{ kg/m}^3$",
+            "d": "$900 \\text{ kg/m}^3$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics"
+    },
+    {
+        "id": 733,
+        "question": "A pressure gage measures 50 kPa vacuum in a system. What is the absolute pressure, if the atmospheric pressure is 101 kPa?",
+        "options": {
+            "a": "51 kPa",
+            "b": "52 kPa",
+            "c": "53 kPa",
+            "d": "55 kPa"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Fluid Mechanics"
+    },
+    {
+        "id": 734,
+        "question": "In a hydraulic press, the small cylinder has a diameter of 8 cm, while the larger piston has a diameter of 22 cm. If a force of 600 N is applied to the small piston, what is the force on the larger piston neglecting friction?",
+        "options": {
+            "a": "3.5 kN",
+            "b": "4.5 kN",
+            "c": "5.5 kN",
+            "d": "6.6 kN"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics"
+    },
+    {
+        "id": 735,
+        "question": "If a 1/3 hp pump runs for 20 minutes, What is the energy used?",
+        "options": {
+            "a": "0.06 ergs",
+            "b": "0.25 KN",
+            "c": "0.30 MJ",
+            "d": "0.11 kWhr"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Fluid Mechanics"
+    },
+    {
+        "id": 736,
+        "question": "A solid cube of aluminum is 2.00 cm on each edge. The density of aluminum is 2700 kg/cu. m. Find the mass of the cube.",
+        "options": {
+            "a": "26.1 g",
+            "b": "21.5 g",
+            "c": "32.4 g",
+            "d": "34.2 g"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Fluid Mechanics"
+    },
+    {
+        "id": 737,
+        "question": "A certain water faucet has 7 GPM flow rate. How many minutes can it fill a cubic meter drum?",
+        "options": {
+            "a": "37.74 min",
+            "b": "17.85 min",
+            "c": "10.93 min",
+            "d": "0.973 min"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Fluid Mechanics"
+    },
+    {
+        "id": 738,
+        "question": "What is the speed of sound through a compressed water (100 kPa), if its volume decreased by 0.007% of its original volume?",
+        "options": {
+            "a": "4.55 m/s",
+            "b": "1414.23 m/s",
+            "c": "1195.23 m/s",
+            "d": "1395.11 m/s"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics"
+    },
+    {
+        "id": 739,
+        "question": "A nozzle with a 2 cm diameter outlet is attached to a 10 cm diameter hose. If the exit velocity is 50 m/s, the force of the water on the nozzle is nearest:",
+        "options": {
+            "a": "9050 N",
+            "b": "7500 N",
+            "c": "2420 N",
+            "d": "750 N"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics"
+    },
+    {
+        "id": 740,
+        "question": "What percentage of the human body will float in fresh water? Average density of human body is $980 \\text{ kg/cu. m}$.",
+        "options": {
+            "a": "98%",
+            "b": "2%",
+            "c": "96%",
+            "d": "4%"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Fluid Mechanics"
+    },
+    {
+        "id": 741,
+        "question": "Express a pressure gage reading of 35 psi in absolute kPa?",
+        "options": {
+            "a": "218",
+            "b": "182",
+            "c": "341",
+            "d": "314"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Fluid Mechanics"
+    },
+    {
+        "id": 742,
+        "question": "If the velocity of the flow in a 20 cm radius hose is 1.2 m/s, what is the output velocity in a 0.5 cm radius issuing from a nozzle attached at the end of the pipe?",
+        "options": {
+            "a": "0.192 m/s",
+            "b": "4.8 m/s",
+            "c": "0.3 m/s",
+            "d": "0.075 m/s"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics"
+    },
+    {
+        "id": 743,
+        "question": "A reservoir dam holds an $8.00 \\text{-km}^2$ lake behind it. Just behind the lake is 12.0 m deep. What is water pressure at a point 3.0 m down from the lake\u2019s surface?",
+        "options": {
+            "a": "27 kPa",
+            "b": "29 kPa",
+            "c": "25 kPa",
+            "d": "24 kPa"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Fluid Mechanics"
+    },
+    {
+        "id": 744,
+        "question": "The discharge through a 75-mm diameter orifice at the bottom of a large tank was measured to be 1734 liters in 1 minute. If the head over the orifice remains constant at 5.5 m, compute the coefficient of discharge.",
+        "options": {
+            "a": "0.84",
+            "b": "0.63",
+            "c": "0.78",
+            "d": "0.98"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Fluid Mechanics"
+    }
+]

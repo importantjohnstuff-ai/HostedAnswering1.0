@@ -1,0 +1,240 @@
+[
+    {
+        "question": "Greater conductor size and large copper loss",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Power Factor Correction",
+        "id": 1009
+    },
+    {
+        "question": "Poor VR",
+        "options": {
+            "a": "Static Capacitors:",
+            "b": "Synchronous Condenser:"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Power Factor Correction",
+        "id": 1010
+    },
+    {
+        "question": "A single phase motor operating at 400 V, 50 Hz draws 31.7 A at a power factor of 0.7 lagging. Calculate the required capacitance in parallel to raise the pf to 0.9 lagging?",
+        "options": {
+            "a": "94.3 uF",
+            "b": "89.1 uF",
+            "c": "13.7 uF",
+            "d": "23.9 uF"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1011
+    },
+    {
+        "question": "A 3-phase 50 Hz 400 V motor develops 100 HP, the motor pf is 0.75 and efficiency is 93%. A bank of capacitors is connected in delta across the supply terminals and the pf is raised to 0.95 lagging, each branch of the bank contains 4 units of capacitors. Determine the capacitance of each capacitor:",
+        "options": {
+            "a": "1343 uF",
+            "b": "1173 uF",
+            "c": "2189 uF",
+            "d": "4479 uF"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1012
+    },
+    {
+        "question": "A station supplies 250 KVA lagging pf of 0.8. A synchronous motor is connected in parallel with the load. If the combined load is 250 kW with a lagging pf of 0.9, determine the leading kVAR supplied by the motor.",
+        "options": {
+            "a": "21.4 KVAR",
+            "b": "28.9 KVAR",
+            "c": "31.6 KVAR",
+            "d": "18.5 KVAR"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1013
+    },
+    {
+        "question": "A 3-phase 400 V synchronous motor having a power consumption of 50 kW is connected in parallel with an induction motor which takes 200 kW at pf of 0.8 lagging. Calculate current from the mains then pf is unity:",
+        "options": {
+            "a": "314 A",
+            "b": "421 A",
+            "c": "893 A",
+            "d": "219 A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1014
+    },
+    {
+        "question": "A synchronous motor improves the pf of a load 200 kW from 0.8 lagging to 0.9 lagging. Simultaneously the motor carries a load of 80 kW. Find the kVA rating of the motor:",
+        "options": {
+            "a": "76.45 kVA",
+            "b": "81.28 kVA",
+            "c": "95.72 kVA",
+            "d": "69.87 kVA"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1015
+    },
+    {
+        "question": "A load of 78 kVA working at 0.8 pf lag is hooked in parallel with a synchronous motor operating at 15 kW at 0.93 pf lead. Determine the new pf of the load. > Answer: 0.884",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1016
+    },
+    {
+        "question": "A synchronous motor operates at 50 kVA, 0.9 pf lead is connected to an induction motor load producing 50 HP at 94% efficiency and 0.8 pf lag, determine the new pf of the load. > Answer: 0.995",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1017
+    },
+    {
+        "question": "It is tasked to increase the pf of a load at 700 kVA, 0.88 pf lag to 0.98 lag. The engineer decides to use a 40 kW synchronous motor condenser. Determine the current obtained from the 660 V source: > Answer: I = 585.5 Amperes",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1018
+    },
+    {
+        "question": "It is tasked to increase the pf of a load at 700 kVA, 0.88 pf lag to 0.98 lag. The engineer decides to use a 40 kW synchronous motor condenser. Determine the pf of the motor: > Answer: pf = 0.196",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1019
+    },
+    {
+        "question": "There are 2 synchronous motors that are installed to increase the power factor to a load of 450 kW at 0.82 pf lag. The motors have a nameplate 56 kVA at 0.55 pf (lead) and 41 kVA at 0.67 (lead). Find the new pf of the load: > Answer: 0.906",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1020
+    },
+    {
+        "question": "The four-wire line from a substation mains is at 0.79 pf lag carrying 300 KVA 60 Hz load at 6600 V source (PEC17). The load end is equipped with capacitor bank with fifteen capacitors per phase rated at 6.316 uF each. Determine the new pf of the line: > Answer: 0.9",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Circuits",
+        "id": 1021
+    },
+    {
+        "question": "A synchronous motor nameplate of 78 kW at 0.89 lead pf is hooked in parallel on a y-connected load which consumes 120 kW of power from the mains at 0.82 pf. Determine the new pf of the load after the installment of the load? > Answer: 0.976",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Powerplants",
+        "id": 1022
+    },
+    {
+        "question": "If the available water power of a hydropower plant is 500 MW and the head of water is 400 meters., determine the water rate of flow (in cu.m./s) assuming turbine efficiency of 80%:",
+        "options": {
+            "a": "1250",
+            "b": "569.3",
+            "c": "175.3",
+            "d": "159.3"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Powerplants",
+        "id": 1023
+    },
+    {
+        "question": "The available discharge and head of a proposed hydroelectric power plant are 350 m3/s and 30 m respectively. The turbine efficiency is 87%. The generator is directly coupled to the turbine. The frequency of the generator is 50 Hz and the number of poles is 24. Find the least number of turbines required if using a Francis turbines having a specific speed of 300:",
+        "options": {
+            "a": "10",
+            "b": "13",
+            "c": "16",
+            "d": "19"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Powerplants",
+        "id": 1024
+    },
+    {
+        "question": "How many poles should a 60-Hz generator have, if it is connected to a turbine operating under a design head of 3000 ft with a flow of 82 cfs? Assume turbine specific speed and efficiency 3 and 84 percent respectively.",
+        "options": {
+            "a": "10-pole",
+            "b": "12-pole",
+            "c": "14-pole",
+            "d": "16-pole"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1025
+    },
+    {
+        "question": "Determine the plant capacity in MW for a hydro-electric power plant that will beneficiate 700,000 GPM of water flow from a catchment dam with elevation of 80 ft taking a loss of head of 12 ft due to friction. The efficiency of the generator and turbine are 96% and 84% respectively.",
+        "options": {
+            "a": "2.8 MW",
+            "b": "7.2 MW",
+            "c": "1.5 MW",
+            "d": "13.5 MW"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Powerplants",
+        "id": 1026
+    },
+    {
+        "question": "A power plant obtains water from a dam from a height of 122.45 m at the rate of 1000 cubic meters per minute. If the output of the plant is 15,000 kW. What is the plant efficiency?",
+        "options": {
+            "a": "80%",
+            "b": "70%",
+            "c": "75%",
+            "d": "65%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Powerplants",
+        "id": 1027
+    },
+    {
+        "question": "A plate-type solar energy collector with an absorbing surface covered by a glass plate is to receive an incident radiation of 800 W/m2. The glass plate has reflectivity of 0.12 and transmissivity of 0.85. The absorbing surface has absorptivity of 0.9. The area of the collector is 5 m2. How much solar energy in watts is absorbed by the collector?",
+        "options": {
+            "a": "2500",
+            "b": "3060",
+            "c": "3510",
+            "d": "2880"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Powerplants",
+        "id": 1028
+    }
+]

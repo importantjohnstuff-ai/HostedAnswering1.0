@@ -1,0 +1,268 @@
+[
+    {
+        "id": 845,
+        "question": "An inventor claims that a thermal engine, operating between ocean layers at $27^\\circ\\text{C}$ and $10^\\circ\\text{C}$, produces 10 kW of power while discharging 9900 kJ/min. This engine is:",
+        "options": {
+            "a": "impossible",
+            "b": "reversible",
+            "c": "possible",
+            "d": "probable"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics"
+    },
+    {
+        "id": 846,
+        "question": "In a reversible adiabatic process, the entropy of the system:",
+        "options": {
+            "a": "Increases",
+            "b": "Decreases",
+            "c": "Remains constant",
+            "d": "Becomes zero"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics"
+    },
+    {
+        "id": 847,
+        "question": "A heat engine receives heat from a source at $1000^\\circ\\text{C}$ and rejects the waste heat to a sink at $50^\\circ\\text{C}$. If heat is supplied to this engine at a rate of 100 kJ/s, the maximum power this heat engine can produce is:",
+        "options": {
+            "a": "25.4 kW",
+            "b": "74.6 kW",
+            "c": "100 kW",
+            "d": "55.4 kW"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics"
+    },
+    {
+        "id": 848,
+        "question": "Which of the following devices operates on the reversed Carnot cycle?",
+        "options": {
+            "a": "Steam turbine",
+            "b": "Gas turbine",
+            "c": "Refrigerator",
+            "d": "Diesel engine"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics"
+    },
+    {
+        "id": 849,
+        "question": "A geothermal power plant of Aboitiz Power harnesses energy from ground water at $150^\\circ\\text{C}$ and rejects the cold water to $45^\\circ\\text{C}$. The groundwater is pumped at 450,000 kg/hr. Determine the maximum power capacity of this plant?",
+        "options": {
+            "a": "11.9 MW",
+            "b": "13.6 MW",
+            "c": "8.67 MW",
+            "d": "3.52 MW"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Fluid Mechanics"
+    },
+    {
+        "id": 850,
+        "question": "The unit of entropy in SI system is:",
+        "options": {
+            "a": "J",
+            "b": "J/kg",
+            "c": "J/kg\u00b7K",
+            "d": "kJ/kg"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics"
+    },
+    {
+        "id": 851,
+        "question": "A geothermal power plant extracts hot water at 17,500 GPM at 350 F and rejects the cold water to river reservoir at 26 F. Determine the maximum power capacity of this plant?",
+        "options": {
+            "a": "125 hp",
+            "b": "890 hp",
+            "c": "570 hp",
+            "d": "100 hp"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics"
+    },
+    {
+        "id": 852,
+        "question": "The efficiency of a Carnot engine depends on:",
+        "options": {
+            "a": "The working substance only",
+            "b": "The type of cycle",
+            "c": "The temperature of source and sink",
+            "d": "The pressure of source and sink"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics"
+    },
+    {
+        "id": 853,
+        "question": "A refrigerator is removing heat from a cold medium at $3^\\circ\\text{C}$ at a rate of 7200 kJ/h and rejecting the waste heat to a medium at $30^\\circ\\text{C}$. If the coefficient of performance of the refrigerator is 2, the power consumed by the refrigerator is:",
+        "options": {
+            "a": "0.1 kW",
+            "b": "0.5 kW",
+            "c": "1.0 kW",
+            "d": "2.0 kW"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics"
+    },
+    {
+        "id": 854,
+        "question": "In an open system, mass and energy can:",
+        "options": {
+            "a": "Neither cross the boundary",
+            "b": "Only energy can cross",
+            "c": "Only mass can cross",
+            "d": "Both can cross the boundary"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics"
+    },
+    {
+        "id": 855,
+        "question": "An ideal gas initially at 300 K and occupying a volume of 20 L is adiabatically compressed. If its final temperature is 400 K and $\\gamma = 1.30$, what is its final volume?",
+        "options": {
+            "a": "7.7 L",
+            "b": "14 L",
+            "c": "22 L",
+            "d": "52 L"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics"
+    },
+    {
+        "id": 856,
+        "question": "The Bataan nuclear fission power plant has an actual efficiency of 39%. If 0.25 MW of power are produced by the nuclear fission, how much electric power does the power plant output?",
+        "options": {
+            "a": "0.098 MW",
+            "b": "9.8 MW",
+            "c": "35 MW",
+            "d": "0.35 MW"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics"
+    },
+    {
+        "id": 857,
+        "question": "A Carnot engine operating between a reservoir of liquid mercury at its melting point (233 K) and a colder reservoir extracts 10.0 J of heat from the mercury and does 8.0 J of work during each cycle. What is the temperature of the colder reservoir?",
+        "options": {
+            "a": "47 K",
+            "b": "186 K",
+            "c": "163 K",
+            "d": "207 K"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics"
+    },
+    {
+        "id": 858,
+        "question": "An inverter-type Carnot air conditioner operates between an indoor temperature of $20^\\circ\\text{C}$ and an outdoor temperature of $39^\\circ\\text{C}$. How much energy does it need to remove 2000 J of heat from the interior of the house?",
+        "options": {
+            "a": "105 J",
+            "b": "130 J",
+            "c": "780 J",
+            "d": "520 J"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics"
+    },
+    {
+        "id": 859,
+        "question": "A $1/4$ in steel wire is $12 \\text{ ft}$ long and is stretched $1/2 \\text{ in}$ under a given load. If the modulus of elasticity is $30,000,000 \\text{ psi}$, what is the applied load?",
+        "options": {
+            "a": "$5400 \\text{ lb}$",
+            "b": "$5300 \\text{ lb}$",
+            "c": "$5100 \\text{ lb}$",
+            "d": "$5200 \\text{ lb}$"
+        },
+        "answer": "c",
+        "correct_answer_text": "$5100 \\text{ lb}$",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials"
+    },
+    {
+        "id": 860,
+        "question": "Determine the inertia of a rectangle $5 \\text{ cm}$ wide at the base and $8 \\text{ cm}$ tall, when it is rotated along the base? (REE Sept 2023)",
+        "options": {
+            "a": "$424.5 \\text{ cm}^4$",
+            "b": "$853.3 \\text{ cm}^4$",
+            "c": "$1067.7 \\text{ cm}^4$",
+            "d": "$933.3 \\text{ cm}^4$"
+        },
+        "answer": "c",
+        "correct_answer_text": "$1067.7 \\text{ cm}^4$",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry"
+    },
+    {
+        "id": 861,
+        "question": "What is the inertia of a $50 \\text{ kg}$ solid sphere of diameter $0.8 \\text{ meters}$?",
+        "options": {
+            "a": "$1.6 \\text{ kg-m}^2$",
+            "b": "$1.2 \\text{ kg-m}^2$",
+            "c": "$3.2 \\text{ kg-m}^2$",
+            "d": "$0.8 \\text{ kg-m}^2$"
+        },
+        "answer": "c",
+        "correct_answer_text": "$3.2 \\text{ kg-m}^2$",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials"
+    },
+    {
+        "id": 862,
+        "question": "Titanium has a modulus of elasticity of $300 \\text{ GPa}$ and modulus of shear of $120 \\text{ GPa}$. What is the Poisson\u2019s ratio of titanium?",
+        "options": {
+            "a": "$0.75$",
+            "b": "$0.25$",
+            "c": "$0.45$",
+            "d": "$0.20$"
+        },
+        "answer": "b",
+        "correct_answer_text": "$0.25$",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials"
+    },
+    {
+        "id": 863,
+        "question": "A bar of wrought iron $2 \\text{ in}$ square is raised to a temperature of $100^\\circ\\text{F}$ above its normal. If held so that it cannot expand, what force may oppose it to prevent expansion? Note: $E = 30 \\times 10^6 \\text{ psi}$ and thermal expansion coefficient of $6.8 \\times 10^{-6} / ^\\circ\\text{F}$.",
+        "options": {
+            "a": "$807,600 \\text{ lb}$",
+            "b": "$20,400 \\text{ lb}$",
+            "c": "$363.04 \\text{ kN}$",
+            "d": "$81.6 \\text{ kN}$"
+        },
+        "answer": "c",
+        "correct_answer_text": "$363.04 \\text{ kN}$",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics"
+    }
+]

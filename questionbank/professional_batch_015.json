@@ -1,0 +1,262 @@
+[
+    {
+        "question": "A six-pole, three-phase, 50 Hz induction motor has a star connected rotor. The rotor has resistance and standstill reactance of 0.25 ohm and 2.5 ohm per phase, respectively. The induced emf between slip rings at start is 100 V. If the full-load speed is 960 rpm. Calculate power factor at rated load.",
+        "options": {
+            "a": "0.9285 lagging",
+            "b": "0.9645 lagging",
+            "c": "0.9876 lagging",
+            "d": "0.9103 lagging"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1149
+    },
+    {
+        "question": "The power supplied to a three-phase induction motor is 40 kW and the corresponding stator losses are 1.5 kW. slip = 0.04 friction and windage losses = 0.8 kW. Neglect the rotor iron losses.",
+        "options": {
+            "a": "94.3%",
+            "b": "90.4%",
+            "c": "86.7%",
+            "d": "88.3%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1150
+    },
+    {
+        "question": "The shaft output of a three-phase induction motor is 75 kW. The friction and windage losses are 1000 W. The stator core losses are 4000 W and the stator copper losses are 2500 W. If the slip is 3.5% what is the efficiency of the motor?",
+        "options": {
+            "a": "87.97%",
+            "b": "84.97%",
+            "c": "89.97%",
+            "d": "91.97%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1151
+    },
+    {
+        "question": "400 V, six-pole, 50 Hz, three-phase induction motor develops 20 H.P. inclusive of mechanical losses when running at 995 rpm, the power factor being 0.87. Calculate the line current. The stator copper loss is 1500 W.",
+        "options": {
+            "a": "27 A",
+            "b": "23 A",
+            "c": "44 A",
+            "d": "32 A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1152
+    },
+    {
+        "question": "A 50 H.P., six-pole, three-phase induction motor delivers full-load output at 955 rpm and with 0.86 p.f. when connected to 500 V, 50 Hz mains. Friction and windage losses total 2 H.P. and stator losses are 1.5 kW. Determine the efficiency.",
+        "options": {
+            "a": "88.51%",
+            "b": "85.46%",
+            "c": "89.32%",
+            "d": "87.43%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1153
+    },
+    {
+        "question": "A four-pole, three-phase induction motor runs at 1440 rpm. Supply voltage is 500 V at 50 Hz. Mechanical power output is 20.3 H.P. and mechanical loss is 2.23 H.P. Calculate motor efficiency:",
+        "options": {
+            "a": "67.89%",
+            "b": "83.17%",
+            "c": "94.35%",
+            "d": "89.76%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1154
+    },
+    {
+        "question": "A six-pole, three-phase induction motor develops 30 H.P. including 2 H.P. mechanical losses at a speed of 950 rpm on 550 V 50 Hz mains. The power factor is 0.88 lagging. Calculate the line current.",
+        "options": {
+            "a": "30.1 A",
+            "b": "45.6 A",
+            "c": "35.7 A",
+            "d": "48.7 A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1155
+    },
+    {
+        "question": "A 400 V, six-pole, 50 Hz, three-phase induction motor develops 20 kW inclusive of mechanical losses when running at 980 rpm and the power factor being 0.85. Calculate total input if the stator loss is 1500 W:",
+        "options": {
+            "a": "34.5 kW",
+            "b": "29.8 kW",
+            "c": "45.3 kW",
+            "d": "57.8 kW"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1156
+    },
+    {
+        "question": "A four-pole, three-phase, 50 Hz induction motor supplies a useful torque of 159 Newton metre. Calculate at 4% slip. Compute the motor efficiency, if the friction and windage losses are totally 500 W and stator losses are 1000 W.",
+        "options": {
+            "a": "93.6%",
+            "b": "90.5%",
+            "c": "96.7%",
+            "d": "95.9%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1157
+    },
+    {
+        "question": "Calculate the coil span factor or the pitch factor for 54 stator slots, six-poles, three phase alternator when coil spans 1 to 8.",
+        "options": {
+            "a": "0.940",
+            "b": "0.925",
+            "c": "0.925",
+            "d": "0.984"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transmission Lines",
+        "id": 1158
+    },
+    {
+        "question": "Calculate the distribution factor or the pitch factor for 42 stator slots, four-poles, three-phase alternator coil spans 1 to 10.",
+        "options": {
+            "a": "0.913",
+            "b": "0.959",
+            "c": "0.945",
+            "d": "0.967"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1159
+    },
+    {
+        "question": "Calculate the coil span factor or the pitch factor for 96 stator slots, six-poles, three-phase alternator coil spans 1 to 13. e. 0.947 f. 0.990 g. 0.931 h. 0.987",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transmission Lines",
+        "id": 1160
+    },
+    {
+        "question": "What will be the rms value of emf induced per phase in 3-phase, 6-pole, star-connected alternator having a stator with 90 slots and 8 conductors per slot? The flux per pole is $4 \\times 10^{-2}$ Wb and it runs at a speed of 1000 rpm. Assume full-pitched coils and sinusoidal flux distribution.",
+        "options": {
+            "a": "1019.4 V",
+            "b": "2101.6 V",
+            "c": "565.3 V",
+            "d": "683.4 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1161
+    },
+    {
+        "question": "A three-phase, 6 poles, 60 Hz star-connected alternator has a total of 48 stator slots, and 12 conductors per slot and the coil span is 5 slots. If the flux density is 56 mWb. The line voltage is most nearly:",
+        "options": {
+            "a": "1082.2 V",
+            "b": "1982.3 V",
+            "c": "1456.3 V",
+            "d": "2317.9 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1162
+    },
+    {
+        "question": "A 1-phase 60 kVA, 220 V, 50 Hz alternator has an effective armature leakage reactance of 0.07 ohm and negligible armature resistance. Calculate the voltage induced in the armature when the alternator is delivering rated current at a load power factor of 0.7 lagging. i. 218 V j. 234 V k. 243 V l. 241 V",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1163
+    },
+    {
+        "question": "A single-phase 100 kVA, 600V, 50 Hz alternator has effective armature resistance and leakage reactance of 0.072 and 0.18 ohm respectively. At rated terminal voltage and kVA load, determine internal induced emf at 0.75 p.f. leading. m. 629 V n. 589 V o. 678 V p. 608 V",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1164
+    },
+    {
+        "question": "A single-phase, 500 V, 50 Hz alternator produces a short-circuit current of 170 A and an open circuit emf of 425 V when a field current of 15A passes through its field winding. If its armature has an effective resistance of 0.2 ohm, determine its full-load regulation at unity pf: q. 12.43% r. 15.33% s. 11.92% t. 18.23%",
+        "options": {},
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1165
+    },
+    {
+        "question": "A three-phase star-connected alternator has an armature resistance of 0.1 ohm per phase. When excited to 173.3 V line voltage and on short circuit the alternator gave 200 A. What should be the emf (in line terms) the alternator must be excited to, in order to maintain a terminal potential difference of 400 V with 100 A armature current at 0.8 power factor lagging?",
+        "options": {
+            "a": "468.4 V",
+            "b": "472.8 V",
+            "c": "437.8 V",
+            "d": "389.3 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1166
+    },
+    {
+        "question": "A three-phase star connected 1200 kVA, 3300 V, 50 Hz, alternator has armature resistance of 0.25 ohm per phase. A field current of 40 A produces a short circuit current of 200 A and an open circuit emf of 1100 V between lines. Calculate regulation on full load 0.8 power factor lagging.",
+        "options": {
+            "a": "25.8%",
+            "b": "29.6%",
+            "c": "18.3%",
+            "d": "14.3%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Fault Analysis",
+        "id": 1167
+    },
+    {
+        "question": "A three-phase, star-connected, 10 kVA, 230 V alternator has an armature resistance of 0.5 ohm per phase and a synchronous reactance of 1.2 ohm per phase. Calculate the percent voltage regulation at full load at power factors of 0.8 leading:",
+        "options": {
+            "a": "-3.06%",
+            "b": "-2.45%",
+            "c": "-7.82%",
+            "d": "-3.06%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 1168
+    }
+]

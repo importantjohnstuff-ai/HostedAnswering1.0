@@ -1,0 +1,282 @@
+[
+    {
+        "question": "S The primary function of an alternator is to:",
+        "options": {
+            "a": "To generate DC instead of AC",
+            "b": "To reduce the size and weight of slip rings",
+            "c": "To increase frequency",
+            "d": "To avoid armature reaction"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Machines",
+        "id": 869
+    },
+    {
+        "question": "What is the speed of a 100 kW, 230-volt, three-phase, four-pole, 60 Hz alternator?",
+        "options": {
+            "a": "450 rpm",
+            "b": "900 rpm",
+            "c": "1200 rpm",
+            "d": "1800 rpm"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 870
+    },
+    {
+        "question": "Find the slot pitch angle for a single-layer, full-pitch, distributed lap-winding for a 3-phase, 4-pole, 24-slot armature.",
+        "options": {
+            "a": "30 electrical degrees",
+            "b": "60 electrical degrees",
+            "c": "45 electrical degrees",
+            "d": "15 electrical degrees"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 871
+    },
+    {
+        "question": "A three-phase alternator has 6 slots per pole per phase. Determine the distribution factor.",
+        "options": {
+            "a": "0.977",
+            "b": "0.956",
+            "c": "0.963",
+            "d": "0.948"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 872
+    },
+    {
+        "question": "The armature coils of a 3-phase, 4-pole, 24-slot alternator are short pitched by one slot. Determine pitch factor.",
+        "options": {
+            "a": "0.9547",
+            "b": "0.9659",
+            "c": "0.9328",
+            "d": "0.9785"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 873
+    },
+    {
+        "question": "What will be the rms value of emf induced per phase in 3-phase, 6-pole, star-connected alternator having a stator with 90 slots and 8 conductors per slot? The flux per pole is $4 \\times 10^{-2}$ Wb and it runs at a speed of 1000 rpm. Assume full-pitched coils and sinusoidal flux distribution.",
+        "options": {
+            "a": "1019.4 V",
+            "b": "2025.6 V",
+            "c": "1454.2 V",
+            "d": "892.7 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 874
+    },
+    {
+        "question": "Calculate the voltage per phase for a 3-phase 1500 rpm, 4-pole alternator having a double layer winding with 16 turns per coil. The slots per pole per phase are 8 and the coil span is 20 slots. The phase spread is 60\u00b0 and the flux per pole is $25.8 \\times 10^{-3}$ weber.",
+        "options": {
+            "a": "3125 V",
+            "b": "3650 V",
+            "c": "2707 V",
+            "d": "2430 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 875
+    },
+    {
+        "question": "A 3-phase, star-connected alternator supplies a load of 10 MW at p.f. 0.85 lagging and at 11 kV (terminal voltage). Its resistance is 0.1 ohm per phase and synchronous reactance 0.66 ohm per phase. Calculate the line value of e.m.f. generated.",
+        "options": {
+            "a": "11,480 V",
+            "b": "10,231 V",
+            "c": "12,781 V",
+            "d": "10,721 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 876
+    },
+    {
+        "question": "A 2,200-V, 3-phase, star-connected synchronous motor has a resistance of 0.6 $\\Omega$ and a synchronous reactance of 6 $\\Omega$. Find the angular retardation (or torque angle) of the motor when the input is 200 kW at power factor 0.8 leading.",
+        "options": {
+            "a": "8.9 elec. deg.",
+            "b": "15.6 elec. deg.",
+            "c": "23.5 elec. deg.",
+            "d": "12.9 elec. deg."
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 877
+    },
+    {
+        "question": "A single-phase, 500 V, 50 Hz alternator produces a short-circuit current of 170 A and an open circuit emf of 425 V when a field current of 15A passes through its field winding. If its armature has an effective resistance of 0.2 ohm, determine its full-load regulation at 0.8 pf lagging. ($S = 50 \\text{ kVA}$)",
+        "options": {
+            "a": "34.35%",
+            "b": "42.78%",
+            "c": "14.54%",
+            "d": "5.65%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 878
+    },
+    {
+        "question": "A three-phase star connected 1200 kVA, 3300 V, 50 Hz, alternator has armature resistance of 0.25 ohm per phase. A field current of 40 A produces a short circuit current of 200 A and an open circuit emf of 1100 V between lines. Calculate regulation on full load 0.8 power factor lagging.",
+        "options": {
+            "a": "13.43%",
+            "b": "21.82%",
+            "c": "25.98%",
+            "d": "36.74%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Fault Analysis",
+        "id": 879
+    },
+    {
+        "question": "A single-phase 100 kVA, 600V, 50 Hz alternator has effective armature resistance and leakage reactance of 0.072 and 0.18 ohm respectively. At rated terminal voltage and kVA load, determine internal induced emf at 0.75 p.f. leading.",
+        "options": {
+            "a": "663 V",
+            "b": "595 V",
+            "c": "590 V",
+            "d": "629 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 880
+    },
+    {
+        "question": "Two alternators, working in parallel, supply the following loads: (i) Lighting load of 500 kW (ii) 1000 kW at p.f. 0.9 lagging (iii) 800 kW at p.f. 0.8 lagging (iv) 500 kW at p.f. 0.9 leading One alternator is supplying 1500 kW at 0.95 p.f. lagging. Calculate the kW output of the other machine:",
+        "options": {
+            "a": "2300 KW",
+            "b": "1900 kW",
+            "c": "1300 kW",
+            "d": "2420 kW"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 881
+    },
+    {
+        "question": "A 250 V, 30 Hz generator supplies power to a parallel circuit consisting of a 20 hp motor whose efficiency is 90% at 0.80 pf lagging and a second load that draws an apparent power of 7 kVA at unity pf. Determine the system reactive power.",
+        "options": {
+            "a": "23.582 KVAR",
+            "b": "12.435 kVAR",
+            "c": "10.341 kVAR",
+            "d": "20.384 kVAR"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 882
+    },
+    {
+        "question": "A three-phase, star connected, 20 MVA, 11 kV, 50 Hz alternator produces a short-circuit current equal to full-load current when a field current of 70 A passes through its field winding. The same field current produces an emf of 1820 V (line to line) on open circuit. If the alternator has a resistance between each pair of terminals as measured by DC is 0.16 ohm and the effective resistance is 1.5 times the ohmic resistance, what will be its full load regulation at 0.707 pf lagging:",
+        "options": {
+            "a": "13.46%",
+            "b": "11.78%",
+            "c": "8.54%",
+            "d": "5.45%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 883
+    },
+    {
+        "question": "A 4-pole, 3-phase induction motor operates from a supply whose frequency is 50 Hz. Calculate the speed at which the magnetic field of the stator is rotating and the speed of the rotor when the slip is 0.04.",
+        "options": {
+            "a": "1500 rpm, 1400 rpm",
+            "b": "1500 rpm, 1440 rpm",
+            "c": "1800 rpm, 1400 rpm",
+            "d": "1800 rpm, 1440 rpm"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 884
+    },
+    {
+        "question": "The rotating magnetic field in a three-phase induction motor rotates at what speed relative to the stator supply frequency?",
+        "options": {
+            "a": "Slip speed",
+            "b": "Mechanical rotor speed",
+            "c": "Synchronous speed",
+            "d": "Breakdown speed"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 885
+    },
+    {
+        "question": "The difference between synchronous speed and rotor speed is known as:",
+        "options": {
+            "a": "Torque",
+            "b": "Reactance",
+            "c": "Slip",
+            "d": "Rotor frequency"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 886
+    },
+    {
+        "question": "The torque at zero speed (locked-rotor torque) mainly depends on:",
+        "options": {
+            "a": "Rotor inertia",
+            "b": "Magnetizing current",
+            "c": "Rotor resistance",
+            "d": "Slip frequency"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 887
+    },
+    {
+        "question": "A 3-\u03c6 induction motor is wound for 4 poles and is supplied from 50-Hz system. Calculate the rotor frequency when rotor runs at 600 rpm.",
+        "options": {
+            "a": "50 Hz",
+            "b": "60 Hz",
+            "c": "30 Hz",
+            "d": "20 Hz"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "AC Machines",
+        "id": 888
+    }
+]

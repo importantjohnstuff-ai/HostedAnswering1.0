@@ -1,0 +1,282 @@
+[
+    {
+        "id": 1870,
+        "question": "Identify and compute the eccentricity of the conics: y^2/9 - x^2/4 = 1?",
+        "options": {
+            "a": "Ellipse, 0.8",
+            "b": "Ellipse, 1.2",
+            "c": "hyperbola, 1.2",
+            "d": "hyperbola, 0.8"
+        },
+        "answer": "c",
+        "correct_answer_text": "hyperbola, 1.2",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 1871,
+        "question": "Determine the diameter of a circle, 3x^2 + 3y^2 - 18x + 24y - 12 = 0.",
+        "options": {
+            "a": "8 units",
+            "b": "sqrt(12) units",
+            "c": "6 units",
+            "d": "sqrt(29) units"
+        },
+        "answer": "d",
+        "correct_answer_text": "sqrt(29) units",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 1872,
+        "question": "How do you call a ring shaped surface or solid obtained by rotating a circle about a coplanar line that does not intersect?",
+        "options": {
+            "a": "Torus",
+            "b": "Annulus",
+            "c": "Circoloid",
+            "d": "Annular"
+        },
+        "answer": "a",
+        "correct_answer_text": "Torus",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 1873,
+        "question": "The conic 5x^2 + 4y^2 - 9xy - 8x - 16y + 112 = 0 is classified as:",
+        "options": {
+            "a": "Ellipse",
+            "b": "Parabola",
+            "c": "Hyperbola",
+            "d": "Circle"
+        },
+        "answer": "c",
+        "correct_answer_text": "Hyperbola",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 1874,
+        "question": "In the non-generate conic 7x^2 - 4xy - 5y^2 + 11x - 6y = 0 is classified as:",
+        "options": {
+            "a": "Parabola",
+            "b": "Ellipse",
+            "c": "Hyperbola",
+            "d": "Circle"
+        },
+        "answer": "c",
+        "correct_answer_text": "Hyperbola",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 1875,
+        "question": "Find the equation of a line through point A(4, 1) perpendicular to the line 2x - 3y + 4 = 0",
+        "options": {
+            "a": "3x + 2y = 14",
+            "b": "2x + 5y = 10",
+            "c": "5x - 3y = 10",
+            "d": "2x - 10y = 15"
+        },
+        "answer": "a",
+        "correct_answer_text": "3x + 2y = 14",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 1876,
+        "question": "What is the center of the circle with an equation, x^2 + y^2 - 2x + 8y + 2 = 0.",
+        "options": {
+            "a": "(2,-4)",
+            "b": "(1, -1)",
+            "c": "(1, -4)",
+            "d": "(4, 1)"
+        },
+        "answer": "c",
+        "correct_answer_text": "(1, -4)",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 1877,
+        "question": "A hemispherical tank of diameter 3 meters contains volume of pi/3 cu. m. of water. The height of water inside the tank is:",
+        "options": {
+            "a": "1 m",
+            "b": "1/2 m",
+            "c": "1/3 m",
+            "d": "2/3 m"
+        },
+        "answer": "b",
+        "correct_answer_text": "1/2 m",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 1878,
+        "question": "Determine the angle formed by the lines 5x - 7y - 11 = 0 and 4x - 9y + 13 = 0?",
+        "options": {
+            "a": "14.56°",
+            "b": "11.57°",
+            "c": "19.72°",
+            "d": "10.42°"
+        },
+        "answer": "b",
+        "correct_answer_text": "11.57°",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 1879,
+        "question": "The points C(-6, 12) and D(3, 9) is trisected (divided into three parts) by two points. Determine the coordinate of the point nearest to point C:",
+        "options": {
+            "a": "(-3, 11)",
+            "b": "(3, 4)",
+            "c": "(3, -5)",
+            "d": "(4, -5)"
+        },
+        "answer": "a",
+        "correct_answer_text": "(-3, 11)",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 1880,
+        "question": "The focus of a parabola is found at (4, 6) and the vertex is found at (-5, 6). The length of the latus rectum is:",
+        "options": {
+            "a": "28",
+            "b": "32",
+            "c": "36",
+            "d": "40"
+        },
+        "answer": "c",
+        "correct_answer_text": "36",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 1881,
+        "question": "The masses of 16 lbs, 26 lbs, 19 lbs, 45 lbs and 30 lbs are placed in a coordinate plane on the coordinates (-4, 7), (2, 1), (0,6), (4, 8) and (-8, -9) respectively. The centroid of this system is most nearly at:",
+        "options": {
+            "a": "(0.53, 0.84)",
+            "b": "(-0.57, 1.67)",
+            "c": "(1.34, -0.44)",
+            "d": "(1.31, -4.56)"
+        },
+        "answer": "b",
+        "correct_answer_text": "(-0.57, 1.67)",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 1882,
+        "question": "The eccentricity of the ellipse: x^2 + 4y^2 - 4x - 8y - 12 = 0 is:",
+        "options": {
+            "a": "0.908",
+            "b": "0.866",
+            "c": "0.892",
+            "d": "0.932"
+        },
+        "answer": "b",
+        "correct_answer_text": "0.866",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 1883,
+        "question": "The vertices of an ellipse are found at (0, ±7) and a focus is found at (0, 4). The length of the latus rectum is:",
+        "options": {
+            "a": "9.43",
+            "b": "4.56",
+            "c": "12.32",
+            "d": "6.75"
+        },
+        "answer": "a",
+        "correct_answer_text": "9.43",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 1884,
+        "question": "Find the area of the circle whose center is at (2, 5) and tangent to the line 4x + 3y - 8 = 0",
+        "options": {
+            "a": "6pi",
+            "b": "9pi",
+            "c": "3pi",
+            "d": "12pi"
+        },
+        "answer": "b",
+        "correct_answer_text": "9pi",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 1885,
+        "question": "The vertex of a parabola is at (8,-6) and directrix is at y = -9. The focus is found at:",
+        "options": {
+            "a": "(8, -2)",
+            "b": "(8, -3)",
+            "c": "(5, -6)",
+            "d": "(4, -6)"
+        },
+        "answer": "b",
+        "correct_answer_text": "(8, -3)",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 1886,
+        "question": "Determine the area of quadrilateral formed between the coordinate points A(10,-2), B(-5, 8), C(0, 1) and D(9,3).",
+        "options": {
+            "a": "40",
+            "b": "50",
+            "c": "60",
+            "d": "80"
+        },
+        "answer": "c",
+        "correct_answer_text": "60",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 1887,
+        "question": "Compute the triangular area formed by the following points on space: (2, -3, 0), (-4, 1, 5) and (0, 6, 3)?",
+        "options": {
+            "a": "28.59 sq.u.",
+            "b": "34.56 sq.u.",
+            "c": "18.83 sq.u.",
+            "d": "54.24 sq.u."
+        },
+        "answer": "a",
+        "correct_answer_text": "28.59 sq.u.",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 1888,
+        "question": "The equation of the line through (1, 2) and parallel to the line 3x - 2y + 4 = 0 is:",
+        "options": {
+            "a": "3x - 2y + 1 = 0",
+            "b": "3x - 2y - 1 = 0",
+            "c": "3x + 2y + 1 = 0",
+            "d": "3x + 2y - 1 = 0"
+        },
+        "answer": "a",
+        "correct_answer_text": "3x - 2y + 1 = 0",
+        "category": "Math",
+        "sub_category": "Geometry"
+    },
+    {
+        "id": 1889,
+        "question": "Perform the integration: integral from i to i+1 of (z - z^2) dz",
+        "options": {
+            "a": "1",
+            "b": "-2i",
+            "c": "7/6",
+            "d": "3 + 4i/7"
+        },
+        "answer": "c",
+        "correct_answer_text": "7/6",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    }
+]

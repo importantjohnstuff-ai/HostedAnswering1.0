@@ -1,0 +1,268 @@
+[
+    {
+        "id": 1970,
+        "question": "In a toss of 5 dice, what is the probability that one will get at most 2 dice showing more than FOUR dots?",
+        "options": {
+            "a": "36/81",
+            "b": "37/81",
+            "c": "64/81",
+            "d": "43/90"
+        },
+        "answer": "c",
+        "correct_answer_text": "64/81",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 1971,
+        "question": "Four boys and 5 girls are chosen from a group of 8 boys and 9 girls to sit on a row of chairs. How many possible arrangements are there if the girls and boys are alternated?",
+        "options": {
+            "a": "4,503,200",
+            "b": "20,321,289",
+            "c": "16,289,950",
+            "d": "32,420,620"
+        },
+        "answer": "d",
+        "correct_answer_text": "32,420,620",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 1972,
+        "question": "In a water cooling plant, the average wet bulb temperature of air entering a cooling tower is 82 F and standard deviation of 1.35. What is the probability that in a given day, the air is at 82.8-83.5 F?",
+        "options": {
+            "a": "12.5%",
+            "b": "14.3%",
+            "c": "43.6%",
+            "d": "97.89%"
+        },
+        "answer": "b",
+        "correct_answer_text": "14.3%",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 1973,
+        "question": "A box contains 3 blue, 4 reds, 5 yellow and 2 green balls. What is the probability that in a draw of three balls, all balls are of same color?",
+        "options": {
+            "a": "4/17",
+            "b": "3/19",
+            "c": "7/19",
+            "d": "5/13"
+        },
+        "answer": "b",
+        "correct_answer_text": "3/19",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 1974,
+        "question": "Compute the geometric mean of 13, 17, 18, 21 and 32",
+        "options": {
+            "a": "19.73",
+            "b": "18.34",
+            "c": "19.23",
+            "d": "19.29"
+        },
+        "answer": "a",
+        "correct_answer_text": "19.73",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 1975,
+        "question": "A card is drawn randomly form a poker standard deck. What is the probability that the card is a diamond or an ace card?",
+        "options": {
+            "a": "1/13",
+            "b": "6/13",
+            "c": "5/13",
+            "d": "4/13"
+        },
+        "answer": "d",
+        "correct_answer_text": "4/13",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 1976,
+        "question": "Three cards are drawn from a standard deck on a time. What is the probability that the first card is a face card, the second is a red card and the third is a black or a face card?",
+        "options": {
+            "a": "15/221",
+            "b": "34/345",
+            "c": "71/980",
+            "d": "17/225"
+        },
+        "answer": "a",
+        "correct_answer_text": "15/221",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 1977,
+        "question": "In a classroom, there are only eight chairs available so she can only choose four boys out of six and four girls out of five. How many ways can she arrange the students along the eight chairs if the boys and girls are alternated?",
+        "options": {
+            "a": "14,600",
+            "b": "72,400",
+            "c": "86,400",
+            "d": "86,200"
+        },
+        "answer": "c",
+        "correct_answer_text": "86,400",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 1978,
+        "question": "The probabilities of shots of each basketball players in NBA (2024 data) are as follows: Kyle Korver p=0.53, Stephen Curry p=0.68, DeAndre Jordan p=0.44. Determine the probability that in a single set of free throw, at most one will shoot?",
+        "options": {
+            "a": "48.34%",
+            "b": "42.44%",
+            "c": "78.33%",
+            "d": "23.42%"
+        },
+        "answer": "b",
+        "correct_answer_text": "42.44%",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 1979,
+        "question": "The average number of acres burned by forest and range fires in Palawan is 4,300 acres per year, with a standard deviation of 750 acres. The distribution of the number of acres burned is normal. What is the probability that between 2,500 and 4,200 acres will be burned in any given year?",
+        "options": {
+            "a": "44%",
+            "b": "60%",
+            "c": "56%",
+            "d": "48%"
+        },
+        "answer": "a",
+        "correct_answer_text": "44%",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 1980,
+        "question": "Rolling a dice three times, evaluate the probability of having at least one '6'.",
+        "options": {
+            "a": "0.421",
+            "b": "0.945",
+            "c": "0.678",
+            "d": "0.457"
+        },
+        "answer": "a",
+        "correct_answer_text": "0.421",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 1981,
+        "question": "From 3 boys and 5 girls, only 2 boys and 2 girls can seat on a row of fours chairs, what is the probability that any two girls are seated together?",
+        "options": {
+            "a": "2/5",
+            "b": "1/2",
+            "c": "1/3",
+            "d": "2/17"
+        },
+        "answer": "b",
+        "correct_answer_text": "1/2",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 1982,
+        "question": "Pepe tossed 7 coins simultaneously, what is the probability that he will get less than 3 heads?",
+        "options": {
+            "a": "34/577",
+            "b": "6/193",
+            "c": "29/128",
+            "d": "28/177"
+        },
+        "answer": "c",
+        "correct_answer_text": "29/128",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 1983,
+        "question": "Compute the harmonic mean of 13, 19, 18, 21 and 32",
+        "options": {
+            "a": "18.34",
+            "b": "19.73",
+            "c": "19.23",
+            "d": "18.94"
+        },
+        "answer": "d",
+        "correct_answer_text": "18.94",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 1984,
+        "question": "An ME student from TIP-Manila has test scores of 75, 83, and 78. The final test has a weight equal to one third of the total grade. What should the student strive for a minimum (integral) final score so that he gets a passing minimum average of 80.?",
+        "options": {
+            "a": "80",
+            "b": "81",
+            "c": "82",
+            "d": "83"
+        },
+        "answer": "d",
+        "correct_answer_text": "83",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 1985,
+        "question": "With a throw of 3 dice, what is the probability of getting a sum of 9 or 11?",
+        "options": {
+            "a": "56/216",
+            "b": "52/216",
+            "c": "54/216",
+            "d": "50/216"
+        },
+        "answer": "b",
+        "correct_answer_text": "52/216",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 1986,
+        "question": "Determine the number of permutations of 8 distinct objects taken 3 at a time?",
+        "options": {
+            "a": "504",
+            "b": "336",
+            "c": "210",
+            "d": "120"
+        },
+        "answer": "b",
+        "correct_answer_text": "336",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 1987,
+        "question": "A number between 1 and 10000 (inclusive) is randomly selected. What is the probability that it will be divisible both by 4 and 5?",
+        "options": {
+            "a": "0.20",
+            "b": "0.25",
+            "c": "0.05",
+            "d": "0.10"
+        },
+        "answer": "c",
+        "correct_answer_text": "0.05",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    },
+    {
+        "id": 1988,
+        "question": "Of 3500 college women enrolled, the personal records indicate that 250 are of heights exceeding 5'6\". What is the probability that a randomly selected coed is of height not exceeding 5'6\"?",
+        "options": {
+            "a": "0.698",
+            "b": "0.929",
+            "c": "0.844",
+            "d": "0.767"
+        },
+        "answer": "b",
+        "correct_answer_text": "0.929",
+        "category": "Math",
+        "sub_category": "Probability and Statistics"
+    }
+]

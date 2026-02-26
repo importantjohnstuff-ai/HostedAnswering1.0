@@ -1,0 +1,268 @@
+[
+    {
+        "id": 361,
+        "question": "Integrate the expression : $\\int \\frac{\\sqrt{2i+1}}{(3z^2 + i)} dz$",
+        "options": {
+            "a": "$-14 - 2i$",
+            "c": "$-17+2i$",
+            "d": "$11-16i$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 362,
+        "question": "Find the limit of the complex expression: $\\lim_{z \\to i} \\frac{z^2-6iz-5}{z-i}$ **a. $5i$**",
+        "options": {
+            "b": "$+\\infty$",
+            "c": "$-4i$",
+            "d": "zero"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 363,
+        "question": "Which of the following method of integration uses series of quadratic curves, or parabolas in approximating definite integrals?",
+        "options": {
+            "a": "trapezoidal rule",
+            "b": "rectangular rule",
+            "d": "Peter Griffin"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Numerical Methods"
+    },
+    {
+        "id": 364,
+        "question": "Simplify the limit: $\\lim_{x \\to i} \\frac{ix^2 - x}{x}$",
+        "options": {
+            "a": "0",
+            "c": "-2",
+            "d": "2i"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 365,
+        "question": "Evaluate the following limit: $\\lim_{x \\to 0} \\frac{(1+2ix+3x^2) - 1}{x}$",
+        "options": {
+            "a": "2i",
+            "b": "3",
+            "d": "0"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 366,
+        "question": "Derive the expression:",
+        "options": {
+            "a": "$1/(x + i)$",
+            "b": "$i/(x + i)$",
+            "c": "$1/x + i$",
+            "d": "$1/i + x$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 367,
+        "question": "Find the limit of $(2z^3 - iz)/(z - i)$ as z approaches i+1 ?",
+        "options": {
+            "a": "$5 + 6i/7$",
+            "b": "$-3 + 3i$",
+            "d": "150"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 368,
+        "question": "Find the derivative: $f(x) = \\frac{1}{x + i}$",
+        "options": {
+            "a": "$1/(x+1)^2$",
+            "c": "$i/(x+1)^2$",
+            "d": "$-i/(x+i)^2$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 369,
+        "question": "Evaluate the derivative: $d/dx (3ix^4 - 2ix^3 )$",
+        "options": {
+            "a": "$3ix^2(-1 + 3x)$",
+            "b": "$6ix^2(-1 + 2x)$",
+            "d": "$3ix^2(1 - 3x)$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 370,
+        "question": "Perform the derivative: $d/dx (\\ln(ix^2))$",
+        "options": {
+            "a": "$i/x$",
+            "b": "$x + i$",
+            "d": "$2i/x$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 371,
+        "question": "Determine the inverse Laplace transform of $I(s) = 200 / (s^2-50s+10,625)$",
+        "options": {
+            "a": "$I(t) = 2e^{-25t} \\sin 100t$",
+            "b": "$I(t) = 2e^{-25t} \\cos 100t$",
+            "c": "$I(t) = 2te^{-25t} \\sin 100t$",
+            "d": "$I(t) = 2te^{-25t} \\cos 100t$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Laplace Transform"
+    },
+    {
+        "id": 372,
+        "question": "Solve the D.E. : $xdy + (y - 2x^2y)dx = 0$:",
+        "options": {
+            "a": "$\\ln |xy| = x^2 + C$",
+            "b": "$\\ln |x + y| = y^2 + C$",
+            "c": "$\\ln x + y = x^2 + C$",
+            "d": "$\\ln xy = y^2 + C$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 373,
+        "question": "Solve the D.E. : $xdy - (y + 2x^3)dx = 0$ :",
+        "options": {
+            "a": "$y = x^2 + Cx$",
+            "b": "$y = x^3 + Cx$",
+            "c": "$y = x + Cx^2$",
+            "d": "$x = y + Cx^2$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 374,
+        "question": "Solve the particular solution of the D.E.: $Y'' + 3Y' = 0$",
+        "options": {
+            "a": "$Y = A e^{-3x} + B e^x$",
+            "b": "$Y = A + B e^x$",
+            "c": "$Y = A + B e^{-3x}$",
+            "d": "$Y = B e^{-3x}$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 375,
+        "question": "Solve the particular solution of the D.E.: $Y'' + 4Y = e^{3x}$.",
+        "options": {
+            "a": "$Y = (1/12)e^{3x}$",
+            "b": "$Y = (1/13)e^{3x}$",
+            "c": "$Y = (1/10)e^{3x}$",
+            "d": "$Y = (1/13)e^{3x}$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 376,
+        "question": "Determine the Laplace transform of $e^{2t}\\cos(3t)$",
+        "options": {
+            "a": "$(s-2)/(s^2 + 4s + 13)$",
+            "b": "$(s-2)/(s^2 + 4s + 21)$",
+            "c": "$(s+2)/(s^2 + 4s + 13)$",
+            "d": "$(s+2)/(s^2 - 4s + 21)$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Laplace Transform"
+    },
+    {
+        "id": 377,
+        "question": "Determine the inverse Laplace of $(3s + 6)/(s^2+3s)$",
+        "options": {
+            "a": "$2 + e^{-3t}$",
+            "b": "$3 - e^{-3t}$",
+            "c": "$5 e^{-3t}$",
+            "d": "$1+2e^{3t}$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Laplace Transform"
+    },
+    {
+        "id": 378,
+        "question": "Simplify $i^{1997} + i^{1999}$, where i is an imaginary number.",
+        "options": {
+            "a": "0",
+            "b": "i",
+            "c": "1+ I",
+            "d": "1-i"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 379,
+        "question": "Evaluate the integral of $x^3e^{-x}$ from $x = 0$ to $x = \\infty$:",
+        "options": {
+            "a": "2",
+            "b": "4",
+            "c": "5",
+            "d": "6"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 380,
+        "question": "A hemispherical tank of radius 5 feet is filled with 4 feet of water. The amount of work necessary to pump all the water to a height of * (The problem statement is incomplete. Likely asks to calculate the work done.)",
+        "options": {},
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    }
+]

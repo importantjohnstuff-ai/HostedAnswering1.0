@@ -1,0 +1,772 @@
+[
+  {
+    "id": 1,
+    "question": "Determine equation of the plane parallel to 6x - 7y + 13z - 9 = 0 passing (0, 3, 1)?",
+    "options": {
+      "a": "6x - 7y + 13z + 18 = 0",
+      "b": "6x - 7y + 13z + 8 = 0",
+      "c": "6x - 7y + 13z - 16 = 0",
+      "d": "6x - 7y + 13z - 9 = 0"
+    },
+    "answer": "b",
+    "correct_answer_text": "6x - 7y + 13z + 8 = 0",
+    "category": "Math",
+    "sub_category": "Advanced Math"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following method of integration uses series of quadratic curves, or parabolas in approximating definite integrals?",
+    "options": {
+      "a": "trapezoidal rule",
+      "b": "rectangular rule",
+      "c": "Simpson's rule",
+      "d": "Peter Griffin"
+    },
+    "answer": "c",
+    "correct_answer_text": "Simpson's rule",
+    "category": "Math",
+    "sub_category": "Numerical Methods"
+  },
+  {
+    "id": 3,
+    "question": "Solve dy/dx = yx with y(0) = 1 and h = 0.1 to find y(0.3)",
+    "options": {
+      "a": "1.77",
+      "b": "1.362",
+      "c": "1.163",
+      "d": "0.564"
+    },
+    "answer": "b",
+    "correct_answer_text": "1.362",
+    "category": "Math",
+    "sub_category": "Numerical Methods"
+  },
+  {
+    "id": 4,
+    "question": "Determine the value of the divergence on a field given by s = -3xyi + 7z^3j - y^2k at the point (1, 3, -2)?",
+    "options": {
+      "a": "16",
+      "b": "3",
+      "c": "-12",
+      "d": "-9"
+    },
+    "answer": "d",
+    "correct_answer_text": "-9",
+    "category": "Math",
+    "sub_category": "Vector Analysis"
+  },
+  {
+    "id": 5,
+    "question": "Find the particular solution of the D.E.: y'' - 2y' - 8y = 6e^3x",
+    "options": {
+      "a": "-6/5 e^3x",
+      "b": "3/4 * e^3x",
+      "c": "1/7 * e^3x",
+      "d": "-4/5 * e^3x"
+    },
+    "answer": "a",
+    "correct_answer_text": "-6/5 e^3x",
+    "category": "Math",
+    "sub_category": "Differential Equation"
+  },
+  {
+    "id": 6,
+    "question": "Which of the following statements best compares Gaussian Elimination and the Jacobi Method for solving systems of linear equations?",
+    "options": {
+      "a": "Gaussian Elimination is an iterative method, while the Jacobi Method is a direct method.",
+      "b": "Gaussian Elimination always converges faster than the Jacobi Method, regardless of the system.",
+      "c": "The Jacobi Method is typically used for large, sparse systems because it can be implemented iteratively, while Gaussian Elimination is a direct method better suited for smaller, dense systems.",
+      "d": "Both Gaussian Elimination and the Jacobi Method require pivoting to avoid division by zero in all cases."
+    },
+    "answer": "c",
+    "correct_answer_text": "The Jacobi Method is typically used for large, sparse systems because it can be implemented iteratively, while Gaussian Elimination is a direct method better suited for smaller, dense systems.",
+    "category": "Math",
+    "sub_category": "Numerical Methods"
+  },
+  {
+    "id": 7,
+    "question": "The distribution of charge (in coulombs) on a surface is given by Q = 2y - xz^3. What is the magnitude of change of charge given by grad(Q) at (-1, 2, 1)?",
+    "options": {
+      "a": "2sqrt(15)",
+      "b": "4sqrt(57)",
+      "c": "2sqrt(53)",
+      "d": "sqrt(93)"
+    },
+    "answer": "b",
+    "correct_answer_text": "4sqrt(57)",
+    "category": "Math",
+    "sub_category": "Vector Analysis"
+  },
+  {
+    "id": 8,
+    "question": "Which of the following statements correctly distinguishes the Gauss-Seidel Method from the Jacobi Method when solving a system of linear equations?",
+    "options": {
+      "a": "The Gauss-Seidel Method updates all variables simultaneously like the Jacobi Method.",
+      "b": "The Jacobi Method typically converges faster than the Gauss-Seidel Method for diagonally dominant matrices.",
+      "c": "The Gauss-Seidel Method uses the most recently updated values during iteration, while the Jacobi Method uses only values from the previous iteration.",
+      "d": "Both methods are direct methods and guarantee convergence for any system of equations."
+    },
+    "answer": "c",
+    "correct_answer_text": "The Gauss-Seidel Method uses the most recently updated values during iteration, while the Jacobi Method uses only values from the previous iteration.",
+    "category": "Math",
+    "sub_category": "Numerical Methods"
+  },
+  {
+    "id": 9,
+    "question": "By Cauchy theorem, determine the value of the contour integral of (iz^2 + 4z) / (z - 2i)",
+    "options": {
+      "a": "40pi",
+      "b": "-20pi",
+      "c": "50pi",
+      "d": "pi/20"
+    },
+    "answer": "b",
+    "correct_answer_text": "-20pi",
+    "category": "Math",
+    "sub_category": "Advanced Math"
+  },
+  {
+    "id": 10,
+    "question": "Solve the complete solution to the following ODE: Y'' - Y' - 6Y = 4 cos(2x)",
+    "options": {
+      "a": "c1e^3x + c2e^-2x + (2/13)sin(2x) - (6/13)cos(2x)",
+      "b": "c1e^3x + c2e^-2x - (1/13)sin(2x) - (5/13)cos(2x)",
+      "c": "c1e^-3x + c2e^2x + (2/13)sin(2x) - (6/13)cos(2x)",
+      "d": "c1e^-3x + c2e^2x - (1/13)sin(2x) - (5/13)cos(2x)"
+    },
+    "answer": "b",
+    "correct_answer_text": "c1e^3x + c2e^-2x - (1/13)sin(2x) - (5/13)cos(2x)",
+    "category": "Math",
+    "sub_category": "Differential Equation"
+  },
+  {
+    "id": 11,
+    "question": "Simplify the expression of complex number 'i': i^245,693 - i^31,782",
+    "options": {
+      "a": "i",
+      "b": "0",
+      "c": "1 + i",
+      "d": "-i"
+    },
+    "answer": "c",
+    "correct_answer_text": "1 + i",
+    "category": "Math",
+    "sub_category": "Advanced Math"
+  },
+  {
+    "id": 12,
+    "question": "Solve the particular solution to the ODE: Y'' - 7Y' - 18Y = 14e^2x",
+    "options": {
+      "a": "y = (1/4)e^2x",
+      "b": "y = (-1/2)e^2x",
+      "c": "y = (-1/8)e^2x",
+      "d": "y = (5/8)e^2x"
+    },
+    "answer": "b",
+    "correct_answer_text": "y = (-1/2)e^2x",
+    "category": "Math",
+    "sub_category": "Differential Equation"
+  },
+  {
+    "id": 13,
+    "question": "Which statement best compares Euler's method with 2nd order Runge-Kutta (RK2) and 4th order Runge-Kutta (RK4) in terms of accuracy per step?",
+    "options": {
+      "a": "Euler is most accurate, RK2 next, RK4 least",
+      "b": "RK4 is most accurate, RK2 next, Euler least",
+      "c": "RK2 is most accurate, RK4 next, Euler least",
+      "d": "All three have the same accuracy per step"
+    },
+    "answer": "b",
+    "correct_answer_text": "RK4 is most accurate, RK2 next, Euler least",
+    "category": "Math",
+    "sub_category": "Numerical Methods"
+  },
+  {
+    "id": 14,
+    "question": "If A = 2i + 5j + 7k, B = -3i + 4j - 3k, and C = 8i - 5j - 2k, what is the value of (A x B) • C?",
+    "options": {
+      "a": "-563",
+      "b": "210",
+      "c": "-315",
+      "d": "497"
+    },
+    "answer": "c",
+    "correct_answer_text": "-315",
+    "category": "Math",
+    "sub_category": "Vector Analysis"
+  },
+  {
+    "id": 15,
+    "question": "Determine the complete solution to the ODE: Y'' - 10Y' + 25Y = 6e^5x",
+    "options": {
+      "a": "y = c1e^5x + c2xe^5x + 12e^5x",
+      "b": "y = c1e^-5x + c2xe^-5x + 6e^-5x",
+      "c": "y = c1e^5x + c2xe^5x + 3x^2e^5x",
+      "d": "y = c1e^-5x + c2xe^-5x + 6e^-5x"
+    },
+    "answer": "c",
+    "correct_answer_text": "y = c1e^5x + c2xe^5x + 3x^2e^5x",
+    "category": "Math",
+    "sub_category": "Differential Equation"
+  },
+  {
+    "id": 16,
+    "question": "Simplify sin(0.5i):",
+    "options": {
+      "a": "0.8873",
+      "b": "0.8873i",
+      "c": "0.5211i",
+      "d": "0.5211"
+    },
+    "answer": "c",
+    "correct_answer_text": "0.5211i",
+    "category": "Math",
+    "sub_category": "Advanced Math"
+  },
+  {
+    "id": 17,
+    "question": "Given the ODE dy/dx = y - x^2 with y(0) = 1 and h = 0.1, find the value of y if x = 0.5?",
+    "options": {
+      "a": "1.872",
+      "b": "0.963",
+      "c": "3.645",
+      "d": "1.578"
+    },
+    "answer": "d",
+    "correct_answer_text": "1.578",
+    "category": "Math",
+    "sub_category": "Numerical Methods"
+  },
+  {
+    "id": 18,
+    "question": "Solve the linear equation: dy + (y/x - x^2)dx = 0",
+    "options": {
+      "a": "xy^2 = x^3/4 + c",
+      "b": "xy = x^4/4 + c",
+      "c": "x^2y = x^4/4 + c",
+      "d": "y = x^3/4 + c"
+    },
+    "answer": "b",
+    "correct_answer_text": "xy = x^4/4 + c",
+    "category": "Math",
+    "sub_category": "Differential Equation"
+  },
+  {
+    "id": 19,
+    "question": "Simplify the limit: lim x->1 (x^2 - x) / (x - 1)",
+    "options": {
+      "a": "0",
+      "b": "-1",
+      "c": "1",
+      "d": "2"
+    },
+    "answer": "c",
+    "correct_answer_text": "1",
+    "category": "Math",
+    "sub_category": "Advanced Math"
+  },
+  {
+    "id": 20,
+    "question": "What is the vector-valued quantity for the expression curl (4xyi + 6yzj - 2xzk)?",
+    "options": {
+      "a": "6i + 10j + 14k",
+      "b": "3i + 12j + 9k",
+      "c": "-6i + 2j - 4k",
+      "d": "8i - 10j + 18k"
+    },
+    "answer": "c",
+    "correct_answer_text": "-6i + 2j - 4k",
+    "category": "Math",
+    "sub_category": "Vector Analysis"
+  },
+  {
+    "id": 21,
+    "question": "Find the magnitude of the gradient of the charge distribution Q = 4xy^2 + 9yz^3 at (1, 2, 1)?",
+    "options": {
+      "a": "42.89",
+      "b": "78.94",
+      "c": "4.81",
+      "d": "56.75"
+    },
+    "answer": "b",
+    "correct_answer_text": "78.94",
+    "category": "Math",
+    "sub_category": "Vector Analysis"
+  },
+  {
+    "id": 22,
+    "question": "Evaluate the following limit: lim x->0 ((1 + x)^3 - 1) / x",
+    "options": {
+      "a": "3i",
+      "b": "3",
+      "c": "1",
+      "d": "0"
+    },
+    "answer": "b",
+    "correct_answer_text": "3",
+    "category": "Math",
+    "sub_category": "Advanced Math"
+  },
+  {
+    "id": 23,
+    "question": "What is the main trade-off when choosing RK4 over Euler's method?",
+    "options": {
+      "a": "Lower stability but faster computation",
+      "b": "Higher computation cost per step but much higher accuracy",
+      "c": "Same computation cost, but lower memory",
+      "d": "Requires solving algebraic equations each step"
+    },
+    "answer": "b",
+    "correct_answer_text": "Higher computation cost per step but much higher accuracy",
+    "category": "Math",
+    "sub_category": "Numerical Methods"
+  },
+  {
+    "id": 24,
+    "question": "Evaluate the following limit: lim x->0 ((1 + 2ix + 3x^2) - 1) / x",
+    "options": {
+      "a": "2i",
+      "b": "3",
+      "c": "2i + 3",
+      "d": "0"
+    },
+    "answer": "a",
+    "correct_answer_text": "2i",
+    "category": "Math",
+    "sub_category": "Advanced Math"
+  },
+  {
+    "id": 25,
+    "question": "Which of the following statements correctly compares the Newton-Raphson method and the Secant method for finding roots of a function?",
+    "options": {
+      "a": "Newton-Raphson requires the derivative of the function, while the Secant method does not.",
+      "b": "The Secant method converges faster than Newton-Raphson in all cases.",
+      "c": "Newton-Raphson uses two initial guesses, whereas the Secant method uses only one.",
+      "d": "Both methods always guarantee convergence regardless of the initial guess."
+    },
+    "answer": "a",
+    "correct_answer_text": "Newton-Raphson requires the derivative of the function, while the Secant method does not.",
+    "category": "Math",
+    "sub_category": "Numerical Methods"
+  },
+  {
+    "id": 26,
+    "question": "Simplify: cos (8 + j9)?",
+    "options": {
+      "a": "-0.678 + j7.456",
+      "b": "-67.89 + j17.458",
+      "c": "-589.5 - j4008.4",
+      "d": "-589.5 + j670.23"
+    },
+    "answer": "c",
+    "correct_answer_text": "-589.5 - j4008.4",
+    "category": "Math",
+    "sub_category": "Advanced Math"
+  },
+  {
+    "id": 27,
+    "question": "Simplify log base 2 of (j4 - 5)?",
+    "options": {
+      "a": "2.678 + j2.763",
+      "b": "2.678 + j3.558",
+      "c": "0.663 + j2.763",
+      "d": "0.863 + j3.558"
+    },
+    "answer": "a",
+    "correct_answer_text": "2.678 + j2.763",
+    "category": "Math",
+    "sub_category": "Advanced Math"
+  },
+  {
+    "id": 28,
+    "question": "Which of the following statements correctly compares the Newton-Raphson method and the Bisection method for finding roots of an equation?",
+    "options": {
+      "a": "Newton-Raphson requires the derivative of the function, while Bisection does not.",
+      "b": "Bisection method converges faster than Newton-Raphson in most cases.",
+      "c": "Newton-Raphson always guarantees convergence, while Bisection does not.",
+      "d": "Both methods require two initial guesses."
+    },
+    "answer": "a",
+    "correct_answer_text": "Newton-Raphson requires the derivative of the function, while Bisection does not.",
+    "category": "Math",
+    "sub_category": "Numerical Methods"
+  },
+  {
+    "id": 29,
+    "question": "A body whose temperature is 180°F is immersed in a liquid which is kept at a constant temperature of 60°F. In one minute, the temperature of the body is 120°F. How long will it take for the temperature to decrease to 90°F?",
+    "options": {
+      "a": "2 min",
+      "b": "3 min",
+      "c": "1.5 min",
+      "d": "2 hrs"
+    },
+    "answer": "a",
+    "correct_answer_text": "2 min",
+    "category": "Math",
+    "sub_category": "Differential Equation"
+  },
+  {
+    "id": 30,
+    "question": "Which of the following statements best compares the Secant method and the Bisection method for finding roots of a function f(x)=0?",
+    "options": {
+      "a": "The Secant method requires the function to change sign over an interval, while the Bisection method does not.",
+      "b": "The Bisection method usually converges faster than the Secant method.",
+      "c": "The Secant method uses approximated derivatives and may not always converge, while the Bisection method guarantees convergence if the initial interval brackets the root.",
+      "d": "Both methods require the derivative of the function."
+    },
+    "answer": "c",
+    "correct_answer_text": "The Secant method uses approximated derivatives and may not always converge, while the Bisection method guarantees convergence if the initial interval brackets the root.",
+    "category": "Math",
+    "sub_category": "Numerical Methods"
+  },
+  {
+    "id": 31,
+    "question": "The volume of a hemisphere of radius 2m is:",
+    "options": {
+      "a": "14.67 cu.m.",
+      "b": "67.04 cu.m.",
+      "c": "16.76 cu.m.",
+      "d": "33.52 cu.m."
+    },
+    "answer": "c",
+    "correct_answer_text": "16.76 cu.m.",
+    "category": "Math",
+    "sub_category": "Advanced Math"
+  },
+  {
+    "id": 32,
+    "question": "Which of the following statements correctly compares the Regula Falsi method and the Secant method for solving equations of the form f(x)=0?",
+    "options": {
+      "a": "Both methods require the function to change sign over an initial interval.",
+      "b": "Regula Falsi guarantees bracketing of the root, while the Secant method may not.",
+      "c": "The Secant method converges more reliably than Regula Falsi.",
+      "d": "Regula Falsi uses derivatives, while the Secant method does not."
+    },
+    "answer": "b",
+    "correct_answer_text": "Regula Falsi guarantees bracketing of the root, while the Secant method may not.",
+    "category": "Math",
+    "sub_category": "Numerical Methods"
+  },
+  {
+    "id": 33,
+    "question": "Simplify: ln(2 + j7)",
+    "options": {
+      "a": "1.985 - j1.29",
+      "b": "0.673 + j4.567",
+      "c": "1.985 + j1.29",
+      "d": "0.673j"
+    },
+    "answer": "c",
+    "correct_answer_text": "1.985 + j1.29",
+    "category": "Math",
+    "sub_category": "Advanced Math"
+  },
+  {
+    "id": 34,
+    "question": "Find the work done in moving an object along a vector a = 3i + 4j if the force applied is b = 2i + j.",
+    "options": {
+      "a": "8",
+      "b": "9",
+      "c": "10",
+      "d": "12"
+    },
+    "answer": "c",
+    "correct_answer_text": "10",
+    "category": "Math",
+    "sub_category": "Vector Analysis"
+  },
+  {
+    "id": 35,
+    "question": "Conceptually, how does RK2 improve upon Euler's method?",
+    "options": {
+      "a": "By using only the slope at the end of the interval",
+      "b": "By averaging slope information from more than one point in the step",
+      "c": "By doubling the step size automatically",
+      "d": "By removing truncation error completely"
+    },
+    "answer": "b",
+    "correct_answer_text": "By averaging slope information from more than one point in the step",
+    "category": "Math",
+    "sub_category": "Numerical Methods"
+  },
+  {
+    "id": 36,
+    "question": "Which of the following is a property of the Secant method when used to find a root of a function f(x)=0?",
+    "options": {
+      "a": "It requires the derivative of the function at each step.",
+      "b": "It converges quadratically like Newton-Raphson.",
+      "c": "It uses two initial guesses and approximates the derivative numerically.",
+      "d": "It guarantees convergence if the initial interval brackets the root."
+    },
+    "answer": "c",
+    "correct_answer_text": "It uses two initial guesses and approximates the derivative numerically.",
+    "category": "Math",
+    "sub_category": "Numerical Methods"
+  },
+  {
+    "id": 37,
+    "question": "A line is defined in three-dimensional space as (x-2)/5 = (y+1)/3 = (z-1) = t. Where is the location of the point in space at t=2?",
+    "options": {
+      "a": "(14, 5, -4)",
+      "b": "(12, 5, 3)",
+      "c": "(12, -5, 0)",
+      "d": "(14, -7, 3)"
+    },
+    "answer": "b",
+    "correct_answer_text": "(12, 5, 3)",
+    "category": "Math",
+    "sub_category": "Advanced Math"
+  },
+  {
+    "id": 38,
+    "question": "Express the power (1 + i)^8 in rectangular form.",
+    "options": {
+      "a": "16",
+      "b": "8i",
+      "c": "i - 1",
+      "d": "-6"
+    },
+    "answer": "a",
+    "correct_answer_text": "16",
+    "category": "Math",
+    "sub_category": "Advanced Math"
+  },
+  {
+    "id": 39,
+    "question": "Evaluate i + i^-1:",
+    "options": {
+      "a": "1",
+      "b": "i",
+      "c": "0",
+      "d": "32"
+    },
+    "answer": "c",
+    "correct_answer_text": "0",
+    "category": "Math",
+    "sub_category": "Advanced Math"
+  },
+  {
+    "id": 40,
+    "question": "Which of the following is a true property of the Bisection method when solving f(x)=0?",
+    "options": {
+      "a": "It converges quadratically under most conditions.",
+      "b": "It requires knowledge of the derivative of the function.",
+      "c": "It guarantees convergence if the initial interval brackets the root and f(x) is continuous.",
+      "d": "It is faster than the Newton-Raphson method in all cases."
+    },
+    "answer": "c",
+    "correct_answer_text": "It guarantees convergence if the initial interval brackets the root and f(x) is continuous.",
+    "category": "Math",
+    "sub_category": "Numerical Methods"
+  },
+  {
+    "id": 41,
+    "question": "Which of the following is a property of the Newton-Raphson method for solving f(x)=0?",
+    "options": {
+      "a": "It guarantees convergence regardless of the initial guess.",
+      "b": "It does not require the derivative of the function.",
+      "c": "It typically converges quadratically near the root, if the function is well-behaved.",
+      "d": "It always maintains a bracketing interval for the root."
+    },
+    "answer": "c",
+    "correct_answer_text": "It typically converges quadratically near the root, if the function is well-behaved.",
+    "category": "Math",
+    "sub_category": "Numerical Methods"
+  },
+  {
+    "id": 42,
+    "question": "Find the derivative: f(x) = ln(x + i)",
+    "options": {
+      "a": "1 / (x + i)",
+      "b": "1 / (x + 1)",
+      "c": "1/x + 1",
+      "d": "1/i + x"
+    },
+    "answer": "a",
+    "correct_answer_text": "1 / (x + i)",
+    "category": "Math",
+    "sub_category": "Advanced Math"
+  },
+  {
+    "id": 43,
+    "question": "A certain radioactive substance has a half-life of 3 years. If 10 grams are present initially, how much of the substance remain after 9 years?",
+    "options": {
+      "a": "2.50g",
+      "b": "5.2g",
+      "c": "1.25g",
+      "d": "10.20g"
+    },
+    "answer": "c",
+    "correct_answer_text": "1.25g",
+    "category": "Math",
+    "sub_category": "Differential Equation"
+  },
+  {
+    "id": 44,
+    "question": "Find the limit of (2z + 3 - iz) / (z - 1) as z approaches 1 + i?",
+    "options": {
+      "a": "5 + 6i / 7",
+      "b": "-3 + 3i",
+      "c": "-4 - 6i / 7",
+      "d": "150"
+    },
+    "answer": "b",
+    "correct_answer_text": "-3 + 3i",
+    "category": "Math",
+    "sub_category": "Advanced Math"
+  },
+  {
+    "id": 45,
+    "question": "Find the derivative: f(z) = 1 / (z + i)",
+    "options": {
+      "a": "1 / (z + i)^2",
+      "b": "-1 / (z + 1)^-2",
+      "c": "i / (z + i)^2",
+      "d": "-1 / (z + i)^2"
+    },
+    "answer": "d",
+    "correct_answer_text": "-1 / (z + i)^2",
+    "category": "Math",
+    "sub_category": "Advanced Math"
+  },
+  {
+    "id": 46,
+    "question": "Solve the homogenous solution to the ODE: Y'' + 81Y = 0",
+    "options": {
+      "a": "yh = c1e^3x",
+      "b": "yh = c1e^81x",
+      "c": "yh = c1sin(9x)",
+      "d": "yh = c1sin(9x) + c2cos(9x)"
+    },
+    "answer": "d",
+    "correct_answer_text": "yh = c1sin(9x) + c2cos(9x)",
+    "category": "Math",
+    "sub_category": "Differential Equation"
+  },
+  {
+    "id": 47,
+    "question": "Evaluate the definite integral: integral from 0 to 1 of (z + i) dz",
+    "options": {
+      "a": "1/2 + i",
+      "b": "1/2",
+      "c": "1/2 - i",
+      "d": "1/2 + i/2"
+    },
+    "answer": "a",
+    "correct_answer_text": "1/2 + i",
+    "category": "Math",
+    "sub_category": "Advanced Math"
+  },
+  {
+    "id": 48,
+    "question": "Evaluate the derivative: d/dx (3ix^4 - 2ix^3)",
+    "options": {
+      "a": "3ix^2(-1 + 3x)",
+      "b": "6ix^2(-1 + 2x)",
+      "c": "4ix^2(1 - 2x)",
+      "d": "12ix^3 - 6ix^2"
+    },
+    "answer": "d",
+    "correct_answer_text": "12ix^3 - 6ix^2",
+    "category": "Math",
+    "sub_category": "Advanced Math"
+  },
+  {
+    "id": 49,
+    "question": "Perform the derivative: d/dx (ln(ix^2))",
+    "options": {
+      "a": "1/x",
+      "b": "x + 1",
+      "c": "2/x",
+      "d": "2i/x"
+    },
+    "answer": "c",
+    "correct_answer_text": "2/x",
+    "category": "Math",
+    "sub_category": "Advanced Math"
+  },
+  {
+    "id": 50,
+    "question": "Evaluate the integral: integral from 0 to 2i of 2ix^5 dx",
+    "options": {
+      "a": "23/450 + j11/450",
+      "b": "17,893",
+      "c": "-21.33",
+      "d": "0"
+    },
+    "answer": "c",
+    "correct_answer_text": "-21.33",
+    "category": "Math",
+    "sub_category": "Advanced Math"
+  },
+  {
+    "id": 51,
+    "question": "Given the vector field F(x,y,z) = yi - xj + zk, what is the curl, ∇ x F?",
+    "options": {
+      "a": "2i",
+      "b": "2j",
+      "c": "-2k",
+      "d": "0"
+    },
+    "answer": "c",
+    "correct_answer_text": "-2k",
+    "category": "Math",
+    "sub_category": "Vector Analysis"
+  },
+  {
+    "id": 52,
+    "question": "Integrate: integral from 0 to 1+i of (x^2 + 2x + 2i) dx",
+    "options": {
+      "a": "-8/3 + j14/3",
+      "b": "9/5 - j14/5",
+      "c": "11/3 - j15/3",
+      "d": "i/17"
+    },
+    "answer": "a",
+    "correct_answer_text": "-8/3 + j14/3",
+    "category": "Math",
+    "sub_category": "Advanced Math"
+  },
+  {
+    "id": 53,
+    "question": "A radioactive material decays with half-life of 13.86 hours. If the initial amount is N(0) = 100 grams, how much remains after 10 hours?",
+    "options": {
+      "a": "51.2 g",
+      "b": "60.6 g",
+      "c": "73.4 g",
+      "d": "56.4 g"
+    },
+    "answer": "b",
+    "correct_answer_text": "60.6 g",
+    "category": "Math",
+    "sub_category": "Differential Equation"
+  },
+  {
+    "id": 54,
+    "question": "Determine the principal root of (5 - 7i)^(1/3):",
+    "options": {
+      "a": "1.672 + j2.321",
+      "b": "1.947 - j0.638",
+      "c": "0.982 + j0.291",
+      "d": "0.792 - j2.132"
+    },
+    "answer": "b",
+    "correct_answer_text": "1.947 - j0.638",
+    "category": "Math",
+    "sub_category": "Advanced Math"
+  },
+  {
+    "id": 55,
+    "question": "Simplify the power of the complex number: (1 + i)^50",
+    "options": {
+      "a": "33,554,432i",
+      "b": "78,827,892i",
+      "c": "10,000,000i",
+      "d": "1"
+    },
+    "answer": "a",
+    "correct_answer_text": "33,554,432i",
+    "category": "Math",
+    "sub_category": "Advanced Math"
+  }
+]

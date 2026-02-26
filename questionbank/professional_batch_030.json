@@ -1,0 +1,262 @@
+[
+    {
+        "question": "A motor draws 20 A at 240 V. Power input is: A. 4.8 kW",
+        "options": {
+            "b": "48 kW",
+            "c": "240 W",
+            "d": "1.2 kW"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1449
+    },
+    {
+        "question": "A DC motor has flux reduced by 10%. Speed will:",
+        "options": {
+            "a": "Decrease 10%",
+            "c": "Remain constant",
+            "d": "Drop to zero"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1450
+    },
+    {
+        "question": "A 5 $\\Omega$ armature is supplied with 200 V. Armature current = A. 20 A",
+        "options": {
+            "b": "40 A",
+            "c": "10 A",
+            "d": "50 A"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1451
+    },
+    {
+        "question": "A motor receives 5 kW and outputs 4 kW. Efficiency =",
+        "options": {
+            "a": "80%",
+            "c": "75%",
+            "d": "95%"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1452
+    },
+    {
+        "question": "A generator speed doubles. Its generated voltage generally: A. Doubles",
+        "options": {
+            "b": "Halves",
+            "c": "Triples",
+            "d": "Decreases"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1453
+    },
+    {
+        "question": "A DC series motor at low current produces:",
+        "options": {
+            "a": "Maximum torque",
+            "c": "High speed",
+            "d": "No torque"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Machines",
+        "id": 1454
+    },
+    {
+        "question": "If a shunt motor\u2019s field is lost (open), its speed will:",
+        "options": {
+            "a": "Decrease",
+            "c": "Go to zero",
+            "d": "Reverse"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Machines",
+        "id": 1455
+    },
+    {
+        "question": "An increase in armature resistance causes speed to:",
+        "options": {
+            "a": "Increase",
+            "c": "Stay same",
+            "d": "Reverse"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1456
+    },
+    {
+        "question": "A motor develops torque of 10 N\u00b7m at 1000 rpm. Increasing current 20% increases torque to approx:",
+        "options": {
+            "a": "10 N\u00b7m",
+            "c": "8 N\u00b7m",
+            "d": "20 N\u00b7m"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1457
+    },
+    {
+        "question": "A 220 V DC shunt motor draws 5 A at no load. Back EMF is close to:",
+        "options": {
+            "a": "220 V",
+            "c": "0 V",
+            "d": "100 V"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Machines",
+        "id": 1458
+    },
+    {
+        "question": "A series motor\u2019s load torque decreases. Speed will: A. Rise sharply",
+        "options": {
+            "b": "Fall",
+            "c": "Stay constant",
+            "d": "Oscillate"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Machines",
+        "id": 1459
+    },
+    {
+        "question": "A motor with poor ventilation exhibits increased:",
+        "options": {
+            "a": "Efficiency",
+            "b": "Speed",
+            "d": "Back EMF"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Machines",
+        "id": 1460
+    },
+    {
+        "question": "A generator output drops suddenly during operation. Likely cause: A. Open field circuit",
+        "options": {
+            "b": "High load resistance",
+            "c": "Increased residual magnetism",
+            "d": "Brush shift"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Machines",
+        "id": 1461
+    },
+    {
+        "question": "Armature copper loss is:",
+        "options": {
+            "a": "$I_f^2R_f$",
+            "c": "VI",
+            "d": "EI"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1462
+    },
+    {
+        "question": "If flux is constant, torque is directly proportional to:",
+        "options": {
+            "a": "Speed",
+            "b": "Voltage",
+            "d": "Resistance"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Illumination",
+        "id": 1463
+    },
+    {
+        "question": "A 24 V motor runs at 2400 rpm. Reducing voltage to 12 V gives approx speed of:",
+        "options": {
+            "a": "2400 rpm",
+            "c": "3000 rpm",
+            "d": "600 rpm"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1464
+    },
+    {
+        "question": "For safe starting of large DC motors, engineers use: A. Rheostats (starters)",
+        "options": {
+            "b": "Capacitors",
+            "c": "Inductors",
+            "d": "Fuses only"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "DC Machines",
+        "id": 1465
+    },
+    {
+        "question": "If field pole strength weakens due to heating, motor speed will: A. Increase",
+        "options": {
+            "b": "Decrease",
+            "c": "Reverse",
+            "d": "Stop"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1466
+    },
+    {
+        "question": "A generator operating in short circuit will have:",
+        "options": {
+            "a": "Almost zero voltage",
+            "b": "Maximum voltage",
+            "c": "High current"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1467
+    },
+    {
+        "question": "The working principle of a transformer is:",
+        "options": {
+            "a": "Coulomb\u2019s law",
+            "c": "Gauss law",
+            "d": "Lenz\u2019s law"
+        },
+        "answer": null,
+        "correct_answer_text": null,
+        "category": "Professional Electrical Engineering",
+        "sub_category": "Transformers",
+        "id": 1468
+    }
+]

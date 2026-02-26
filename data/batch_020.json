@@ -1,0 +1,277 @@
+[
+    {
+        "id": 381,
+        "question": "Solve the differential equation $2y \\, dy = (x^2 + 1) \\, dx$.",
+        "options": {
+            "a": "$y = x^3 + x + C$",
+            "b": "$y = 1/3 x^3 + x + C$",
+            "c": "$y = -x^3 + x + C$",
+            "d": "$y = 1/3 x^2 - 3x + C$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 382,
+        "question": "Evaluate the following limit: $\\lim_{x \\to \\text{zero}} \\frac{(x + \\tan x)}{\\sin x}$",
+        "options": {
+            "a": "1",
+            "b": "2",
+            "c": "3\u00bd",
+            "d": "2/3"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 383,
+        "question": "A photographer views the sculpture, David that is 3.6 meter tall above a 2.5 m podium. The photographer is 1.2 meters tall. Where should he position from the base of the podium in order to get the maximum view angle?",
+        "options": {
+            "a": "3.21 m",
+            "b": "4.32 m",
+            "d": "1.92 m"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 384,
+        "question": "What is the longest steel beam that can pass through perpendicular corridors that are 12 feet and 15 feet in width?",
+        "options": {
+            "a": "30.4 feet",
+            "b": "42.1 feet",
+            "d": "38.1 feet"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 385,
+        "question": "Find the maximum points of the curve $y = x^3 - 9x^2 + 15x - 5$?",
+        "options": {
+            "a": "2,3",
+            "b": "5,6",
+            "c": "2, 1",
+            "d": "1,2"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 386,
+        "question": "A sheet of paper for a poster is to be 18 ft$^2$ in total area. The margins at the top and bottom are to be 9 inches, and the margins at the sides 6 inches. What should be the dimensions of the sheet to maximize the printed area?",
+        "options": {
+            "a": "3.46' x 2.45\u2032",
+            "b": "3.46' x 5.20\u2032",
+            "c": "4.21 x 3.27'",
+            "d": "4.21' x 5.25'"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 387,
+        "question": "The central angle of a sector of given perimeter that gives the largest area is:",
+        "options": {
+            "a": "123.4\u00b0",
+            "b": "114.6\u00b0",
+            "d": "97.4\u00b0"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 388,
+        "question": "Oil, at a rate of 10 ft$^3$/min, is pouring into a leaky cistern whose shape is a cone 16 ft deep and 8 ft in diameter at the top. At the time the water is 12 ft deep, the water level is observed to be rising at 4 in/min. How fast is the water leaking away?",
+        "options": {
+            "a": "0.45 ft$^3$/min",
+            "b": "0.58 ft$^3$/min",
+            "d": "0.97 ft$^3$/min",
+            "c": "0.71 ft$^3$/min"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 389,
+        "question": "Determine the second derivative of $\\ln(\\sqrt{x})$:",
+        "options": {
+            "a": "$1/\\sqrt{x}$",
+            "b": "$-1/(2x^2)$",
+            "c": "$2/x^2$",
+            "d": "$-2/(x^2)$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 390,
+        "question": "An empty frustum of a square is 12 cm x 12 cm at the bottom and 18 cm x 18 cm at the top has a depth of 15 cm. If it is filled with water to a depth of 10 cm, what is the volume of water?",
+        "options": {
+            "a": "1344",
+            "b": "342",
+            "c": "1973",
+            "d": "989"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 391,
+        "question": "What is the volume of the largest cylinder (in cm$^3$) that can be fitted inside a sphere of radius 5 cm?",
+        "options": {
+            "a": "544",
+            "c": "290",
+            "d": "302"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 392,
+        "question": "Find the limit of $\\sin(3x)/x$ as x approaches 0",
+        "options": {
+            "a": "3/2",
+            "b": "3",
+            "c": "1",
+            "d": "02"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 393,
+        "question": "Find the limit of $(2-x)^{\\tan(\\pi x/2)}$ as x approaches 1",
+        "options": {
+            "a": "$e^{(1/\\pi)}$",
+            "b": "$e^{\\pi}$",
+            "c": "$e^2$",
+            "d": "$e^{(2/\\pi)}$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 394,
+        "question": "Evaluate the limit of $(x+4)/(x-4)$ as x approaches infinity:",
+        "options": {
+            "b": "0",
+            "c": "1",
+            "d": "2"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 395,
+        "question": "What is the second derivative of $\\operatorname{arccot}(3x)$?",
+        "options": {
+            "a": "$\\frac{27x}{(9x^2-1)^2}$",
+            "b": "$\\frac{54x}{(9x^2+1)^2}$",
+            "c": "$\\frac{-54x}{(9x^2-1)^2}$",
+            "d": "$\\frac{54x}{\\sqrt{9x^2+1}}$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 396,
+        "question": "If $y = 4\\cos x + \\sin(2x)$, what is the slope of the curve when $x = 2$ radians?",
+        "options": {
+            "a": "2.21",
+            "b": "4.94",
+            "c": "3.25",
+            "d": "2.21"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 397,
+        "question": "Find the slope of the curve $x^2 + y^2 - 6x + 10y + 5 = 0$ at point (1,0).",
+        "options": {
+            "a": "1/5",
+            "b": "2/5",
+            "c": "1/4",
+            "d": "2"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 398,
+        "question": "What is the volume of the largest cylinder that can be inscribed inside 5 feet-radius sphere:",
+        "options": {
+            "a": "302.2",
+            "b": "344.5",
+            "c": "273.3",
+            "d": "674.2"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 399,
+        "question": "Water is flowing into a conical cistern at the rate of 8 m$^3$/min. If the height of the inverted cone is 12 m and the radius of its circular opening is 6 m. How fast is the water level rising when the water is 4 m deep?",
+        "options": {
+            "a": "0.64 m/min",
+            "b": "0.56 m/min",
+            "c": "0.75 m/min",
+            "d": "0.45 m/min"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 400,
+        "question": "What is the longest steel rod that can be fitted along a perpendicular hallway of widths 4 feet and 7 feet respectively?",
+        "options": {
+            "a": "26.52",
+            "b": "8.89",
+            "c": "9.79",
+            "d": "15.36"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    }
+]

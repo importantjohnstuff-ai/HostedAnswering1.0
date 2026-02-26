@@ -1,0 +1,282 @@
+[
+    {
+        "id": 1,
+        "question": "$i^{2015} - i^{2020} + i^{2045}$",
+        "options": {
+            "a": "$2 \\angle 20^\\circ, 2 \\angle 140^\\circ, 2 \\angle 60^\\circ$",
+            "b": "$2 \\angle 40^\\circ, 2 \\angle 220^\\circ, 2 \\angle 60^\\circ$",
+            "c": "$2 \\angle 0^\\circ, 2 \\angle 120^\\circ, 2 \\angle 240^\\circ$",
+            "d": "$2 \\angle 40^\\circ, 2 \\angle 160^\\circ, 2 \\angle 280^\\circ$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 2,
+        "question": "Evaluate the value: $\\ln(3 + j5)$",
+        "options": {
+            "a": "$0.703 + 1.88i$",
+            "b": "$0.453 - 0.85i$",
+            "c": "$3.56i$",
+            "d": "$0.64$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 3,
+        "question": "Find the derivative of the expression: $\\frac{d}{dz} ((1 + 4i)z^2 - 3z - 2i)$",
+        "options": {
+            "a": "$\\pi i-1$",
+            "b": "$\\pi -1$",
+            "c": "$\\pi$",
+            "d": "$\\pi i$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 4,
+        "question": "Determine the Laplace transform of $5t^2 + 4t - 3$",
+        "options": {
+            "a": "$2 + e^{-3t}$",
+            "b": "$2 - e^{-3t}$",
+            "c": "$2 - e^{3t}$",
+            "d": "$te^{3t}$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Laplace Transform"
+    },
+    {
+        "id": 5,
+        "question": "What is the unit vector of $23\\hat{i} + 45\\hat{j} - 64\\hat{k}$?",
+        "options": {
+            "a": "$x\\hat{i} + \\hat{j} + (4y \u2013 z)\\hat{k}$",
+            "b": "$x\\hat{i} + y\\hat{j} + (z \u2013 4y)\\hat{k}$",
+            "c": "$\\hat{i} + \\hat{j} + (4y \u2013 z)\\hat{k}$",
+            "d": "$\\hat{i} + y\\hat{j} + (4y \u2013 z)\\hat{k}$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Vector Analysis"
+    },
+    {
+        "id": 6,
+        "question": "Gauss elimination is a direct method that transforms a system of equations into an equivalent system in row-echelon form, allowing for straightforward back-substitution to find the solution. The Jacobi method, on the other hand is:",
+        "options": {
+            "a": "RK4",
+            "b": "RK2",
+            "c": "Euler",
+            "d": "Any method will do."
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Numerical Methods"
+    },
+    {
+        "id": 7,
+        "question": "Simplify the following expression of $i$: $$i^{2015} - i^{2020} + i^{2045}$$",
+        "options": {
+            "a": "$2 \\angle 20^\\circ, 2 \\angle 140^\\circ, 2 \\angle 60^\\circ$",
+            "b": "$2 \\angle 40^\\circ, 2 \\angle 220^\\circ, 2 \\angle 60^\\circ$",
+            "c": "$2 \\angle 0^\\circ, 2 \\angle 120^\\circ, 2 \\angle 240^\\circ$",
+            "d": "$2 \\angle 40^\\circ, 2 \\angle 160^\\circ, 2 \\angle 280^\\circ$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 8,
+        "question": "$$\\ln(z) = \\ln|r| + i\\theta$$ $$\\ln(z) = \\ln(|z|) + i \\times \\text{Arg}(z)$$ Evaluate the value: $\\ln(3 + j5)$",
+        "options": {
+            "a": "$0.703 + 1.88i$",
+            "b": "$0.453 - 0.85i$",
+            "c": "$3.56i$",
+            "d": "$0.64$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 9,
+        "question": "Find the derivative of the expression: $\\frac{d}{dz} [(1 + 4i)z^2 - 3z - 2]$",
+        "options": {
+            "a": "$\\pi i - 1$",
+            "b": "$\\pi - 1$",
+            "c": "$\\pi$",
+            "d": "$\\pi i$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 10,
+        "question": "What is the unit vector of $23i + 45j - 64k$ ?",
+        "options": {
+            "a": "$4x + y - 2z - 12 = 0$",
+            "b": "$4x + y + 2z - 12 = 0$",
+            "c": "$4x + 3y - z + 15 = 0$",
+            "d": "$4x - 3y + 2z - 16 = 0$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Vector Analysis"
+    },
+    {
+        "id": 11,
+        "question": "If $A = xyi + yzj + zxk$, then $\\nabla \\cdot A$ would be:",
+        "options": {
+            "a": "$xi + j + (4y - z)k$",
+            "b": "$xi + yj + (z - 4y)k$",
+            "c": "$i + j + (4y - z)k$",
+            "d": "$i + yj + (4y - z)k$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Advanced Math"
+    },
+    {
+        "id": 12,
+        "question": "Evaluate the limit of $(x^3 - 2x^2 - x + 2) / (x^2 - 4)$ as $x$ approaches 2.",
+        "options": {
+            "a": "infinity",
+            "b": "3/4",
+            "c": "2/5",
+            "d": "4/7"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 13,
+        "question": "Simplify the limit: $$\\lim_{z \\to 3i} \\left( \\frac{z^3 + 27i}{z - 3i} \\right) = ?$$",
+        "options": {
+            "a": "$27 - 81i$",
+            "b": "13",
+            "c": "-27",
+            "d": "13i"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 14,
+        "question": "Simplify the limit: $$\\lim_{z \\to 5i} \\left( \\frac{z^2 - 2iz + 15}{z - 5i} \\right) = ?$$",
+        "options": {
+            "a": "5i",
+            "b": "25",
+            "c": "8i",
+            "d": "$6 + 6i$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 15,
+        "question": "Evaluate the limit of $4 \\tan^3(x) / (2 \\sin(x) - x)$ as $x$ approaches 0.",
+        "options": {
+            "a": "1",
+            "b": "0",
+            "c": "2",
+            "d": "-1"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 16,
+        "question": "Evaluate: $$\\lim_{z \\to 1+i} \\frac{z - 1 - i}{z^2 - 2z + 2}$$",
+        "options": {
+            "a": "-1/4",
+            "b": "$-12 + 6i$",
+            "c": "-4/341",
+            "d": "$\\frac{\\sqrt{2}(1 + i)}{2}$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 17,
+        "question": "An elliptical plot of garden has a semi-major axis of 6 m and a semi-minor axis of 4.8 meters. If these are increased by 0.15 m each, find by differential equations the increase in area of the garden in sq. m.",
+        "options": {
+            "a": "$0.62\\pi$",
+            "b": "$1.62\\pi$",
+            "c": "$2.62\\pi$",
+            "d": "$2.62\\pi$"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 18,
+        "question": "The diameter of a circle is to be measured and its area computed. If the diameter can be measured with a maximum error of 0.001 cm and the area must be accurate to within 0.10 sq.cm. Find the largest diameter for which the process can be used.",
+        "options": {
+            "a": "64",
+            "b": "16",
+            "c": "32",
+            "d": "48"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    },
+    {
+        "id": 19,
+        "question": "If $y = x^{3/2}$ what is the approximate change in $y$ when $x$ changes from 9 to 9.01?",
+        "options": {
+            "a": "0.045",
+            "b": "0.068",
+            "c": "0.070",
+            "d": "0.023"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Differential Calculus"
+    },
+    {
+        "id": 20,
+        "question": "A cube has a volume of 1728 cu mm. If the allowable error in the edge of a cube is 0.04 mm, compute the allowable error in the volume of the cube.",
+        "options": {
+            "a": "17.28 cu mm",
+            "b": "16.88 cu mm",
+            "c": "15.22 cu mm",
+            "d": "20.59 cu mm"
+        },
+        "answer": "",
+        "correct_answer_text": "",
+        "category": "Math",
+        "sub_category": "Integral Calculus"
+    }
+]
