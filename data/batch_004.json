@@ -8,10 +8,21 @@
             "c": "4.9 units",
             "d": "5.2 units"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [
+            {
+                "solution_id": "sol_699fe9eef12d3",
+                "user": "Keypee",
+                "chosen_option": "b",
+                "image": "uploads\/solution_61_1772087790.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 62,
@@ -22,10 +33,21 @@
             "c": "267",
             "d": "16"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Integral Calculus"
+        "sub_category": "Integral Calculus",
+        "solutions": [
+            {
+                "solution_id": "sol_699feb88c59f2",
+                "user": "Keypee",
+                "chosen_option": "a",
+                "image": "uploads\/solution_62_1772088200.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 63,
@@ -36,24 +58,46 @@
             "c": "$2.5\\pi$",
             "d": "$1.5\\pi$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Integral Calculus"
+        "sub_category": "Integral Calculus",
+        "solutions": [
+            {
+                "solution_id": "sol_699fef0ae2ee9",
+                "user": "Keypee",
+                "chosen_option": "a",
+                "image": "uploads\/solution_63_1772089098.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 64,
         "question": "Determine the volume of the solid obtained by rotating the region bounded by $y = x^2$ and $y = x$ about the line $x = -3$.",
         "options": {
-            "a": "$6\\pi/5$",
-            "b": "$9\\pi/4$",
-            "c": "$7\\pi/6$",
-            "d": "$8\\pi/5$"
+            "a": "$6\\pi\/5$",
+            "b": "$9\\pi\/4$",
+            "c": "$7\\pi\/6$",
+            "d": "$8\\pi\/5$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Integral Calculus"
+        "sub_category": "Integral Calculus",
+        "solutions": [
+            {
+                "solution_id": "sol_699ff066aa317",
+                "user": "Keypee",
+                "chosen_option": "c",
+                "image": "uploads\/solution_64_1772089446.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 65,
@@ -64,10 +108,21 @@
             "c": "183",
             "d": "185"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Integral Calculus"
+        "sub_category": "Integral Calculus",
+        "solutions": [
+            {
+                "solution_id": "sol_699ff387c4967",
+                "user": "Keypee",
+                "chosen_option": "a",
+                "image": "uploads\/solution_65_1772090247.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 66,
@@ -78,10 +133,21 @@
             "c": "25.83",
             "d": "26.81"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Integral Calculus"
+        "sub_category": "Integral Calculus",
+        "solutions": [
+            {
+                "solution_id": "sol_699ff521426cf",
+                "user": "Keypee",
+                "chosen_option": "d",
+                "image": "uploads\/solution_66_1772090657.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 67,
@@ -92,10 +158,21 @@
             "c": "2233.43 cubic units",
             "d": "2208.53 cubic units"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Integral Calculus"
+        "sub_category": "Integral Calculus",
+        "solutions": [
+            {
+                "solution_id": "sol_69a001b998f2f",
+                "user": "Alfredolim",
+                "chosen_option": "b",
+                "image": "uploads\/solution_67_1772093881.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 68,
@@ -106,10 +183,21 @@
             "c": "5430 kJ",
             "d": "2290 kJ"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Integral Calculus"
+        "sub_category": "Integral Calculus",
+        "solutions": [
+            {
+                "solution_id": "sol_699ffb6f5a77b",
+                "user": "Alfredolim",
+                "chosen_option": "a",
+                "image": "uploads\/solution_68_1772092271.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 69,
@@ -120,24 +208,32 @@
             "c": "822 ft-lbf",
             "d": "721 ft-lbf"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Integral Calculus"
+        "sub_category": "Integral Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 70,
         "question": "Determine the volume of the solid obtained by rotating the region bounded by $y = 4x$ and $y = x^3$ about the x-axis.",
         "options": {
-            "a": "$315\\pi/7$",
-            "b": "$447\\pi/8$",
-            "c": "$512\\pi/21$",
-            "d": "$721\\pi/17$"
+            "a": "$315\\pi\/7$",
+            "b": "$447\\pi\/8$",
+            "c": "$512\\pi\/21$",
+            "d": "$721\\pi\/17$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Integral Calculus"
+        "sub_category": "Integral Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 71,
@@ -148,10 +244,14 @@
             "c": "9476 ft-lbf",
             "d": "2943 ft-lbf"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Integral Calculus"
+        "sub_category": "Integral Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 72,
@@ -162,10 +262,14 @@
             "c": "8:12:00 PM",
             "d": "7:55:00 PM"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Calculator Technique"
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 73,
@@ -176,19 +280,27 @@
             "c": "8:13 PM",
             "d": "8:36 PM"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Calculator Technique"
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 74,
         "question": "**Examples:** What is the value of the expression $x^2 + \\ln x - \\cos x + \\frac{1}{x^3}$ if $x = 101$? **Ans. 10205.81**",
-        "options": {},
-        "answer": "",
+        "options": [],
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Calculator Technique"
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 75,
@@ -199,64 +311,138 @@
             "c": "6",
             "d": "7"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Calculator Technique"
+        "sub_category": "Calculator Technique",
+        "solutions": [
+            {
+                "solution_id": "sol_699fe31b07bd8",
+                "user": "Trisha",
+                "chosen_option": "b",
+                "image": "uploads\/solution_75_1772086043.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 76,
         "question": "Find the limit: $$\\lim_{x \\to 5} \\frac{\\sqrt{x^2 + 11} - 6}{x - 5}$$",
         "options": {
-            "a": "4/5",
-            "b": "3/5",
-            "c": "5/6",
-            "d": "6/7"
+            "a": "4\/5",
+            "b": "3\/5",
+            "c": "5\/6",
+            "d": "6\/7"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Calculator Technique"
+        "sub_category": "Calculator Technique",
+        "solutions": [
+            {
+                "solution_id": "sol_699fe7129f076",
+                "user": "Trisha",
+                "chosen_option": "c",
+                "image": "uploads\/solution_76_1772087058.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 77,
-        "question": "Find the limit: $$\\lim_{x \\to \\pi/4} \\frac{1 - \\tan(x)}{\\sin(x) - \\cos(x)}$$",
+        "question": "Find the limit: $$\\lim_{x \\to \\pi\/4} \\frac{1 - \\tan(x)}{\\sin(x) - \\cos(x)}$$",
         "options": {
-            "a": "$1/2$",
-            "b": "$\\sqrt{2}/2$",
+            "a": "$1\/2$",
+            "b": "$\\sqrt{2}\/2$",
             "c": "$-\\sqrt{3}$",
             "d": "$-\\sqrt{2}$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Calculator Technique"
+        "sub_category": "Calculator Technique",
+        "solutions": [
+            {
+                "solution_id": "sol_699fe925d5749",
+                "user": "Trisha",
+                "chosen_option": "d",
+                "image": "uploads\/solution_77_1772087589.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 78,
-        "question": "Supposing that $A = \\frac{\\sqrt{x^2 + 16}}{y - 2}$; $B = \\sinh(A + y) - x$ and $C = \\frac{Ax + y}{Bx - y}$. Find C if $x = 3$ and $y = 1$: **Ans: 0.152**",
-        "options": {},
-        "answer": "",
+        "question": "Supposing that $A = \\frac{\\sqrt{x^2 + 16}}{y - 2}$; $B = \\sinh(A + y) - x$ and $C = \\frac{Ax + y}{Bx - y}$. Find C if $x = 3$ and $y = 1$",
+        "options": {
+            "a": "0.152",
+            "b": "0.153",
+            "c": "0.154",
+            "d": "0.155"
+        },
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Calculator Technique"
+        "sub_category": "Calculator Technique",
+        "solutions": [
+            {
+                "solution_id": "sol_69a066fa93546",
+                "user": "John",
+                "chosen_option": "a",
+                "image": "uploads\/solution_78_1772119802.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 79,
-        "question": "Solves Equations in single Variable by Iteration. Solve for $x$: $x = \\frac{1}{2} \\cos x$ **Ans. 0.45018** Find the solution, $x^6 + 7x^2 - 4 = 0$ on $[-1, 0]$. **Ans. -0.7402**",
-        "options": {},
-        "answer": "",
+        "question": "Solves Equations in single Variable by Iteration. Solve for $x$: $x = \\frac{1}{2} \\cos x$ **Ans. 0.45018** Find the solution, $x^6 + 7x^2 - 4 = 0$ on $[-1, 0]$.",
+        "options": {
+            "a": "0.45018",
+            "b": "0.45019",
+            "c": "0.45020",
+            "d": "0.45021"
+        },
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Calculator Technique"
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 80,
-        "question": "$$\\int_{1}^{5} x \\cos x \\, dx$$ **Ans. -5.89**",
-        "options": {},
-        "answer": "",
+        "question": "$$\\int_{1}^{5} x \\cos x \\, dx$$",
+        "options": {
+            "a": "-5.89",
+            "b": "-5.90",
+            "c": "-5.91",
+            "d": "-5.92"
+        },
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Calculator Technique"
+        "sub_category": "Calculator Technique",
+        "solutions": [
+            {
+                "solution_id": "sol_69a06718eea20",
+                "user": "John",
+                "chosen_option": "a",
+                "image": "uploads\/solution_80_1772119832.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     }
 ]

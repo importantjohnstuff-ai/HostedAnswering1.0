@@ -8,10 +8,21 @@
             "c": "69.08",
             "d": "70.08"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [
+            {
+                "solution_id": "sol_699ff85f42376",
+                "user": "Joy",
+                "chosen_option": "a",
+                "image": "uploads\/solution_141_1772091487.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 142,
@@ -22,10 +33,14 @@
             "c": "9 ft.",
             "d": "8 ft."
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 143,
@@ -36,10 +51,14 @@
             "c": "3.11 ft",
             "d": "3.53 ft"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 144,
@@ -50,10 +69,21 @@
             "c": "360pi",
             "d": "300 pi"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Integral Calculus"
+        "sub_category": "Integral Calculus",
+        "solutions": [
+            {
+                "solution_id": "sol_69a000f74efc3",
+                "user": "Alfredolim",
+                "chosen_option": "c",
+                "image": "uploads\/solution_144_1772093687.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 145,
@@ -64,10 +94,21 @@
             "c": "22 kph",
             "d": "55 kph"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [
+            {
+                "solution_id": "sol_699ffb0e70286",
+                "user": "Joy",
+                "chosen_option": "a",
+                "image": "uploads\/solution_145_1772092174.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 146,
@@ -78,10 +119,14 @@
             "c": "273.3",
             "d": "674.2"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Integral Calculus"
+        "sub_category": "Integral Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 147,
@@ -92,10 +137,14 @@
             "c": "3.71 m",
             "d": "4.41 m"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 148,
@@ -106,10 +155,14 @@
             "c": "113.0",
             "d": "121.7"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Integral Calculus"
+        "sub_category": "Integral Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 149,
@@ -120,10 +173,14 @@
             "c": "319 in",
             "d": "246 in"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 150,
@@ -134,19 +191,27 @@
             "c": "592.59 cu in.",
             "d": "622.49 cu in"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Integral Calculus"
+        "sub_category": "Integral Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 151,
         "question": "*   **Solution** is any function (or formula for a function) that satisfies the equation. *   **General solution** - a formula that describes all solutions to the equation. *   **Specific solution** - a formula that describes a solution at a boundary. *   Initial Value Problem (IVP) *   Boundary Value Problem",
-        "options": {},
-        "answer": "",
+        "options": [],
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Equation"
+        "sub_category": "Differential Equation",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 152,
@@ -157,10 +222,21 @@
             "c": "$y = -\\frac{1}{x^2 + C}$",
             "d": "$y = -\\frac{1}{x^2 + C}$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Equation"
+        "sub_category": "Differential Equation",
+        "solutions": [
+            {
+                "solution_id": "sol_699fe1979e155",
+                "user": "Lyan",
+                "chosen_option": "c",
+                "image": "uploads\/solution_152_1772085655.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 153,
@@ -171,10 +247,21 @@
             "c": "$2y = x^5 + cx^3$",
             "d": "$y = 2x^3 + cx^5$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Equation"
+        "sub_category": "Differential Equation",
+        "solutions": [
+            {
+                "solution_id": "sol_699fe2da8bded",
+                "user": "Lyan",
+                "chosen_option": "c",
+                "image": "uploads\/solution_153_1772085978.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 154,
@@ -185,24 +272,39 @@
             "c": "$x^2 = C(2x^2 - y^2)$",
             "d": "$x^4 = C(4x^2 + y^2)$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Equation"
+        "sub_category": "Differential Equation",
+        "solutions": [
+            {
+                "solution_id": "sol_699fe429623b1",
+                "user": "Lyan",
+                "chosen_option": "d",
+                "image": "uploads\/solution_154_1772086313.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 155,
         "question": "Solve the equation $xy \\, dx - (x + 2y) \\, dy = 0$.",
         "options": {
-            "a": "$e^{x/y} = c y^3 (xy)$",
-            "b": "$e^{x/y} = c y^3 (x + y)$",
-            "c": "$e^{x/y} = c y^3 (x - y)$",
-            "d": "$e^{x/y} = c y^4 (x - 1)$"
+            "a": "$e^{x\/y} = c y^3 (xy)$",
+            "b": "$e^{x\/y} = c y^3 (x + y)$",
+            "c": "$e^{x\/y} = c y^3 (x - y)$",
+            "d": "$e^{x\/y} = c y^4 (x - 1)$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Equation"
+        "sub_category": "Differential Equation",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 156,
@@ -213,10 +315,14 @@
             "c": "$2x^2 - xy^3 + y^2 = C$",
             "d": "$3x^2 + xy^3 - y^2 = C$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Equation"
+        "sub_category": "Differential Equation",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 157,
@@ -227,10 +333,14 @@
             "c": "$\\sqrt{x + y} + y = C$",
             "d": "$\\sqrt{x^2 - y} + y = C$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Equation"
+        "sub_category": "Differential Equation",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 158,
@@ -241,10 +351,21 @@
             "c": "$y = Ae^{-3x} + Be^{-4x} + \\frac{1}{4}e^{2x}$",
             "d": "$y = Ae^{-3x} + Be^{-4x} + \\frac{1}{6}e^{2x}$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Equation"
+        "sub_category": "Differential Equation",
+        "solutions": [
+            {
+                "solution_id": "sol_699fe70891d39",
+                "user": "Lyan",
+                "chosen_option": "d",
+                "image": "uploads\/solution_158_1772087048.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 159,
@@ -255,10 +376,21 @@
             "c": "$y = Ae^{-2x} + Be^{4x} - \\frac{1}{2}xe^{-2x}$",
             "d": "$y = Ae^{-2x} + Be^{-4x} + \\frac{1}{4}xe^{2x}$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Equation"
+        "sub_category": "Differential Equation",
+        "solutions": [
+            {
+                "solution_id": "sol_699fe86c6beb9",
+                "user": "Lyan",
+                "chosen_option": "c",
+                "image": "uploads\/solution_159_1772087404.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 160,
@@ -269,9 +401,13 @@
             "c": "$c_1 e^{-5t} + c_2 e^{5t}$",
             "d": "$c_1 e^{-5t} + c_2 e^{2t}$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Equation"
+        "sub_category": "Differential Equation",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     }
 ]

@@ -8,24 +8,32 @@
             "c": "Newton-Raphson always guarantees convergence, while Bisection does not.",
             "d": "Both methods require two initial guesses."
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Numerical Methods"
+        "sub_category": "Numerical Methods",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 262,
         "question": "Derive the expression: $\\frac{d}{dx} \\left[ \\log \\left( \\frac{ix}{i+x} \\right) \\right]$",
         "options": {
-            "a": "$2i/(x^2 + i)$",
-            "b": "$i/(x^2 + ix)$",
-            "c": "$2i/(ix + 1)$",
-            "d": "$i/(x^2 - i)$"
+            "a": "$2i\/(x^2 + i)$",
+            "b": "$i\/(x^2 + ix)$",
+            "c": "$2i\/(ix + 1)$",
+            "d": "$i\/(x^2 - i)$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Advanced Math"
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 263,
@@ -36,10 +44,21 @@
             "c": "$2.23 + j0.2$",
             "d": "$1.28 + j0.98$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Advanced Math"
+        "sub_category": "Advanced Math",
+        "solutions": [
+            {
+                "solution_id": "sol_699fedfb7e4ab",
+                "user": "Joy",
+                "chosen_option": "d",
+                "image": "uploads\/solution_263_1772088827.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 264,
@@ -50,80 +69,125 @@
             "c": "$-5 \\cosh(5x)$",
             "d": "$-5 \\cos(5x)$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Advanced Math"
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 265,
         "question": "Inverse the following s-domain Laplace function: $F(s) = \\frac{2s + 3}{s^2 + 4s + 13}$",
         "options": {
             "a": "$e^{-2t} (2\\cos(3t) + 3\\sin(3t))$",
-            "b": "$e^{-2t} (2\\cos(3t) - (1/3)\\sin(3t))$",
-            "c": "$e^{2t} (2\\cos(3t) + (1/2)\\sin(3t))$",
+            "b": "$e^{-2t} (2\\cos(3t) - (1\/3)\\sin(3t))$",
+            "c": "$e^{2t} (2\\cos(3t) + (1\/2)\\sin(3t))$",
             "d": "$e^{2t} (2\\cos(3t) - 3\\sin(3t))$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Laplace Transform"
+        "sub_category": "Laplace Transform",
+        "solutions": [
+            {
+                "solution_id": "sol_69a05506e1769",
+                "user": "Anonymous",
+                "chosen_option": "b",
+                "image": "uploads\/solution_265_1772115206.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 266,
         "question": "Integrate: $\\int_i^{3i} (ix^4 + 2ix) dx$",
         "options": {
-            "a": "$1314/7 + 9i$",
-            "b": "$11/7 - 9i$",
-            "c": "$646/5 + 8i$",
-            "d": "$-242/5 - 8i$"
+            "a": "$1314\/7 + 9i$",
+            "b": "$11\/7 - 9i$",
+            "c": "$646\/5 + 8i$",
+            "d": "$-242\/5 - 8i$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Advanced Math"
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 267,
         "question": "Integrate: $\\int_0^1 2026x^{2025} dx$",
         "options": {
             "a": "$3240i$",
-            "b": "$2026/17 + 11i/17$",
+            "b": "$2026\/17 + 11i\/17$",
             "c": "-1",
             "d": "0"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Advanced Math"
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 268,
         "question": "Determine the Laplace transform: $\\mathcal{L}[e^t \\cos^2(t)]$",
         "options": {
-            "a": "$(s^2 + 4s - 3)/(s^3 + 6s^2 + 9s - 6)$",
-            "b": "$(s^2 - 2s + 3)/(s^3 - 3s^2 + 7s - 5)$",
-            "c": "$(s^2 + 2s - 6)/(s^3 + 4s^2 + 9s - 5)$",
-            "d": "$(s^2 - 2s + 8)/(s^3 + 3s^2 + 7s + 6)$"
+            "a": "$(s^2 + 4s - 3)\/(s^3 + 6s^2 + 9s - 6)$",
+            "b": "$(s^2 - 2s + 3)\/(s^3 - 3s^2 + 7s - 5)$",
+            "c": "$(s^2 + 2s - 6)\/(s^3 + 4s^2 + 9s - 5)$",
+            "d": "$(s^2 - 2s + 8)\/(s^3 + 3s^2 + 7s + 6)$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Laplace Transform"
+        "sub_category": "Laplace Transform",
+        "solutions": [
+            {
+                "solution_id": "sol_69a06967a86d7",
+                "user": "John",
+                "chosen_option": "b",
+                "image": "uploads\/solution_268_1772120423.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 269,
-        "question": "Determine the inverse Laplace transform of $I(s) = 200 / (s^2 - 50s + 10,625)$",
+        "question": "Determine the inverse Laplace transform of $I(s) = 200 \/ (s^2 - 50s + 10,625)$",
         "options": {
             "a": "$I(t) = 2e^{25t} \\sin 100t$",
             "b": "$I(t) = 2e^{25t} \\cos 100t$",
             "c": "$I(t) = 2te^{25t} \\sin 100t$",
             "d": "$I(t) = 2te^{25t} \\cos 100t$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Laplace Transform"
+        "sub_category": "Laplace Transform",
+        "solutions": [
+            {
+                "solution_id": "sol_69a068f441d94",
+                "user": "John",
+                "chosen_option": "a",
+                "image": "uploads\/solution_269_1772120308.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 270,
@@ -134,10 +198,14 @@
             "c": "$9i + 7j$",
             "d": "$2i - 8j$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Vector Analysis"
+        "sub_category": "Vector Analysis",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 271,
@@ -148,10 +216,14 @@
             "c": "$\\ln |x + y| = x^2 + C$",
             "d": "$\\ln |xy| = y^2 + C$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Advanced Math"
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 272,
@@ -162,24 +234,32 @@
             "c": "-32j",
             "d": "32k"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Vector Analysis"
+        "sub_category": "Vector Analysis",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 273,
         "question": "Evaluate the integral: $\\int_0^1 \\int_0^2 (5x^2y - 8xy^3) dx dy$",
         "options": {
-            "a": "116/7",
-            "b": "400/13",
+            "a": "116\/7",
+            "b": "400\/13",
             "c": "-80",
             "d": "-230"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Advanced Math"
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 274,
@@ -187,27 +267,35 @@
         "options": {
             "a": "2",
             "b": "71",
-            "c": "11/5",
+            "c": "11\/5",
             "d": "-5"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Advanced Math"
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 275,
         "question": "Evaluate the integral: $\\int_0^{2\\pi} \\int_0^2 (r \\sin(\\theta) - r^2) dr d\\theta$",
         "options": {
-            "a": "$-16\\pi/3$",
-            "b": "$45\\pi/6$",
-            "c": "$\\pi/8$",
+            "a": "$-16\\pi\/3$",
+            "b": "$45\\pi\/6$",
+            "c": "$\\pi\/8$",
             "d": "$\\pi^2$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Advanced Math"
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 276,
@@ -218,38 +306,76 @@
             "c": "-10",
             "d": "zero"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Advanced Math"
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 277,
         "question": "Determine the Laplace transform of $e^{2t} \\cos(3t)$",
         "options": {
-            "a": "$(s + 2)/(s^2 + 4s + 13)$",
-            "b": "$(s + 2)/(s^2 - 4s + 21)$",
-            "c": "$(s - 2)/(s^2 + 4s + 21)$",
-            "d": "$(s - 2)/(s^2 - 4s + 13)$"
+            "a": "$(s + 2)\/(s^2 + 4s + 13)$",
+            "b": "$(s + 2)\/(s^2 - 4s + 21)$",
+            "c": "$(s - 2)\/(s^2 + 4s + 21)$",
+            "d": "$(s - 2)\/(s^2 - 4s + 13)$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Laplace Transform"
+        "sub_category": "Laplace Transform",
+        "solutions": [
+            {
+                "solution_id": "sol_69a063513cd94",
+                "user": "John",
+                "chosen_option": "d",
+                "image": "uploads\/solution_277_1772118865.jpg"
+            },
+            {
+                "solution_id": "sol_69a0691de01d5",
+                "user": "John",
+                "chosen_option": "d",
+                "image": "uploads\/solution_277_1772120349.jpg"
+            },
+            {
+                "solution_id": "sol_69a0693a53636",
+                "user": "John",
+                "chosen_option": "d",
+                "image": "uploads\/solution_277_1772120378.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 278,
-        "question": "Determine the inverse Laplace of $(3s + 6)/(s^2 + 3s)$",
+        "question": "Determine the inverse Laplace of $(3s + 6)\/(s^2 + 3s)$",
         "options": {
             "a": "$2 + e^{-3t}$",
             "b": "$3 - e^{-3t}$",
             "c": "$5e^{-3t}$",
             "d": "$1 + 2e^{3t}$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Laplace Transform"
+        "sub_category": "Laplace Transform",
+        "solutions": [
+            {
+                "solution_id": "sol_69a063a51027c",
+                "user": "John",
+                "chosen_option": "a",
+                "image": "uploads\/solution_278_1772118949.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 279,
@@ -260,10 +386,14 @@
             "c": "$-2yi - 4xk + 3zk$",
             "d": "$2zi + 3yk - 6xk$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Vector Analysis"
+        "sub_category": "Vector Analysis",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 280,
@@ -274,9 +404,20 @@
             "c": "$1 + i$",
             "d": "$1 - i$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Advanced Math"
+        "sub_category": "Advanced Math",
+        "solutions": [
+            {
+                "solution_id": "sol_699ff0033db99",
+                "user": "Joy",
+                "chosen_option": "a",
+                "image": "uploads\/solution_280_1772089347.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     }
 ]

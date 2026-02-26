@@ -1,0 +1,382 @@
+[
+    {
+        "id": 2189,
+        "question": "Evaluate: (1 + i)¹⁰",
+        "options": {
+            "a": "16i",
+            "b": "32i",
+            "c": "-32i",
+            "d": "-16i"
+        },
+        "answer": "b",
+        "correct_answer_text": "32i",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2190,
+        "question": "Determine the Laplace transform of 3e^(-4t).",
+        "options": {
+            "a": "3/(s + 4)",
+            "b": "6/(s - 4)",
+            "c": "3/(s - 4)",
+            "d": "-6/(s + 4)"
+        },
+        "answer": "a",
+        "correct_answer_text": "3/(s + 4)",
+        "category": "Math",
+        "sub_category": "Laplace Transform",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2191,
+        "question": "A 10-ohm resistance R and a 1.0-Henry inductance L are in series with an AC voltage e(t) = 100 sin(377t). Solve for the particular solution and determine the amplitude of the resulting sinusoidal current i(t).",
+        "options": {
+            "a": "0.292 A",
+            "b": "0.241 A",
+            "c": "0.321 A",
+            "d": "0.265 A"
+        },
+        "answer": "d",
+        "correct_answer_text": "0.265 A",
+        "category": "Math",
+        "sub_category": "Differential Equation",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2192,
+        "question": "Evaluate the Inverse Laplace Transform of 6 / (s² + 4).",
+        "options": {
+            "a": "3cosh2t",
+            "b": "3sin2t",
+            "c": "3sinh2t",
+            "d": "3cos2t"
+        },
+        "answer": "b",
+        "correct_answer_text": "3sin2t",
+        "category": "Math",
+        "sub_category": "Laplace Transform",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2193,
+        "question": "Evaluate: sinh(5 + j5).",
+        "options": {
+            "a": "71.16 - j21.05",
+            "b": "21.05 + j71.16",
+            "c": "21.05 - j71.16",
+            "d": "71.16 + j21.05"
+        },
+        "answer": "b",
+        "correct_answer_text": "21.05 + j71.16",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2194,
+        "question": "Given the equations: x + y + z = 2; 3x - y - 2z = 4; and 5x - 2y + 3z = -7. Solve for y by Gaussian elimination.",
+        "options": {
+            "a": "1",
+            "b": "-2",
+            "c": "0",
+            "d": "3"
+        },
+        "answer": "d",
+        "correct_answer_text": "3",
+        "category": "Math",
+        "sub_category": "Numerical Methods",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2195,
+        "question": "Which statement correctly distinguishes the Gauss-Seidel Method from the Jacobi Method?",
+        "options": {
+            "a": "Gauss-Seidel updates all variables simultaneously.",
+            "b": "Jacobi typically converges faster than Gauss-Seidel for diagonally dominant matrices.",
+            "c": "Gauss-Seidel uses the most recently updated values during iteration, while Jacobi uses only values from the previous iteration.",
+            "d": "Both are direct methods."
+        },
+        "answer": "c",
+        "correct_answer_text": "Gauss-Seidel Method uses the most recently updated values during iteration, while the Jacobi Method uses only values from the previous iteration.",
+        "category": "Math",
+        "sub_category": "Numerical Methods",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2196,
+        "question": "Which of the following is a true property of the Bisection method when solving f(x) = 0?",
+        "options": {
+            "a": "It converges quadratically under most conditions.",
+            "b": "It requires knowledge of the derivative of the function.",
+            "c": "It guarantees convergence if the initial interval brackets the root and f(x) is continuous.",
+            "d": "It is faster than the Newton-Raphson method in all cases."
+        },
+        "answer": "c",
+        "correct_answer_text": "It guarantees convergence if the initial interval brackets the root and f(x) is continuous.",
+        "category": "Math",
+        "sub_category": "Numerical Methods",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2197,
+        "question": "Which of the following statements correctly compares the Newton-Raphson method and the Bisection method for finding roots?",
+        "options": {
+            "a": "Newton-Raphson requires the derivative of the function, while Bisection does not.",
+            "b": "Bisection method converges faster than Newton-Raphson in most cases.",
+            "c": "Newton-Raphson always guarantees convergence, while Bisection does not.",
+            "d": "Both methods require two initial guesses."
+        },
+        "answer": "a",
+        "correct_answer_text": "Newton-Raphson requires the derivative of the function, while Bisection does not.",
+        "category": "Math",
+        "sub_category": "Numerical Methods",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2198,
+        "question": "Derive the expression: d/dx(ln(ix / (i + x)))",
+        "options": {
+            "a": "2i / (x² + i)",
+            "b": "i / (x² + ix)",
+            "c": "2i / (ix + 1)",
+            "d": "i / (x + 2 - i)"
+        },
+        "answer": "b",
+        "correct_answer_text": "i / (x² + ix)",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2199,
+        "question": "Evaluate: ln(2 + j3)",
+        "options": {
+            "a": "1.34 + j0.32",
+            "b": "2.54 + j0.866",
+            "c": "2.23 + j0.2",
+            "d": "1.28 + j0.98"
+        },
+        "answer": "d",
+        "correct_answer_text": "1.28 + j0.98",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2200,
+        "question": "Derive the expression: d/dx(i sin(5ix))",
+        "options": {
+            "a": "5icos(5x)",
+            "b": "-5cosh(ix)",
+            "c": "-5cosh(5x)",
+            "d": "-5cos(5x)"
+        },
+        "answer": "c",
+        "correct_answer_text": "-5cosh(5x)",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2201,
+        "question": "Inverse the s-domain Laplace function: F(s) = (2s + 3) / (s² + 4s + 13)",
+        "options": {
+            "a": "e^(-2t)(2 cos(3t) + 3 sin(3t))",
+            "b": "e^(-2t)(2 cos(3t) - (1/3)sin(3t))",
+            "c": "e^(2t)(2 cos(3t) - 3 sin(3t))",
+            "d": "e^(2t)(2 cos(3t) + (1/2)sin(3t))"
+        },
+        "answer": "b",
+        "correct_answer_text": "e^(-2t)(2 cos(3t) - (1/3)sin(3t))",
+        "category": "Math",
+        "sub_category": "Laplace Transform",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2202,
+        "question": "Integrate: ∫ (ix⁴ + 2ix) dx from i to 6i.",
+        "options": {
+            "a": "1314/7 + 9i",
+            "b": "11/7 - 9i",
+            "c": "646/5 + 8i",
+            "d": "-242/5 - 8i"
+        },
+        "answer": "d",
+        "correct_answer_text": "-242/5 - 8i",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2203,
+        "question": "Integrate: ∫ 2026 x²⁰²⁵ dx from 0 to i.",
+        "options": {
+            "a": "3240i",
+            "b": "2026/17 + 111/17",
+            "c": "-1",
+            "d": "0"
+        },
+        "answer": "c",
+        "correct_answer_text": "-1",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2204,
+        "question": "Determine the Laplace transform: L{e^(t) cos²(t)}",
+        "options": {
+            "a": "(s² + 4s - 3) / (s³ + 6s² + 9s - 6)",
+            "b": "(s² - 2s + 3) / (s³ - 3s² + 7s - 5)",
+            "c": "(s² + 2s - 6) / (s³ + 4s² + 9s - 5)",
+            "d": "(s² - 2s + 8) / (s³ + 3s² + 7s + 6)"
+        },
+        "answer": "b",
+        "correct_answer_text": "(s² - 2s + 3) / (s³ - 3s² + 7s - 5)",
+        "category": "Math",
+        "sub_category": "Laplace Transform",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2205,
+        "question": "Determine the inverse Laplace transform of I(s) = 200 / (s² - 50s + 10,625).",
+        "options": {
+            "a": "I(t) = 2e^(25t) sin(100t)",
+            "b": "I(t) = 2e^(-25t) cos(100t)",
+            "c": "I(t) = 2te^(-25t) sin(100t)",
+            "d": "I(t) = 2te^(-25t) cos(100t)"
+        },
+        "answer": "a",
+        "correct_answer_text": "I(t) = 2e^(25t) sin(100t)",
+        "category": "Math",
+        "sub_category": "Laplace Transform",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2206,
+        "question": "If A = xzi - y²j + 2x²yk, find the curl of A at (2, 1, 3).",
+        "options": {
+            "a": "-4i + 7j",
+            "b": "8i - 6j",
+            "c": "9i + 7j",
+            "d": "8i + 8k"
+        },
+        "answer": "d",
+        "correct_answer_text": "8i + 8k",
+        "category": "Math",
+        "sub_category": "Vector Analysis",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2207,
+        "question": "Solve the D.E.: x dy + (y - 2x²y) dx = 0.",
+        "options": {
+            "a": "ln |xy| = x² + C",
+            "b": "ln |x + y| = y² + C",
+            "c": "ln |x + y| = x² + C",
+            "d": "ln |xy| = y² + C"
+        },
+        "answer": "a",
+        "correct_answer_text": "ln |xy| = x² + C",
+        "category": "Math",
+        "sub_category": "Differential Equation",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2208,
+        "question": "Determine the gradient of (3x³y - 2xz⁴) at (0, 1, 2).",
+        "options": {
+            "a": "32",
+            "b": "-32i",
+            "c": "-32j",
+            "d": "32k"
+        },
+        "answer": "b",
+        "correct_answer_text": "-32i",
+        "category": "Math",
+        "sub_category": "Vector Analysis",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    }
+]

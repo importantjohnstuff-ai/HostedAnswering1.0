@@ -1,0 +1,382 @@
+[
+    {
+        "id": 2029,
+        "question": "Integrate the expression ∫ (3z² + i) dz from 1 to 2i + 1:",
+        "options": {
+            "a": "-14 - 21i",
+            "b": "16 - 15i",
+            "c": "-17 + 21i",
+            "d": "11 - 16i"
+        },
+        "answer": "a",
+        "correct_answer_text": "-14 - 21i",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2030,
+        "question": "Find the limit of the complex expression (z² - 6iz - 5) / (z² - 1) as z approaches i?",
+        "options": {
+            "a": "5i",
+            "b": "+infinity",
+            "c": "3 - 3i",
+            "d": "zero"
+        },
+        "answer": "c",
+        "correct_answer_text": "3 - 3i",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2031,
+        "question": "Which of the following method of integration uses series of quadratic curves, or parabolas in approximating definite integrals?",
+        "options": {
+            "a": "trapezoidal rule",
+            "b": "rectangular rule",
+            "c": "Simpson's rule",
+            "d": "Peter Griffin"
+        },
+        "answer": "c",
+        "correct_answer_text": "Simpson's rule",
+        "category": "Math",
+        "sub_category": "Numerical Methods",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2032,
+        "question": "Simplify the limit: lim (ix² - x) / x as x approaches i:",
+        "options": {
+            "a": "0",
+            "b": "-i",
+            "c": "-2",
+            "d": "2i"
+        },
+        "answer": "c",
+        "correct_answer_text": "-2",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2033,
+        "question": "Evaluate the following limit: lim x->0 [(1 + 2ix + 3x²) - 1] / x",
+        "options": {
+            "a": "2i",
+            "b": "3",
+            "c": "2i + 3",
+            "d": "0"
+        },
+        "answer": "a",
+        "correct_answer_text": "2i",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2034,
+        "question": "Derive the expression ln(x + i):",
+        "options": {
+            "a": "1 / (x + i)",
+            "b": "i / (x + i)",
+            "c": "1 / x + i",
+            "d": "1 / i + x"
+        },
+        "answer": "a",
+        "correct_answer_text": "1 / (x + i)",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2035,
+        "question": "Find the limit of (2z³ - iz) / (z - i) as z approaches i + 1?",
+        "options": {
+            "a": "5 + 6i / 7",
+            "b": "-3 + 3i",
+            "c": "-4 - 6i / 7",
+            "d": "150"
+        },
+        "answer": "b",
+        "correct_answer_text": "-3 + 3i",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2036,
+        "question": "Find the derivative: f(x) = 1 / (x + i)",
+        "options": {
+            "a": "1 / (x + i)²",
+            "b": "-1 / (x + i)²",
+            "c": "i / (x + i)²",
+            "d": "-i / (x + i)²"
+        },
+        "answer": "b",
+        "correct_answer_text": "-1 / (x + i)²",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2037,
+        "question": "Evaluate the derivative: d/dx (3ix⁴ - 2ix³)",
+        "options": {
+            "a": "3ix²(-1 + 3x)",
+            "b": "6ix²(-1 + 2x)",
+            "c": "4ix²(1 - 2x)",
+            "d": "12ix³ - 6ix²"
+        },
+        "answer": "d",
+        "correct_answer_text": "12ix³ - 6ix²",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2038,
+        "question": "Perform the derivative: d/dx (ln(ix²))",
+        "options": {
+            "a": "i / x",
+            "b": "x + i",
+            "c": "2 / x",
+            "d": "2i / x"
+        },
+        "answer": "c",
+        "correct_answer_text": "2 / x",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2039,
+        "question": "Find the area bounded by the curve y = x^2 + 2 and the lines x = 0, y = 0, and x = 4.",
+        "options": {
+            "a": "88/3 sq. units",
+            "b": "64/3 sq. units",
+            "c": "5.4/3 sq. units",
+            "d": "64/5 sq. units"
+        },
+        "answer": "a",
+        "correct_answer_text": "88/3 sq. units",
+        "category": "Math",
+        "sub_category": "Integral Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2040,
+        "question": "What is the perimeter of a Norman window of the Sistine Chapel if the maximum illumination sought is 50 ft²?",
+        "options": {
+            "a": "13.78 ft",
+            "b": "26.72 ft",
+            "c": "78.53 ft",
+            "d": "34.78 ft"
+        },
+        "answer": "b",
+        "correct_answer_text": "26.72 ft",
+        "category": "Math",
+        "sub_category": "Minima/Maxima",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2041,
+        "question": "A triangular region in the first quadrant is bounded by x = 0, y = 0, and x + y = 2. Find the moment of area about the y-axis.",
+        "options": {
+            "a": "3/7",
+            "b": "2/5",
+            "c": "4/3",
+            "d": "2/9"
+        },
+        "answer": "c",
+        "correct_answer_text": "4/3",
+        "category": "Math",
+        "sub_category": "Integral Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2042,
+        "question": "The motion of a dodge ball is given by x(t) = 60t^2 + 2t + 10 where x is in feet and t is in minutes. What is the acceleration of the ball at t = 3 min?",
+        "options": {
+            "a": "140",
+            "b": "100",
+            "c": "90",
+            "d": "120"
+        },
+        "answer": "d",
+        "correct_answer_text": "120",
+        "category": "Math",
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2043,
+        "question": "Find the moment of area about the y-axis for the region bounded by x = y^2 and x = 4, extending from y = -2 to y = 2.",
+        "options": {
+            "a": "128/5",
+            "b": "144/13",
+            "c": "107/9",
+            "d": "115/11"
+        },
+        "answer": "a",
+        "correct_answer_text": "128/5",
+        "category": "Math",
+        "sub_category": "Integral Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2044,
+        "question": "A trough is 8 ft long with trapezoidal sides (3 ft top, 2 ft bottom, 1 ft deep). It contains gasoline to a height of 0.8 ft. Determine the volume of gasoline.",
+        "options": {
+            "a": "12.86 ft³",
+            "b": "17.54 ft³",
+            "c": "10.97 ft³",
+            "d": "15.36 ft³"
+        },
+        "answer": "d",
+        "correct_answer_text": "15.36 ft³",
+        "category": "Math",
+        "sub_category": "Geometry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2045,
+        "question": "A spherical snow ball melts such that its surface area decreases at a rate of 1 cm²/min. How fast is its radius shrinking when it is 3 cm?",
+        "options": {
+            "a": "-1/24pi",
+            "b": "-1/48pi",
+            "c": "-1/20pi",
+            "d": "-1/12pi"
+        },
+        "answer": "a",
+        "correct_answer_text": "-1/24pi",
+        "category": "Math",
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2046,
+        "question": "What is the area bounded by the polar curve r = 5cos(θ)?",
+        "options": {
+            "a": "14pi/3",
+            "b": "15pi/4",
+            "c": "25pi/4",
+            "d": "25pi/3"
+        },
+        "answer": "c",
+        "correct_answer_text": "25pi/4",
+        "category": "Math",
+        "sub_category": "Geometry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2047,
+        "question": "What is the maximum area of a rectangle whose base is on the x-axis and whose upper two vertices lie on the parabola y = 12 - x^2?",
+        "options": {
+            "a": "32",
+            "b": "16",
+            "c": "54",
+            "d": "20"
+        },
+        "answer": "a",
+        "correct_answer_text": "32",
+        "category": "Math",
+        "sub_category": "Minima/Maxima",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2048,
+        "question": "What is the moment of inertia of the area bounded by y = x^2 and y + 3x = 4 when rotated about x = 5?",
+        "options": {
+            "a": "3423/13",
+            "b": "3625/4",
+            "c": "113/18",
+            "d": "11/9"
+        },
+        "answer": "b",
+        "correct_answer_text": "3625/4",
+        "category": "Math",
+        "sub_category": "Integral Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    }
+]

@@ -1,0 +1,382 @@
+[
+    {
+        "id": 2389,
+        "question": "Find the principal root of the 5th root of [50(cos 150° + i sin 150°)].",
+        "options": {
+            "a": "1.9 + j1.1",
+            "b": "3.26 - j2.1",
+            "c": "2.87 + j2.1",
+            "d": "2.25 - j1.2"
+        },
+        "answer": "a",
+        "correct_answer_text": "1.9 + j1.1",
+        "category": "Math",
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2390,
+        "question": "Express the power (1 + i)^8 in rectangular form.",
+        "options": {
+            "a": "16",
+            "b": "8i",
+            "c": "1 - i",
+            "d": "-6"
+        },
+        "answer": "a",
+        "correct_answer_text": "16",
+        "category": "Math",
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2391,
+        "question": "Find the 10th term of 3, 6, 12, 24...",
+        "options": {
+            "a": "1563",
+            "b": "1653",
+            "c": "1356",
+            "d": "1536"
+        },
+        "answer": "d",
+        "correct_answer_text": "1536",
+        "category": "Math",
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2392,
+        "question": "A dice is tossed five times. What is the probability that more than two times it will show an even number?",
+        "options": {
+            "a": "2/5",
+            "b": "1/5",
+            "c": "1/3",
+            "d": "1/2"
+        },
+        "answer": "d",
+        "correct_answer_text": "1/2",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2393,
+        "question": "The average national passing rate in the CMP board exam from 2018-2023 are 45.6%, 33.21%, 64.7%, 54.3% and 37.8%. What is the probability that the national passing rate in 2022 will be more than 60%?",
+        "options": {
+            "a": "9.86%",
+            "b": "43.2%",
+            "c": "12.8%",
+            "d": "32.6%"
+        },
+        "answer": "c",
+        "correct_answer_text": "12.8%",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2394,
+        "question": "Suppose we want to know whether or not the mean weight of a certain species of hawksbill turtle in Palawan is equal to 310 pounds. The t-test should be:",
+        "options": {
+            "a": "two-tailed",
+            "b": "right tailed",
+            "c": "left tailed",
+            "d": "three tailed"
+        },
+        "answer": "a",
+        "correct_answer_text": "two-tailed",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2395,
+        "question": "How many 4 digit number can be formed without repeating any digit, from the following digit 1,2,3,4 and 6.",
+        "options": {
+            "a": "150",
+            "b": "120",
+            "c": "140",
+            "d": "130"
+        },
+        "answer": "b",
+        "correct_answer_text": "120",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2396,
+        "question": "How many ways can 3 men and 4 women be seated on a bench if the women to be together?",
+        "options": {
+            "a": "720",
+            "b": "576",
+            "c": "5040",
+            "d": "1024"
+        },
+        "answer": "b",
+        "correct_answer_text": "576",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2397,
+        "question": "A dice is rolled 9 times. Find the probability of having a 'THREE' 2 times?",
+        "options": {
+            "a": "1/3250",
+            "b": "1/5530",
+            "c": "1/5651",
+            "d": "1/2187"
+        },
+        "answer": "d",
+        "correct_answer_text": "1/2187",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2398,
+        "question": "In problem no. 6, find the probability of having 'THREE' more than 5 times:",
+        "options": {
+            "a": "2.34%",
+            "b": "0.113%",
+            "c": "0.084%",
+            "d": "99.6%"
+        },
+        "answer": "c",
+        "correct_answer_text": "0.084%",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2399,
+        "question": "Concrete blocks are tested and it is found that, on average, 7% fail to meet the required specification. For a batch of 9 blocks, determine the probabilities that 2 or less blocks will fail to meet the specification.",
+        "options": {
+            "a": "97.11%",
+            "b": "97.91%",
+            "c": "100%",
+            "d": "99.56%"
+        },
+        "answer": "d",
+        "correct_answer_text": "99.56%",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2400,
+        "question": "A manufacturer estimates that 3% of his output of a small item is defective. Find the probabilities that in a sample of 10 items more than two items will be defective.",
+        "options": {
+            "a": "0.28%",
+            "b": "1.34%",
+            "c": "0.62%",
+            "d": "1.05%"
+        },
+        "answer": "a",
+        "correct_answer_text": "0.28%",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2401,
+        "question": "On the average, five out of 20 of cane stalks are rejected due to low juice content. What is the probability that out of 100 stalks in a truck more less than 19 will be rejected?",
+        "options": {
+            "a": "9.2%",
+            "b": "5.66%",
+            "c": "3.21%",
+            "d": "33.3%"
+        },
+        "answer": "c",
+        "correct_answer_text": "3.21%",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2402,
+        "question": "Petron Pilipinas estimates that 0.25% of their output of a component are defective. The components are marketed in packets of 200. Determine the probability of a packet containing less than three defective components.",
+        "options": {
+            "a": "0.9856",
+            "b": "0.9637",
+            "c": "0.9912",
+            "d": "0.9721"
+        },
+        "answer": "a",
+        "correct_answer_text": "0.9856",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2403,
+        "question": "The mean thickness of a spline from a mechanical shop is 23.67 mm with standard deviation of 2.42 mm. What is the probability that a spline will measure more than 22.78 mm considering tolerance offset?",
+        "options": {
+            "a": "30.55%",
+            "b": "69.32%",
+            "c": "64.35%",
+            "d": "35.65%"
+        },
+        "answer": "c",
+        "correct_answer_text": "64.35%",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2404,
+        "question": "How many 3-letter word can be generated from the word, STRESS?",
+        "options": {
+            "a": "31",
+            "b": "47",
+            "c": "21",
+            "d": "34"
+        },
+        "answer": "a",
+        "correct_answer_text": "31",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2405,
+        "question": "How many ways can 4 letters, 4 numbers, 4 symbols, and 4 shapes be arranged in a 16-element code such that there is alternation?",
+        "options": {
+            "a": "7,962,624",
+            "b": "7,765,320",
+            "c": "1,8965,940",
+            "d": "none of these"
+        },
+        "answer": "d",
+        "correct_answer_text": "none of these",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2406,
+        "question": "In a 15-item true or false question test, what is the probability that you will get a raw score of more than 10?",
+        "options": {
+            "a": "13.21%",
+            "b": "5.92%",
+            "c": "48.54%",
+            "d": "89.65%"
+        },
+        "answer": "b",
+        "correct_answer_text": "5.92%",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2407,
+        "question": "Seven dice is tossed at once. What is the probability that at more than five will show an odd number?",
+        "options": {
+            "a": "1/16",
+            "b": "7/18",
+            "c": "3/16",
+            "d": "5/16"
+        },
+        "answer": "a",
+        "correct_answer_text": "1/16",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2408,
+        "question": "A coin is tossed three times. What is the probability that at most 2 will be tails?",
+        "options": {
+            "a": "3/8",
+            "b": "1/8",
+            "c": "7/8",
+            "d": "5/8"
+        },
+        "answer": "c",
+        "correct_answer_text": "7/8",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    }
+]

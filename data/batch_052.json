@@ -1,0 +1,382 @@
+[
+    {
+        "id": 2109,
+        "question": "Evaluate the integral: ∫∫ (r cos(θ) - sin(θ)) dr dθ from θ=0 to pi and r=-1 to 4.",
+        "options": {
+            "a": "-4",
+            "b": "-15",
+            "c": "-10",
+            "d": "zero"
+        },
+        "answer": "c",
+        "correct_answer_text": "-10",
+        "category": "Math",
+        "sub_category": "Integral Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2110,
+        "question": "Find the curl of the vector {3xy, 2yz, 4xz}.",
+        "options": {
+            "a": "-2yi - 4zj - 3xk",
+            "b": "2yi - 6zj + 3xk",
+            "c": "-2yi - 4xk + 3zk",
+            "d": "2zi + 3yk - 6xk"
+        },
+        "answer": "c",
+        "correct_answer_text": "-2yi - 4xk + 3zk",
+        "category": "Math",
+        "sub_category": "Vector Analysis",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2111,
+        "question": "Evaluate L{t^n}.",
+        "options": {
+            "a": "n! / s^n",
+            "b": "n! / s^(n+1)",
+            "c": "n! / s^(n-1)",
+            "d": "n! / s^(n+2)"
+        },
+        "answer": "b",
+        "correct_answer_text": "n! / s^(n+1)",
+        "category": "Math",
+        "sub_category": "Laplace Transform",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2112,
+        "question": "What is the second term of the Taylor expansion for sin(3x)?",
+        "options": {
+            "a": "x^2/2",
+            "b": "-9x^3/2",
+            "c": "-3x^2/2",
+            "d": "-27x^4/2"
+        },
+        "answer": "b",
+        "correct_answer_text": "-9x^3/2",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2113,
+        "question": "What is the convolution f * g if f = 4x and g = x^2?",
+        "options": {
+            "a": "16t^3 / 3",
+            "b": "-16t^4 / 5",
+            "c": "4t^4 / 5",
+            "d": "t^4 / 3"
+        },
+        "answer": "d",
+        "correct_answer_text": "t^4 / 3",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2114,
+        "question": "Determine the divergence of the field B = x²i - yj + yzk at (1, 2, 4)?",
+        "options": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4"
+        },
+        "answer": "c",
+        "correct_answer_text": "3",
+        "category": "Math",
+        "sub_category": "Vector Analysis",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2115,
+        "question": "Temperature distribution in a valley is given by T(x,y,z) = 25xy² - 3zx², what is the magnitude of grad (T) at (5, 2, 1)?",
+        "options": {
+            "a": "510.42",
+            "b": "47.89",
+            "c": "115.64",
+            "d": "0.7682"
+        },
+        "answer": "a",
+        "correct_answer_text": "510.42",
+        "category": "Math",
+        "sub_category": "Vector Analysis",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2116,
+        "question": "If the momentum field of proton in an accelerator is given by P = xyi - yj - x²k, determine the value of the curl (P) at the point (3, 4, 1)?",
+        "options": {
+            "a": "6j + 3k",
+            "b": "4i + 3k",
+            "c": "5j",
+            "d": "-8k"
+        },
+        "answer": "a",
+        "correct_answer_text": "6j + 3k",
+        "category": "Math",
+        "sub_category": "Vector Analysis",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2117,
+        "question": "Given the charge distribution on a lamina as Q = xy² + z³ and the path f = xi - zj + yk, find the value of the grad (Q) • f at (2, 1, -1)?",
+        "options": {
+            "a": "6",
+            "b": "9",
+            "c": "12",
+            "d": "15"
+        },
+        "answer": "c",
+        "correct_answer_text": "12",
+        "category": "Math",
+        "sub_category": "Vector Analysis",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2118,
+        "question": "Perform the integration: ∫ (z - z²) dz from i to i+1",
+        "options": {
+            "a": "1",
+            "b": "-2i",
+            "c": "-7/6",
+            "d": "3+4i/7"
+        },
+        "answer": "c",
+        "correct_answer_text": "-7/6",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2119,
+        "question": "Compute the limit: (z³ + 6iz² + 12z + 8i) / (z - 2i) as z approaches 2i?",
+        "options": {
+            "a": "12i",
+            "b": "12 + 8i",
+            "c": "-24",
+            "d": "8 - 16i"
+        },
+        "answer": "c",
+        "correct_answer_text": "-24",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2120,
+        "question": "Determine the equation of the plane passing (2, 4, 5) parallel to another plane with equation 3x + 5y - 6z - 10 = 0?",
+        "options": {
+            "a": "3x + 5y - 6z + 15 = 0",
+            "b": "3x + 5y - 6z + 57 = 0",
+            "c": "3x + 5y - 6z + 78 = 0",
+            "d": "3x + 5y - 6z + 4 = 0"
+        },
+        "answer": "d",
+        "correct_answer_text": "3x + 5y - 6z + 4 = 0",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2121,
+        "question": "What is the equation of the 3-D line in parametric form passing (1/3, 2, 1) and parallel to the plane x - 7y + 3z = 9?",
+        "options": {
+            "a": "{1/2-t, 4, -4+t}",
+            "b": "{1/3+t, 2, -1-2t}",
+            "c": "{1/2+2t, 2, -2t}",
+            "d": "(1/3+t, -4, 1/2-2t)"
+        },
+        "answer": "b",
+        "correct_answer_text": "{1/3+t, 2, -1-2t}",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2122,
+        "question": "Determine the equation of the plane in R³ formed by the points (1/4, 3, -1), (0, -2, 1) and (3, 1/2, 5)?",
+        "options": {
+            "a": "140x - 78y - 245z + 117 = 0",
+            "b": "200x - 56y - 115z + 3 = 0",
+            "c": "200x + 89y + 35z + 11 = 0",
+            "d": "200x + 89y - 40z - 89 = 0"
+        },
+        "answer": "d",
+        "correct_answer_text": "200x + 89y - 40z - 89 = 0",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2123,
+        "question": "If f (x, y, z) = 3xz²y - y³z², find grad f at the point (1, -2, -1):",
+        "options": {
+            "a": "-(12i - 9j - 4k)",
+            "b": "-(12i - 9j + 4k)",
+            "c": "-(16i + 9j + 4k)",
+            "d": "-(16i - 6j + 4k)"
+        },
+        "answer": "b",
+        "correct_answer_text": "-(12i - 9j + 4k)",
+        "category": "Math",
+        "sub_category": "Vector Analysis",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2124,
+        "question": "What is the Laplace transform of 3t² u(t-1)?",
+        "options": {
+            "a": "e^-s (6/s³ - 6/s² - 3/s)",
+            "b": "e^s (6/s³ + 6/s² + 3/s)",
+            "c": "e^-s (6/s³ + 6/s² + 3/s)",
+            "d": "e^s (6/s³ - 6/s² - 3/s)"
+        },
+        "answer": "c",
+        "correct_answer_text": "e^-s (6/s³ + 6/s² + 3/s)",
+        "category": "Math",
+        "sub_category": "Laplace Transform",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2125,
+        "question": "What is the Laplace transform of sinh (3t)/t for s > 3?",
+        "options": {
+            "a": "(1/4) ln((s+3)/(s+6))",
+            "b": "(1/4) ln((s+3)/(s-6))",
+            "c": "(1/2) ln(s/(s+3))",
+            "d": "(1/2) ln((s+3)/(s-3))"
+        },
+        "answer": "d",
+        "correct_answer_text": "(1/2) ln((s+3)/(s-3))",
+        "category": "Math",
+        "sub_category": "Laplace Transform",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2126,
+        "question": "Determine the Laplace transform: L{e^(-3t) sinh(2t)}",
+        "options": {
+            "a": "3 / (s² - 6s + 4)",
+            "b": "2 / (s² + 6s + 5)",
+            "c": "3 / (s² + 4s - 6)",
+            "d": "4 / (s² + 6s + 6)"
+        },
+        "answer": "b",
+        "correct_answer_text": "2 / (s² + 6s + 5)",
+        "category": "Math",
+        "sub_category": "Laplace Transform",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2127,
+        "question": "What is the Laplace transform of t sin(2t) e^(-4t)?",
+        "options": {
+            "a": "(4s+16) / (s² + 8s + 20)²",
+            "b": "(s-4) / (s² + 4s + 20)²",
+            "c": "(s+4) / (s² + 4s + 20)²",
+            "d": "(s-16) / (s² + 8s + 20)³"
+        },
+        "answer": "a",
+        "correct_answer_text": "(4s+16) / (s² + 8s + 20)²",
+        "category": "Math",
+        "sub_category": "Laplace Transform",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2128,
+        "question": "Which of the following is the main difference between Gauss-Seidel and Gaussian elimination method of solving systems of equations?",
+        "options": {
+            "a": "Gauss-Seidel converge faster than Gaussian elimination",
+            "b": "Gauss-Seidel is non-iterative while Gaussian elimination is iterative",
+            "c": "Gauss-Seidel is iterative while Gaussian elimination is non-iterative",
+            "d": "Gauss-Seidel can solve even the sparse systems where some coefficients are zero."
+        },
+        "answer": "c",
+        "correct_answer_text": "Gauss-Seidel is iterative while Gaussian elimination is non-iterative",
+        "category": "Math",
+        "sub_category": "Numerical Methods",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    }
+]

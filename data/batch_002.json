@@ -272,7 +272,14 @@
         "correct_answer_text": "",
         "category": "Math",
         "sub_category": "Differential Calculus",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_699ff2a650330",
+                "user": "Joy",
+                "chosen_option": "a",
+                "image": "uploads\/solution_32_1772090022.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
@@ -290,7 +297,14 @@
         "correct_answer_text": "",
         "category": "Math",
         "sub_category": "Differential Calculus",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_699fe2f104e0a",
+                "user": "mark",
+                "chosen_option": "a",
+                "image": "uploads\/solution_33_1772086001.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
@@ -326,8 +340,15 @@
         "correct_answer_text": "",
         "category": "Math",
         "sub_category": "Differential Calculus",
-        "solutions": [],
-        "locked_by": "John",
+        "solutions": [
+            {
+                "solution_id": "sol_699fe0e58751e",
+                "user": "John",
+                "chosen_option": "b",
+                "image": "uploads\/solution_35_1772085477.jpg"
+            }
+        ],
+        "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
         "hidden_by": null
@@ -344,8 +365,15 @@
         "correct_answer_text": "",
         "category": "Math",
         "sub_category": "Integral Calculus",
-        "solutions": [],
-        "locked_by": "John",
+        "solutions": [
+            {
+                "solution_id": "sol_699fe7593799b",
+                "user": "Anonymous",
+                "chosen_option": "a",
+                "image": "uploads\/solution_36_1772087129.jpg"
+            }
+        ],
+        "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
         "hidden_by": null
@@ -362,7 +390,14 @@
         "correct_answer_text": "",
         "category": "Math",
         "sub_category": "Integral Calculus",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_69a05d885936c",
+                "user": "John",
+                "chosen_option": "c",
+                "image": "uploads\/solution_37_1772117384.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
@@ -380,7 +415,14 @@
         "correct_answer_text": "",
         "category": "Math",
         "sub_category": "Differential Calculus",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_699fe19ea983d",
+                "user": "Anonymous",
+                "chosen_option": "c",
+                "image": "uploads\/solution_38_1772085662.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
@@ -398,7 +440,14 @@
         "correct_answer_text": "",
         "category": "Math",
         "sub_category": "Differential Calculus",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_699fe4158ef50",
+                "user": "Anonymous",
+                "chosen_option": "a",
+                "image": "uploads\/solution_39_1772086293.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
@@ -416,7 +465,14 @@
         "correct_answer_text": "",
         "category": "Math",
         "sub_category": "Differential Calculus",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_699fe84683013",
+                "user": "Anonymous",
+                "chosen_option": "b",
+                "image": "uploads\/solution_40_1772087366.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,

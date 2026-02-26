@@ -8,10 +8,14 @@
             "c": "$Ax^3 + Bx^4$",
             "d": "$Ax^3 + Bx^4 \\ln x$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Equation"
+        "sub_category": "Differential Equation",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 482,
@@ -22,10 +26,14 @@
             "c": "$\\sqrt{x + y} + y = C$",
             "d": "$\\sqrt{x^2 - y} + y = C$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Equation"
+        "sub_category": "Differential Equation",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 483,
@@ -36,10 +44,14 @@
             "c": "6780 MJ",
             "d": "2170 MJ"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Equation"
+        "sub_category": "Differential Equation",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 484,
@@ -50,10 +62,14 @@
             "c": "about 23,000 years ago",
             "d": "about 45,000 years ago"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Equation"
+        "sub_category": "Differential Equation",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 485,
@@ -64,52 +80,68 @@
             "c": "280 sec",
             "d": "80 sec"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Equation"
+        "sub_category": "Differential Equation",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 486,
         "question": "Determine the particular solution for the D.E.: $y'' + y = \\sin(2x)$",
         "options": {
-            "a": "$Y_p = (-1/3) \\sin(2x)$",
-            "b": "$Y_p = (2/3) \\cos(2x)$",
-            "c": "$Y_p = (-4/3) \\sin(2x)$",
-            "d": "$Y_p = (1/3) \\cos(2x)$"
+            "a": "$Y_p = (-1\/3) \\sin(2x)$",
+            "b": "$Y_p = (2\/3) \\cos(2x)$",
+            "c": "$Y_p = (-4\/3) \\sin(2x)$",
+            "d": "$Y_p = (1\/3) \\cos(2x)$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Equation"
+        "sub_category": "Differential Equation",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 487,
         "question": "Determine the particular solution for the D.E.: $y'' - 9y' + 8y = 5e^x$",
         "options": {
-            "a": "$Y_p = (-4/3)xe^x$",
-            "b": "$Y_p = (9/13)e^x$",
-            "c": "$Y_p = (-5/7)xe^x$",
-            "d": "$Y_p = (-2/5)e^x$"
+            "a": "$Y_p = (-4\/3)xe^x$",
+            "b": "$Y_p = (9\/13)e^x$",
+            "c": "$Y_p = (-5\/7)xe^x$",
+            "d": "$Y_p = (-2\/5)e^x$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Equation"
+        "sub_category": "Differential Equation",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 488,
-        "question": "**REELE APR2024:** Solve the O.D.E: $dy/dx = (x + 2y) / (3y - 2x)$",
+        "question": "**REELE APR2024:** Solve the O.D.E: $dy\/dx = (x + 2y) \/ (3y - 2x)$",
         "options": {
             "a": "$x^2 + 4xy - 3y^2 = C$",
             "b": "$x^2 + 2xy + 4y^2 = C$",
             "c": "$x^2 - 2y^2 = C$",
             "d": "$xy - 2y^2 = C$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Equation"
+        "sub_category": "Differential Equation",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 489,
@@ -120,52 +152,68 @@
             "c": "Inexact",
             "d": "Linear"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Equation"
+        "sub_category": "Differential Equation",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 490,
         "question": "Solve the particular solution of the higher-order D.E.: $y''' + 2y' + 2y = e^{3x}$",
         "options": {
-            "a": "$(1/12)e^{3x}$",
-            "b": "$(1/15)e^{3x}$",
-            "c": "$(2/3)e^{3x}$",
-            "d": "$(2/15)e^{3x}$"
+            "a": "$(1\/12)e^{3x}$",
+            "b": "$(1\/15)e^{3x}$",
+            "c": "$(2\/3)e^{3x}$",
+            "d": "$(2\/15)e^{3x}$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Equation"
+        "sub_category": "Differential Equation",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 491,
-        "question": "A 30-Li tank initially containing 0.4 mg/Li of sugar is filled with a solution containing 0.1 mg/Li of sugar using a valve at 500 Li/min. The exit stream is at the same rate. Determine the mass of sugar in the tank 20 minutes after the solution was introduced:",
+        "question": "A 30-Li tank initially containing 0.4 mg\/Li of sugar is filled with a solution containing 0.1 mg\/Li of sugar using a valve at 500 Li\/min. The exit stream is at the same rate. Determine the mass of sugar in the tank 20 minutes after the solution was introduced:",
         "options": {
             "a": "57 mg",
             "b": "78 mg",
             "c": "32 mg",
             "d": "12 mg"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Equation"
+        "sub_category": "Differential Equation",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 492,
-        "question": "C-14 (half-life = 5760 yr) dating is used on an amber-preserved fern leaf. Today\u2019s living ferns have average activity of $13 \\times 10^8$ counts/min while the sample has $1 \\times 10^6$ counts/min. The age of the fern leaf is most nearly:",
+        "question": "C-14 (half-life = 5760 yr) dating is used on an amber-preserved fern leaf. Today\u2019s living ferns have average activity of $13 \\times 10^8$ counts\/min while the sample has $1 \\times 10^6$ counts\/min. The age of the fern leaf is most nearly:",
         "options": {
             "a": "45,320 yrs",
             "b": "59,580 yrs",
             "c": "89,360 yrs",
             "d": "1,420,860 yrs"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Equation"
+        "sub_category": "Differential Equation",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 493,
@@ -176,10 +224,14 @@
             "c": "8 hours",
             "d": "16 hours"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Equation"
+        "sub_category": "Differential Equation",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 494,
@@ -190,24 +242,32 @@
             "c": "48.64 degC",
             "d": "none of these"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Equation"
+        "sub_category": "Differential Equation",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 495,
         "question": "Solve the D.E.: $2x^2y'' + 8xy' + 4y = 0$",
         "options": {
-            "a": "$C_1/x + C_2/x^3$",
-            "b": "$C_1/x + C_2/x^2$",
-            "c": "$C_1x + C_2/x^3$",
-            "d": "$C_1x + C_2/x^2$"
+            "a": "$C_1\/x + C_2\/x^3$",
+            "b": "$C_1\/x + C_2\/x^2$",
+            "c": "$C_1x + C_2\/x^3$",
+            "d": "$C_1x + C_2\/x^2$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Equation"
+        "sub_category": "Differential Equation",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 496,
@@ -218,10 +278,21 @@
             "c": "4",
             "d": "5"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [
+            {
+                "solution_id": "sol_699ffbeba797f",
+                "user": "Joy",
+                "chosen_option": "c",
+                "image": "uploads\/solution_496_1772092395.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 497,
@@ -232,10 +303,14 @@
             "c": "(4, 5)",
             "d": "(5, 4)"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 498,
@@ -246,10 +321,21 @@
             "c": "5",
             "d": "6"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [
+            {
+                "solution_id": "sol_699ffc7da0ba2",
+                "user": "Joy",
+                "chosen_option": "b",
+                "image": "uploads\/solution_498_1772092541.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 499,
@@ -260,10 +346,21 @@
             "c": "35",
             "d": "6"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [
+            {
+                "solution_id": "sol_699ffd449800a",
+                "user": "Joy",
+                "chosen_option": "b",
+                "image": "uploads\/solution_499_1772092740.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 500,
@@ -274,9 +371,20 @@
             "c": "(2.40, -2.45)",
             "d": "(0.89, -4.53)"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [
+            {
+                "solution_id": "sol_699ffcd6377d7",
+                "user": "Joy",
+                "chosen_option": "c",
+                "image": "uploads\/solution_500_1772092630.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     }
 ]

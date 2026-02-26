@@ -1,0 +1,382 @@
+[
+    {
+        "id": 2349,
+        "question": "Find the values of x, y, and z: x + y + z = 2; 3x - y - 2z = 4; 5x - 2y + 3z = -7.",
+        "options": {
+            "a": "1, 2, 3",
+            "b": "1, -1, 2",
+            "c": "1, 3, -2",
+            "d": "1, 4, -3"
+        },
+        "answer": "c",
+        "correct_answer_text": "1, 3, -2",
+        "category": "Math",
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2350,
+        "question": "Which of the following matrices has no inverse?",
+        "options": {
+            "a": "[[4, 5], [6, 8]]",
+            "b": "[[6, 2], [12, 4]]",
+            "c": "[[3, 2], [6, 9]]",
+            "d": "[[3, 6], [8, 9]]"
+        },
+        "answer": "b",
+        "correct_answer_text": "[[6, 2], [12, 4]]",
+        "category": "Math",
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2351,
+        "question": "Find the adjoint of the matrix A = [[0, -1, 7], [1.25, -0.25, 0.75], [-0.5, 0.5, -0.5]].",
+        "options": {
+            "a": "[[5, -1, 3], [-2, 2, -2], [1, -1, 3]]",
+            "b": "[[4, -1, 7], [-2, 2, -2], [5, -3, 1]]",
+            "c": "[[1, 8, 3], [-6, 2, 2], [1, -1, 4]]",
+            "d": "[[9, 0, -2], [1, 5, 0], [3, 0, 1]]"
+        },
+        "answer": "a",
+        "correct_answer_text": "[[5, -1, 3], [-2, 2, -2], [1, -1, 3]]",
+        "category": "Math",
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2352,
+        "question": "Simplify i^29 + i^21 + i.",
+        "options": {
+            "a": "1 + 2i",
+            "b": "3i",
+            "c": "3",
+            "d": "2 + i"
+        },
+        "answer": "b",
+        "correct_answer_text": "3i",
+        "category": "Math",
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2353,
+        "question": "Determine the two square roots of 3 - 2i.",
+        "options": {
+            "a": "0.82 ± j0.23",
+            "b": "1.82 ± j0.55",
+            "c": "4.78 ± j0.55",
+            "d": "4.78 ± j0.23"
+        },
+        "answer": "b",
+        "correct_answer_text": "1.82 ± j0.55",
+        "category": "Math",
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2354,
+        "question": "What is the rectangular value of (1 + i)^16?",
+        "options": {
+            "a": "128",
+            "b": "256i",
+            "c": "256",
+            "d": "512i"
+        },
+        "answer": "c",
+        "correct_answer_text": "256",
+        "category": "Math",
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2355,
+        "question": "Evaluate the integral of x / (x + 1)^8 from 0 to 1.",
+        "options": {
+            "a": "4/765",
+            "b": "5/224",
+            "c": "1/77",
+            "d": "6/89"
+        },
+        "answer": "b",
+        "correct_answer_text": "5/224",
+        "category": "Math",
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2356,
+        "question": "Compute the rate at which water is pouring into a pool at t = 9 hours, given V = sqrt(t) gallons.",
+        "options": {
+            "a": "7/6 gph",
+            "b": "8/7 gph",
+            "c": "6/5 gph",
+            "d": "1/6 gph"
+        },
+        "answer": "d",
+        "correct_answer_text": "1/6 gph",
+        "category": "Math",
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2357,
+        "question": "Find the tenth element of the sequence: 11, 4, -3, -10...",
+        "options": {
+            "a": "-52",
+            "b": "99",
+            "c": "-106",
+            "d": "58"
+        },
+        "answer": "a",
+        "correct_answer_text": "-52",
+        "category": "Math",
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2358,
+        "question": "Find the sum of the first 12 terms of the series 5, 9, 13, 17...",
+        "options": {
+            "a": "324",
+            "b": "322",
+            "c": "317",
+            "d": "334"
+        },
+        "answer": "a",
+        "correct_answer_text": "324",
+        "category": "Math",
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2359,
+        "question": "Determine the sum of the series: 2 + 5 + 8 + 11 + ... (up to 100 terms).",
+        "options": {
+            "a": "14750",
+            "b": "15350",
+            "c": "15050",
+            "d": "15660"
+        },
+        "answer": "c",
+        "correct_answer_text": "15050",
+        "category": "Math",
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2360,
+        "question": "An arithmetic progression starts with 1, has 9 terms, and the middle term is 21. Determine the sum of the first 9 terms.",
+        "options": {
+            "a": "235",
+            "b": "112",
+            "c": "189",
+            "d": "148"
+        },
+        "answer": "c",
+        "correct_answer_text": "189",
+        "category": "Math",
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2361,
+        "question": "The sum of the integers between 288 and 887 that are exactly divisible by 15 is:",
+        "options": {
+            "a": "23,700",
+            "b": "22,815",
+            "c": "21,800",
+            "d": "24,150"
+        },
+        "answer": "b",
+        "correct_answer_text": "22,815",
+        "category": "Math",
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2362,
+        "question": "How many terms of the sequence 9, 6, 3... must be taken so that the sum is 66?",
+        "options": {
+            "a": "11",
+            "b": "6",
+            "c": "4",
+            "d": "9"
+        },
+        "answer": "a",
+        "correct_answer_text": "11",
+        "category": "Math",
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2363,
+        "question": "Find the 10th term of the geometric progression 3, 6, 12, 24...",
+        "options": {
+            "a": "1563",
+            "b": "1653",
+            "c": "1356",
+            "d": "1536"
+        },
+        "answer": "d",
+        "correct_answer_text": "1536",
+        "category": "Math",
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2364,
+        "question": "Determine the sum of the first 10 terms of the GP: 3, 6, 12, 24...",
+        "options": {
+            "a": "3069",
+            "b": "3070",
+            "c": "3071",
+            "d": "3072"
+        },
+        "answer": "a",
+        "correct_answer_text": "3069",
+        "category": "Math",
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2365,
+        "question": "Compute the sum of the infinite GP: 1, 1/3, 1/9...",
+        "options": {
+            "a": "3/2",
+            "b": "2/3",
+            "c": "3/4",
+            "d": "4/3"
+        },
+        "answer": "a",
+        "correct_answer_text": "3/2",
+        "category": "Math",
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2366,
+        "question": "Determine the common ratio of a GP if the first term is 3 and the 4th term is 24.",
+        "options": {
+            "a": "2",
+            "b": "3",
+            "c": "4",
+            "d": "5"
+        },
+        "answer": "a",
+        "correct_answer_text": "2",
+        "category": "Math",
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2367,
+        "question": "A person has 2 parents, 4 grandparents, 8 great-grandparents, and so on. How many ancestors during the 15 generations preceding his own, assuming no duplication?",
+        "options": {
+            "a": "131070",
+            "b": "65534",
+            "c": "32766",
+            "d": "16383"
+        },
+        "answer": "b",
+        "correct_answer_text": "65534",
+        "category": "Math",
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2368,
+        "question": "Convert 7431 (octal) into hexadecimal.",
+        "options": {
+            "a": "D90",
+            "b": "119",
+            "c": "F19",
+            "d": "A74"
+        },
+        "answer": "c",
+        "correct_answer_text": "F19",
+        "category": "Math",
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    }
+]

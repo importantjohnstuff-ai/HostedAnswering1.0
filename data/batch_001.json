@@ -226,7 +226,14 @@
         "correct_answer_text": "",
         "category": "Math",
         "sub_category": "Advanced Math",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_699fdcca32008",
+                "user": "Alfred",
+                "chosen_option": "a",
+                "image": "uploads\/solution_11_1772084426.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
@@ -344,7 +351,14 @@
         "correct_answer_text": "",
         "category": "Math",
         "sub_category": "Differential Calculus",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_699fddbb188dc",
+                "user": "mark",
+                "chosen_option": "a",
+                "image": "uploads\/solution_16_1772084667.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,

@@ -1,0 +1,382 @@
+[
+    {
+        "id": 2129,
+        "question": "If A = 2i - j + k and B = i + 2j - 3k, find |(2A + B) x (A - 2B)|.",
+        "options": {
+            "a": "58.9",
+            "b": "78.9",
+            "c": "43.3",
+            "d": "12.9"
+        },
+        "answer": "c",
+        "correct_answer_text": "43.3",
+        "category": "Math",
+        "sub_category": "Vector Analysis",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2130,
+        "question": "Find the Laplace transform: L{t cos(2t)}",
+        "options": {
+            "a": "(s² - 4) / (s² + 4)²",
+            "b": "(s² + 4) / (s² - 4)²",
+            "c": "(s² + 2) / (s² + 4)²",
+            "d": "(s² - 2) / (s² - 4)²"
+        },
+        "answer": "a",
+        "correct_answer_text": "(s² - 4) / (s² + 4)²",
+        "category": "Math",
+        "sub_category": "Laplace Transform",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2131,
+        "question": "Perform the integration: ∫ z⁹ dz from 1 - 2i to 1 + 2i",
+        "options": {
+            "a": "0",
+            "b": "14/23",
+            "c": "2571/11",
+            "d": "-31161/5"
+        },
+        "answer": "a",
+        "correct_answer_text": "0",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2132,
+        "question": "In Gaussian elimination, the matrix is reduced to an upper triangular matrix called:",
+        "options": {
+            "a": "Hermitian",
+            "b": "Wronskian",
+            "c": "Echelon",
+            "d": "Jacobian"
+        },
+        "answer": "c",
+        "correct_answer_text": "Echelon",
+        "category": "Math",
+        "sub_category": "Numerical Methods",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2133,
+        "question": "What is the Laplace transform of cosh(t) - sinh(t)?",
+        "options": {
+            "a": "2 / (s² - 1)",
+            "b": "1 / (s + 1)",
+            "c": "1 / (s - 1)",
+            "d": "2 / (s - 1)"
+        },
+        "answer": "b",
+        "correct_answer_text": "1 / (s + 1)",
+        "category": "Math",
+        "sub_category": "Laplace Transform",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2134,
+        "question": "When the magnetic field B = xy²i + 2x²yzj - 3yz²k, find the div B:",
+        "options": {
+            "a": "y² + 8yz",
+            "b": "y² + 2x²z - 6yz",
+            "c": "y² - 2x² + 6xz",
+            "d": "2x²z - 6yz"
+        },
+        "answer": "b",
+        "correct_answer_text": "y² + 2x²z - 6yz",
+        "category": "Math",
+        "sub_category": "Vector Analysis",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2135,
+        "question": "Find the area of the triangle with vertices (2, -3, 1), (1, -1, 2), and (-1, 2, 3):",
+        "options": {
+            "a": "(sqrt(3))/2",
+            "b": "4",
+            "c": "(sqrt(5))/2",
+            "d": "7/2"
+        },
+        "answer": "c",
+        "correct_answer_text": "(sqrt(5))/2",
+        "category": "Math",
+        "sub_category": "Vector Analysis",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2136,
+        "question": "Find the limit of (z + 4)(z² + 2iz + 15) / (z - 3i) as z approaches 3i?",
+        "options": {
+            "a": "-24 + 32i",
+            "b": "26 + 36i",
+            "c": "-12 - 18i",
+            "d": "40 + 20i"
+        },
+        "answer": "a",
+        "correct_answer_text": "-24 + 32i",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2137,
+        "question": "The Newton-Raphson may not guarantee convergence as compared to bisection method for finding the roots of a transcendental equation due to:",
+        "options": {
+            "a": "Newton-Raphson uses two bracketing points",
+            "b": "Newton-Raphson uses single point while bisection uses bracketing",
+            "c": "Newton-Raphson uses averaging while bisection uses derivatives",
+            "d": "Newton-Raphson uses derivatives while bisection uses slopes"
+        },
+        "answer": "b",
+        "correct_answer_text": "Newton-Raphson uses single point while bisection uses bracketing",
+        "category": "Math",
+        "sub_category": "Numerical Methods",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2138,
+        "question": "If V = (xy²)i + (2yx²z)j - (3yz²)k, then curl V at point (1, -1, 1) is:",
+        "options": {
+            "a": "-(j + 2k)",
+            "b": "(i + 3k)",
+            "c": "(i + 2k)",
+            "d": "(2i - 3k)"
+        },
+        "answer": "c",
+        "correct_answer_text": "(i + 2k)",
+        "category": "Math",
+        "sub_category": "Vector Analysis",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2139,
+        "question": "Integrate z³ / (z - 3i) along a contour enclosing 3i:",
+        "options": {
+            "a": "42pi",
+            "b": "54pi",
+            "c": "-60pi",
+            "d": "-128pi"
+        },
+        "answer": "b",
+        "correct_answer_text": "54pi",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2140,
+        "question": "Find an equation for the plane passing through (2, -1, -2), (-1, 2, -3), and (4, 1, 0):",
+        "options": {
+            "a": "2x + y - 3z = 9",
+            "b": "3x + y + 2z = -11",
+            "c": "3x - 2y + 5z = 8",
+            "d": "2x + 3y + 4z = 6"
+        },
+        "answer": "d",
+        "correct_answer_text": "2x + 3y + 4z = 6",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2141,
+        "question": "The Newton-Raphson method will not converge on a single value approximation if:",
+        "options": {
+            "a": "slopes at initial point and root are the same sign",
+            "b": "slopes at initial point and root are opposite sign",
+            "c": "the slope at the initial point is zero",
+            "d": "the calculator is defective"
+        },
+        "answer": "c",
+        "correct_answer_text": "the slope at the initial point is zero",
+        "category": "Math",
+        "sub_category": "Numerical Methods",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2142,
+        "question": "Find the limit of sin(7pi * i * z) / z as z approaches 0:",
+        "options": {
+            "a": "7pi * i",
+            "b": "3pi * i",
+            "c": "9pi * i",
+            "d": "pi * i"
+        },
+        "answer": "a",
+        "correct_answer_text": "7pi * i",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2143,
+        "question": "If beta = xy + yz + zx and A = x²yi + y²zj + z²xk, find (grad beta) x A at the point (3, -1, 2).",
+        "options": {
+            "a": "56i - 30j + 47k",
+            "b": "48i + 13j - 37k",
+            "c": "11i - 67j + 52k",
+            "d": "78i + 23j - 79k"
+        },
+        "answer": "c",
+        "correct_answer_text": "11i - 67j + 52k",
+        "category": "Math",
+        "sub_category": "Vector Analysis",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2144,
+        "question": "Which of the following is a key advantage of the Secant Method over the Newton-Raphson Method?",
+        "options": {
+            "a": "Faster convergence for all types of function",
+            "b": "Does not require continuity",
+            "c": "Does not require the computation of the derivative",
+            "d": "Always converges regardless of guesses"
+        },
+        "answer": "c",
+        "correct_answer_text": "Does not require the computation of the derivative",
+        "category": "Math",
+        "sub_category": "Numerical Methods",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2145,
+        "question": "Integrate (iz² + z) / (z + i) along a contour enclosing -i:",
+        "options": {
+            "a": "-(2 + i)pi",
+            "b": "4pi * i",
+            "c": "-72pi * i",
+            "d": "(3 - 4i)pi"
+        },
+        "answer": "a",
+        "correct_answer_text": "-(2 + i)pi",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2146,
+        "question": "Determine the Laplace transform of 3e^-4t:",
+        "options": {
+            "a": "3 / (s + 4)",
+            "b": "6 / (s - 4)",
+            "c": "3 / (s - 4)",
+            "d": "-6 / (s + 4)"
+        },
+        "answer": "a",
+        "correct_answer_text": "3 / (s + 4)",
+        "category": "Math",
+        "sub_category": "Laplace Transform",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2147,
+        "question": "Determine the Laplace transform of 5 sin(2t) - 3 cos(2t):",
+        "options": {
+            "a": "(5 + 3s) / (s² + 4)",
+            "b": "(5 - 2s) / (s² + 4)",
+            "c": "(10 - 3s) / (s² + 4)",
+            "d": "(10 - 2s) / (s² + 4)"
+        },
+        "answer": "c",
+        "correct_answer_text": "(10 - 3s) / (s² + 4)",
+        "category": "Math",
+        "sub_category": "Laplace Transform",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2148,
+        "question": "Integrate (2iz³ + 2iz) / (z - 2i)² along a contour enclosing 2i:",
+        "options": {
+            "a": "44pi",
+            "b": "24pi * i / 5",
+            "c": "24pi / 5",
+            "d": "-44pi * i"
+        },
+        "answer": "d",
+        "correct_answer_text": "-44pi * i",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    }
+]

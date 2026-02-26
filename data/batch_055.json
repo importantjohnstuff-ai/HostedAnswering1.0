@@ -1,0 +1,382 @@
+[
+    {
+        "id": 2169,
+        "question": "Derive the expression ln(x + i):",
+        "options": {
+            "a": "1 / (x + i)",
+            "b": "i / (x + i)",
+            "c": "1 / x + i",
+            "d": "1 / i + x"
+        },
+        "answer": "a",
+        "correct_answer_text": "1 / (x + i)",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2170,
+        "question": "Find the limit of (2z³ - iz) / (z - i) as z approaches i + 1?",
+        "options": {
+            "a": "5 + 6i / 7",
+            "b": "-3 + 3i",
+            "c": "-4 - 6i / 7",
+            "d": "150"
+        },
+        "answer": "b",
+        "correct_answer_text": "-3 + 3i",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2171,
+        "question": "Find the derivative: f(x) = 1 / (x + i)",
+        "options": {
+            "a": "1 / (x + i)²",
+            "b": "-1 / (x + i)²",
+            "c": "i / (x + i)²",
+            "d": "-i / (x + i)²"
+        },
+        "answer": "b",
+        "correct_answer_text": "-1 / (x + i)²",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2172,
+        "question": "Evaluate the derivative: d/dx (3ix⁴ - 2ix³)",
+        "options": {
+            "a": "3ix²(-1 + 3x)",
+            "b": "6ix²(-1 + 2x)",
+            "c": "4ix²(1 - 2x)",
+            "d": "12ix³ - 6ix²"
+        },
+        "answer": "d",
+        "correct_answer_text": "12ix³ - 6ix²",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2173,
+        "question": "Perform the derivative: d/dx (ln(ix²))",
+        "options": {
+            "a": "i / x",
+            "b": "x + i",
+            "c": "2 / x",
+            "d": "2i / x"
+        },
+        "answer": "c",
+        "correct_answer_text": "2 / x",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2174,
+        "question": "Determine the inverse Laplace transform of I(s) = 200 / (s² - 50s + 10,625)",
+        "options": {
+            "a": "I(t) = 2 e^(25t) sin(100t)",
+            "b": "I(t) = 2 e^(-25t) cos(100t)",
+            "c": "I(t) = 2t e^(-25t) sin(100t)",
+            "d": "I(t) = 2t e^(-25t) cos(100t)"
+        },
+        "answer": "a",
+        "correct_answer_text": "I(t) = 2 e^(25t) sin(100t)",
+        "category": "Math",
+        "sub_category": "Laplace Transform",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2175,
+        "question": "Solve the D.E.: x dy + (y - 2x²y) dx = 0",
+        "options": {
+            "a": "ln |xy| = x² + C",
+            "b": "ln |x + y| = y² + C",
+            "c": "ln |x + y| = x² + C",
+            "d": "ln |xy| = y² + C"
+        },
+        "answer": "a",
+        "correct_answer_text": "ln |xy| = x² + C",
+        "category": "Math",
+        "sub_category": "Differential Equation",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2176,
+        "question": "Solve the D.E.: x dy - (y + 2x³) dx = 0",
+        "options": {
+            "a": "y = x² + Cx",
+            "b": "y = x³ + Cx",
+            "c": "y = x + Cx²",
+            "d": "x = y + Cx²"
+        },
+        "answer": "b",
+        "correct_answer_text": "y = x³ + Cx",
+        "category": "Math",
+        "sub_category": "Differential Equation",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2177,
+        "question": "Solve the particular solution of the D.E.: Y'' + 3Y' = 0",
+        "options": {
+            "a": "Y = Be^x",
+            "b": "Y = A + Be^x",
+            "c": "Y = A + Be^-3x",
+            "d": "Y = Be^-3x"
+        },
+        "answer": "c",
+        "correct_answer_text": "Y = A + Be^-3x",
+        "category": "Math",
+        "sub_category": "Differential Equation",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2178,
+        "question": "Solve the particular solution of the D.E.: Y'' + 4Y = e^(3x)",
+        "options": {
+            "a": "Y = (1/12)e^(3x)",
+            "b": "Y = (1/10)e^(3x)",
+            "c": "Y = (1/13)e^(3x)",
+            "d": "Y = (1/13)e^(-3x)"
+        },
+        "answer": "c",
+        "correct_answer_text": "Y = (1/13)e^(3x)",
+        "category": "Math",
+        "sub_category": "Differential Equation",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2179,
+        "question": "Determine the Laplace transform of e^(2t) cos(3t)",
+        "options": {
+            "a": "(s + 2) / (s² + 4s + 13)",
+            "b": "(s + 2) / (s² - 4s + 21)",
+            "c": "(s - 2) / (s² + 4s + 21)",
+            "d": "(s - 2) / (s² - 4s + 13)"
+        },
+        "answer": "d",
+        "correct_answer_text": "(s - 2) / (s² - 4s + 13)",
+        "category": "Math",
+        "sub_category": "Laplace Transform",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2180,
+        "question": "Determine the inverse Laplace transform of (3s + 6) / (s² + 3s)",
+        "options": {
+            "a": "2 + e^(-3t)",
+            "b": "3 - e^(-3t)",
+            "c": "5e^(-3t)",
+            "d": "1 + 2e^(3t)"
+        },
+        "answer": "a",
+        "correct_answer_text": "2 + e^(-3t)",
+        "category": "Math",
+        "sub_category": "Laplace Transform",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2181,
+        "question": "Simplify i^1997 + i^1999",
+        "options": {
+            "a": "0",
+            "b": "i",
+            "c": "1 + i",
+            "d": "1 - i"
+        },
+        "answer": "a",
+        "correct_answer_text": "0",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2182,
+        "question": "Inverse the Laplace transform: (s² + 1) / (s(s + 1)²)",
+        "options": {
+            "a": "1 + 2e^t",
+            "b": "1 - 2te^-t",
+            "c": "1 - 2te^-t - 2e^-t",
+            "d": "1 + 2t + e^-t"
+        },
+        "answer": "b",
+        "correct_answer_text": "1 - 2te^-t",
+        "category": "Math",
+        "sub_category": "Laplace Transform",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2183,
+        "question": "Evaluate the integral of x³ e^-x from x=0 to x=infinity:",
+        "options": {
+            "a": "2",
+            "b": "4",
+            "c": "5",
+            "d": "6"
+        },
+        "answer": "d",
+        "correct_answer_text": "6",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2184,
+        "question": "A hemispherical tank of radius 5 feet is filled with 4 feet of water. Find the work to pump it all to 10 feet height.",
+        "options": {
+            "a": "62,700,000",
+            "b": "89,300,000",
+            "c": "23,000,000",
+            "d": "none of these"
+        },
+        "answer": "d",
+        "correct_answer_text": "none of these",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2185,
+        "question": "Solve the differential equation 2y dy = (x² + 1) dx.",
+        "options": {
+            "a": "y² = 3x³ + x + C",
+            "b": "y² = 1/3 x³ + x + C",
+            "c": "y = -x³ + x + C",
+            "d": "y = 1/3 x² - 3x + C"
+        },
+        "answer": "b",
+        "correct_answer_text": "y² = 1/3 x³ + x + C",
+        "category": "Math",
+        "sub_category": "Differential Equation",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2186,
+        "question": "Derive: d/dx(3ix³ - 4x)",
+        "options": {
+            "a": "-4 + 9ix²",
+            "b": "5 - 4ix",
+            "c": "-4 - 6ix²",
+            "d": "-2"
+        },
+        "answer": "a",
+        "correct_answer_text": "-4 + 9ix²",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2187,
+        "question": "Evaluate the limit of |(2z + 3i)(z - i)| / (iz³ - 3z + 4 - i) as z approaches infinity.",
+        "options": {
+            "a": "1",
+            "b": "0",
+            "c": "i/2",
+            "d": "-i/2"
+        },
+        "answer": "b",
+        "correct_answer_text": "0",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2188,
+        "question": "Evaluate the integral: ∫ (12z² - 4iz) dz from 1+i to 2+3i.",
+        "options": {
+            "a": "-156 + 38i",
+            "b": "672 - 137i",
+            "c": "-178 + 144i",
+            "d": "91 + 213i"
+        },
+        "answer": "a",
+        "correct_answer_text": "-156 + 38i",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    }
+]

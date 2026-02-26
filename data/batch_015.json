@@ -1,59 +1,89 @@
 [
     {
         "id": 281,
-        "question": "Inverse the Laplace transform, $(s^2 + 1)/(s(s + 1)^2)$",
+        "question": "Inverse the Laplace transform, $(s^2 + 1)\/(s(s + 1)^2)$",
         "options": {
             "a": "$1 + 2e^t$",
             "b": "$1 - 2te^{-t}$",
             "c": "$1 - 2te^{-t}$",
             "d": "$1 + 2t + e^{-t}$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Laplace Transform"
+        "sub_category": "Laplace Transform",
+        "solutions": [
+            {
+                "solution_id": "sol_69a063bb01839",
+                "user": "John",
+                "chosen_option": "c",
+                "image": "uploads\/solution_281_1772118971.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 282,
-        "question": "The inverse Laplace of $(e^{as})/s^2$ is:",
+        "question": "The inverse Laplace of $(e^{as})\/s^2$ is:",
         "options": {
             "a": "$te^{at}$",
             "b": "$te^{-at}$",
             "c": "$e^{-at}$",
             "d": "$e^{at}$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Laplace Transform"
+        "sub_category": "Laplace Transform",
+        "solutions": [
+            {
+                "solution_id": "sol_69a05fcab8bc9",
+                "user": "John",
+                "chosen_option": "d",
+                "image": "uploads\/solution_282_1772117962.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 283,
         "question": "What is the second term of the Taylor expansion for $\\sin(3x)$?",
         "options": {
-            "a": "$x^2/2$",
-            "b": "$-9x^3/2$",
-            "c": "$-3x^2/2$",
-            "d": "$-27x^4/2$"
+            "a": "$x^2\/2$",
+            "b": "$-9x^3\/2$",
+            "c": "$-3x^2\/2$",
+            "d": "$-27x^4\/2$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Advanced Math"
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 284,
         "question": "What is the convolution function $f * g$ if $f = 4x$ and $g = x^2$?",
         "options": {
-            "a": "$(16t^3)/3$",
-            "b": "$(-16t^4)/5$",
-            "c": "$(4t^4)/5$",
-            "d": "$(16t^4)/3$"
+            "a": "$(16t^3)\/3$",
+            "b": "$(-16t^4)\/5$",
+            "c": "$(4t^4)\/5$",
+            "d": "$(16t^4)\/3$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Advanced Math"
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 285,
@@ -64,10 +94,14 @@
             "c": "$3i$",
             "d": "$2 + i$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Advanced Math"
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 286,
@@ -78,10 +112,14 @@
             "c": "6.0",
             "d": "7.21"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Vector Analysis"
+        "sub_category": "Vector Analysis",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 287,
@@ -92,24 +130,32 @@
             "c": "12",
             "d": "15"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Vector Analysis"
+        "sub_category": "Vector Analysis",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 288,
-        "question": "The divergence of the curl of a vector is a/an:",
+        "question": "The divergence of the curl of a vector is a\/an:",
         "options": {
             "a": "vector",
             "b": "scalar",
             "c": "unity",
             "d": "zero."
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Vector Analysis"
+        "sub_category": "Vector Analysis",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 289,
@@ -120,66 +166,86 @@
             "c": "1",
             "d": "$e$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Advanced Math"
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 290,
         "question": "What is the fifth term of the Taylor expansion of $e^{2x}$?",
         "options": {
-            "a": "$2x^4/3$",
-            "b": "$3x^5/25$",
-            "c": "$4x^5/15$",
+            "a": "$2x^4\/3$",
+            "b": "$3x^5\/25$",
+            "c": "$4x^5\/15$",
             "d": "$x^5$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Advanced Math"
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 291,
         "question": "What is the third term of the Taylor expansion of $e^{3x} + e^{2x}$?",
         "options": {
-            "a": "$15x^3/6$",
-            "b": "$13x^2/2$",
-            "c": "$16x^3/5$",
-            "d": "$4x^2/5$"
+            "a": "$15x^3\/6$",
+            "b": "$13x^2\/2$",
+            "c": "$16x^3\/5$",
+            "d": "$4x^2\/5$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Advanced Math"
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 292,
         "question": "What is the second term of the Taylor expansion of $\\sin(4x)$?",
         "options": {
-            "a": "$-32x^3/3$",
-            "b": "$-36x^3/5$",
-            "c": "$-32x^2/4$",
+            "a": "$-32x^3\/3$",
+            "b": "$-36x^3\/5$",
+            "c": "$-32x^2\/4$",
             "d": "none of these"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Advanced Math"
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 293,
         "question": "What is the second term of the Taylor expansion of $\\tan(x)$?",
         "options": {
-            "a": "$x^2/2$",
-            "b": "$x^2/4$",
-            "c": "$x^3/3$",
-            "d": "$x^4/6$"
+            "a": "$x^2\/2$",
+            "b": "$x^2\/4$",
+            "c": "$x^3\/3$",
+            "d": "$x^4\/6$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Advanced Math"
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 294,
@@ -190,10 +256,14 @@
             "c": "$-(16i + 9j + 4k)$",
             "d": "$-(16i - 6j + 4k)$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Advanced Math"
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 295,
@@ -204,10 +274,14 @@
             "c": "10",
             "d": "11"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Vector Analysis"
+        "sub_category": "Vector Analysis",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 296,
@@ -218,10 +292,14 @@
             "c": "$\\text{div } F = 6(x + y + z)$, $\\text{curl } F = -3(x + z)$",
             "d": "$\\text{div } F = 6(x + y + z)$, $\\text{curl } F = 0$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Vector Analysis"
+        "sub_category": "Vector Analysis",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 297,
@@ -232,10 +310,21 @@
             "c": "$-(i + 2k)$",
             "d": "$(2i - 3k)$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Vector Analysis"
+        "sub_category": "Vector Analysis",
+        "solutions": [
+            {
+                "solution_id": "sol_69a04db41863f",
+                "user": "Anonymous",
+                "chosen_option": "c",
+                "image": "uploads\/solution_297_1772113332.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 298,
@@ -246,10 +335,14 @@
             "c": "9",
             "d": "4"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Advanced Math"
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 299,
@@ -260,10 +353,14 @@
             "c": "$te^{-t} + 2e^{-t} - t + 2$",
             "d": "$te^{-t} - 2e^{-t} + t + 2$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Advanced Math"
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 300,
@@ -274,9 +371,13 @@
             "c": "$-7.455 - 0.512i$",
             "d": "$-7.455 - 0.346i$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Advanced Math"
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     }
 ]

@@ -1,0 +1,382 @@
+[
+    {
+        "id": 2089,
+        "question": "Evaluate the integral: ∫ (12z^2 - 4iz) dz from 1+i to 2+3i.",
+        "options": {
+            "a": "-156 + 38i",
+            "b": "672 - 137i",
+            "c": "-178 + 144i",
+            "d": "91 + 213i"
+        },
+        "answer": "a",
+        "correct_answer_text": "-156 + 38i",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2090,
+        "question": "Evaluate: (1 + i)^10",
+        "options": {
+            "a": "16i",
+            "b": "32i",
+            "c": "-32i",
+            "d": "-16i"
+        },
+        "answer": "b",
+        "correct_answer_text": "32i",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2091,
+        "question": "Determine the Laplace transform of 3e^-4t.",
+        "options": {
+            "a": "3/(s+4)",
+            "b": "6/(s-4)",
+            "c": "3/(s-4)",
+            "d": "-6/(s+4)"
+        },
+        "answer": "a",
+        "correct_answer_text": "3/(s+4)",
+        "category": "Math",
+        "sub_category": "Laplace Transform",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2092,
+        "question": "In a series R-L circuit with R=10 ohms and L=1 Henry, an AC voltage e(t) = 100 sin(377t) is applied. Determine the amplitude of the resulting steady-state sinusoidal current.",
+        "options": {
+            "a": "0.241 A",
+            "b": "0.292 A",
+            "c": "0.321 A",
+            "d": "0.265 A"
+        },
+        "answer": "d",
+        "correct_answer_text": "0.265 A",
+        "category": "Math",
+        "sub_category": "Differential Equation",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2093,
+        "question": "Evaluate the Inverse Laplace Transform of 6 / (s^2 + 4).",
+        "options": {
+            "a": "3cosh2t",
+            "b": "3sin2t",
+            "c": "3sinh2t",
+            "d": "3cos2t"
+        },
+        "answer": "b",
+        "correct_answer_text": "3sin2t",
+        "category": "Math",
+        "sub_category": "Laplace Transform",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2094,
+        "question": "Evaluate: sinh(5 + j5)",
+        "options": {
+            "a": "71.16 + j21.05",
+            "b": "21.05 + j71.16",
+            "c": "21.05 - j71.16",
+            "d": "71.16 - j21.05"
+        },
+        "answer": "b",
+        "correct_answer_text": "21.05 + j71.16",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2095,
+        "question": "Given the equations: x+y+z=2; 3x-y-2z=4, and 5x-2y+3z=-7. Solve for y using Gaussian elimination.",
+        "options": {
+            "a": "1",
+            "b": "-2",
+            "c": "0",
+            "d": "3"
+        },
+        "answer": "d",
+        "correct_answer_text": "3",
+        "category": "Math",
+        "sub_category": "Numerical Methods",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2096,
+        "question": "Which of the following is a true property of the Bisection method when solving f(x) = 0?",
+        "options": {
+            "a": "It converges quadratically.",
+            "b": "It requires the derivative of the function.",
+            "c": "It guarantees convergence if the initial interval brackets the root.",
+            "d": "It is faster than Newton-Raphson in all cases."
+        },
+        "answer": "c",
+        "correct_answer_text": "It guarantees convergence if the initial interval brackets the root.",
+        "category": "Math",
+        "sub_category": "Numerical Methods",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2097,
+        "question": "Derive: d/dx[ln(ix / (i+x))]",
+        "options": {
+            "a": "2i / (x^2+i)",
+            "b": "i / (x^2+ix)",
+            "c": "2i / (ix+1)",
+            "d": "i / (x+2-i)"
+        },
+        "answer": "b",
+        "correct_answer_text": "i / (x^2+ix)",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2098,
+        "question": "Evaluate: ln(2 + j3)",
+        "options": {
+            "a": "1.34 + j0.32",
+            "b": "2.54 + j0.866",
+            "c": "2.23 + j0.2",
+            "d": "1.28 + j0.98"
+        },
+        "answer": "d",
+        "correct_answer_text": "1.28 + j0.98",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2099,
+        "question": "Derive: d/dx(i sin(5ix))",
+        "options": {
+            "a": "5i cos(5x)",
+            "b": "-5cosh(ix)",
+            "c": "-5cosh(5x)",
+            "d": "-5cos(5x)"
+        },
+        "answer": "c",
+        "correct_answer_text": "-5cosh(5x)",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2100,
+        "question": "Inverse the following s-domain Laplace function: F(s) = (2s + 3) / (s^2 + 4s + 13)",
+        "options": {
+            "a": "e^-2t (2 cos(3t) + 3 sin(3t))",
+            "b": "e^-2t (2 cos(3t) - (1/3) sin(3t))",
+            "c": "e^2t (2 cos(3t) - 3 sin(3t))",
+            "d": "e^2t (2 cos(3t) + (1/2) sin(3t))"
+        },
+        "answer": "b",
+        "correct_answer_text": "e^-2t (2 cos(3t) - (1/3) sin(3t))",
+        "category": "Math",
+        "sub_category": "Laplace Transform",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2101,
+        "question": "Integrate: ∫ (ix^4 + 2ix) dx from i to 6i.",
+        "options": {
+            "a": "1314/7 + 9i",
+            "b": "11/7 - 9i",
+            "c": "646/5 + 8i",
+            "d": "-242/5 - 8i"
+        },
+        "answer": "d",
+        "correct_answer_text": "-242/5 - 8i",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2102,
+        "question": "Integrate: ∫ 2026x^2025 dx from 0 to i.",
+        "options": {
+            "a": "3240i",
+            "b": "2026/17 + 11i/17",
+            "c": "-1",
+            "d": "0"
+        },
+        "answer": "c",
+        "correct_answer_text": "-1",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2103,
+        "question": "Determine the Laplace transform: L{e^t cos^2(t)}",
+        "options": {
+            "a": "(s^2+4s-3)/(s^3+6s^2+9s-6)",
+            "b": "(s^2-2s+3)/(s^3-3s^2+7s-5)",
+            "c": "(s^2+2s-6)/(s^3+4s^2+9s-5)",
+            "d": "(s^2-2s+8)/(s^3+3s^2+7s+6)"
+        },
+        "answer": "b",
+        "correct_answer_text": "(s^2-2s+3)/(s^3-3s^2+7s-5)",
+        "category": "Math",
+        "sub_category": "Laplace Transform",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2104,
+        "question": "Determine the Inverse Laplace Transform of I(s) = 200 / (s^2 - 50s + 10,625).",
+        "options": {
+            "a": "I(t) = 2e^25t sin(100t)",
+            "b": "I(t) = 2e^-25t cos(100t)",
+            "c": "I(t) = 2te^-25t sin(100t)",
+            "d": "I(t) = 2te^-25t cos(100t)"
+        },
+        "answer": "a",
+        "correct_answer_text": "I(t) = 2e^25t sin(100t)",
+        "category": "Math",
+        "sub_category": "Laplace Transform",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2105,
+        "question": "Determine the gradient of 3x^3y - 2xz^4 at (0, 1, 2).",
+        "options": {
+            "a": "32",
+            "b": "-32i",
+            "c": "-32j",
+            "d": "32k"
+        },
+        "answer": "b",
+        "correct_answer_text": "-32i",
+        "category": "Math",
+        "sub_category": "Vector Analysis",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2106,
+        "question": "Evaluate the integral: ∫∫ (5x^2y - 8xy^3) dx dy from y=1 to 2 and x=0 to 4.",
+        "options": {
+            "a": "116/7",
+            "b": "400/13",
+            "c": "-80",
+            "d": "-230"
+        },
+        "answer": "d",
+        "correct_answer_text": "-230",
+        "category": "Math",
+        "sub_category": "Integral Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2107,
+        "question": "Evaluate the integral: ∫∫∫ (6xyz + 4xz) dy dx dz from z=0 to 1, x=-1 to 0, and y=0 to 2.",
+        "options": {
+            "a": "2",
+            "b": "7i",
+            "c": "11/5",
+            "d": "-5"
+        },
+        "answer": "d",
+        "correct_answer_text": "-5",
+        "category": "Math",
+        "sub_category": "Integral Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2108,
+        "question": "Evaluate the integral: ∫∫ (r sin(θ) - r^2) dr dθ from θ=0 to 2pi and r=0 to 2.",
+        "options": {
+            "a": "-16pi/3",
+            "b": "45pi/6",
+            "c": "pi/8",
+            "d": "pi^2"
+        },
+        "answer": "a",
+        "correct_answer_text": "-16pi/3",
+        "category": "Math",
+        "sub_category": "Integral Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    }
+]

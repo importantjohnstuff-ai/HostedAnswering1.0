@@ -3,29 +3,37 @@
         "id": 1830,
         "question": "Determine the particular solution for the D.E.: y'' - 9y = 5e^x",
         "options": {
-            "a": "yp = (-4/3)xe^x",
-            "b": "yp = (9/13)e^x",
-            "c": "yp = (-5/7)xe^x",
-            "d": "yp = (-5/8)e^x"
+            "a": "yp = (-4\/3)xe^x",
+            "b": "yp = (9\/13)e^x",
+            "c": "yp = (-5\/7)xe^x",
+            "d": "yp = (-5\/8)e^x"
         },
-        "answer": "d",
-        "correct_answer_text": "yp = (-5/8)e^x",
+        "correct_answer_text": "yp = (-5\/8)e^x",
         "category": "Math",
-        "sub_category": "Differential Equation"
+        "sub_category": "Differential Equation",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1831,
-        "question": "REELE APR2024: Solve the O.D.E: dy/dx = (x + 2y) / (3y - 2x)",
+        "question": "REELE APR2024: Solve the O.D.E: dy\/dx = (x + 2y) \/ (3y - 2x)",
         "options": {
             "a": "x2 + 4xy - 3y2 = c",
             "b": "x2 + 2xy + 4y2 = c",
             "c": "x2 - 2y2 = c",
             "d": "xy - 2y2 = c"
         },
-        "answer": "a",
         "correct_answer_text": "x2 + 4xy - 3y2 = c",
         "category": "Math",
-        "sub_category": "Differential Equation"
+        "sub_category": "Differential Equation",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1832,
@@ -36,24 +44,32 @@
             "c": "Inexact",
             "d": "Linear"
         },
-        "answer": "a",
         "correct_answer_text": "Exact",
         "category": "Math",
-        "sub_category": "Differential Equation"
+        "sub_category": "Differential Equation",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1833,
-        "question": "C-14 (half-life = 5760 yr) dating is used on an amber-preserved fern leaf. Living ferns have activity of 13x10^9 counts/min while the sample has 1x10^6 counts/min. The age is most nearly:",
+        "question": "C-14 (half-life = 5760 yr) dating is used on an amber-preserved fern leaf. Living ferns have activity of 13x10^9 counts\/min while the sample has 1x10^6 counts\/min. The age is most nearly:",
         "options": {
             "a": "45,320 yrs",
             "b": "59,580 yrs",
             "c": "89,360 yrs",
             "d": "78,800 yrs"
         },
-        "answer": "d",
         "correct_answer_text": "78,800 yrs",
         "category": "Math",
-        "sub_category": "Differential Equation"
+        "sub_category": "Differential Equation",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1834,
@@ -64,10 +80,14 @@
             "c": "7.89 A",
             "d": "3.12 A"
         },
-        "answer": "a",
         "correct_answer_text": "8.46 A",
         "category": "Math",
-        "sub_category": "Differential Equation"
+        "sub_category": "Differential Equation",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1835,
@@ -78,10 +98,14 @@
             "c": "8 hours",
             "d": "16 hours"
         },
-        "answer": "b",
         "correct_answer_text": "4 hours",
         "category": "Math",
-        "sub_category": "Differential Equation"
+        "sub_category": "Differential Equation",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1836,
@@ -92,38 +116,50 @@
             "c": "11.43degC",
             "d": "none of these"
         },
-        "answer": "c",
         "correct_answer_text": "11.43degC",
         "category": "Math",
-        "sub_category": "Differential Equation"
+        "sub_category": "Differential Equation",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1837,
         "question": "Solve the D.E.: 2x2y'' + 8xy' + 4y = 0",
         "options": {
-            "a": "c1/x + c2/x^3",
-            "b": "c1/x + c2/x^2",
-            "c": "c1x + c2/x^3",
-            "d": "c1x + c2/x^2"
+            "a": "c1\/x + c2\/x^3",
+            "b": "c1\/x + c2\/x^2",
+            "c": "c1x + c2\/x^3",
+            "d": "c1x + c2\/x^2"
         },
-        "answer": "b",
-        "correct_answer_text": "c1/x + c2/x^2",
+        "correct_answer_text": "c1\/x + c2\/x^2",
         "category": "Math",
-        "sub_category": "Differential Equation"
+        "sub_category": "Differential Equation",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1838,
         "question": "Solve the particular solution of the D.E.: y'' - 2y' - 8y = 6e^3x",
         "options": {
-            "a": "-6/5 e^3x",
-            "b": "3/4 e^3x",
-            "c": "1/7 e^3x",
-            "d": "-4/5 e^3x"
+            "a": "-6\/5 e^3x",
+            "b": "3\/4 e^3x",
+            "c": "1\/7 e^3x",
+            "d": "-4\/5 e^3x"
         },
-        "answer": "a",
-        "correct_answer_text": "-6/5 e^3x",
+        "correct_answer_text": "-6\/5 e^3x",
         "category": "Math",
-        "sub_category": "Differential Equation"
+        "sub_category": "Differential Equation",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1839,
@@ -134,10 +170,21 @@
             "c": "60.30",
             "d": "45.580"
         },
-        "answer": "b",
         "correct_answer_text": "57.30",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [
+            {
+                "solution_id": "sol_69a002a0ef62e",
+                "user": "Joy",
+                "chosen_option": "b",
+                "image": "uploads\/solution_1839_1772094112.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1840,
@@ -148,10 +195,14 @@
             "c": "7.21",
             "d": "5.08"
         },
-        "answer": "d",
         "correct_answer_text": "5.08",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1841,
@@ -162,38 +213,50 @@
             "c": "80pi",
             "d": "40pi"
         },
-        "answer": "b",
         "correct_answer_text": "60pi",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1842,
-        "question": "The inclination of the line passing (-6, 9) and (41/3, 5) is most nearly:",
+        "question": "The inclination of the line passing (-6, 9) and (41\/3, 5) is most nearly:",
         "options": {
-            "a": "41.58°",
-            "b": "67.87°",
+            "a": "41.58\u00b0",
+            "b": "67.87\u00b0",
             "c": "68.67",
-            "d": "144.55°"
+            "d": "144.55\u00b0"
         },
-        "answer": "d",
-        "correct_answer_text": "144.55°",
+        "correct_answer_text": "144.55\u00b0",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1843,
         "question": "The area of the circle with center at (-7, 5) and is tangent to 2x + 4y + 5 = 0 is:",
         "options": {
-            "a": "121pi/20",
+            "a": "121pi\/20",
             "b": "7pi",
-            "c": "178pi/35",
+            "c": "178pi\/35",
             "d": "8pi"
         },
-        "answer": "a",
-        "correct_answer_text": "121pi/20",
+        "correct_answer_text": "121pi\/20",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1844,
@@ -204,10 +267,14 @@
             "c": "109 in2",
             "d": "178 in2"
         },
-        "answer": "c",
         "correct_answer_text": "109 in2",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1845,
@@ -218,10 +285,14 @@
             "c": "43 cm",
             "d": "102 cm"
         },
-        "answer": "b",
         "correct_answer_text": "91 cm",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1846,
@@ -232,10 +303,14 @@
             "c": "40pi",
             "d": "45pi"
         },
-        "answer": "a",
         "correct_answer_text": "36pi",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1847,
@@ -246,10 +321,14 @@
             "c": "48 sq. u.",
             "d": "58 sq.u."
         },
-        "answer": "b",
         "correct_answer_text": "38 sq. u.",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1848,
@@ -260,10 +339,14 @@
             "c": "3.68",
             "d": "3.72"
         },
-        "answer": "b",
         "correct_answer_text": "3.54",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1849,
@@ -274,9 +357,13 @@
             "c": "12 units",
             "d": "10 unit"
         },
-        "answer": "d",
         "correct_answer_text": "10 unit",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     }
 ]

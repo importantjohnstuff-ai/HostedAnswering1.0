@@ -1,0 +1,382 @@
+[
+    {
+        "id": 2069,
+        "question": "A rectangular trough is 8 ft long, 2 ft wide, and 4 ft deep. If water flows in at 2 ft³/min, how fast is the surface rising when water is 1 ft deep?",
+        "options": {
+            "a": "1/2 ft/min",
+            "b": "1/5 ft/min",
+            "c": "1/6 ft/min",
+            "d": "1/8 ft/min"
+        },
+        "answer": "d",
+        "correct_answer_text": "1/8 ft/min",
+        "category": "Math",
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2070,
+        "question": "One train travels east at 45 mi/h starting at 11 AM. Another travels south at 60 mi/h starting at noon. How fast are they separating at 3 PM?",
+        "options": {
+            "a": "105sqrt(2)/2 mi/h",
+            "b": "43sqrt(3)/2 mi/h",
+            "c": "70sqrt(2)/2 mi/h",
+            "d": "43sqrt(2)/2 mi/h"
+        },
+        "answer": "a",
+        "correct_answer_text": "105sqrt(2)/2 mi/h",
+        "category": "Math",
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2071,
+        "question": "The cost for manufacturing a product is C = 230 + 13.6x^2 + 719/x. What is the value of daily EOQ (x) for minimum cost?",
+        "options": {
+            "a": "2 units",
+            "b": "3 units",
+            "c": "4 units",
+            "d": "5 units"
+        },
+        "answer": "b",
+        "correct_answer_text": "3 units",
+        "category": "Math",
+        "sub_category": "Minima/Maxima",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2072,
+        "question": "Simplify the expression lim (x^2 - 16) / (x - 4) as x approaches 2.",
+        "options": {
+            "a": "8",
+            "b": "4",
+            "c": "6",
+            "d": "7"
+        },
+        "answer": "c",
+        "correct_answer_text": "6",
+        "category": "Math",
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2073,
+        "question": "The location of a body is z(t) = 18t - 3t^2. Find the body's velocity at t = 3.",
+        "options": {
+            "a": "20",
+            "b": "24",
+            "c": "6",
+            "d": "0"
+        },
+        "answer": "d",
+        "correct_answer_text": "0",
+        "category": "Math",
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2074,
+        "question": "A guy wire runs between poles (17 ft and 21 ft high, 200 ft apart) to a point on the ground. How far from the taller pole must the point be to minimize wire length?",
+        "options": {
+            "a": "89.5 ft",
+            "b": "110.5 ft",
+            "c": "77.8 ft",
+            "d": "122.2 ft."
+        },
+        "answer": "b",
+        "correct_answer_text": "110.5 ft",
+        "category": "Math",
+        "sub_category": "Minima/Maxima",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2075,
+        "question": "Determine the area of the region bounded by x = y^2 + 1, x = 5, y = -3, and y = 3.",
+        "options": {
+            "a": "46/3",
+            "b": "47/8",
+            "c": "51/4",
+            "d": "52/3"
+        },
+        "answer": "d",
+        "correct_answer_text": "52/3",
+        "category": "Math",
+        "sub_category": "Integral Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2076,
+        "question": "Determine the amount of work required to pump all water from a full spherical tank (40 ft diameter) to a height of 50 ft.",
+        "options": {
+            "a": "62,700,000 ft-lbf",
+            "b": "89,300,000 ft-lbf",
+            "c": "23,000,000 ft-lbf",
+            "d": "none of these"
+        },
+        "answer": "a",
+        "correct_answer_text": "62,700,000 ft-lbf",
+        "category": "Math",
+        "sub_category": "Integral Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2077,
+        "question": "Determine the volume generated by rotating the region bounded by 2x + y - 4 = 0 about the y-axis.",
+        "options": {
+            "a": "16pi/3",
+            "b": "4pi/3",
+            "c": "2pi/3",
+            "d": "pi/4"
+        },
+        "answer": "a",
+        "correct_answer_text": "16pi/3",
+        "category": "Math",
+        "sub_category": "Integral Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2078,
+        "question": "Find the area of the region bounded by x = y, x = 2, and y = 1/x².",
+        "options": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4"
+        },
+        "answer": "a",
+        "correct_answer_text": "1",
+        "category": "Math",
+        "sub_category": "Integral Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2079,
+        "question": "Find the equation of the line tangent to y = x(2 - x)^2 at point (1, 1).",
+        "options": {
+            "a": "x = y = 1",
+            "b": "x + y = 2",
+            "c": "x + y = 3",
+            "d": "x + y = 4"
+        },
+        "answer": "b",
+        "correct_answer_text": "x + y = 2",
+        "category": "Math",
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2080,
+        "question": "What is the area bounded by y = 4x + 3, y = 6 - x - 2x^2, x = -4, and x = 2?",
+        "options": {
+            "a": "28.58",
+            "b": "34.89",
+            "c": "16.75",
+            "d": "8.72"
+        },
+        "answer": "a",
+        "correct_answer_text": "28.58",
+        "category": "Math",
+        "sub_category": "Integral Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2081,
+        "question": "What is the volume generated by rotating the conic 2x^2 + 2y^2 - 36x + 12y - 5 = 0 about the line 3x + 4y - 7 = 0?",
+        "options": {
+            "a": "7526",
+            "b": "1362",
+            "c": "2921",
+            "d": "5342"
+        },
+        "answer": "c",
+        "correct_answer_text": "2921",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2082,
+        "question": "Find the area bounded by the line x - 2y + 10 = 0, the x-axis, the y-axis, and x = 10.",
+        "options": {
+            "a": "75",
+            "b": "50",
+            "c": "100",
+            "d": "25"
+        },
+        "answer": "a",
+        "correct_answer_text": "75",
+        "category": "Math",
+        "sub_category": "Integral Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2083,
+        "question": "Find the volume generated by rotating the region bounded by x = y^2 - 4 and x = 6 - 3y about the line x = 24.",
+        "options": {
+            "a": "43658pi/17",
+            "b": "21589pi/11",
+            "c": "11767pi/13",
+            "d": "31556pi/15"
+        },
+        "answer": "d",
+        "correct_answer_text": "31556pi/15",
+        "category": "Math",
+        "sub_category": "Integral Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2084,
+        "question": "Find the limit of (x^2 - 16) / (x^3 + 64) as x approaches -4.",
+        "options": {
+            "a": "-3/7",
+            "b": "1/8",
+            "c": "-1/6",
+            "d": "-3/8"
+        },
+        "answer": "c",
+        "correct_answer_text": "-1/6",
+        "category": "Math",
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2085,
+        "question": "Find the limit of (sin(x) + cos(x) - 1) / x as x approaches zero.",
+        "options": {
+            "a": "one",
+            "b": "two",
+            "c": "three",
+            "d": "four"
+        },
+        "answer": "a",
+        "correct_answer_text": "one",
+        "category": "Math",
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2086,
+        "question": "Find the volume generated when the area in the first quadrant bounded by x^2 = 8y, y = 2, and the y-axis is revolved about the x-axis.",
+        "options": {
+            "a": "20.32 cu units",
+            "b": "40.21 cu units",
+            "c": "34.45 cu units",
+            "d": "45.56 cu units"
+        },
+        "answer": "b",
+        "correct_answer_text": "40.21 cu units",
+        "category": "Math",
+        "sub_category": "Integral Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2087,
+        "question": "Derive: d/dx(3ix^3 - 4x)",
+        "options": {
+            "a": "-4 + 9ix^2",
+            "b": "5 - 4ix",
+            "c": "-4 - 6ix^2",
+            "d": "-2"
+        },
+        "answer": "a",
+        "correct_answer_text": "-4 + 9ix^2",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2088,
+        "question": "Evaluate the limit of |(2z + 3i)(z - i)| / (iz^3 - 3z + 4 - i) as z approaches infinity.",
+        "options": {
+            "a": "1",
+            "b": "0",
+            "c": "i/2",
+            "d": "-i/2"
+        },
+        "answer": "b",
+        "correct_answer_text": "0",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    }
+]

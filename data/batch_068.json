@@ -1,0 +1,382 @@
+[
+    {
+        "id": 2429,
+        "question": "Compute the probability of drawing a 'full house' in a hand of poker.",
+        "options": {
+            "a": "0.00144",
+            "b": "0.00512",
+            "c": "0.00234",
+            "d": "0.00892"
+        },
+        "answer": "a",
+        "correct_answer_text": "0.00144",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2430,
+        "question": "Find the number of permutations of the letters in the word MISSISSIPPI.",
+        "options": {
+            "a": "34,650",
+            "b": "22,500",
+            "c": "43,210",
+            "d": "12,600"
+        },
+        "answer": "a",
+        "correct_answer_text": "34,650",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2431,
+        "question": "In how many ways can 6 people be seated at a round table?",
+        "options": {
+            "a": "720",
+            "b": "120",
+            "c": "240",
+            "d": "360"
+        },
+        "answer": "b",
+        "correct_answer_text": "120",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2432,
+        "question": "What is the probability of drawing an ace or a spade from a standard deck of cards?",
+        "options": {
+            "a": "1/13",
+            "b": "17/52",
+            "c": "4/13",
+            "d": "1/4"
+        },
+        "answer": "c",
+        "correct_answer_text": "4/13",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2433,
+        "question": "A box contains 5 red, 7 white and 8 blue balls. If two balls are drawn without replacement, what is the probability that both are white?",
+        "options": {
+            "a": "21/190",
+            "b": "7/19",
+            "c": "49/400",
+            "d": "3/20"
+        },
+        "answer": "a",
+        "correct_answer_text": "21/190",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2434,
+        "question": "Determine the number of ways a committee of 3 can be chosen from a group of 10 people.",
+        "options": {
+            "a": "720",
+            "b": "120",
+            "c": "30",
+            "d": "240"
+        },
+        "answer": "b",
+        "correct_answer_text": "120",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2435,
+        "question": "What is the mean of the following numbers: 12, 15, 18, 22, 25, 30?",
+        "options": {
+            "a": "18.5",
+            "b": "20.3",
+            "c": "21.0",
+            "d": "19.8"
+        },
+        "answer": "b",
+        "correct_answer_text": "20.3",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2436,
+        "question": "Find the median of the data set: 5, 8, 12, 15, 18, 22, 25.",
+        "options": {
+            "a": "12",
+            "b": "15",
+            "c": "18",
+            "d": "14"
+        },
+        "answer": "b",
+        "correct_answer_text": "15",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2437,
+        "question": "How many ways can the letters of the word 'GOOGLE' be arranged?",
+        "options": {
+            "a": "720",
+            "b": "360",
+            "c": "180",
+            "d": "120"
+        },
+        "answer": "c",
+        "correct_answer_text": "180",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2438,
+        "question": "A die is rolled once. What is the probability of getting a number greater than 4?",
+        "options": {
+            "a": "1/2",
+            "b": "1/3",
+            "c": "2/3",
+            "d": "1/6"
+        },
+        "answer": "b",
+        "correct_answer_text": "1/3",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2439,
+        "question": "In a group of 50 students, 30 play basketball, 20 play volleyball, and 10 play both. How many students play neither sport?",
+        "options": {
+            "a": "0",
+            "b": "10",
+            "c": "20",
+            "d": "5"
+        },
+        "answer": "b",
+        "correct_answer_text": "10",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2440,
+        "question": "Find the standard deviation of the numbers: 2, 4, 6, 8, 10.",
+        "options": {
+            "a": "2.83",
+            "b": "4.0",
+            "c": "8.0",
+            "d": "2.0"
+        },
+        "answer": "a",
+        "correct_answer_text": "2.83",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2441,
+        "question": "What is the probability of drawing a red face card from a standard deck?",
+        "options": {
+            "a": "3/26",
+            "b": "6/52",
+            "c": "1/13",
+            "d": "Both a and b"
+        },
+        "answer": "d",
+        "correct_answer_text": "Both a and b",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2442,
+        "question": "A bag contains 3 red, 4 green and 5 blue marbles. One marble is drawn and replaced, then a second is drawn. What is the probability that both are red?",
+        "options": {
+            "a": "1/16",
+            "b": "1/22",
+            "c": "1/4",
+            "d": "9/144"
+        },
+        "answer": "a",
+        "correct_answer_text": "1/16",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2443,
+        "question": "How many ways can 5 books be arranged on a shelf?",
+        "options": {
+            "a": "120",
+            "b": "24",
+            "c": "60",
+            "d": "25"
+        },
+        "answer": "a",
+        "correct_answer_text": "120",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2444,
+        "question": "What is the range of the following data: 15, 22, 18, 35, 12, 40, 28?",
+        "options": {
+            "a": "25",
+            "b": "28",
+            "c": "30",
+            "d": "22"
+        },
+        "answer": "b",
+        "correct_answer_text": "28",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2445,
+        "question": "If the probability of an event is 0.45, what is the probability of its complement?",
+        "options": {
+            "a": "0.45",
+            "b": "0.55",
+            "c": "1.0",
+            "d": "0"
+        },
+        "answer": "b",
+        "correct_answer_text": "0.55",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2446,
+        "question": "How many combinations of 2 items can be made from 5 unique items?",
+        "options": {
+            "a": "10",
+            "b": "20",
+            "c": "5",
+            "d": "120"
+        },
+        "answer": "a",
+        "correct_answer_text": "10",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2447,
+        "question": "Find the mode of the data: 2, 3, 3, 5, 7, 8, 8, 8, 10.",
+        "options": {
+            "a": "3",
+            "b": "8",
+            "c": "10",
+            "d": "5"
+        },
+        "answer": "b",
+        "correct_answer_text": "8",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2448,
+        "question": "What is the probability of rolling a sum of 7 with two dice?",
+        "options": {
+            "a": "1/6",
+            "b": "1/12",
+            "c": "7/36",
+            "d": "1/36"
+        },
+        "answer": "a",
+        "correct_answer_text": "1/6",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    }
+]

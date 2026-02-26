@@ -14,12 +14,11 @@
                 processEscapes: true
             },
             options: {
-                ignoreHtmlClass: 'tex2jax_ignore',
-                processHtmlClass: 'tex2jax_process'
+                skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre']
             }
         };
     </script>
-    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" async></script>
     <!-- Cropper.js -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/cropperjs/1.5.13/cropper.min.css" rel="stylesheet">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/cropperjs/1.5.13/cropper.min.js"></script>
@@ -41,16 +40,17 @@
 
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background-color: var(--bg);
+            background: var(--bg);
             color: var(--text);
             margin: 0;
-            padding: 20px;
-            padding-top: 80px;
+            padding: 0;
         }
 
         .container {
             max-width: 800px;
             margin: 0 auto;
+            padding: 20px 15px;
+            padding-top: 80px;
         }
 
         header {
@@ -58,7 +58,6 @@
             margin-bottom: 20px;
         }
 
-        /* --- Control Panel --- */
         .control-panel {
             position: fixed;
             top: 0;
@@ -67,7 +66,7 @@
             background: white;
             padding: 10px 20px;
             box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-            z-index: 1500;
+            z-index: 1000;
             display: flex;
             flex-wrap: wrap;
             align-items: center;
@@ -93,28 +92,21 @@
             color: white;
             padding: 4px 12px;
             border-radius: 20px;
-            font-size: 0.85rem;
-            font-weight: bold;
+            font-size: 0.8rem;
             cursor: pointer;
-            text-decoration: underline;
         }
 
-        .control-panel .user-badge:hover {
-            opacity: 0.85;
-        }
-
-        .control-panel .problem-count {
+        .problem-count {
             font-size: 0.8rem;
             color: #666;
         }
 
-        /* --- Cards --- */
         .problem-card {
             background: var(--card-bg);
             border-radius: 12px;
             padding: 20px;
             margin-bottom: 20px;
-            box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
             position: relative;
             border: 2px solid transparent;
         }
@@ -359,25 +351,43 @@
             text-align: center;
             margin-top: 20px;
             padding-bottom: 30px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 4px;
+            flex-wrap: wrap;
         }
 
         .pagination-controls button {
-            padding: 8px 20px;
+            padding: 8px 16px;
             border: 1px solid #ddd;
             border-radius: 6px;
             background: white;
             cursor: pointer;
             font-weight: bold;
             transition: background 0.2s;
+            font-size: 0.85rem;
         }
 
-        .pagination-controls button:hover:not(:disabled) {
+        .pagination-controls button:hover:not(:disabled):not(.page-active) {
             background: #f0f0f0;
         }
 
         .pagination-controls button:disabled {
             opacity: 0.4;
             cursor: not-allowed;
+        }
+
+        .pagination-controls .page-active {
+            background: var(--primary);
+            color: white;
+            border-color: var(--primary);
+        }
+
+        .pagination-controls .page-ellipsis {
+            padding: 8px 4px;
+            font-weight: bold;
+            color: #999;
         }
 
         .pagination-controls .page-info {
@@ -469,6 +479,160 @@
             border-radius: 4px;
             font-size: 0.85rem;
         }
+
+        /* --- Go to Problem ID --- */
+        .goto-id-group {
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+        }
+
+        .goto-id-group input {
+            width: 70px;
+            padding: 4px 8px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 0.85rem;
+        }
+
+        .goto-id-group button,
+        .search-btn {
+            padding: 4px 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            background: var(--primary);
+            color: white;
+            cursor: pointer;
+            font-size: 0.8rem;
+            font-weight: bold;
+        }
+
+        .goto-id-group button:hover,
+        .search-btn:hover {
+            opacity: 0.85;
+        }
+
+        /* --- Search Modal --- */
+        .search-modal-overlay {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.6);
+            z-index: 5000;
+        }
+
+        .search-modal {
+            background: white;
+            margin: 5% auto;
+            padding: 24px;
+            width: 90%;
+            max-width: 600px;
+            border-radius: 12px;
+            max-height: 80vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .search-modal h3 {
+            margin: 0 0 12px 0;
+        }
+
+        .search-modal input[type="text"] {
+            width: 100%;
+            padding: 10px 14px;
+            border: 2px solid #e2e8f0;
+            border-radius: 8px;
+            font-size: 1rem;
+            outline: none;
+            transition: border-color 0.2s;
+        }
+
+        .search-modal input[type="text"]:focus {
+            border-color: var(--primary);
+        }
+
+        .search-results {
+            margin-top: 12px;
+            overflow-y: auto;
+            flex: 1;
+            max-height: 55vh;
+        }
+
+        .search-result-item {
+            padding: 10px 12px;
+            border: 1px solid #e2e8f0;
+            border-radius: 8px;
+            margin-bottom: 6px;
+            cursor: pointer;
+            transition: background 0.15s;
+        }
+
+        .search-result-item:hover {
+            background: #f0f0ff;
+            border-color: var(--primary);
+        }
+
+        .search-result-item .sr-id {
+            font-weight: bold;
+            color: var(--primary);
+        }
+
+        .search-result-item .sr-cat {
+            font-size: 0.75rem;
+            color: #888;
+        }
+
+        .search-result-item .sr-question {
+            font-size: 0.85rem;
+            color: #334155;
+            margin-top: 2px;
+        }
+
+        .search-result-item .sr-hidden {
+            font-size: 0.7rem;
+            color: #ef4444;
+            font-weight: bold;
+        }
+
+        .search-result-item .sr-unhide-btn {
+            font-size: 0.7rem;
+            background: #e0e7ff;
+            color: #4338ca;
+            border: 1px solid #a5b4fc;
+            border-radius: 4px;
+            padding: 2px 8px;
+            cursor: pointer;
+            margin-left: 6px;
+        }
+
+        .search-no-results {
+            text-align: center;
+            color: #999;
+            padding: 30px;
+            font-size: 0.9rem;
+        }
+
+        .search-modal-close {
+            margin-top: 12px;
+            text-align: right;
+        }
+
+        .problem-card.highlight-pulse {
+            animation: highlightPulse 1.5s ease-out;
+        }
+
+        @keyframes highlightPulse {
+            0% {
+                box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.6);
+            }
+
+            100% {
+                box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+            }
+        }
     </style>
 </head>
 
@@ -509,6 +673,12 @@
         <label style="font-size:0.8rem;">
             <input type="checkbox" id="toggle-hidden" onchange="applyFilters()"> Show Hidden
         </label>
+        <div class="goto-id-group">
+            <input type="number" id="goto-id-input" placeholder="ID #" min="1"
+                onkeydown="if(event.key==='Enter')goToProblemId()">
+            <button onclick="goToProblemId()">Go</button>
+        </div>
+        <button class="search-btn" onclick="openSearchModal()">🔍 Search</button>
         <span class="problem-count" id="problemCount"></span>
         <span class="user-badge" id="userDisplay" onclick="editName()" title="Click to change name">User</span>
     </div>
@@ -522,10 +692,21 @@
     </div>
 
     <!-- Pagination Controls -->
-    <div class="pagination-controls" id="pagination-controls">
-        <button id="prev-btn" onclick="changePage(-1)" disabled>⬅ Previous</button>
-        <span class="page-info" id="page-info">Page 1</span>
-        <button id="next-btn" onclick="changePage(1)">Next ➡</button>
+    <div class="pagination-controls" id="pagination-controls"></div>
+
+    <!-- Search Modal -->
+    <div class="search-modal-overlay" id="search-modal">
+        <div class="search-modal">
+            <h3>🔍 Search Problems</h3>
+            <input type="text" id="search-input" placeholder="Search by keyword, ID, or category..."
+                oninput="searchProblems(this.value)">
+            <div class="search-results" id="search-results">
+                <div class="search-no-results">Type to search across all problems (including hidden)</div>
+            </div>
+            <div class="search-modal-close">
+                <button class="button button-danger" onclick="closeSearchModal()">Close</button>
+            </div>
+        </div>
     </div>
 
     <!-- Flag Modal -->
@@ -610,6 +791,7 @@
             banner.style.display = 'block';
         }
 
+
         // ===== LocalStateManager — localStorage-based persistence =====
         const LocalState = {
             STORAGE_KEY: 'collab_overrides',
@@ -624,20 +806,17 @@
                 localStorage.setItem(this.STORAGE_KEY, JSON.stringify(overrides));
             },
 
-            // Get the override for a specific problem, or empty object
             getProblemOverride(id) {
                 const overrides = this.getOverrides();
                 return overrides[id] || {};
             },
 
-            // Save override for a specific problem
             setProblemOverride(id, data) {
                 const overrides = this.getOverrides();
                 overrides[id] = { ...this.getProblemOverride(id), ...data };
                 this.saveOverrides(overrides);
             },
 
-            // Apply all localStorage overrides onto the base problem list
             applyOverrides(problems) {
                 const overrides = this.getOverrides();
                 return problems.map(p => {
@@ -649,7 +828,6 @@
                     if (ov.flag_reason !== undefined) merged.flag_reason = ov.flag_reason;
                     if (ov.hidden_by !== undefined) merged.hidden_by = ov.hidden_by;
                     if (ov.options !== undefined) merged.options = { ...p.options, ...ov.options };
-                    // Merge solutions: start with base, apply edits/deletes/adds
                     let solutions = [...(p.solutions || [])];
                     if (ov.deleted_solutions) {
                         solutions = solutions.filter(s => !ov.deleted_solutions.includes(s.solution_id));
@@ -669,28 +847,18 @@
                 });
             },
 
-            lockProblem(id, user) {
-                this.setProblemOverride(id, { locked_by: user });
-            },
-
+            lockProblem(id, user) { this.setProblemOverride(id, { locked_by: user }); },
             unlockProblem(id, user) {
                 const ov = this.getProblemOverride(id);
-                if (ov.locked_by === user) {
-                    this.setProblemOverride(id, { locked_by: null });
-                }
+                if (ov.locked_by === user) this.setProblemOverride(id, { locked_by: null });
             },
-
-            forceUnlock(id) {
-                this.setProblemOverride(id, { locked_by: null });
-            },
+            forceUnlock(id) { this.setProblemOverride(id, { locked_by: null }); },
 
             saveSolution(id, user, chosenOption, options, imageDataUrl) {
                 const ov = this.getProblemOverride(id);
                 const newSol = {
                     solution_id: 'sol_local_' + Date.now() + '_' + Math.random().toString(36).substr(2, 6),
-                    user: user,
-                    chosen_option: chosenOption,
-                    image: imageDataUrl || null
+                    user: user, chosen_option: chosenOption, image: imageDataUrl || null
                 };
                 const addedSolutions = ov.added_solutions || [];
                 addedSolutions.push(newSol);
@@ -701,14 +869,12 @@
 
             deleteSolution(probId, solId) {
                 const ov = this.getProblemOverride(probId);
-                // Check if it's a locally-added solution
                 let addedSolutions = ov.added_solutions || [];
                 const localIdx = addedSolutions.findIndex(s => s.solution_id === solId);
                 if (localIdx >= 0) {
                     addedSolutions.splice(localIdx, 1);
                     this.setProblemOverride(probId, { added_solutions: addedSolutions });
                 } else {
-                    // It's a base solution — track deletion
                     const deleted = ov.deleted_solutions || [];
                     deleted.push(solId);
                     this.setProblemOverride(probId, { deleted_solutions: deleted });
@@ -717,56 +883,42 @@
 
             editSolution(probId, solId, newAnswer) {
                 const ov = this.getProblemOverride(probId);
-                // Check if locally added
                 let addedSolutions = ov.added_solutions || [];
                 const localSol = addedSolutions.find(s => s.solution_id === solId);
                 if (localSol) {
                     localSol.chosen_option = newAnswer;
                     this.setProblemOverride(probId, { added_solutions: addedSolutions });
                 } else {
-                    // Base solution — track edit
                     const edited = ov.edited_solutions || {};
                     edited[solId] = { chosen_option: newAnswer };
                     this.setProblemOverride(probId, { edited_solutions: edited });
                 }
             },
 
-            editOptions(probId, options) {
-                this.setProblemOverride(probId, { options: options });
-            },
-
-            flagProblem(id, user, reason) {
-                this.setProblemOverride(id, { flagged_by: user, flag_reason: reason });
-            },
-
+            editOptions(probId, options) { this.setProblemOverride(probId, { options: options }); },
+            flagProblem(id, user, reason) { this.setProblemOverride(id, { flagged_by: user, flag_reason: reason }); },
             unflagProblem(id, user) {
                 const ov = this.getProblemOverride(id);
-                if (ov.flagged_by === user) {
-                    this.setProblemOverride(id, { flagged_by: null, flag_reason: null });
-                }
+                if (ov.flagged_by === user) this.setProblemOverride(id, { flagged_by: null, flag_reason: null });
             },
-
             toggleHide(id, user) {
                 const ov = this.getProblemOverride(id);
-                if (ov.hidden_by) {
-                    this.setProblemOverride(id, { hidden_by: null });
-                } else {
-                    this.setProblemOverride(id, { hidden_by: user });
-                }
+                this.setProblemOverride(id, { hidden_by: ov.hidden_by ? null : user });
             }
         };
 
         // ===== Global Data Store =====
-        let baseProblems = [];  // immutable data from JSON
-        let allProblems = [];   // base + localStorage overrides
+        let baseProblems = [];
+        let allProblems = [];
         let currentRenderedJson = '';
         let cropperInstance = null;
         let cropperProblemId = null;
         let currentPage = 1;
         let itemsPerPage = 20;
         let lastFilteredCount = 0;
+        let lastFilteredList = [];
 
-        // ===== Load Data =====
+        // ===== Load Data (Static) =====
         function loadData() {
             if (window.ALL_PROBLEMS && Array.isArray(window.ALL_PROBLEMS)) {
                 baseProblems = window.ALL_PROBLEMS;
@@ -776,7 +928,6 @@
             }
         }
 
-        // Re-apply localStorage overrides and re-render
         function refreshFromLocal() {
             allProblems = LocalState.applyOverrides(baseProblems);
             populateFilterDropdowns();
@@ -817,14 +968,21 @@
 
             let filtered = [...allProblems];
 
+            // Hidden filter (default: hide them)
             if (!showHidden) filtered = filtered.filter(p => !p.hidden_by);
+
+            // Status filter
             if (statusVal === 'solved') filtered = filtered.filter(p => p.solutions && p.solutions.length > 0);
             else if (statusVal === 'unsolved') filtered = filtered.filter(p => !p.solutions || p.solutions.length === 0);
+
             if (catVal !== 'all') filtered = filtered.filter(p => p.category === catVal);
             if (subVal !== 'all') filtered = filtered.filter(p => p.sub_category === subVal);
 
+            lastFilteredList = filtered;
             lastFilteredCount = filtered.length;
             const totalPages = Math.max(1, Math.ceil(filtered.length / itemsPerPage));
+
+            // Clamp currentPage
             if (currentPage > totalPages) currentPage = totalPages;
             if (currentPage < 1) currentPage = 1;
 
@@ -832,11 +990,10 @@
             const endIndex = startIndex + itemsPerPage;
             const problemsToDisplay = filtered.slice(startIndex, endIndex);
 
+            // Update count & pagination UI
             document.getElementById('problemCount').innerText =
                 `${startIndex + 1}–${Math.min(endIndex, filtered.length)} of ${filtered.length} (${allProblems.length} total)`;
-            document.getElementById('page-info').innerText = `Page ${currentPage} of ${totalPages}`;
-            document.getElementById('prev-btn').disabled = (currentPage <= 1);
-            document.getElementById('next-btn').disabled = (currentPage >= totalPages);
+            renderPagination(currentPage, totalPages);
 
             const hideSol = document.getElementById('toggle-solutions').checked;
             const newJson = JSON.stringify(problemsToDisplay) + '|hide=' + hideSol + '|showHidden=' + showHidden;
@@ -846,10 +1003,218 @@
             }
         }
 
+        // ===== Pagination with Page Numbers =====
+        function renderPagination(current, total) {
+            const container = document.getElementById('pagination-controls');
+            container.innerHTML = '';
+
+            if (total <= 1) return;
+
+            // Previous button
+            const prevBtn = document.createElement('button');
+            prevBtn.textContent = '⬅ Prev';
+            prevBtn.disabled = current <= 1;
+            prevBtn.onclick = () => goToPage(current - 1);
+            container.appendChild(prevBtn);
+
+            // Determine which page numbers to show
+            const pages = new Set();
+            pages.add(1);
+            pages.add(total);
+            for (let i = current - 3; i <= current + 3; i++) {
+                if (i >= 1 && i <= total) pages.add(i);
+            }
+            const sorted = [...pages].sort((a, b) => a - b);
+
+            let lastPage = 0;
+            sorted.forEach(pg => {
+                if (pg - lastPage > 1) {
+                    const ellipsis = document.createElement('span');
+                    ellipsis.className = 'page-ellipsis';
+                    ellipsis.textContent = '…';
+                    container.appendChild(ellipsis);
+                }
+                const btn = document.createElement('button');
+                btn.textContent = pg;
+                if (pg === current) btn.className = 'page-active';
+                btn.onclick = () => goToPage(pg);
+                container.appendChild(btn);
+                lastPage = pg;
+            });
+
+            // Next button
+            const nextBtn = document.createElement('button');
+            nextBtn.textContent = 'Next ➡';
+            nextBtn.disabled = current >= total;
+            nextBtn.onclick = () => goToPage(current + 1);
+            container.appendChild(nextBtn);
+        }
+
+        function goToPage(page) {
+            currentPage = page;
+            applyFilters();
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+
         function changePage(direction) {
             currentPage += direction;
             applyFilters();
             window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+
+        // ===== Go to Problem ID =====
+        function goToProblemId() {
+            const idInput = document.getElementById('goto-id-input');
+            const targetId = parseInt(idInput.value);
+            if (!targetId || isNaN(targetId)) {
+                alert('Please enter a valid problem ID.');
+                return;
+            }
+
+            // Search in the current filtered list first
+            let idx = lastFilteredList.findIndex(p => p.id === targetId);
+            if (idx !== -1) {
+                currentPage = Math.floor(idx / itemsPerPage) + 1;
+                applyFilters();
+                setTimeout(() => scrollToProblemCard(targetId), 200);
+                return;
+            }
+
+            // If not found in filtered list, search all problems
+            const problem = allProblems.find(p => p.id === targetId);
+            if (!problem) {
+                alert(`Problem #${targetId} not found.`);
+                return;
+            }
+
+            // If the problem is hidden, ask to unhide
+            if (problem.hidden_by) {
+                if (confirm(`Problem #${targetId} is hidden. Unhide it and navigate?`)) {
+                    toggleHide(targetId, encodeURIComponent(problem.source_file));
+                    // After unhide, we'll need to wait for data refresh then navigate
+                    setTimeout(() => {
+                        goToProblemId();
+                    }, 1500);
+                    return;
+                } else {
+                    return;
+                }
+            }
+
+            // Reset filters to show all, then navigate
+            document.getElementById('filterStatus').value = 'all';
+            document.getElementById('filterCategory').value = 'all';
+            document.getElementById('filterSubcategory').value = 'all';
+            document.getElementById('toggle-hidden').checked = false;
+            applyFilters();
+
+            idx = lastFilteredList.findIndex(p => p.id === targetId);
+            if (idx !== -1) {
+                currentPage = Math.floor(idx / itemsPerPage) + 1;
+                applyFilters();
+                setTimeout(() => scrollToProblemCard(targetId), 200);
+            }
+        }
+
+        function scrollToProblemCard(id) {
+            const cards = document.querySelectorAll('.problem-card');
+            for (const card of cards) {
+                if (card.textContent.includes(`Problem #${id}`)) {
+                    card.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                    card.classList.add('highlight-pulse');
+                    setTimeout(() => card.classList.remove('highlight-pulse'), 1600);
+                    break;
+                }
+            }
+        }
+
+        // ===== Search Modal =====
+        function openSearchModal() {
+            document.getElementById('search-modal').style.display = 'block';
+            const input = document.getElementById('search-input');
+            input.value = '';
+            input.focus();
+            document.getElementById('search-results').innerHTML =
+                '<div class="search-no-results">Type to search across all problems (including hidden)</div>';
+        }
+
+        function closeSearchModal() {
+            document.getElementById('search-modal').style.display = 'none';
+        }
+
+        // Close search modal on Escape
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape' && document.getElementById('search-modal').style.display === 'block') {
+                closeSearchModal();
+            }
+        });
+
+        function searchProblems(query) {
+            const resultsDiv = document.getElementById('search-results');
+            query = query.trim().toLowerCase();
+
+            if (!query) {
+                resultsDiv.innerHTML = '<div class="search-no-results">Type to search across all problems (including hidden)</div>';
+                return;
+            }
+
+            // Search ALL problems (including hidden)
+            const matches = allProblems.filter(p => {
+                const idMatch = String(p.id) === query;
+                const qMatch = p.question && p.question.toLowerCase().includes(query);
+                const catMatch = p.category && p.category.toLowerCase().includes(query);
+                const subMatch = p.sub_category && p.sub_category.toLowerCase().includes(query);
+                return idMatch || qMatch || catMatch || subMatch;
+            });
+
+            if (matches.length === 0) {
+                resultsDiv.innerHTML = '<div class="search-no-results">No problems found matching your search.</div>';
+                return;
+            }
+
+            // Limit displayed results
+            const displayLimit = 50;
+            const toShow = matches.slice(0, displayLimit);
+
+            resultsDiv.innerHTML = toShow.map(p => {
+                // Strip LaTeX/HTML for preview
+                let preview = p.question || '';
+                preview = preview.replace(/\$\$?[^$]*\$\$?/g, '[math]');
+                preview = preview.replace(/<[^>]+>/g, '');
+                if (preview.length > 100) preview = preview.substring(0, 100) + '…';
+
+                const isHidden = !!p.hidden_by;
+                const hiddenBadge = isHidden
+                    ? `<span class="sr-hidden">👁 HIDDEN</span>
+                       <button class="sr-unhide-btn" onclick="event.stopPropagation(); unhideAndNavigate(${p.id}, '${encodeURIComponent(p.source_file)}')">Unhide & Go</button>`
+                    : '';
+
+                return `<div class="search-result-item" onclick="navigateToSearchResult(${p.id})">
+                    <span class="sr-id">#${p.id}</span>
+                    <span class="sr-cat">${p.category} → ${p.sub_category}</span>
+                    ${hiddenBadge}
+                    <div class="sr-question">${preview}</div>
+                </div>`;
+            }).join('');
+
+            if (matches.length > displayLimit) {
+                resultsDiv.innerHTML += `<div class="search-no-results">Showing ${displayLimit} of ${matches.length} results. Refine your search.</div>`;
+            }
+        }
+
+        function navigateToSearchResult(id) {
+            closeSearchModal();
+            document.getElementById('goto-id-input').value = id;
+            goToProblemId();
+        }
+
+        function unhideAndNavigate(id, sf) {
+            toggleHide(id, sf);
+            closeSearchModal();
+            setTimeout(() => {
+                document.getElementById('goto-id-input').value = id;
+                goToProblemId();
+            }, 1500);
         }
 
         // ===== Render =====
@@ -990,6 +1355,7 @@
                     }
                     btnDiv.innerHTML = btns;
 
+                    // Inline edit options (hidden by default)
                     const editOptsDiv = document.createElement('div');
                     editOptsDiv.id = `edit-opts-${p.id}`;
                     editOptsDiv.style.display = 'none';
@@ -1006,6 +1372,7 @@
                     card.appendChild(btnDiv);
                     card.appendChild(editOptsDiv);
                 } else {
+                    // Locked by another user — show Force Unlock
                     const btnDiv = document.createElement('div');
                     btnDiv.style.marginTop = '10px';
                     btnDiv.innerHTML = `<button class="button button-warning" onclick="forceUnlock(${p.id},'${sf}')">🔓 Force Unlock (cancel ${p.locked_by}'s work)</button>`;

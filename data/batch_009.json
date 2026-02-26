@@ -3,15 +3,19 @@
         "id": 161,
         "question": "Solve the D.E.: $y'' + 4y' + 3y = 5$",
         "options": {
-            "a": "$y = Ae^{-x} + Be^{-3x} + 5/3$",
-            "b": "$y = Ae^{-x} + Be^{-3x} + 5/2$",
-            "c": "$y = Ae^x + Be^{3x} + 5/2$",
-            "d": "$y = Ae^x + Be^{3x} + 15/2$"
+            "a": "$y = Ae^{-x} + Be^{-3x} + 5\/3$",
+            "b": "$y = Ae^{-x} + Be^{-3x} + 5\/2$",
+            "c": "$y = Ae^x + Be^{3x} + 5\/2$",
+            "d": "$y = Ae^x + Be^{3x} + 15\/2$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Equation"
+        "sub_category": "Differential Equation",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 162,
@@ -22,10 +26,21 @@
             "c": "$y = -\\frac{1}{10}(\\cos 2x - \\sin 2x)$",
             "d": "$y = \\frac{1}{20}(2\\cos 2x - \\sin 2x)$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Equation"
+        "sub_category": "Differential Equation",
+        "solutions": [
+            {
+                "solution_id": "sol_699fea11f0e8d",
+                "user": "Lyan",
+                "chosen_option": "b",
+                "image": "uploads\/solution_162_1772087825.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 163,
@@ -36,10 +51,21 @@
             "c": "$y_p = \\frac{3}{362}(10\\sin 5x - 9\\cos 2x)$",
             "d": "$y_p = \\frac{3}{181}(5\\sin 5x - 9\\sin 2x)$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Equation"
+        "sub_category": "Differential Equation",
+        "solutions": [
+            {
+                "solution_id": "sol_699febc5ce222",
+                "user": "Lyan",
+                "chosen_option": "c",
+                "image": "uploads\/solution_163_1772088261.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 164,
@@ -50,52 +76,82 @@
             "c": "$y = c_1 e^{-x} + c_2 x e^{-x} + \\frac{2}{9} e^{-x} \\sin(3x) - \\frac{2}{3} e^{-x} \\cos(3x)$",
             "d": "$y = c_1 e^{-x} + c_2 x e^{-x} + \\frac{5}{9} e^{-x} \\sin(3x)$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Equation"
+        "sub_category": "Differential Equation",
+        "solutions": [
+            {
+                "solution_id": "sol_699fed236ef2d",
+                "user": "Lyan",
+                "chosen_option": "b",
+                "image": "uploads\/solution_164_1772088611.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 165,
         "question": "Determine the particular solution of $y''' - 8y = 4e^{2x}$:",
         "options": {
-            "a": "$Y_p = (1/2)xe^{2x}$",
-            "b": "$Y_p = (1/3)xe^{2x}$",
-            "c": "$Y_p = (1/4)xe^{2x}$",
-            "d": "$Y_p = (1/6)xe^{2x}$"
+            "a": "$Y_p = (1\/2)xe^{2x}$",
+            "b": "$Y_p = (1\/3)xe^{2x}$",
+            "c": "$Y_p = (1\/4)xe^{2x}$",
+            "d": "$Y_p = (1\/6)xe^{2x}$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Equation"
+        "sub_category": "Differential Equation",
+        "solutions": [
+            {
+                "solution_id": "sol_699fee767b53f",
+                "user": "Lyan",
+                "chosen_option": "a",
+                "image": "uploads\/solution_165_1772088950.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 166,
         "question": "Determine the particular solution of $y'' - 10y' + 24y = 6\\cos(3x)$:",
         "options": {
-            "a": "$Y_p = (-2/25)(2\\sin(3x) - \\cos(3x))$",
-            "b": "$Y_p = (4/25)(\\sin(3x) - 2\\cos(3x))$",
-            "c": "$Y_p = (-1/25)(4\\sin(3x) + \\cos(3x))$",
-            "d": "$Y_p = (2/25)(4\\sin(3x) + \\cos(3x))$"
+            "a": "$Y_p = (-2\/25)(2\\sin(3x) - \\cos(3x))$",
+            "b": "$Y_p = (4\/25)(\\sin(3x) - 2\\cos(3x))$",
+            "c": "$Y_p = (-1\/25)(4\\sin(3x) + \\cos(3x))$",
+            "d": "$Y_p = (2\/25)(4\\sin(3x) + \\cos(3x))$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Equation"
+        "sub_category": "Differential Equation",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 167,
         "question": "Determine the particular solution of $y'' + 7y' + 12y = 8e^{-x} \\cos(2x)$:",
         "options": {
-            "a": "$Y_p = (4/13)e^{-x}(6\\sin(2x) - \\cos(2x))$",
-            "b": "$Y_p = (5/13)e^{-x}(5\\sin(2x) - 2\\cos(2x))$",
-            "c": "$Y_p = (2/13)e^{-x}(4\\sin(2x) + \\cos(2x))$",
-            "d": "$Y_p = (2/13)e^{-x}(5\\sin(2x) + \\cos(2x))$"
+            "a": "$Y_p = (4\/13)e^{-x}(6\\sin(2x) - \\cos(2x))$",
+            "b": "$Y_p = (5\/13)e^{-x}(5\\sin(2x) - 2\\cos(2x))$",
+            "c": "$Y_p = (2\/13)e^{-x}(4\\sin(2x) + \\cos(2x))$",
+            "d": "$Y_p = (2\/13)e^{-x}(5\\sin(2x) + \\cos(2x))$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Equation"
+        "sub_category": "Differential Equation",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 168,
@@ -106,24 +162,32 @@
             "c": "$\\frac{1}{(1 - x)^2}$",
             "d": "$\\frac{x^3}{3} + 1$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Equation"
+        "sub_category": "Differential Equation",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 169,
         "question": "The solution of the ordinary differential equation $\\frac{dy}{dx} + 3y = 1$, subject to the initial condition $y = 1$ at $x = 0$, is:",
         "options": {
-            "a": "$\\frac{1}{3}(1 + 2e^{-x/3})$",
-            "b": "$\\frac{1}{3}(5 - 2e^{-x/3})$",
+            "a": "$\\frac{1}{3}(1 + 2e^{-x\/3})$",
+            "b": "$\\frac{1}{3}(5 - 2e^{-x\/3})$",
             "c": "$\\frac{1}{3}(5 - 2e^{-3x})$",
             "d": "$\\frac{1}{3}(1 + 2e^{-3x})$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Equation"
+        "sub_category": "Differential Equation",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 170,
@@ -134,10 +198,14 @@
             "c": "$xe^{0.5x}$",
             "d": "$-xe^{0.5x}$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Equation"
+        "sub_category": "Differential Equation",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 171,
@@ -148,10 +216,14 @@
             "c": "35.8 min",
             "d": "10.3 min"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Equation"
+        "sub_category": "Differential Equation",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 172,
@@ -162,10 +234,14 @@
             "c": "217 hours",
             "d": "342 hours"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Equation"
+        "sub_category": "Differential Equation",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 173,
@@ -176,10 +252,14 @@
             "c": "6.3 years",
             "d": "2.45 years"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Equation"
+        "sub_category": "Differential Equation",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 174,
@@ -190,10 +270,14 @@
             "c": "21 years",
             "d": "27 years"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Equation"
+        "sub_category": "Differential Equation",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 175,
@@ -204,10 +288,14 @@
             "c": "7 minutes",
             "d": "16 minutes"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Equation"
+        "sub_category": "Differential Equation",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 176,
@@ -218,10 +306,14 @@
             "c": "$56.55^\\circ\\text{C}$",
             "d": "$57.66^\\circ\\text{C}$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Equation"
+        "sub_category": "Differential Equation",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 177,
@@ -232,10 +324,14 @@
             "c": "3.44 min",
             "d": "5.22 min"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Equation"
+        "sub_category": "Differential Equation",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 178,
@@ -246,10 +342,14 @@
             "c": "$\\sqrt{x + y} + y = C$",
             "d": "$\\sqrt{x^2 - y} + y = C$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Equation"
+        "sub_category": "Differential Equation",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 179,
@@ -260,10 +360,14 @@
             "c": "$xe^{0.5x}$",
             "d": "$-xe^{0.5x}$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Equation"
+        "sub_category": "Differential Equation",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 180,
@@ -274,9 +378,13 @@
             "c": "O2, CO, CO2",
             "d": "CO2, CO, O2"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     }
 ]

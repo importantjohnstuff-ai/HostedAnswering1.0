@@ -146,8 +146,15 @@
         "correct_answer_text": "",
         "category": "Math",
         "sub_category": "Probability and Statistics",
-        "solutions": [],
-        "locked_by": "Joshua",
+        "solutions": [
+            {
+                "solution_id": "sol_699fdbd93ef1e",
+                "user": "Joshua",
+                "chosen_option": "a",
+                "image": "uploads\/solution_207_1772084185.jpg"
+            }
+        ],
+        "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
         "hidden_by": null
@@ -166,10 +173,10 @@
         "sub_category": "Probability and Statistics",
         "solutions": [
             {
-                "solution_id": "sol_699e67f7f0c2f",
+                "solution_id": "sol_699fdc8936fcf",
                 "user": "Joshua",
                 "chosen_option": "b",
-                "image": null
+                "image": "uploads\/solution_208_1772084361.jpg"
             }
         ],
         "locked_by": null,
@@ -191,10 +198,10 @@
         "sub_category": "Probability and Statistics",
         "solutions": [
             {
-                "solution_id": "sol_699e685f818c5",
-                "user": "Joshua",
+                "solution_id": "sol_699fde4a4bea2",
+                "user": "Joy",
                 "chosen_option": "d",
-                "image": null
+                "image": "uploads\/solution_209_1772084810.jpg"
             }
         ],
         "locked_by": null,
@@ -305,7 +312,7 @@
         "category": "Math",
         "sub_category": "Probability and Statistics",
         "solutions": [],
-        "locked_by": null,
+        "locked_by": "Anonymous",
         "flagged_by": null,
         "flag_reason": null,
         "hidden_by": null
@@ -322,7 +329,14 @@
         "correct_answer_text": "",
         "category": "Math",
         "sub_category": "Probability and Statistics",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_699ff8b3a3b4b",
+                "user": "Joy",
+                "chosen_option": "b",
+                "image": "uploads\/solution_215_1772091571.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
@@ -340,7 +354,14 @@
         "correct_answer_text": "",
         "category": "Math",
         "sub_category": "Probability and Statistics",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_699fdf63033ca",
+                "user": "Joy",
+                "chosen_option": "a",
+                "image": "uploads\/solution_216_1772085091.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
@@ -358,7 +379,14 @@
         "correct_answer_text": "",
         "category": "Math",
         "sub_category": "Probability and Statistics",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_699fe7186ecad",
+                "user": "Joshua",
+                "chosen_option": "a",
+                "image": "uploads\/solution_217_1772087064.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
@@ -376,7 +404,14 @@
         "correct_answer_text": "",
         "category": "Math",
         "sub_category": "Probability and Statistics",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_699ffa5a39d9e",
+                "user": "mark",
+                "chosen_option": "c",
+                "image": "uploads\/solution_218_1772091994.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
@@ -394,7 +429,14 @@
         "correct_answer_text": "",
         "category": "Math",
         "sub_category": "Probability and Statistics",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_699fe5029e074",
+                "user": "Joy",
+                "chosen_option": "b",
+                "image": "uploads\/solution_219_1772086530.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
@@ -412,7 +454,14 @@
         "correct_answer_text": "",
         "category": "Math",
         "sub_category": "Probability and Statistics",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_699fe7d9b96b1",
+                "user": "Joshua",
+                "chosen_option": "a",
+                "image": "uploads\/solution_220_1772087257.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,

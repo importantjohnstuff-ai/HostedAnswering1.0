@@ -1,0 +1,382 @@
+[
+    {
+        "id": 2329,
+        "question": "A gold square box has a volume of 80 in3. The base cost P300/in2 and the sides P200/in2. What is the minimum cost of the box?",
+        "options": {
+            "a": "P20,242",
+            "b": "P18,134",
+            "c": "P23,450",
+            "d": "P26,549"
+        },
+        "answer": "b",
+        "correct_answer_text": "P18,134",
+        "category": "Math",
+        "sub_category": "Minima/Maxima",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2330,
+        "question": "A car is initially 100 km west of a truck. Both start traveling at the same time: car at 20 kph northward and truck at 40 kph eastward. Determine the rate the distance changes after 2 hours.",
+        "options": {
+            "a": "44 kph",
+            "b": "22 kph",
+            "c": "33 kph",
+            "d": "55 kph"
+        },
+        "answer": "b",
+        "correct_answer_text": "22 kph",
+        "category": "Math",
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2331,
+        "question": "A bubble changes its surface area at 10 in2/min. How fast is its volume changing when r = 2 in?",
+        "options": {
+            "a": "12 in3/min",
+            "b": "10 in3/min",
+            "c": "20 in3/min",
+            "d": "5 in3/min"
+        },
+        "answer": "d",
+        "correct_answer_text": "5 in3/min",
+        "category": "Math",
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2332,
+        "question": "A light post is 13 feet tall. A man moves away from it at 6 ft/min such that his shadow extends at a rate of 4 ft/min. How tall is the man?",
+        "options": {
+            "a": "5.8 ft",
+            "b": "6.2 ft",
+            "c": "5.3 ft",
+            "d": "7.0 ft"
+        },
+        "answer": "c",
+        "correct_answer_text": "5.3 ft",
+        "category": "Math",
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2333,
+        "question": "What is the area between the curves x = -2y^2 and the line x + 18 = 0?",
+        "options": {
+            "a": "81",
+            "b": "72",
+            "c": "36",
+            "d": "90"
+        },
+        "answer": "b",
+        "correct_answer_text": "72",
+        "category": "Math",
+        "sub_category": "Integral Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2334,
+        "question": "Find the area of the cardioid, r = 4 + 4 sin θ:",
+        "options": {
+            "a": "12pi",
+            "b": "24 pi",
+            "c": "36pi",
+            "d": "18pi"
+        },
+        "answer": "b",
+        "correct_answer_text": "24 pi",
+        "category": "Math",
+        "sub_category": "Geometry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2335,
+        "question": "What is the area of a single petal of the rose, r = 3 cos 2θ?",
+        "options": {
+            "a": "9pi/8",
+            "b": "10pi/9",
+            "c": "7pi/6",
+            "d": "13pi/8"
+        },
+        "answer": "a",
+        "correct_answer_text": "9pi/8",
+        "category": "Math",
+        "sub_category": "Geometry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2336,
+        "question": "Compute the length of the curve y = 2x ln x from x = 2 to x = 4.",
+        "options": {
+            "a": "7.23",
+            "b": "8.55",
+            "c": "8.21",
+            "d": "9.64"
+        },
+        "answer": "a",
+        "correct_answer_text": "7.23",
+        "category": "Math",
+        "sub_category": "Integral Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2337,
+        "question": "Express 67.82° in DMS (Degrees, Minutes, Seconds).",
+        "options": {
+            "a": "67° 12' 45.2\"",
+            "b": "67° 49' 12\"",
+            "c": "67° 49' 11.3\"",
+            "d": "67° 43' 12\""
+        },
+        "answer": "b",
+        "correct_answer_text": "67° 49' 12\"",
+        "category": "Math",
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2338,
+        "question": "If A = x + sin(y), B = ln(A + y), and C = A - Bx, find A + B + C if x = 1 and y = 2 in radians.",
+        "options": {
+            "a": "3.818",
+            "b": "4.892",
+            "c": "34.43",
+            "d": "0.0967"
+        },
+        "answer": "b",
+        "correct_answer_text": "4.892",
+        "category": "Math",
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2339,
+        "question": "Express 0° 24' 67.8\" + 0.567 rad in decimal degree form.",
+        "options": {
+            "a": "0.41883",
+            "b": "32.9055",
+            "c": "29.8832",
+            "d": "0.48133"
+        },
+        "answer": "b",
+        "correct_answer_text": "32.9055",
+        "category": "Math",
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2340,
+        "question": "How many hours are there between 6:34 PM and 11:25 PM?",
+        "options": {
+            "a": "4.85 h",
+            "b": "4.83 h",
+            "c": "4.67 h",
+            "d": "4.23 h"
+        },
+        "answer": "a",
+        "correct_answer_text": "4.85 h",
+        "category": "Math",
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2341,
+        "question": "The remainder of a polynomial f(x) divided by x - a is R = f(a). Find the remainder when 3x^2 - 4x + 2 is divided by (x - 2).",
+        "options": {
+            "a": "3",
+            "b": "9",
+            "c": "6",
+            "d": "1"
+        },
+        "answer": "c",
+        "correct_answer_text": "6",
+        "category": "Math",
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2342,
+        "question": "Evaluate the limit of (ln cos x) / x^2 as x approaches 0.",
+        "options": {
+            "a": "-1/2",
+            "b": "2/3",
+            "c": "-1/3",
+            "d": "0"
+        },
+        "answer": "a",
+        "correct_answer_text": "-1/2",
+        "category": "Math",
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2343,
+        "question": "Factor the expression x^2 + 2xy - z^2 - 2zy.",
+        "options": {
+            "a": "(x - z)(x - 2y + z)",
+            "b": "(x - y)(x + 2y - z)",
+            "c": "(x - y)(x - 2y + z)",
+            "d": "(x - z)(x + 2y + z)"
+        },
+        "answer": "d",
+        "correct_answer_text": "(x - z)(x + 2y + z)",
+        "category": "Math",
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2344,
+        "question": "Determine the Greatest Common Divisor (GCD) of 34 and 58.",
+        "options": {
+            "a": "7",
+            "b": "2",
+            "c": "4",
+            "d": "17"
+        },
+        "answer": "b",
+        "correct_answer_text": "2",
+        "category": "Math",
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2345,
+        "question": "Convert the binary number 11010110 into its hexadecimal equivalent.",
+        "options": {
+            "a": "D6",
+            "b": "A12",
+            "c": "67",
+            "d": "19E"
+        },
+        "answer": "a",
+        "correct_answer_text": "D6",
+        "category": "Math",
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2346,
+        "question": "Solve the equation x^3 - 2x^2 - x + 2 = 0.",
+        "options": {
+            "a": "1, 2, -1",
+            "b": "1, 2, -2",
+            "c": "1, -1, -2",
+            "d": "2, -2, 0"
+        },
+        "answer": "a",
+        "correct_answer_text": "1, 2, -1",
+        "category": "Math",
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2347,
+        "question": "Find the values of x in the equation 24x^2 + 5x - 1 = 0.",
+        "options": {
+            "a": "1/6, 1",
+            "b": "1/2, 1/5",
+            "c": "1/6, 1/5",
+            "d": "1/8, -1/3"
+        },
+        "answer": "d",
+        "correct_answer_text": "1/8, -1/3",
+        "category": "Math",
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2348,
+        "question": "Find the values of x and y from the equations: x - 4y + 2 = 0 and 2x + y - 4 = 0.",
+        "options": {
+            "a": "11/7, -6/7",
+            "b": "4/9, 8/9",
+            "c": "14/9, 8/9",
+            "d": "3/2, 5/3"
+        },
+        "answer": "c",
+        "correct_answer_text": "14/9, 8/9",
+        "category": "Math",
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    }
+]

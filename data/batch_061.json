@@ -1,0 +1,382 @@
+[
+    {
+        "id": 2289,
+        "question": "Find the limit of (2 - x)^tan(πx/2) as x approaches 1.",
+        "options": {
+            "a": "e^(1/π)",
+            "b": "e^π",
+            "c": "π^2",
+            "d": "e^(2/π)"
+        },
+        "answer": "d",
+        "correct_answer_text": "e^(2/π)",
+        "category": "Math",
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2290,
+        "question": "Evaluate the limit of (x + 4) / (x - 4) as x approaches infinity.",
+        "options": {
+            "a": "Infinity",
+            "b": "1",
+            "c": "0",
+            "d": "4"
+        },
+        "answer": "b",
+        "correct_answer_text": "1",
+        "category": "Math",
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2291,
+        "question": "Find the equation of the line tangent to the curve y = sqrt(x) at the point (4, 2).",
+        "options": {
+            "a": "x - 4y + 2 = 0",
+            "b": "x - 4y + 4 = 0",
+            "c": "x + 4y + 2 = 0",
+            "d": "x - 2y - 3 = 0"
+        },
+        "answer": "b",
+        "correct_answer_text": "x - 4y + 4 = 0",
+        "category": "Math",
+        "sub_category": "Geometry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2292,
+        "question": "What is the first derivative of the expression (xy)^x = e?",
+        "options": {
+            "a": "0",
+            "b": "x/y",
+            "c": "-y(1 + ln xy) / x",
+            "d": "-y(1 - ln xy) / x^2"
+        },
+        "answer": "c",
+        "correct_answer_text": "-y(1 + ln xy) / x",
+        "category": "Math",
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2293,
+        "question": "Find the derivative with respect to x of the function sqrt(2 - 3x^2).",
+        "options": {
+            "a": "-2x^2 / sqrt(2 - 3x^2)",
+            "b": "-3x^2 / sqrt(2 - 3x^2)",
+            "c": "-3x / sqrt(2 - 3x^2)",
+            "d": "3x / sqrt(2 - 3x^2)"
+        },
+        "answer": "c",
+        "correct_answer_text": "-3x / sqrt(2 - 3x^2)",
+        "category": "Math",
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2294,
+        "question": "Find the second derivative of x^3 - 5x^2 + x = y.",
+        "options": {
+            "a": "10x - 5",
+            "b": "3x + 10",
+            "c": "6x - 10",
+            "d": "3x^2 - 5x"
+        },
+        "answer": "c",
+        "correct_answer_text": "6x - 10",
+        "category": "Math",
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2295,
+        "question": "What is the second derivative of arccot (3x)?",
+        "options": {
+            "a": "2 / (9x^2 - 1)^2",
+            "b": "54x / (9x^2 + 1)^2",
+            "c": "54x / sqrt(9x^2 - 1)",
+            "d": "54x / sqrt(9x^2 + 1)"
+        },
+        "answer": "b",
+        "correct_answer_text": "54x / (9x^2 + 1)^2",
+        "category": "Math",
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2296,
+        "question": "If y = 4 cos x + sin 2x, what is the slope of the curve when x = 2 radians?",
+        "options": {
+            "a": "2.21",
+            "b": "3.25",
+            "c": "4.94",
+            "d": "-2.21"
+        },
+        "answer": "c",
+        "correct_answer_text": "4.94",
+        "category": "Math",
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2297,
+        "question": "Find the slope of the curve x^2 + y^2 - 6x + 10y + 5 = 0 at point (1, 0).",
+        "options": {
+            "a": "1/5",
+            "b": "2/5",
+            "c": "1/4",
+            "d": "2"
+        },
+        "answer": "b",
+        "correct_answer_text": "2/5",
+        "category": "Math",
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2298,
+        "question": "Find the equation of the normal to x^2 + y^2 = 5 at the point (2, 1).",
+        "options": {
+            "a": "y = 2x",
+            "b": "2x + 3y = 3",
+            "c": "x = 2y",
+            "d": "x + y = 1"
+        },
+        "answer": "c",
+        "correct_answer_text": "x = 2y",
+        "category": "Math",
+        "sub_category": "Geometry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2299,
+        "question": "Find the minimum amount of tin sheet that can be made into a closed cylinder having a volume of 108 cu. inches in square inches.",
+        "options": {
+            "a": "125.50",
+            "b": "129.50",
+            "c": "127.50",
+            "d": "123.50"
+        },
+        "answer": "c",
+        "correct_answer_text": "127.50",
+        "category": "Math",
+        "sub_category": "Minima/Maxima",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2300,
+        "question": "A box is to be constructed from a piece of zinc 20 sq. in by cutting equal squares from each corner and turning up the zinc to form the side. What is the volume of the largest box that can be so constructed?",
+        "options": {
+            "a": "599.95 cu in.",
+            "b": "579.50 cu in.",
+            "c": "592.59 cu in.",
+            "d": "622.49 cu in."
+        },
+        "answer": "c",
+        "correct_answer_text": "592.59 cu in.",
+        "category": "Math",
+        "sub_category": "Minima/Maxima",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2301,
+        "question": "A statue 3 m high is standing on a base of 4 m high. If an observer's eye is 1.5 m above the ground, how far should he stand from the base in order that the angle subtended by the statue is a maximum?",
+        "options": {
+            "a": "3.41 m",
+            "b": "3.51 m",
+            "c": "3.71 m",
+            "d": "4.41 m"
+        },
+        "answer": "c",
+        "correct_answer_text": "3.71 m",
+        "category": "Math",
+        "sub_category": "Minima/Maxima",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2302,
+        "question": "What is the volume of the largest cylinder that can be inscribed inside a feet-radius sphere (assume radius = 5)?",
+        "options": {
+            "a": "302.2",
+            "b": "344.5",
+            "c": "273.3",
+            "d": "674.2"
+        },
+        "answer": "a",
+        "correct_answer_text": "302.2",
+        "category": "Math",
+        "sub_category": "Minima/Maxima",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2303,
+        "question": "Water is flowing into a conical cistern at the rate of 8 m^3/min. If the height of the inverted cone is 12 m and the radius of its circular opening is 6 m. How fast is the water level rising when the water is 4 m deep?",
+        "options": {
+            "a": "0.64 m/min",
+            "b": "0.75 m/min",
+            "c": "0.56 m/min",
+            "d": "0.45 m/min"
+        },
+        "answer": "a",
+        "correct_answer_text": "0.64 m/min",
+        "category": "Math",
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2304,
+        "question": "A helicopter is rising vertically from the ground at a constant rate of 4.5 meters per second. When it is 75 m off the ground, a jeep passed beneath the helicopter traveling in a straight line at a constant rate of 80 kph. Determine how fast the distance between them changing after 1 second.",
+        "options": {
+            "a": "12.34 m/s",
+            "b": "10.32 m/s",
+            "c": "11.10 m/s",
+            "d": "9.85 m/s"
+        },
+        "answer": "b",
+        "correct_answer_text": "10.32 m/s",
+        "category": "Math",
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2305,
+        "question": "A car starting at 12:00 noon travels west at a speed of 30 kph. Another car starting from the same point at 2:00 P.M. travels north at 45 kph. Find how (in kph) fast the two are separating at 4:00 P.M.?",
+        "options": {
+            "a": "49",
+            "b": "53",
+            "c": "51",
+            "d": "55"
+        },
+        "answer": "c",
+        "correct_answer_text": "51",
+        "category": "Math",
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2306,
+        "question": "What is the integral of sin^5(x) dx if the lower limit is 0 and the upper limit is π/2?",
+        "options": {
+            "a": "0.233",
+            "b": "0.333",
+            "c": "0.433",
+            "d": "0.533"
+        },
+        "answer": "d",
+        "correct_answer_text": "0.533",
+        "category": "Math",
+        "sub_category": "Integral Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2307,
+        "question": "Evaluate the integral of cos(x) dx limits from π/4 to π/2.",
+        "options": {
+            "a": "0.423",
+            "b": "0.293",
+            "c": "0.923",
+            "d": "0.329"
+        },
+        "answer": "b",
+        "correct_answer_text": "0.293",
+        "category": "Math",
+        "sub_category": "Integral Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2308,
+        "question": "What is the area bounded by the curve x^2 = -9y and the line y + 1 = 0?",
+        "options": {
+            "a": "3 sq. units",
+            "b": "4 sq. units",
+            "c": "5 sq. units",
+            "d": "6 sq. units"
+        },
+        "answer": "b",
+        "correct_answer_text": "4 sq. units",
+        "category": "Math",
+        "sub_category": "Integral Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    }
+]

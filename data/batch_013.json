@@ -8,10 +8,14 @@
             "c": "0.1566",
             "d": "0.5616"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Probability and Statistics"
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 242,
@@ -22,10 +26,14 @@
             "c": "0.36",
             "d": "0.40"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Probability and Statistics"
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 243,
@@ -36,10 +44,14 @@
             "c": "0.74",
             "d": "0.81"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Probability and Statistics"
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 244,
@@ -50,10 +62,14 @@
             "c": "0.271",
             "d": "0.323"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Probability and Statistics"
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 245,
@@ -64,10 +80,14 @@
             "c": "4.5",
             "d": "1.8"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Probability and Statistics"
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 246,
@@ -78,10 +98,21 @@
             "c": "0.7722",
             "d": "0.6622"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Probability and Statistics"
+        "sub_category": "Probability and Statistics",
+        "solutions": [
+            {
+                "solution_id": "sol_69a001fe9d5ce",
+                "user": "mark",
+                "chosen_option": "a",
+                "image": "uploads\/solution_246_1772093950.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 247,
@@ -92,10 +123,21 @@
             "c": "19.23",
             "d": "18.94"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Probability and Statistics"
+        "sub_category": "Probability and Statistics",
+        "solutions": [
+            {
+                "solution_id": "sol_69a00225ec730",
+                "user": "mark",
+                "chosen_option": "d",
+                "image": "uploads\/solution_247_1772093989.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 248,
@@ -106,10 +148,14 @@
             "c": "0.0183",
             "d": "0.1209"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Probability and Statistics"
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 249,
@@ -120,10 +166,14 @@
             "c": "50%",
             "d": "23%"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Probability and Statistics"
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 250,
@@ -134,10 +184,14 @@
             "c": "0.9912",
             "d": "0.9721"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Probability and Statistics"
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 251,
@@ -148,10 +202,21 @@
             "c": "$-4 - 6ix^2$",
             "d": "$-2 - 9ix$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Advanced Math"
+        "sub_category": "Advanced Math",
+        "solutions": [
+            {
+                "solution_id": "sol_69a04e79c0d04",
+                "user": "Anonymous",
+                "chosen_option": "a",
+                "image": "uploads\/solution_251_1772113529.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 252,
@@ -159,13 +224,24 @@
         "options": {
             "a": "1",
             "b": "0",
-            "c": "$i/2$",
-            "d": "$-i/2$"
+            "c": "$i\/2$",
+            "d": "$-i\/2$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Advanced Math"
+        "sub_category": "Advanced Math",
+        "solutions": [
+            {
+                "solution_id": "sol_69a0684852a04",
+                "user": "John",
+                "chosen_option": "a",
+                "image": "uploads\/solution_252_1772120136.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 253,
@@ -176,10 +252,21 @@
             "c": "$-178 - 144i$",
             "d": "$91 - 213i$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Advanced Math"
+        "sub_category": "Advanced Math",
+        "solutions": [
+            {
+                "solution_id": "sol_69a04ed8f2f8c",
+                "user": "Anonymous",
+                "chosen_option": "a",
+                "image": "uploads\/solution_253_1772113624.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 254,
@@ -190,24 +277,46 @@
             "c": "$-32i$",
             "d": "$-16i$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Advanced Math"
+        "sub_category": "Advanced Math",
+        "solutions": [
+            {
+                "solution_id": "sol_699feb6a95932",
+                "user": "Joy",
+                "chosen_option": "b",
+                "image": "uploads\/solution_254_1772088170.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 255,
         "question": "Determine the Laplace transform of $3e^{-4t}$",
         "options": {
-            "a": "$3/(s + 4)$",
-            "b": "$6/(s - 4)$",
-            "c": "$3/(s - 4)$",
-            "d": "$-6/(s + 4)$"
+            "a": "$3\/(s + 4)$",
+            "b": "$6\/(s - 4)$",
+            "c": "$3\/(s - 4)$",
+            "d": "$-6\/(s + 4)$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Laplace Transform"
+        "sub_category": "Laplace Transform",
+        "solutions": [
+            {
+                "solution_id": "sol_69a0681c3d8c6",
+                "user": "John",
+                "chosen_option": "a",
+                "image": "uploads\/solution_255_1772120092.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 256,
@@ -218,10 +327,21 @@
             "c": "$3\\sinh 2t$",
             "d": "$3\\cos 2t$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Laplace Transform"
+        "sub_category": "Laplace Transform",
+        "solutions": [
+            {
+                "solution_id": "sol_69a0535a81ee9",
+                "user": "Anonymous",
+                "chosen_option": "d",
+                "image": "uploads\/solution_256_1772114778.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 257,
@@ -232,10 +352,21 @@
             "c": "$21.05 - j71.16$",
             "d": "$71.16 + j21.05$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Advanced Math"
+        "sub_category": "Advanced Math",
+        "solutions": [
+            {
+                "solution_id": "sol_69a04f6841ea4",
+                "user": "Anonymous",
+                "chosen_option": "c",
+                "image": "uploads\/solution_257_1772113768.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 258,
@@ -246,10 +377,14 @@
             "c": "0",
             "d": "3"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Advanced Math"
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 259,
@@ -259,10 +394,14 @@
             "b": "The Jacobi Method typically converges faster than the Gauss-Seidel Method for diagonally dominant matrices.",
             "c": "The Gauss-Seidel Method uses the most recently updated values during iteration, while the Jacobi Method uses only values from the previous iteration."
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Numerical Methods"
+        "sub_category": "Numerical Methods",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 260,
@@ -273,9 +412,13 @@
             "c": "It guarantees convergence if the initial interval brackets the root and $f(x)$ is continuous.",
             "d": "It is faster than the Newton-Raphson method in all cases."
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Numerical Methods"
+        "sub_category": "Numerical Methods",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     }
 ]

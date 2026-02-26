@@ -3,29 +3,51 @@
         "id": 121,
         "question": "Evaluate the limit: $\\lim_{x \\to 0} \\frac{\\ln \\cos x}{x^2}$",
         "options": {
-            "a": "-1/2",
+            "a": "-1\/2",
             "b": "\u00bd",
-            "c": "2/3",
-            "d": "-1/3"
+            "c": "2\/3",
+            "d": "-1\/3"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [
+            {
+                "solution_id": "sol_699ff3c0a275e",
+                "user": "Joy",
+                "chosen_option": "a",
+                "image": "uploads\/solution_121_1772090304.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 122,
-        "question": "Find the limit of $(2 \u2013 x)^{\\tan(\\pi x/2)}$ as x approaches 1",
+        "question": "Find the limit of $(2 \u2013 x)^{\\tan(\\pi x\/2)}$ as x approaches 1",
         "options": {
-            "a": "e^(1/\u03c0)",
+            "a": "e^(1\/\u03c0)",
             "b": "e^\u03c0",
             "c": "e^2",
-            "d": "e^(2/\u03c0)"
+            "d": "e^(2\/\u03c0)"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [
+            {
+                "solution_id": "sol_699ff4a13c1ff",
+                "user": "Joy",
+                "chosen_option": "d",
+                "image": "uploads\/solution_122_1772090529.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 123,
@@ -33,13 +55,17 @@
         "options": {
             "a": "1",
             "b": "0",
-            "c": "i/2",
-            "d": "-i/2"
+            "c": "i\/2",
+            "d": "-i\/2"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 124,
@@ -50,10 +76,14 @@
             "c": "-24",
             "d": "8 - 16i"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 125,
@@ -64,10 +94,14 @@
             "c": "2",
             "d": "5"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 126,
@@ -78,24 +112,32 @@
             "c": "-2",
             "d": "2i"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 127,
         "question": "Evaluate $\\lim_{z \\to 1+i} \\frac{(z - 1 - i)''}{(z'' - 2z + 2)''}$",
         "options": {
-            "a": "-1/4",
+            "a": "-1\/4",
             "b": "-12 + 6i",
-            "c": "-4/341",
-            "d": "square root of 2 (1 + i) / 2"
+            "c": "-4\/341",
+            "d": "square root of 2 (1 + i) \/ 2"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 128,
@@ -106,38 +148,76 @@
             "c": "$\\frac{-3x}{\\sqrt{2-3x^2}}$",
             "d": "$\\frac{3x}{\\sqrt{2-3x^2}}$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [
+            {
+                "solution_id": "sol_699ff50692557",
+                "user": "Joy",
+                "chosen_option": "a",
+                "image": "uploads\/solution_128_1772090630.jpg"
+            },
+            {
+                "solution_id": "sol_699ff61f9411f",
+                "user": "Joy",
+                "chosen_option": "b",
+                "image": null
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 129,
-        "question": "Differentiate $(x^2 + 2)^{1/2}$:",
+        "question": "Differentiate $(x^2 + 2)^{1\/2}$:",
         "options": {
-            "a": "$2x/[(x^2 + 2)^{1/2}]$",
-            "b": "$(x^2 + 2)^{3/2}$",
-            "c": "$[(x^2 + 2)^{1/2}]/2$",
-            "d": "$x/[(x^2 + 2)^{1/2}]$"
+            "a": "$2x\/[(x^2 + 2)^{1\/2}]$",
+            "b": "$(x^2 + 2)^{3\/2}$",
+            "c": "$[(x^2 + 2)^{1\/2}]\/2$",
+            "d": "$x\/[(x^2 + 2)^{1\/2}]$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 130,
-        "question": "Find the second derivative of $y = \\operatorname{arcsec}(1/x)$?",
+        "question": "Find the second derivative of $y = \\operatorname{arcsec}(1\/x)$?",
         "options": {
-            "a": "$x/(1 + x^2)^{1/2}$",
-            "b": "$x/(1 + x^2)^{3/2}$",
-            "c": "$-x/(1 - x^2)^{3/2}$",
-            "d": "$x/(1 - x^2)^{1/2}$"
+            "a": "$x\/(1 + x^2)^{1\/2}$",
+            "b": "$x\/(1 + x^2)^{3\/2}$",
+            "c": "$-x\/(1 - x^2)^{3\/2}$",
+            "d": "$x\/(1 - x^2)^{1\/2}$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [
+            {
+                "solution_id": "sol_699ff5c2ebb94",
+                "user": "Joy",
+                "chosen_option": "c",
+                "image": "uploads\/solution_130_1772090818.jpg"
+            },
+            {
+                "solution_id": "sol_699ff6ad18046",
+                "user": "Joy",
+                "chosen_option": "c",
+                "image": "uploads\/solution_130_1772091053.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 131,
@@ -148,10 +228,14 @@
             "c": "$3x + y = 26$",
             "d": "$2x - 3y = -13$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 132,
@@ -162,24 +246,32 @@
             "c": "$x - 4y + 4 = 0$",
             "d": "$x - 2y - 3 = 0$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 133,
         "question": "What is the slope of the curve: $x^2 + y^2 - 6x + 10y + 5 = 0$ at (1, 0)",
         "options": {
-            "a": "2/5",
-            "b": "-2/5",
-            "c": "5/2",
-            "d": "-5/2"
+            "a": "2\/5",
+            "b": "-2\/5",
+            "c": "5\/2",
+            "d": "-5\/2"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 134,
@@ -190,10 +282,14 @@
             "c": "61.32 units",
             "d": "73.45 units"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 135,
@@ -204,79 +300,124 @@
             "c": "$x + y = 3$",
             "d": "$x + y = 4$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [
+            {
+                "solution_id": "sol_699ff78a3de3b",
+                "user": "Joy",
+                "chosen_option": "b",
+                "image": "uploads\/solution_135_1772091274.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 136,
-        "question": "Water is flowing into a spherical tank of diameter 6 feet at a rate of 70 ft$^3$/hr. What is the rate at which the level rises at h = 1 foot?",
+        "question": "Water is flowing into a spherical tank of diameter 6 feet at a rate of 70 ft$^3$\/hr. What is the rate at which the level rises at h = 1 foot?",
         "options": {
-            "a": "4.45 ft/hr",
-            "b": "1.32 ft/hr",
-            "c": "6.34 ft/hr",
-            "d": "0.67 ft/hr"
+            "a": "4.45 ft\/hr",
+            "b": "1.32 ft\/hr",
+            "c": "6.34 ft\/hr",
+            "d": "0.67 ft\/hr"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [
+            {
+                "solution_id": "sol_699ff95406510",
+                "user": "Joy",
+                "chosen_option": "a",
+                "image": "uploads\/solution_136_1772091732.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 137,
-        "question": "Sand is falling off a conveyor onto a conical pile at the rate of 15 cm$^3$/min. The base of the cone is approximately twice the altitude. Find the height of the pile if the height of the pile is changing at the rate 0.047746 cm/min.",
+        "question": "Sand is falling off a conveyor onto a conical pile at the rate of 15 cm$^3$\/min. The base of the cone is approximately twice the altitude. Find the height of the pile if the height of the pile is changing at the rate 0.047746 cm\/min.",
         "options": {
             "a": "12 cm",
             "b": "10 cm",
             "c": "8 cm",
             "d": "6 cm"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [
+            {
+                "solution_id": "sol_699ff7fbd68d2",
+                "user": "Joy",
+                "chosen_option": "b",
+                "image": "uploads\/solution_137_1772091387.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 138,
-        "question": "The volume of a cube is increasing at the rate of 6 cm$^3$/min. How fast is the surface increasing when the length of each edge is 12 cm?",
+        "question": "The volume of a cube is increasing at the rate of 6 cm$^3$\/min. How fast is the surface increasing when the length of each edge is 12 cm?",
         "options": {
-            "a": "3 cm$^2$/min",
-            "b": "4 cm$^2$/min",
-            "c": "2 cm$^2$/min",
-            "d": "5 cm$^2$/min"
+            "a": "3 cm$^2$\/min",
+            "b": "4 cm$^2$\/min",
+            "c": "2 cm$^2$\/min",
+            "d": "5 cm$^2$\/min"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Integral Calculus"
+        "sub_category": "Integral Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 139,
-        "question": "Gas is escaping from a spherical balloon at the rate of 2 ft$^3$/min. How fast is the surface area shrinking (sq. ft/min) when the radius is 12 ft?",
+        "question": "Gas is escaping from a spherical balloon at the rate of 2 ft$^3$\/min. How fast is the surface area shrinking (sq. ft\/min) when the radius is 12 ft?",
         "options": {
             "a": "\u00bd",
-            "b": "1/3",
-            "c": "2/3",
-            "d": "4/7"
+            "b": "1\/3",
+            "c": "2\/3",
+            "d": "4\/7"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Integral Calculus"
+        "sub_category": "Integral Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 140,
-        "question": "A 5-feet ladder is leaning on a wall such that the bottom is sliding towards the wall at a rate of 10 feet/s. How fast is the top receding from the floor when the bottom end is 3 feet from the wall?",
+        "question": "A 5-feet ladder is leaning on a wall such that the bottom is sliding towards the wall at a rate of 10 feet\/s. How fast is the top receding from the floor when the bottom end is 3 feet from the wall?",
         "options": {
-            "a": "7.5 ft/s",
-            "b": "8.0 ft/s",
-            "c": "1 ft/s",
-            "d": "2 ft/s"
+            "a": "7.5 ft\/s",
+            "b": "8.0 ft\/s",
+            "c": "1 ft\/s",
+            "d": "2 ft\/s"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     }
 ]

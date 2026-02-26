@@ -1,0 +1,382 @@
+[
+    {
+        "id": 2409,
+        "question": "It is known that 2 out of 10 of the shafting in foundry shop will be off-spec. What is the probability that less than ten out of 75 shafts will be off-spec?",
+        "options": {
+            "a": "0.0342",
+            "b": "0.0698",
+            "c": "0.0832",
+            "d": "0.1252"
+        },
+        "answer": "b",
+        "correct_answer_text": "0.0698",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2410,
+        "question": "An urn contains 4 blue, 2 red and 3 black pens. If Shane drew 2 pens at once, what is the probability that it will be of same color?",
+        "options": {
+            "a": "2/13",
+            "b": "5/18",
+            "c": "5/16",
+            "d": "1/2"
+        },
+        "answer": "b",
+        "correct_answer_text": "5/18",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2411,
+        "question": "Determine the sample variance of the following data: [0-5: 4], [5-10: 11], [10-15: 23], [15-20: 8]",
+        "options": {
+            "a": "15.67",
+            "b": "17.98",
+            "c": "16.89",
+            "d": "18.45"
+        },
+        "answer": "b",
+        "correct_answer_text": "17.98",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2412,
+        "question": "In a toss of 5 dice, what is the probability that one will get at most 2 dice showing more than FOUR dots?",
+        "options": {
+            "a": "36/81",
+            "b": "37/81",
+            "c": "64/81",
+            "d": "43/90"
+        },
+        "answer": "c",
+        "correct_answer_text": "64/81",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2413,
+        "question": "Four boys and 5 girls are chosen from a group of 8 boys and 9 girls to sit on a row of chairs. How many possible arrangements are there if the girls and boys are alternated?",
+        "options": {
+            "a": "4,503,200",
+            "b": "20,321,289",
+            "c": "16,289,950",
+            "d": "32,420,620"
+        },
+        "answer": "d",
+        "correct_answer_text": "32,420,620",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2414,
+        "question": "In a water cooling plant, the average wet bulb temperature of air entering a cooling tower is 82 F and standard deviation of 1.35. What is the probability that in a given day, the air is at 82.8-83.5 F?",
+        "options": {
+            "a": "12.5%",
+            "b": "14.3%",
+            "c": "43.6%",
+            "d": "97.89%"
+        },
+        "answer": "b",
+        "correct_answer_text": "14.3%",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2415,
+        "question": "A box contains 3 blue, 4 reds, 5 yellow and 2 green balls. What is the probability that in a draw of three balls, all balls are of same color?",
+        "options": {
+            "a": "4/17",
+            "b": "3/19",
+            "c": "7/19",
+            "d": "5/13"
+        },
+        "answer": "b",
+        "correct_answer_text": "3/19",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2416,
+        "question": "Compute the geometric mean of 13, 17, 18, 21 and 32",
+        "options": {
+            "a": "19.73",
+            "b": "18.34",
+            "c": "19.23",
+            "d": "19.29"
+        },
+        "answer": "a",
+        "correct_answer_text": "19.73",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2417,
+        "question": "According to DOE-IIEE Electrical Engineering Progress 2024, approximately 30% of all failures in energy plants automations are caused by operator error. What is the probability that out of the next 20 failures at least 10 are due to operator error?",
+        "options": {
+            "a": "0.052",
+            "b": "0.043",
+            "c": "0.048",
+            "d": "0.072"
+        },
+        "answer": "c",
+        "correct_answer_text": "0.048",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2418,
+        "question": "Cebu Pacific Air Inc. installs aircraft emergency locator transmitter (ELT) which is a device designed to transmit a signal in the case of a crash. The Altigauge Manufacturing Company makes 80% of the ELTs, the Bryant Company makes 15% of them, and the Chartair Company makes the other 5%. The ELTs made by Altigauge have a 4% rate of defects, the Bryant ELTs have a 6% rate of defects, and the Chartair ELTs have a 9% rate of defects. If a randomly selected ELT is then tested and is found to be defective, find the probability that it was made by the Altigauge Manufacturing Company?",
+        "options": {
+            "a": "0.653",
+            "b": "0.703",
+            "c": "0.832",
+            "d": "0.871"
+        },
+        "answer": "b",
+        "correct_answer_text": "0.703",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2419,
+        "question": "How many ways can 3 letters, 3 numbers, 3 symbols, and 3 shapes be arranged in a 12-element code such that there is alternation?",
+        "options": {
+            "a": "27,312",
+            "b": "37,822",
+            "c": "32,402",
+            "d": "31,104"
+        },
+        "answer": "d",
+        "correct_answer_text": "31,104",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2420,
+        "question": "A coin is tossed three times. What is the probability that at most 2 will be tails?",
+        "options": {
+            "a": "3/8",
+            "b": "1/8",
+            "c": "7/8",
+            "d": "5/8"
+        },
+        "answer": "c",
+        "correct_answer_text": "7/8",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2421,
+        "question": "In a toss of 5 dice, what is the probability that one will get at most 2 dice showing more than FOUR dots?",
+        "options": {
+            "a": "36/81",
+            "b": "37/81",
+            "c": "64/81",
+            "d": "43/90"
+        },
+        "answer": "c",
+        "correct_answer_text": "64/81",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2422,
+        "question": "Four boys and 5 girls are chosen from a group of 8 boys and 9 girls to sit on a row of chairs. How many possible arrangements are there if the girls and boys are alternated?",
+        "options": {
+            "a": "4,503,200",
+            "b": "20,321,289",
+            "c": "16,289,950",
+            "d": "32,420,620"
+        },
+        "answer": "d",
+        "correct_answer_text": "32,420,620",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2423,
+        "question": "How many 3-letter word can be generated from the word, STRESS?",
+        "options": {
+            "a": "31",
+            "b": "47",
+            "c": "21",
+            "d": "34"
+        },
+        "answer": "a",
+        "correct_answer_text": "31",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2424,
+        "question": "An urn contains 4 blue, 2 red and 3 black pens. If Shane drew 2 pens at once, what is the probability that it will be of same color?",
+        "options": {
+            "a": "2/13",
+            "b": "5/18",
+            "c": "5/16",
+            "d": "1/2"
+        },
+        "answer": "b",
+        "correct_answer_text": "5/18",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2425,
+        "question": "Determine the sample variance of the following data: [0-5: 4], [5-10: 11], [10-15: 23], [15-20: 8]",
+        "options": {
+            "a": "15.67",
+            "b": "17.98",
+            "c": "16.89",
+            "d": "18.45"
+        },
+        "answer": "b",
+        "correct_answer_text": "17.98",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2426,
+        "question": "In a box, there are 10 red marbles, 8 white marbles and 6 blue marbles. If 3 marbles are drawn at random, what is the probability that they are all of different colors?",
+        "options": {
+            "a": "21/53",
+            "b": "31/133",
+            "c": "60/253",
+            "d": "32/145"
+        },
+        "answer": "c",
+        "correct_answer_text": "60/253",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2427,
+        "question": "What is the probability of obtaining at least 4 heads when a coin is tossed 5 times?",
+        "options": {
+            "a": "0.1875",
+            "b": "0.2115",
+            "c": "0.3225",
+            "d": "0.5015"
+        },
+        "answer": "a",
+        "correct_answer_text": "0.1875",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2428,
+        "question": "The probability of hitting a target is 0.3. If 5 shots are fired, what is the probability that the target is hit at least twice?",
+        "options": {
+            "a": "0.5282",
+            "b": "0.6278",
+            "c": "0.4718",
+            "d": "0.3562"
+        },
+        "answer": "c",
+        "correct_answer_text": "0.4718",
+        "category": "Math",
+        "sub_category": "Probability and Statistics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    }
+]

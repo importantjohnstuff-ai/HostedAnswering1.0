@@ -8,10 +8,21 @@
             "c": "17.8",
             "d": "23.6"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [
+            {
+                "solution_id": "sol_699ffe125a310",
+                "user": "Joy",
+                "chosen_option": "b",
+                "image": "uploads\/solution_501_1772092946.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 502,
@@ -22,10 +33,21 @@
             "c": "14.83",
             "d": "14.63"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [
+            {
+                "solution_id": "sol_699ffd78a7bcb",
+                "user": "Joy",
+                "chosen_option": "b",
+                "image": "uploads\/solution_502_1772092792.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 503,
@@ -36,24 +58,46 @@
             "c": "14\u00b0 25'",
             "d": "13\u00b0 06'"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [
+            {
+                "solution_id": "sol_699ffdbddf5c0",
+                "user": "Joy",
+                "chosen_option": "b",
+                "image": "uploads\/solution_503_1772092861.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 504,
         "question": "What is the distance of the line 3x + 4y = 5 to the point (4, -6)?",
         "options": {
-            "a": "18/5",
-            "c": "11/3",
-            "b": "17/5",
-            "d": "18/3"
+            "a": "18\/5",
+            "b": "17\/5",
+            "c": "11\/3",
+            "d": "18\/3"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [
+            {
+                "solution_id": "sol_699ffe3d3ae5a",
+                "user": "Joy",
+                "chosen_option": "b",
+                "image": "uploads\/solution_504_1772092989.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 505,
@@ -64,10 +108,14 @@
             "b": "20x + 6y + 29 = 0",
             "d": "20x - 6y + 29 = 0"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 506,
@@ -78,10 +126,21 @@
             "c": "x + 2y - 1 = 0",
             "d": "2x + y + 1 = 0"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [
+            {
+                "solution_id": "sol_699ffe967ccc6",
+                "user": "Joy",
+                "chosen_option": "d",
+                "image": "uploads\/solution_506_1772093078.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 507,
@@ -92,10 +151,14 @@
             "c": "18.83 sq.u.",
             "d": "54.24 sq.u."
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 508,
@@ -106,10 +169,21 @@
             "c": "(11, -24)",
             "d": "(-11, -20)"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [
+            {
+                "solution_id": "sol_699ffec5b74f7",
+                "user": "Joy",
+                "chosen_option": "a",
+                "image": "uploads\/solution_508_1772093125.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 509,
@@ -120,10 +194,14 @@
             "c": "hyperbola",
             "d": "ellipse"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 510,
@@ -134,10 +212,14 @@
             "b": "$(x+3)^2 + (y+2)^2 = \\sqrt{74}$",
             "d": "$(x-2)^2 + (y-3)^2 = 74$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 511,
@@ -148,10 +230,14 @@
             "c": "(3, 7) and 5",
             "d": "(-3, 14) and 4"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 512,
@@ -162,10 +248,21 @@
             "c": "$x^2 + y^2 + 4x + 6y - 12 = 0$",
             "d": "$x^2 + y^2 \u2013 4x \u2013 6y \u2013 12 = 0$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [
+            {
+                "solution_id": "sol_699fff5ea6733",
+                "user": "Joy",
+                "chosen_option": "a",
+                "image": "uploads\/solution_512_1772093278.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 513,
@@ -176,10 +273,14 @@
             "c": "24",
             "d": "36"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 514,
@@ -190,10 +291,21 @@
             "c": "(-3, 3)",
             "d": "(-3, 5)"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [
+            {
+                "solution_id": "sol_699fffda38a39",
+                "user": "Joy",
+                "chosen_option": "a",
+                "image": "uploads\/solution_514_1772093402.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 515,
@@ -204,24 +316,39 @@
             "b": "20\u03c0 sq. units",
             "d": "31\u03c0 sq. units"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 516,
         "question": "Determine the length of a latus rectum and eccentricity of the conics $9x^2 + 4y^2 - 18x + 24y + 9 = 0$:",
         "options": {
-            "a": "8/3 and 0.886",
-            "b": "4/3 and 0.886",
-            "c": "8/3 and 0.745",
-            "d": "4/3 and 0.745"
+            "a": "8\/3 and 0.886",
+            "b": "4\/3 and 0.886",
+            "c": "8\/3 and 0.745",
+            "d": "4\/3 and 0.745"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [
+            {
+                "solution_id": "sol_69a00029723a9",
+                "user": "Joy",
+                "chosen_option": "c",
+                "image": "uploads\/solution_516_1772093481.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 517,
@@ -232,24 +359,39 @@
             "c": "2.704",
             "d": "3.634"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 518,
         "question": "What is the equation of ellipse with foci at ($\\pm3, 0$) and major axis of length 8.",
         "options": {
-            "a": "$x^2/16 + y^2/7 = 1$",
-            "b": "$x^2/16 + y^2/49 = 1$",
-            "c": "$x^2/16 + y^2/36 = 1$",
-            "d": "$x^2/4 + y^2/16 = 1$"
+            "a": "$x^2\/16 + y^2\/7 = 1$",
+            "b": "$x^2\/16 + y^2\/49 = 1$",
+            "c": "$x^2\/16 + y^2\/36 = 1$",
+            "d": "$x^2\/4 + y^2\/16 = 1$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [
+            {
+                "solution_id": "sol_69a00072b2775",
+                "user": "Joy",
+                "chosen_option": "a",
+                "image": "uploads\/solution_518_1772093554.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 519,
@@ -260,10 +402,14 @@
             "c": "24",
             "d": "26"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 520,
@@ -274,9 +420,20 @@
             "c": "4.33 cm",
             "d": "1.45 cm"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [
+            {
+                "solution_id": "sol_69a000aba9033",
+                "user": "Joy",
+                "chosen_option": "a",
+                "image": "uploads\/solution_520_1772093611.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     }
 ]

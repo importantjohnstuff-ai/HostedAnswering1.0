@@ -1,0 +1,382 @@
+[
+    {
+        "id": 2209,
+        "question": "Evaluate the integral: ∫∫ (5x²y - 8xy³) dx dy from x=0 to 4 and y=1 to 2.",
+        "options": {
+            "a": "116/7",
+            "b": "400/13",
+            "c": "-80",
+            "d": "-230"
+        },
+        "answer": "d",
+        "correct_answer_text": "-230",
+        "category": "Math",
+        "sub_category": "Integral Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2210,
+        "question": "Evaluate the integral: ∫∫∫ (6xyz + 4xz) dy dx dz from z=0 to 1, x=-1 to 0, and y=0 to 2.",
+        "options": {
+            "a": "2",
+            "b": "71",
+            "c": "11/5",
+            "d": "-5"
+        },
+        "answer": "d",
+        "correct_answer_text": "-5",
+        "category": "Math",
+        "sub_category": "Integral Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2211,
+        "question": "Evaluate the integral: ∫∫ (r sin(θ) - r²) dr dθ from θ=0 to 2π and r=0 to 2.",
+        "options": {
+            "a": "-16pi/3",
+            "b": "45pi/6",
+            "c": "pi/8",
+            "d": "pi²"
+        },
+        "answer": "a",
+        "correct_answer_text": "-16pi/3",
+        "category": "Math",
+        "sub_category": "Integral Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2212,
+        "question": "Perform the integral: ∫∫ (r cos(θ) - sin(θ)) dr dθ from θ=0 to π and r=-1 to 4.",
+        "options": {
+            "a": "-4",
+            "b": "-15",
+            "c": "-10",
+            "d": "zero"
+        },
+        "answer": "c",
+        "correct_answer_text": "-10",
+        "category": "Math",
+        "sub_category": "Integral Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2213,
+        "question": "Determine the Laplace transform of e^(2t) cos(3t).",
+        "options": {
+            "a": "(s + 2) / (s² + 4s + 13)",
+            "b": "(s + 2) / (s² - 4s + 21)",
+            "c": "(s - 2) / (s² + 4s + 21)",
+            "d": "(s - 2) / (s² - 4s + 13)"
+        },
+        "answer": "d",
+        "correct_answer_text": "(s - 2) / (s² - 4s + 13)",
+        "category": "Math",
+        "sub_category": "Laplace Transform",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2214,
+        "question": "Determine the inverse Laplace transform of (3s + 6) / (s² + 3s).",
+        "options": {
+            "a": "2 + e^(-3t)",
+            "b": "3 - e^(-3t)",
+            "c": "5e^(-3t)",
+            "d": "1 + 2e^(3t)"
+        },
+        "answer": "a",
+        "correct_answer_text": "2 + e^(-3t)",
+        "category": "Math",
+        "sub_category": "Laplace Transform",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2215,
+        "question": "Find the curl of the vector field {3xy, 2yz, 4xz}.",
+        "options": {
+            "a": "-2yi - 4zj - 3xk",
+            "b": "2yi - 6zj + 3xk",
+            "c": "-2yi - 4xk + 3zk",
+            "d": "2zi + 3yk - 6xk"
+        },
+        "answer": "c",
+        "correct_answer_text": "-2yi - 4xk + 3zk",
+        "category": "Math",
+        "sub_category": "Vector Analysis",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2216,
+        "question": "Simplify i¹⁹⁹⁷ + i¹⁹⁹⁹ where i is an imaginary number.",
+        "options": {
+            "a": "0",
+            "b": "i",
+            "c": "1 + i",
+            "d": "1 - i"
+        },
+        "answer": "a",
+        "correct_answer_text": "0",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2217,
+        "question": "Inverse the Laplace transform: (s² + 1) / (s(s + 1)²).",
+        "options": {
+            "a": "1 + 2e^(t)",
+            "b": "1 - 2te^(-t)",
+            "c": "1 - 2te^(-t)",
+            "d": "1 + 2t + e^(-t)"
+        },
+        "answer": "b",
+        "correct_answer_text": "1 - 2te^(-t)",
+        "category": "Math",
+        "sub_category": "Laplace Transform",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2218,
+        "question": "The inverse Laplace of (e^(-as) / s²) is:",
+        "options": {
+            "a": "t e^(at)",
+            "b": "t e^(-at)",
+            "c": "e^(-at)",
+            "d": "(t - a)u(t - a)"
+        },
+        "answer": "d",
+        "correct_answer_text": "(t - a)u(t - a)",
+        "category": "Math",
+        "sub_category": "Laplace Transform",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2219,
+        "question": "What is the second term of the Taylor expansion for sin(3x)?",
+        "options": {
+            "a": "x²/2",
+            "b": "-9x³/2",
+            "c": "-3x²/2",
+            "d": "-27x⁴/2"
+        },
+        "answer": "b",
+        "correct_answer_text": "-9x³/2",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2220,
+        "question": "What is the convolution function f * g if f = 4x and g = x²?",
+        "options": {
+            "a": "16t³/3",
+            "b": "-16t⁴/5",
+            "c": "4t⁴/5",
+            "d": "t⁴/3"
+        },
+        "answer": "d",
+        "correct_answer_text": "t⁴/3",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2221,
+        "question": "Simplify i²⁰ + i²¹ + i.",
+        "options": {
+            "a": "1 + 2i",
+            "b": "3",
+            "c": "3i",
+            "d": "2 + i"
+        },
+        "answer": "c",
+        "correct_answer_text": "3i",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2222,
+        "question": "Determine the magnitude of the gradient of f(x,y,z) = x² + y² + z² at point (1, 2, 3).",
+        "options": {
+            "a": "7.48",
+            "b": "8.25",
+            "c": "6.0",
+            "d": "7.21"
+        },
+        "answer": "a",
+        "correct_answer_text": "7.48",
+        "category": "Math",
+        "sub_category": "Vector Analysis",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2223,
+        "question": "Determine the divergence of the vector: v = ix²y + j(-xy) + k(xyz) at coordinates (3, 2, 1).",
+        "options": {
+            "a": "9",
+            "b": "7",
+            "c": "12",
+            "d": "15"
+        },
+        "answer": "d",
+        "correct_answer_text": "15",
+        "category": "Math",
+        "sub_category": "Vector Analysis",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2224,
+        "question": "Inverse the Laplace transform: (s² + 1) / (s(s + 1)²).",
+        "options": {
+            "a": "-1 + 2e^(t)",
+            "b": "1 - 2te^(-t)",
+            "c": "1 - 2te^(-t)",
+            "d": "1 + 2t + e^(-t)"
+        },
+        "answer": "b",
+        "correct_answer_text": "1 - 2te^(-t)",
+        "category": "Math",
+        "sub_category": "Laplace Transform",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2225,
+        "question": "The divergence of the curl of a vector is a/an:",
+        "options": {
+            "a": "vector",
+            "b": "scalar",
+            "c": "unity",
+            "d": "zero"
+        },
+        "answer": "d",
+        "correct_answer_text": "zero",
+        "category": "Math",
+        "sub_category": "Vector Analysis",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2226,
+        "question": "What is the first term of the Taylor expansion of e^(x+2)?",
+        "options": {
+            "a": "x",
+            "b": "-1",
+            "c": "1",
+            "d": "e²"
+        },
+        "answer": "d",
+        "correct_answer_text": "e²",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2227,
+        "question": "What is the fifth term of the Taylor expansion of e^(2x)?",
+        "options": {
+            "a": "2x⁴/3",
+            "b": "3x⁵/25",
+            "c": "4x⁵/15",
+            "d": "x⁵"
+        },
+        "answer": "c",
+        "correct_answer_text": "4x⁵/15",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2228,
+        "question": "What is the third term of the Taylor expansion of e^(3x) + e^(2x)?",
+        "options": {
+            "a": "15x³/6",
+            "b": "13x²/2",
+            "c": "16x³/5",
+            "d": "4x²/5"
+        },
+        "answer": "b",
+        "correct_answer_text": "13x²/2",
+        "category": "Math",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    }
+]

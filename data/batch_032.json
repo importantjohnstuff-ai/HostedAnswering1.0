@@ -1,45 +1,57 @@
 [
     {
         "id": 1710,
-        "question": "One train, starting at 11 A.M., travels east at 45 mi/h while another, starting at noon from the same point, travels south at 60 mi/h. How fast are they separating at 3 P.M.?",
+        "question": "One train, starting at 11 A.M., travels east at 45 mi\/h while another, starting at noon from the same point, travels south at 60 mi\/h. How fast are they separating at 3 P.M.?",
         "options": {
-            "a": "105sqrt(2)/2 mi/h",
-            "b": "43sqrt(3)/2 mi/h",
-            "c": "70sqrt(2)/2 mi/h",
-            "d": "43sqrt(2)/2 mi/h"
+            "a": "105sqrt(2)\/2 mi\/h",
+            "b": "43sqrt(3)\/2 mi\/h",
+            "c": "70sqrt(2)\/2 mi\/h",
+            "d": "43sqrt(2)\/2 mi\/h"
         },
-        "answer": "a",
-        "correct_answer_text": "105sqrt(2)/2 mi/h",
+        "correct_answer_text": "105sqrt(2)\/2 mi\/h",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1711,
-        "question": "Mario is making an open rectangular box with square ends to be built to hold 6400 ft3 at a cost of P 0.75/ft2 for the base and P 0.25/ft2 for the sides. Find the most economical dimensions in ft x ft x ft units:",
+        "question": "Mario is making an open rectangular box with square ends to be built to hold 6400 ft3 at a cost of P 0.75\/ft2 for the base and P 0.25\/ft2 for the sides. Find the most economical dimensions in ft x ft x ft units:",
         "options": {
             "a": "20 x 20 x 16",
             "b": "12 x 12 x 10",
             "c": "10 x 10 x 20",
             "d": "25 x 25 x 8"
         },
-        "answer": "a",
         "correct_answer_text": "20 x 20 x 16",
         "category": "Math",
-        "sub_category": "Minima/Maxima"
+        "sub_category": "Minima\/Maxima",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1712,
-        "question": "Simplify the expression lim (x^2 - 16) / (x - 4) as x approaches 2.",
+        "question": "Simplify the expression lim (x^2 - 16) \/ (x - 4) as x approaches 2.",
         "options": {
             "a": "8",
             "b": "4",
             "c": "6",
             "d": "10"
         },
-        "answer": "c",
         "correct_answer_text": "6",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1713,
@@ -50,10 +62,14 @@
             "c": "36",
             "d": "54"
         },
-        "answer": "d",
         "correct_answer_text": "54",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1714,
@@ -64,38 +80,50 @@
             "c": "77.8 ft.",
             "d": "122.2 ft."
         },
-        "answer": "b",
         "correct_answer_text": "110.5 ft.",
         "category": "Math",
-        "sub_category": "Minima/Maxima"
+        "sub_category": "Minima\/Maxima",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1715,
-        "question": "Water is flowing into a frustum of a cone at a rate of 100 liter/min. The upper radius is 1.5 m, the lower radius is 1 m, and the height is 2 m. If the water rises at the rate of 0.04916 cm/sec, find the depth of water.",
+        "question": "Water is flowing into a frustum of a cone at a rate of 100 liter\/min. The upper radius is 1.5 m, the lower radius is 1 m, and the height is 2 m. If the water rises at the rate of 0.04916 cm\/sec, find the depth of water.",
         "options": {
             "a": "10.3 cm",
             "b": "13.6 cm",
             "c": "15.5 cm",
             "d": "18.9 cm"
         },
-        "answer": "c",
         "correct_answer_text": "15.5 cm",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1716,
         "question": "Find the derivative of arc sec (2x):",
         "options": {
-            "a": "1 / [x * sqrt(4x^2 - 1)]",
-            "b": "1 / [x * sqrt(1 - 4x^2)]",
-            "c": "2 / [x * sqrt(4x^2 - 1)]",
-            "d": "2 / [x * sqrt(1 - 4x^2)]"
+            "a": "1 \/ [x * sqrt(4x^2 - 1)]",
+            "b": "1 \/ [x * sqrt(1 - 4x^2)]",
+            "c": "2 \/ [x * sqrt(4x^2 - 1)]",
+            "d": "2 \/ [x * sqrt(1 - 4x^2)]"
         },
-        "answer": "c",
-        "correct_answer_text": "2 / [x * sqrt(4x^2 - 1)]",
+        "correct_answer_text": "2 \/ [x * sqrt(4x^2 - 1)]",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1717,
@@ -106,10 +134,14 @@
             "c": "23,000,000 ft-lbf",
             "d": "none of these"
         },
-        "answer": "a",
         "correct_answer_text": "62,700,000 ft-lbf",
         "category": "Math",
-        "sub_category": "Integral Calculus"
+        "sub_category": "Integral Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1718,
@@ -120,24 +152,32 @@
             "c": "90",
             "d": "120"
         },
-        "answer": "d",
         "correct_answer_text": "120",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1719,
-        "question": "A spherical snow ball is melting in such a way that its surface area decreases at a rate of 1 cm^2/min. How fast is its radius shrinking when it is 3 cm?",
+        "question": "A spherical snow ball is melting in such a way that its surface area decreases at a rate of 1 cm^2\/min. How fast is its radius shrinking when it is 3 cm?",
         "options": {
-            "a": "-1/24pi",
-            "b": "-1/48pi",
-            "c": "-1/20pi",
-            "d": "-1/12pi"
+            "a": "-1\/24pi",
+            "b": "-1\/48pi",
+            "c": "-1\/20pi",
+            "d": "-1\/12pi"
         },
-        "answer": "a",
-        "correct_answer_text": "-1/24pi",
+        "correct_answer_text": "-1\/24pi",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1720,
@@ -148,52 +188,68 @@
             "c": "9",
             "d": "15"
         },
-        "answer": "a",
         "correct_answer_text": "12",
         "category": "Math",
-        "sub_category": "Minima/Maxima"
+        "sub_category": "Minima\/Maxima",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1721,
-        "question": "What is the integral of x^2 dx / (x + 1) if the lower limit is zero and the upper limit is 1.",
+        "question": "What is the integral of x^2 dx \/ (x + 1) if the lower limit is zero and the upper limit is 1.",
         "options": {
             "a": "0.14",
             "b": "0.28",
             "c": "0.34",
             "d": "0.19"
         },
-        "answer": "d",
         "correct_answer_text": "0.19",
         "category": "Math",
-        "sub_category": "Integral Calculus"
+        "sub_category": "Integral Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1722,
         "question": "Determine the volume generated by rotating the region bounded by the line 2x + y - 4 = 0 about the y-axis.",
         "options": {
-            "a": "16pi/3",
-            "b": "4pi/3",
-            "c": "2pi/3",
-            "d": "pi/4"
+            "a": "16pi\/3",
+            "b": "4pi\/3",
+            "c": "2pi\/3",
+            "d": "pi\/4"
         },
-        "answer": "a",
-        "correct_answer_text": "16pi/3",
+        "correct_answer_text": "16pi\/3",
         "category": "Math",
-        "sub_category": "Integral Calculus"
+        "sub_category": "Integral Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1723,
-        "question": "Find the area of the region bounded by the lines x = y, x = 2, and y = 1/x^2.",
+        "question": "Find the area of the region bounded by the lines x = y, x = 2, and y = 1\/x^2.",
         "options": {
             "a": "1",
             "b": "2",
             "c": "3",
             "d": "1.167"
         },
-        "answer": "d",
         "correct_answer_text": "1.167",
         "category": "Math",
-        "sub_category": "Integral Calculus"
+        "sub_category": "Integral Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1724,
@@ -204,38 +260,50 @@
             "c": "1.235",
             "d": "0.025"
         },
-        "answer": "d",
         "correct_answer_text": "0.025",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1725,
-        "question": "A sphere's volume increases at a rate of 5 cu.ft./min. At what rate is its radius changing when the radius is 1/2 ft?",
+        "question": "A sphere's volume increases at a rate of 5 cu.ft.\/min. At what rate is its radius changing when the radius is 1\/2 ft?",
         "options": {
             "a": "1.333",
             "b": "1.59",
             "c": "2.67",
             "d": "1.833"
         },
-        "answer": "b",
         "correct_answer_text": "1.59",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1726,
-        "question": "Water is flowing into a spherical tank of diameter 6 feet at a rate of 70 ft3/hr. What is the rate at which the level rises at h = 1 foot?",
+        "question": "Water is flowing into a spherical tank of diameter 6 feet at a rate of 70 ft3\/hr. What is the rate at which the level rises at h = 1 foot?",
         "options": {
-            "a": "4.45 ft/hr",
-            "b": "1.32 ft/hr",
-            "c": "6.34 ft/hr",
-            "d": "0.67 ft/hr"
+            "a": "4.45 ft\/hr",
+            "b": "1.32 ft\/hr",
+            "c": "6.34 ft\/hr",
+            "d": "0.67 ft\/hr"
         },
-        "answer": "a",
-        "correct_answer_text": "4.45 ft/hr",
+        "correct_answer_text": "4.45 ft\/hr",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1727,
@@ -246,10 +314,21 @@
             "c": "2.52 m",
             "d": "1.92 m"
         },
-        "answer": "c",
         "correct_answer_text": "2.52 m",
         "category": "Math",
-        "sub_category": "Minima/Maxima"
+        "sub_category": "Minima\/Maxima",
+        "solutions": [
+            {
+                "solution_id": "sol_699ff9edce948",
+                "user": "Bebs",
+                "chosen_option": "c",
+                "image": null
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1728,
@@ -260,10 +339,14 @@
             "c": "42.1 feet",
             "d": "38.1 feet"
         },
-        "answer": "d",
         "correct_answer_text": "38.1 feet",
         "category": "Math",
-        "sub_category": "Minima/Maxima"
+        "sub_category": "Minima\/Maxima",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1729,
@@ -274,9 +357,13 @@
             "c": "x + y = 3",
             "d": "x + y = 4"
         },
-        "answer": "b",
         "correct_answer_text": "x + y = 2",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     }
 ]

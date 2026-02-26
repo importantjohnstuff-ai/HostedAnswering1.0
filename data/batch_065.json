@@ -1,0 +1,382 @@
+[
+    {
+        "id": 2369,
+        "question": "Convert 101110111 (binary) to hexadecimal form.",
+        "options": {
+            "a": "18F",
+            "b": "1B2",
+            "c": "177",
+            "d": "45AC"
+        },
+        "answer": "c",
+        "correct_answer_text": "177",
+        "category": "Math",
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2370,
+        "question": "What time after 3 o'clock will the hands of the clock be 60 degrees for the second time?",
+        "options": {
+            "a": "3:20.28",
+            "b": "3:27.27",
+            "c": "3:17.62",
+            "d": "3:24.42"
+        },
+        "answer": "b",
+        "correct_answer_text": "3:27.27",
+        "category": "Math",
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2371,
+        "question": "When is the fifth time, from 2 AM, will the hands of a clock form an angle of 70 degrees?",
+        "options": {
+            "a": "4:12:33 AM",
+            "b": "4:09:05 AM",
+            "c": "4:23:12 AM",
+            "d": "4:10:45 AM"
+        },
+        "answer": "b",
+        "correct_answer_text": "4:09:05 AM",
+        "category": "Math",
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2372,
+        "question": "The growth of Aspergillus niger in a batch culture doubles every 5 hours. How long will it take for the cells to grow to 5 times the initial number?",
+        "options": {
+            "a": "13.5 h",
+            "b": "11.6 h",
+            "c": "9.6 h",
+            "d": "20 h"
+        },
+        "answer": "b",
+        "correct_answer_text": "11.6 h",
+        "category": "Math",
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2373,
+        "question": "A body whose temperature is 180°F is immersed in a liquid kept at 60°F. In one minute, the body temperature is 120°F. How long will it take for the temperature to decrease to 90°F?",
+        "options": {
+            "a": "2 min",
+            "b": "3 min",
+            "c": "1.5 min",
+            "d": "2 hrs"
+        },
+        "answer": "a",
+        "correct_answer_text": "2 min",
+        "category": "Math",
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2374,
+        "question": "A radioactive substance has a half-life of 3 years. If 10 grams are present initially, how much remains after 9 years?",
+        "options": {
+            "a": "2.50g",
+            "b": "5.2g",
+            "c": "1.25g",
+            "d": "10.20g"
+        },
+        "answer": "c",
+        "correct_answer_text": "1.25g",
+        "category": "Math",
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2375,
+        "question": "A radioactive material decays with a half-life of 13.86 hours. If the initial amount is 100 grams, how much remains after 10 hours?",
+        "options": {
+            "a": "51.2 g",
+            "b": "60.6 g",
+            "c": "73.4 g",
+            "d": "56.4 g"
+        },
+        "answer": "b",
+        "correct_answer_text": "60.6 g",
+        "category": "Math",
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2376,
+        "question": "An ingot of molybdenum steel (initially 90°F) is placed in a 4200°F furnace. After 30 minutes, it is 230°F. When will it begin to melt (melting point 3100°F)?",
+        "options": {
+            "a": "8 hours",
+            "b": "19 hours",
+            "c": "23 hours",
+            "d": "5 hours"
+        },
+        "answer": "b",
+        "correct_answer_text": "19 hours",
+        "category": "Math",
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2377,
+        "question": "Suppose that 30% of a radioactive substance disappears in 13 years. Find the half-life of the substance.",
+        "options": {
+            "a": "45 years",
+            "b": "36 years",
+            "c": "28 years",
+            "d": "25 years"
+        },
+        "answer": "d",
+        "correct_answer_text": "25 years",
+        "category": "Math",
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2378,
+        "question": "Radioactive sludge (half-life 8.9 hours) is safe if radiation is reduced by 99.9%. When will fresh sludge become safe?",
+        "options": {
+            "a": "After 2.5 days",
+            "b": "After 1.22 days",
+            "c": "After 7.76 days",
+            "d": "After 3.7 days"
+        },
+        "answer": "d",
+        "correct_answer_text": "After 3.7 days",
+        "category": "Math",
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2379,
+        "question": "In 100 years, 100 mg of radium decomposes to 96 mg. How many mg will be left after another 100 years?",
+        "options": {
+            "a": "88.60",
+            "b": "95.32",
+            "c": "92.16",
+            "d": "90.72"
+        },
+        "answer": "c",
+        "correct_answer_text": "92.16",
+        "category": "Math",
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2380,
+        "question": "The population of Seoul doubles in 50 years. How many years will it take to be five times as much?",
+        "options": {
+            "a": "100 years",
+            "b": "116 years",
+            "c": "120 years",
+            "d": "98 years"
+        },
+        "answer": "b",
+        "correct_answer_text": "116 years",
+        "category": "Math",
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2381,
+        "question": "Evaluate the integral of x^3 * e^-x from 0 to infinity.",
+        "options": {
+            "a": "2",
+            "b": "4",
+            "c": "5",
+            "d": "6"
+        },
+        "answer": "d",
+        "correct_answer_text": "6",
+        "category": "Math",
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2382,
+        "question": "Solve the particular solution of the DE: y'' + 4y = e^3x.",
+        "options": {
+            "a": "y = (1/12)e^3x",
+            "b": "y = (1/10)e^3x",
+            "c": "y = (1/13)e^3x",
+            "d": "y = (1/13)e^-3x"
+        },
+        "answer": "c",
+        "correct_answer_text": "y = (1/13)e^3x",
+        "category": "Math",
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2383,
+        "question": "Which of the following is a key advantage of the Secant Method over the Newton-Raphson Method?",
+        "options": {
+            "a": "Faster convergence for all functions",
+            "b": "Does not require continuity",
+            "c": "Does not require the computation of the derivative",
+            "d": "Always converges regardless of guess"
+        },
+        "answer": "c",
+        "correct_answer_text": "Does not require the computation of the derivative",
+        "category": "Math",
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2384,
+        "question": "Simplify log base 2 of (j4 - 5).",
+        "options": {
+            "a": "2.678 + j2.763",
+            "b": "2.678 + j3.558",
+            "c": "0.663 + j2.763",
+            "d": "0.863 + j3.558"
+        },
+        "answer": "a",
+        "correct_answer_text": "2.678 + j2.763",
+        "category": "Math",
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2385,
+        "question": "How many ways can 4 letters, 4 numbers, 4 symbols, and 4 shapes be arranged in a 16-element code such that there is alternation?",
+        "options": {
+            "a": "7,962,624",
+            "b": "7,765,320",
+            "c": "1,8965,940",
+            "d": "none of these"
+        },
+        "answer": "d",
+        "correct_answer_text": "none of these",
+        "category": "Math",
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2386,
+        "question": "What is the 30th term of an AP: 4, 7, 10... if the 100th term is 1000?",
+        "options": {
+            "a": "56,000",
+            "b": "12,500",
+            "c": "41,100",
+            "d": "47,800"
+        },
+        "answer": "d",
+        "correct_answer_text": "47,800",
+        "category": "Math",
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2387,
+        "question": "The 7th term of an AP is 1/3 and the 9th term is 7/3. What is the first term?",
+        "options": {
+            "a": "-7/3",
+            "b": "-17/3",
+            "c": "5/3",
+            "d": "-70/3"
+        },
+        "answer": "b",
+        "correct_answer_text": "-17/3",
+        "category": "Math",
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 2388,
+        "question": "The first term of an arithmetic progression is -6. The 8th term is 15. What is the 20th term?",
+        "options": {
+            "a": "50",
+            "b": "51",
+            "c": "67",
+            "d": "45"
+        },
+        "answer": "b",
+        "correct_answer_text": "51",
+        "category": "Math",
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    }
+]

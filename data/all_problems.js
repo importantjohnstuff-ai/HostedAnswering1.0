@@ -236,7 +236,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Advanced Math",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699fdcca32008",
+        "user": "Alfred",
+        "chosen_option": "a",
+        "image": "uploads/solution_11_1772084426.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -359,7 +366,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Differential Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699fddbb188dc",
+        "user": "mark",
+        "chosen_option": "a",
+        "image": "uploads/solution_16_1772084667.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -754,7 +768,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Differential Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699ff2a650330",
+        "user": "Joy",
+        "chosen_option": "a",
+        "image": "uploads/solution_32_1772090022.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -773,7 +794,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Differential Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699fe2f104e0a",
+        "user": "mark",
+        "chosen_option": "a",
+        "image": "uploads/solution_33_1772086001.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -811,8 +839,15 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Differential Calculus",
-    "solutions": [],
-    "locked_by": "John",
+    "solutions": [
+      {
+        "solution_id": "sol_699fe0e58751e",
+        "user": "John",
+        "chosen_option": "b",
+        "image": "uploads/solution_35_1772085477.jpg"
+      }
+    ],
+    "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
     "hidden_by": null,
@@ -830,8 +865,15 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Integral Calculus",
-    "solutions": [],
-    "locked_by": "John",
+    "solutions": [
+      {
+        "solution_id": "sol_699fe7593799b",
+        "user": "Anonymous",
+        "chosen_option": "a",
+        "image": "uploads/solution_36_1772087129.jpg"
+      }
+    ],
+    "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
     "hidden_by": null,
@@ -849,7 +891,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Integral Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a05d885936c",
+        "user": "John",
+        "chosen_option": "c",
+        "image": "uploads/solution_37_1772117384.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -868,7 +917,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Differential Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699fe19ea983d",
+        "user": "Anonymous",
+        "chosen_option": "c",
+        "image": "uploads/solution_38_1772085662.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -887,7 +943,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Differential Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699fe4158ef50",
+        "user": "Anonymous",
+        "chosen_option": "a",
+        "image": "uploads/solution_39_1772086293.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -906,7 +969,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Differential Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699fe84683013",
+        "user": "Anonymous",
+        "chosen_option": "b",
+        "image": "uploads/solution_40_1772087366.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -925,7 +995,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Differential Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699feb449f4ae",
+        "user": "Anonymous",
+        "chosen_option": "a",
+        "image": "uploads/solution_41_1772088132.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -936,7 +1013,7 @@ window.ALL_PROBLEMS = [
     "id": 42,
     "question": "A man is walking at a rate of 1.5 m/s toward a street light which is 5 m above the level ground. At what rate is the tip of his shadow moving if the man is 2 m tall?",
     "options": {
-      "a": "-1.5 m/s",
+      "a": "-1.0 m/s",
       "b": "-2.5 m/s",
       "c": "-3.5 m/s",
       "d": "-5 m/s"
@@ -944,7 +1021,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Differential Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699fedac2fe85",
+        "user": "Anonymous",
+        "chosen_option": "a",
+        "image": "uploads/solution_42_1772088748.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -963,7 +1047,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Differential Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699fe55d1e15a",
+        "user": "Alfredolim",
+        "chosen_option": "d",
+        "image": "uploads/solution_43_1772086621.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -982,7 +1073,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Differential Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699fef7651a49",
+        "user": "Anonymous",
+        "chosen_option": "a",
+        "image": "uploads/solution_44_1772089206.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -1001,7 +1099,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Differential Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699fe76f8ba9c",
+        "user": "mark",
+        "chosen_option": "d",
+        "image": "uploads/solution_45_1772087151.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -1020,7 +1125,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Differential Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699fe7994f769",
+        "user": "mark",
+        "chosen_option": "b",
+        "image": "uploads/solution_46_1772087193.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -1039,7 +1151,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Integral Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699fe25be6b2c",
+        "user": "Alfred",
+        "chosen_option": "a",
+        "image": "uploads/solution_47_1772085851.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -1058,7 +1177,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Differential Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699feac18a0b1",
+        "user": "mark",
+        "chosen_option": "d",
+        "image": "uploads/solution_48_1772088001.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -1077,7 +1203,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Integral Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699ff9db7a4cd",
+        "user": "Anonymous",
+        "chosen_option": "d",
+        "image": "uploads/solution_49_1772091867.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -1096,7 +1229,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Differential Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699ffabba1a7c",
+        "user": "Anonymous",
+        "chosen_option": "b",
+        "image": "uploads/solution_50_1772092091.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -1115,7 +1255,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Differential Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699ff2a5388ea",
+        "user": "Anonymous",
+        "chosen_option": "c",
+        "image": "uploads/solution_51_1772090021.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -1134,7 +1281,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Integral Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699ff8c94a590",
+        "user": "Anonymous",
+        "chosen_option": "a",
+        "image": "uploads/solution_52_1772091593.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -1153,7 +1307,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Integral Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699fdc33cd8b2",
+        "user": "Keypee",
+        "chosen_option": "a",
+        "image": "uploads/solution_53_1772084275.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -1172,7 +1333,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Integral Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699fdd2a9f5b5",
+        "user": "Keypee",
+        "chosen_option": "a",
+        "image": "uploads/solution_54_1772084522.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -1191,7 +1359,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Integral Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699fe252d078b",
+        "user": "Keypee",
+        "chosen_option": "a",
+        "image": "uploads/solution_55_1772085842.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -1210,7 +1385,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Integral Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699fe130481cc",
+        "user": "Keypee",
+        "chosen_option": "b",
+        "image": "uploads/solution_56_1772085552.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -1229,7 +1411,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Integral Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699fde39cee83",
+        "user": "Keypee",
+        "chosen_option": "a",
+        "image": "uploads/solution_57_1772084793.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -1248,7 +1437,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Integral Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699fe0948a845",
+        "user": "Keypee",
+        "chosen_option": "d",
+        "image": "uploads/solution_58_1772085396.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -1267,7 +1463,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Integral Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699fe5ff6869c",
+        "user": "Keypee",
+        "chosen_option": "c",
+        "image": "uploads/solution_59_1772086783.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -1286,7 +1489,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Integral Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699fe8952e036",
+        "user": "Keypee",
+        "chosen_option": "a",
+        "image": "uploads/solution_60_1772087445.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -1305,7 +1515,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Differential Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699fe9eef12d3",
+        "user": "Keypee",
+        "chosen_option": "b",
+        "image": "uploads/solution_61_1772087790.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -1324,7 +1541,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Integral Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699feb88c59f2",
+        "user": "Keypee",
+        "chosen_option": "a",
+        "image": "uploads/solution_62_1772088200.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -1343,7 +1567,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Integral Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699fef0ae2ee9",
+        "user": "Keypee",
+        "chosen_option": "a",
+        "image": "uploads/solution_63_1772089098.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -1362,7 +1593,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Integral Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699ff066aa317",
+        "user": "Keypee",
+        "chosen_option": "c",
+        "image": "uploads/solution_64_1772089446.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -1381,7 +1619,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Integral Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699ff387c4967",
+        "user": "Keypee",
+        "chosen_option": "a",
+        "image": "uploads/solution_65_1772090247.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -1400,7 +1645,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Integral Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699ff521426cf",
+        "user": "Keypee",
+        "chosen_option": "d",
+        "image": "uploads/solution_66_1772090657.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -1419,7 +1671,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Integral Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a001b998f2f",
+        "user": "Alfredolim",
+        "chosen_option": "b",
+        "image": "uploads/solution_67_1772093881.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -1438,7 +1697,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Integral Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699ffb6f5a77b",
+        "user": "Alfredolim",
+        "chosen_option": "a",
+        "image": "uploads/solution_68_1772092271.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -1543,7 +1809,7 @@ window.ALL_PROBLEMS = [
   {
     "id": 74,
     "question": "**Examples:** What is the value of the expression $x^2 + \\ln x - \\cos x + \\frac{1}{x^3}$ if $x = 101$? **Ans. 10205.81**",
-    "options": {},
+    "options": [],
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Calculator Technique",
@@ -1566,7 +1832,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Calculator Technique",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699fe31b07bd8",
+        "user": "Trisha",
+        "chosen_option": "b",
+        "image": "uploads/solution_75_1772086043.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -1585,7 +1858,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Calculator Technique",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699fe7129f076",
+        "user": "Trisha",
+        "chosen_option": "c",
+        "image": "uploads/solution_76_1772087058.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -1604,7 +1884,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Calculator Technique",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699fe925d5749",
+        "user": "Trisha",
+        "chosen_option": "d",
+        "image": "uploads/solution_77_1772087589.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -1613,12 +1900,24 @@ window.ALL_PROBLEMS = [
   },
   {
     "id": 78,
-    "question": "Supposing that $A = \\frac{\\sqrt{x^2 + 16}}{y - 2}$; $B = \\sinh(A + y) - x$ and $C = \\frac{Ax + y}{Bx - y}$. Find C if $x = 3$ and $y = 1$: **Ans: 0.152**",
-    "options": {},
+    "question": "Supposing that $A = \\frac{\\sqrt{x^2 + 16}}{y - 2}$; $B = \\sinh(A + y) - x$ and $C = \\frac{Ax + y}{Bx - y}$. Find C if $x = 3$ and $y = 1$",
+    "options": {
+      "a": "0.152",
+      "b": "0.153",
+      "c": "0.154",
+      "d": "0.155"
+    },
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Calculator Technique",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a066fa93546",
+        "user": "John",
+        "chosen_option": "a",
+        "image": "uploads/solution_78_1772119802.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -1627,8 +1926,13 @@ window.ALL_PROBLEMS = [
   },
   {
     "id": 79,
-    "question": "Solves Equations in single Variable by Iteration. Solve for $x$: $x = \\frac{1}{2} \\cos x$ **Ans. 0.45018** Find the solution, $x^6 + 7x^2 - 4 = 0$ on $[-1, 0]$. **Ans. -0.7402**",
-    "options": {},
+    "question": "Solves Equations in single Variable by Iteration. Solve for $x$: $x = \\frac{1}{2} \\cos x$ **Ans. 0.45018** Find the solution, $x^6 + 7x^2 - 4 = 0$ on $[-1, 0]$.",
+    "options": {
+      "a": "0.45018",
+      "b": "0.45019",
+      "c": "0.45020",
+      "d": "0.45021"
+    },
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Calculator Technique",
@@ -1641,12 +1945,24 @@ window.ALL_PROBLEMS = [
   },
   {
     "id": 80,
-    "question": "$$\\int_{1}^{5} x \\cos x \\, dx$$ **Ans. -5.89**",
-    "options": {},
+    "question": "$$\\int_{1}^{5} x \\cos x \\, dx$$",
+    "options": {
+      "a": "-5.89",
+      "b": "-5.90",
+      "c": "-5.91",
+      "d": "-5.92"
+    },
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Calculator Technique",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a06718eea20",
+        "user": "John",
+        "chosen_option": "a",
+        "image": "uploads/solution_80_1772119832.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -1655,12 +1971,24 @@ window.ALL_PROBLEMS = [
   },
   {
     "id": 81,
-    "question": "Find the slope of the tangent line to $y = x^2$ when $x = 2$. **Ans. 4**",
-    "options": {},
+    "question": "Find the slope of the tangent line to $y = x^2$ when $x = 2$.",
+    "options": {
+      "a": "2",
+      "b": "4",
+      "c": "6",
+      "d": "8"
+    },
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Calculator Technique",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a067300cc1e",
+        "user": "John",
+        "chosen_option": "b",
+        "image": "uploads/solution_81_1772119856.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -1669,8 +1997,13 @@ window.ALL_PROBLEMS = [
   },
   {
     "id": 82,
-    "question": "What is the slope of the line tangent to the curve: $$y = \\sqrt{\\frac{x \\sin x}{x^2 + 1}}$$ at $x = \\pi/2$: **Ans: -0.0907**",
-    "options": {},
+    "question": "What is the slope of the line tangent to the curve: $$y = \\sqrt{\\frac{x \\sin x}{x^2 + 1}}$$ at $x = \\pi/2$",
+    "options": {
+      "a": "-0.0907",
+      "b": "-0.0908",
+      "c": "-0.0909",
+      "d": "-0.0910"
+    },
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Calculator Technique",
@@ -1683,12 +2016,24 @@ window.ALL_PROBLEMS = [
   },
   {
     "id": 83,
-    "question": "Evaluate $\\sum_{n=1}^{50} (1 - n)^2$ **Ans. 40,425**",
-    "options": {},
+    "question": "Evaluate $\\sum_{n=1}^{50} (1 - n)^2$",
+    "options": {
+      "a": "40425",
+      "b": "40426",
+      "c": "40427",
+      "d": "40428"
+    },
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Calculator Technique",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a0674da2a0b",
+        "user": "John",
+        "chosen_option": "a",
+        "image": "uploads/solution_83_1772119885.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -1697,12 +2042,24 @@ window.ALL_PROBLEMS = [
   },
   {
     "id": 84,
-    "question": "Determine the sum of the first 1000 numbers. **Ans. 500,500**",
-    "options": {},
+    "question": "Determine the sum of the first 1000 numbers.",
+    "options": {
+      "a": "500500",
+      "b": "500501",
+      "c": "500502",
+      "d": "500503"
+    },
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Calculator Technique",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a067602f85e",
+        "user": "John",
+        "chosen_option": "a",
+        "image": "uploads/solution_84_1772119904.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -1711,8 +2068,13 @@ window.ALL_PROBLEMS = [
   },
   {
     "id": 85,
-    "question": "Convert the rectangular coordinates (3,4) to polar. **Ans. $r = 5.00$, $\\theta = 53.13^\\circ$** Convert the polar coordinates ($7, 30^\\circ$) to rectangular. **Ans. $X = 6.06$, $Y = 3.5$**",
-    "options": {},
+    "question": "Convert the rectangular coordinates (3,4) to polar.",
+    "options": {
+      "a": "5.00, 53.13",
+      "b": "5.01, 53.14",
+      "c": "5.02, 53.15",
+      "d": "5.03, 53.16"
+    },
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Calculator Technique",
@@ -1735,7 +2097,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Calculator Technique",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a0678440d44",
+        "user": "John",
+        "chosen_option": "c",
+        "image": "uploads/solution_86_1772119940.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -1754,7 +2123,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Calculator Technique",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a06794ba978",
+        "user": "John",
+        "chosen_option": "a",
+        "image": "uploads/solution_87_1772119956.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -1773,7 +2149,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Calculator Technique",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a067a175976",
+        "user": "John",
+        "chosen_option": "a",
+        "image": "uploads/solution_88_1772119969.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -1792,7 +2175,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Calculator Technique",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a067c32f332",
+        "user": "John",
+        "chosen_option": "d",
+        "image": "uploads/solution_89_1772120003.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -1811,7 +2201,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Calculator Technique",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699ffde4b15c8",
+        "user": "Anonymous",
+        "chosen_option": "d",
+        "image": "uploads/solution_90_1772092900.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -1830,7 +2227,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Calculator Technique",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699ffec56b52d",
+        "user": "Anonymous",
+        "chosen_option": "a",
+        "image": "uploads/solution_91_1772093125.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -1849,7 +2253,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Calculator Technique",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699fffb84961e",
+        "user": "Anonymous",
+        "chosen_option": "a",
+        "image": "uploads/solution_92_1772093368.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -1897,7 +2308,7 @@ window.ALL_PROBLEMS = [
   {
     "id": 95,
     "question": "**Example:** What is the 12th term of the following sequence? 34, 31, 28, 25, 22, ... **ANS: 1**",
-    "options": {},
+    "options": [],
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Calculator Technique",
@@ -1911,7 +2322,7 @@ window.ALL_PROBLEMS = [
   {
     "id": 96,
     "question": "**Example:** Determine the sum up to the 9th term of the sequence: -18, -10, -2, 6, ... **ANS: 126**",
-    "options": {},
+    "options": [],
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Calculator Technique",
@@ -1925,7 +2336,7 @@ window.ALL_PROBLEMS = [
   {
     "id": 97,
     "question": "**Example:** A water tank develops a leak. Each week, the tank loses 5 gallons of water due to the leak. Initially, the tank is full and contains 1500 gallons. How many gallons are in the tank 20 weeks later? **ANS: 1400 gal** How many weeks until the tank is EMPTY? **ANS: 300 weeks**",
-    "options": {},
+    "options": [],
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Calculator Technique",
@@ -1977,7 +2388,7 @@ window.ALL_PROBLEMS = [
   {
     "id": 100,
     "question": "**Example:** Determine the 15th term of the sequence: 81, 27, 9, ... **ANS: 1/59,049**",
-    "options": {},
+    "options": [],
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Calculator Technique",
@@ -2357,7 +2768,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Differential Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699ff3c0a275e",
+        "user": "Joy",
+        "chosen_option": "a",
+        "image": "uploads/solution_121_1772090304.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -2376,7 +2794,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Differential Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699ff4a13c1ff",
+        "user": "Joy",
+        "chosen_option": "d",
+        "image": "uploads/solution_122_1772090529.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -2490,7 +2915,20 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Differential Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699ff50692557",
+        "user": "Joy",
+        "chosen_option": "a",
+        "image": "uploads/solution_128_1772090630.jpg"
+      },
+      {
+        "solution_id": "sol_699ff61f9411f",
+        "user": "Joy",
+        "chosen_option": "b",
+        "image": null
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -2528,7 +2966,20 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Differential Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699ff5c2ebb94",
+        "user": "Joy",
+        "chosen_option": "c",
+        "image": "uploads/solution_130_1772090818.jpg"
+      },
+      {
+        "solution_id": "sol_699ff6ad18046",
+        "user": "Joy",
+        "chosen_option": "c",
+        "image": "uploads/solution_130_1772091053.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -2623,7 +3074,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Differential Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699ff78a3de3b",
+        "user": "Joy",
+        "chosen_option": "b",
+        "image": "uploads/solution_135_1772091274.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -2642,7 +3100,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Differential Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699ff95406510",
+        "user": "Joy",
+        "chosen_option": "a",
+        "image": "uploads/solution_136_1772091732.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -2661,7 +3126,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Differential Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699ff7fbd68d2",
+        "user": "Joy",
+        "chosen_option": "b",
+        "image": "uploads/solution_137_1772091387.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -2737,7 +3209,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Differential Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699ff85f42376",
+        "user": "Joy",
+        "chosen_option": "a",
+        "image": "uploads/solution_141_1772091487.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -2794,7 +3273,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Integral Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a000f74efc3",
+        "user": "Alfredolim",
+        "chosen_option": "c",
+        "image": "uploads/solution_144_1772093687.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -2813,7 +3299,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Differential Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699ffb0e70286",
+        "user": "Joy",
+        "chosen_option": "a",
+        "image": "uploads/solution_145_1772092174.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -2918,7 +3411,7 @@ window.ALL_PROBLEMS = [
   {
     "id": 151,
     "question": "*   **Solution** is any function (or formula for a function) that satisfies the equation. *   **General solution** - a formula that describes all solutions to the equation. *   **Specific solution** - a formula that describes a solution at a boundary. *   Initial Value Problem (IVP) *   Boundary Value Problem",
-    "options": {},
+    "options": [],
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Differential Equation",
@@ -2941,7 +3434,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Differential Equation",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699fe1979e155",
+        "user": "Lyan",
+        "chosen_option": "c",
+        "image": "uploads/solution_152_1772085655.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -2960,7 +3460,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Differential Equation",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699fe2da8bded",
+        "user": "Lyan",
+        "chosen_option": "c",
+        "image": "uploads/solution_153_1772085978.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -2979,7 +3486,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Differential Equation",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699fe429623b1",
+        "user": "Lyan",
+        "chosen_option": "d",
+        "image": "uploads/solution_154_1772086313.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -3055,7 +3569,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Differential Equation",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699fe70891d39",
+        "user": "Lyan",
+        "chosen_option": "d",
+        "image": "uploads/solution_158_1772087048.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -3074,7 +3595,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Differential Equation",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699fe86c6beb9",
+        "user": "Lyan",
+        "chosen_option": "c",
+        "image": "uploads/solution_159_1772087404.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -3131,7 +3659,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Differential Equation",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699fea11f0e8d",
+        "user": "Lyan",
+        "chosen_option": "b",
+        "image": "uploads/solution_162_1772087825.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -3150,7 +3685,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Differential Equation",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699febc5ce222",
+        "user": "Lyan",
+        "chosen_option": "c",
+        "image": "uploads/solution_163_1772088261.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -3169,7 +3711,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Differential Equation",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699fed236ef2d",
+        "user": "Lyan",
+        "chosen_option": "b",
+        "image": "uploads/solution_164_1772088611.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -3188,7 +3737,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Differential Equation",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699fee767b53f",
+        "user": "Lyan",
+        "chosen_option": "a",
+        "image": "uploads/solution_165_1772088950.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -4013,8 +4569,15 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Probability and Statistics",
-    "solutions": [],
-    "locked_by": "Joshua",
+    "solutions": [
+      {
+        "solution_id": "sol_699fdbd93ef1e",
+        "user": "Joshua",
+        "chosen_option": "a",
+        "image": "uploads/solution_207_1772084185.jpg"
+      }
+    ],
+    "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
     "hidden_by": null,
@@ -4034,10 +4597,10 @@ window.ALL_PROBLEMS = [
     "sub_category": "Probability and Statistics",
     "solutions": [
       {
-        "solution_id": "sol_699e67f7f0c2f",
+        "solution_id": "sol_699fdc8936fcf",
         "user": "Joshua",
         "chosen_option": "b",
-        "image": null
+        "image": "uploads/solution_208_1772084361.jpg"
       }
     ],
     "locked_by": null,
@@ -4060,10 +4623,10 @@ window.ALL_PROBLEMS = [
     "sub_category": "Probability and Statistics",
     "solutions": [
       {
-        "solution_id": "sol_699e685f818c5",
-        "user": "Joshua",
+        "solution_id": "sol_699fde4a4bea2",
+        "user": "Joy",
         "chosen_option": "d",
-        "image": null
+        "image": "uploads/solution_209_1772084810.jpg"
       }
     ],
     "locked_by": null,
@@ -4179,7 +4742,7 @@ window.ALL_PROBLEMS = [
     "category": "Math",
     "sub_category": "Probability and Statistics",
     "solutions": [],
-    "locked_by": null,
+    "locked_by": "Anonymous",
     "flagged_by": null,
     "flag_reason": null,
     "hidden_by": null,
@@ -4197,7 +4760,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Probability and Statistics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699ff8b3a3b4b",
+        "user": "Joy",
+        "chosen_option": "b",
+        "image": "uploads/solution_215_1772091571.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -4216,7 +4786,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Probability and Statistics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699fdf63033ca",
+        "user": "Joy",
+        "chosen_option": "a",
+        "image": "uploads/solution_216_1772085091.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -4235,7 +4812,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Probability and Statistics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699fe7186ecad",
+        "user": "Joshua",
+        "chosen_option": "a",
+        "image": "uploads/solution_217_1772087064.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -4254,7 +4838,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Probability and Statistics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699ffa5a39d9e",
+        "user": "mark",
+        "chosen_option": "c",
+        "image": "uploads/solution_218_1772091994.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -4273,7 +4864,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Probability and Statistics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699fe5029e074",
+        "user": "Joy",
+        "chosen_option": "b",
+        "image": "uploads/solution_219_1772086530.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -4292,7 +4890,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Probability and Statistics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699fe7d9b96b1",
+        "user": "Joshua",
+        "chosen_option": "a",
+        "image": "uploads/solution_220_1772087257.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -4311,7 +4916,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Probability and Statistics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699fe84f1e5ff",
+        "user": "Joshua",
+        "chosen_option": "a",
+        "image": "uploads/solution_221_1772087375.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -4330,7 +4942,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Probability and Statistics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699fe8eaf2848",
+        "user": "Joshua",
+        "chosen_option": "a",
+        "image": "uploads/solution_222_1772087530.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -4349,7 +4968,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Probability and Statistics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699fe9de78219",
+        "user": "Joshua",
+        "chosen_option": "b",
+        "image": "uploads/solution_223_1772087774.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -4368,7 +4994,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Probability and Statistics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699fee9620162",
+        "user": "Joshua",
+        "chosen_option": "c",
+        "image": "uploads/solution_224_1772088982.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -4387,7 +5020,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Probability and Statistics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699feb57bd2d2",
+        "user": "Joshua",
+        "chosen_option": "d",
+        "image": "uploads/solution_225_1772088151.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -4406,7 +5046,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Probability and Statistics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699fedc90c535",
+        "user": "Joshua",
+        "chosen_option": "c",
+        "image": "uploads/solution_226_1772088777.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -4425,7 +5072,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Probability and Statistics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699fef4c84f15",
+        "user": "Joshua",
+        "chosen_option": "c",
+        "image": "uploads/solution_227_1772089164.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -4444,7 +5098,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Probability and Statistics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699ff1524b421",
+        "user": "Joshua",
+        "chosen_option": "b",
+        "image": "uploads/solution_228_1772089682.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -4463,7 +5124,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Probability and Statistics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699ff20a924ea",
+        "user": "Joshua",
+        "chosen_option": "a",
+        "image": "uploads/solution_229_1772089866.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -4482,7 +5150,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Probability and Statistics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699ff894babfb",
+        "user": "Joshua",
+        "chosen_option": "c",
+        "image": "uploads/solution_230_1772091540.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -4501,7 +5176,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Probability and Statistics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699ff950e242f",
+        "user": "Joshua",
+        "chosen_option": "d",
+        "image": "uploads/solution_231_1772091728.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -4512,7 +5194,7 @@ window.ALL_PROBLEMS = [
     "id": 232,
     "question": "Three cards are drawn from a standard deck one at a time. What is the probability that the first card is a face card, the second is a red card and the third is a black or a face card?",
     "options": {
-      "a": "17/35",
+      "a": "15/221",
       "b": "15/34",
       "c": "5/17",
       "d": "9/34"
@@ -4520,7 +5202,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Probability and Statistics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699ffa7fa6e71",
+        "user": "Joshua",
+        "chosen_option": "a",
+        "image": "uploads/solution_232_1772092031.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -4539,7 +5228,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Probability and Statistics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699ffb3d93dc9",
+        "user": "Joshua",
+        "chosen_option": "b",
+        "image": "uploads/solution_233_1772092221.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -4558,7 +5254,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Probability and Statistics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699ffc8093033",
+        "user": "Joshua",
+        "chosen_option": "a",
+        "image": "uploads/solution_234_1772092544.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -4577,7 +5280,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Probability and Statistics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699ffc2895a61",
+        "user": "mark",
+        "chosen_option": "b",
+        "image": "uploads/solution_235_1772092456.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -4596,7 +5306,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Probability and Statistics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699ffce968b0a",
+        "user": "mark",
+        "chosen_option": "c",
+        "image": "uploads/solution_236_1772092649.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -4615,7 +5332,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Probability and Statistics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a00628a0b8f",
+        "user": "Joshua",
+        "chosen_option": "c",
+        "image": "uploads/solution_237_1772095016.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -4653,7 +5377,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Probability and Statistics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a000a4019e8",
+        "user": "mark",
+        "chosen_option": "b",
+        "image": "uploads/solution_239_1772093604.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -4672,7 +5403,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Probability and Statistics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699ffe81f1ed0",
+        "user": "mark",
+        "chosen_option": "b",
+        "image": "uploads/solution_240_1772093057.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -4786,7 +5524,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Probability and Statistics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a001fe9d5ce",
+        "user": "mark",
+        "chosen_option": "a",
+        "image": "uploads/solution_246_1772093950.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -4805,7 +5550,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Probability and Statistics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a00225ec730",
+        "user": "mark",
+        "chosen_option": "d",
+        "image": "uploads/solution_247_1772093989.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -4881,7 +5633,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Advanced Math",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a04e79c0d04",
+        "user": "Anonymous",
+        "chosen_option": "a",
+        "image": "uploads/solution_251_1772113529.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -4900,7 +5659,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Advanced Math",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a0684852a04",
+        "user": "John",
+        "chosen_option": "a",
+        "image": "uploads/solution_252_1772120136.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -4919,7 +5685,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Advanced Math",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a04ed8f2f8c",
+        "user": "Anonymous",
+        "chosen_option": "a",
+        "image": "uploads/solution_253_1772113624.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -4938,7 +5711,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Advanced Math",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699feb6a95932",
+        "user": "Joy",
+        "chosen_option": "b",
+        "image": "uploads/solution_254_1772088170.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -4957,7 +5737,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Laplace Transform",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a0681c3d8c6",
+        "user": "John",
+        "chosen_option": "a",
+        "image": "uploads/solution_255_1772120092.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -4976,7 +5763,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Laplace Transform",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a0535a81ee9",
+        "user": "Anonymous",
+        "chosen_option": "d",
+        "image": "uploads/solution_256_1772114778.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -4995,7 +5789,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Advanced Math",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a04f6841ea4",
+        "user": "Anonymous",
+        "chosen_option": "c",
+        "image": "uploads/solution_257_1772113768.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -5108,7 +5909,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Advanced Math",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699fedfb7e4ab",
+        "user": "Joy",
+        "chosen_option": "d",
+        "image": "uploads/solution_263_1772088827.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -5146,7 +5954,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Laplace Transform",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a05506e1769",
+        "user": "Anonymous",
+        "chosen_option": "b",
+        "image": "uploads/solution_265_1772115206.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -5203,7 +6018,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Laplace Transform",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a06967a86d7",
+        "user": "John",
+        "chosen_option": "b",
+        "image": "uploads/solution_268_1772120423.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -5222,7 +6044,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Laplace Transform",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a068f441d94",
+        "user": "John",
+        "chosen_option": "a",
+        "image": "uploads/solution_269_1772120308.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -5374,7 +6203,26 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Laplace Transform",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a063513cd94",
+        "user": "John",
+        "chosen_option": "d",
+        "image": "uploads/solution_277_1772118865.jpg"
+      },
+      {
+        "solution_id": "sol_69a0691de01d5",
+        "user": "John",
+        "chosen_option": "d",
+        "image": "uploads/solution_277_1772120349.jpg"
+      },
+      {
+        "solution_id": "sol_69a0693a53636",
+        "user": "John",
+        "chosen_option": "d",
+        "image": "uploads/solution_277_1772120378.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -5393,7 +6241,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Laplace Transform",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a063a51027c",
+        "user": "John",
+        "chosen_option": "a",
+        "image": "uploads/solution_278_1772118949.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -5431,7 +6286,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Advanced Math",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699ff0033db99",
+        "user": "Joy",
+        "chosen_option": "a",
+        "image": "uploads/solution_280_1772089347.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -5450,7 +6312,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Laplace Transform",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a063bb01839",
+        "user": "John",
+        "chosen_option": "c",
+        "image": "uploads/solution_281_1772118971.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -5469,7 +6338,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Laplace Transform",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a05fcab8bc9",
+        "user": "John",
+        "chosen_option": "d",
+        "image": "uploads/solution_282_1772117962.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -5754,7 +6630,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Vector Analysis",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a04db41863f",
+        "user": "Anonymous",
+        "chosen_option": "c",
+        "image": "uploads/solution_297_1772113332.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -5842,14 +6725,21 @@ window.ALL_PROBLEMS = [
     "question": "Compute the vorticity (curl) of the vector field, $y^2i + z^2j + x^2k$ at (1, 1, 3):",
     "options": {
       "a": "$6i + 2j - 2k$",
-      "b": "$6i - 2j - 2k$",
+      "b": "$-6i - 2j - 2k$",
       "c": "$6i - j + 2k$",
       "d": "$6i - 4j - k$"
     },
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Vector Analysis",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a06089b350b",
+        "user": "John",
+        "chosen_option": "a",
+        "image": "uploads/solution_302_1772118153.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -5887,7 +6777,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Vector Analysis",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a04d1b27987",
+        "user": "Anonymous",
+        "chosen_option": "a",
+        "image": "uploads/solution_304_1772113179.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -5906,7 +6803,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Laplace Transform",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a068c84a654",
+        "user": "John",
+        "chosen_option": "a",
+        "image": "uploads/solution_305_1772120264.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -6115,7 +7019,7 @@ window.ALL_PROBLEMS = [
     "category": "Math",
     "sub_category": "Vector Analysis",
     "solutions": [],
-    "locked_by": null,
+    "locked_by": "Lyan",
     "flagged_by": null,
     "flag_reason": null,
     "hidden_by": null,
@@ -9469,7 +10373,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Geometry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699ffbeba797f",
+        "user": "Joy",
+        "chosen_option": "c",
+        "image": "uploads/solution_496_1772092395.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -9507,7 +10418,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Geometry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699ffc7da0ba2",
+        "user": "Joy",
+        "chosen_option": "b",
+        "image": "uploads/solution_498_1772092541.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -9526,7 +10444,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Geometry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699ffd449800a",
+        "user": "Joy",
+        "chosen_option": "b",
+        "image": "uploads/solution_499_1772092740.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -9545,7 +10470,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Geometry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699ffcd6377d7",
+        "user": "Joy",
+        "chosen_option": "c",
+        "image": "uploads/solution_500_1772092630.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -9564,7 +10496,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Geometry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699ffe125a310",
+        "user": "Joy",
+        "chosen_option": "b",
+        "image": "uploads/solution_501_1772092946.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -9583,7 +10522,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Geometry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699ffd78a7bcb",
+        "user": "Joy",
+        "chosen_option": "b",
+        "image": "uploads/solution_502_1772092792.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -9602,7 +10548,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Geometry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699ffdbddf5c0",
+        "user": "Joy",
+        "chosen_option": "b",
+        "image": "uploads/solution_503_1772092861.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -9614,14 +10567,21 @@ window.ALL_PROBLEMS = [
     "question": "What is the distance of the line 3x + 4y = 5 to the point (4, -6)?",
     "options": {
       "a": "18/5",
-      "c": "11/3",
       "b": "17/5",
+      "c": "11/3",
       "d": "18/3"
     },
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Geometry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699ffe3d3ae5a",
+        "user": "Joy",
+        "chosen_option": "b",
+        "image": "uploads/solution_504_1772092989.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -9659,7 +10619,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Geometry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699ffe967ccc6",
+        "user": "Joy",
+        "chosen_option": "d",
+        "image": "uploads/solution_506_1772093078.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -9697,7 +10664,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Geometry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699ffec5b74f7",
+        "user": "Joy",
+        "chosen_option": "a",
+        "image": "uploads/solution_508_1772093125.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -9773,7 +10747,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Geometry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699fff5ea6733",
+        "user": "Joy",
+        "chosen_option": "a",
+        "image": "uploads/solution_512_1772093278.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -9811,7 +10792,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Geometry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699fffda38a39",
+        "user": "Joy",
+        "chosen_option": "a",
+        "image": "uploads/solution_514_1772093402.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -9849,7 +10837,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Geometry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a00029723a9",
+        "user": "Joy",
+        "chosen_option": "c",
+        "image": "uploads/solution_516_1772093481.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -9887,7 +10882,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Geometry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a00072b2775",
+        "user": "Joy",
+        "chosen_option": "a",
+        "image": "uploads/solution_518_1772093554.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -9925,7 +10927,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Geometry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a000aba9033",
+        "user": "Joy",
+        "chosen_option": "a",
+        "image": "uploads/solution_520_1772093611.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -9944,7 +10953,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Geometry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a0010bab7d8",
+        "user": "Joy",
+        "chosen_option": "c",
+        "image": "uploads/solution_521_1772093707.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -9963,7 +10979,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Geometry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a0015d3b817",
+        "user": "Joy",
+        "chosen_option": "c",
+        "image": "uploads/solution_522_1772093789.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -10020,7 +11043,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Geometry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a0019ac4c37",
+        "user": "Joy",
+        "chosen_option": "b",
+        "image": "uploads/solution_525_1772093850.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -10039,7 +11069,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Geometry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a001f31e8f2",
+        "user": "Joy",
+        "chosen_option": "a",
+        "image": "uploads/solution_526_1772093939.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -10058,7 +11095,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Geometry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a0026328736",
+        "user": "Joy",
+        "chosen_option": "b",
+        "image": "uploads/solution_527_1772094051.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -10077,7 +11121,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Geometry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a0022e9ba19",
+        "user": "Joy",
+        "chosen_option": "a",
+        "image": "uploads/solution_528_1772093998.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -10471,12 +11522,25 @@ window.ALL_PROBLEMS = [
       "a": "16",
       "b": "3",
       "c": "-12",
-      "d": "-9"
+      "d": "-9 "
     },
     "correct_answer_text": "-9",
     "category": "Math",
     "sub_category": "Vector Analysis",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699ff071428ad",
+        "user": "Lyan",
+        "chosen_option": "a",
+        "image": null
+      },
+      {
+        "solution_id": "sol_699ff0b957ea0",
+        "user": "Lyan",
+        "chosen_option": "a",
+        "image": "uploads/solution_1653_1772089529.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -10666,7 +11730,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "-315",
     "category": "Math",
     "sub_category": "Vector Analysis",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699ff18f3c179",
+        "user": "Lyan",
+        "chosen_option": "c",
+        "image": "uploads/solution_1663_1772089743.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -11882,7 +12953,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "2.52 m",
     "category": "Math",
     "sub_category": "Minima/Maxima",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699ff9edce948",
+        "user": "Bebs",
+        "chosen_option": "c",
+        "image": null
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -14010,7 +15088,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "57.30",
     "category": "Math",
     "sub_category": "Geometry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a002a0ef62e",
+        "user": "Joy",
+        "chosen_option": "b",
+        "image": "uploads/solution_1839_1772094112.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -16499,7 +17584,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "64/81",
     "category": "Math",
     "sub_category": "Probability and Statistics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_699fff4594d02",
+        "user": "Joshua",
+        "chosen_option": "a",
+        "image": "uploads/solution_1970_1772093253.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -16511,14 +17603,21 @@ window.ALL_PROBLEMS = [
     "question": "Four boys and 5 girls are chosen from a group of 8 boys and 9 girls to sit on a row of chairs. How many possible arrangements are there if the girls and boys are alternated?",
     "options": {
       "a": "4,503,200",
-      "b": "20,321,289",
+      "b": "25,401,600",
       "c": "16,289,950",
       "d": "32,420,620"
     },
     "correct_answer_text": "32,420,620",
     "category": "Math",
     "sub_category": "Probability and Statistics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a004ad4d568",
+        "user": "Joshua",
+        "chosen_option": "b",
+        "image": "uploads/solution_1971_1772094637.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -16847,6 +17946,9506 @@ window.ALL_PROBLEMS = [
     "flag_reason": null,
     "hidden_by": null,
     "source_file": "batch_045.json"
+  },
+  {
+    "id": 1989,
+    "question": "Perform the integration: ∫ (z - z²) dz from t to t+1",
+    "options": {
+      "a": "1",
+      "b": "-2i",
+      "c": "7/6",
+      "d": "3+4i/7"
+    },
+    "answer": "c",
+    "correct_answer_text": "7/6",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_046.json"
+  },
+  {
+    "id": 1990,
+    "question": "Compute the limit of (z³ + 6iz² + 12z + 8i) / (z - 2i) as z approaches 2i?",
+    "options": {
+      "a": "12i",
+      "b": "12 + 8i",
+      "c": "-24",
+      "d": "816i"
+    },
+    "answer": "d",
+    "correct_answer_text": "816i",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_046.json"
+  },
+  {
+    "id": 1991,
+    "question": "If f(x, y, z) = 3xz²y - y³z², find grad f at the point (1, -2, -1):",
+    "options": {
+      "a": "-(12i - 9j - 4k)",
+      "b": "-(12i - 9j + 4k)",
+      "c": "-(-6i + 9j + 4k)",
+      "d": "-(16i - 6j + 4k)"
+    },
+    "answer": "b",
+    "correct_answer_text": "-(12i - 9j + 4k)",
+    "category": "Math",
+    "sub_category": "Vector Analysis",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_046.json"
+  },
+  {
+    "id": 1992,
+    "question": "Determine the Laplace transform: L{e^(-3t) sinh(2t)}",
+    "options": {
+      "a": "3 / (s² - 6s + 4)",
+      "b": "2 / (s² + 6s + 5)",
+      "c": "3 / (s² + 4s - 6)",
+      "d": "4 / (s² + 6s + 6)"
+    },
+    "answer": "b",
+    "correct_answer_text": "2 / (s² + 6s + 5)",
+    "category": "Math",
+    "sub_category": "Laplace Transform",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_046.json"
+  },
+  {
+    "id": 1993,
+    "question": "Which of the following is the main difference between Gauss-Seidel and Gaussian elimination method of solving systems of equations?",
+    "options": {
+      "a": "Gauss-Seidel converge faster than Gaussian elimination",
+      "b": "Gauss-Seidel is non-iterative while Gaussian elimination is iterative",
+      "c": "Gauss-Seidel is iterative while Gaussian elimination is non-iterative",
+      "d": "Gauss-Seidel can solve even the sparse systems where some coefficients are zero."
+    },
+    "answer": "c",
+    "correct_answer_text": "Gauss-Seidel is iterative while Gaussian elimination is non-iterative",
+    "category": "Math",
+    "sub_category": "Numerical Methods",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_046.json"
+  },
+  {
+    "id": 1994,
+    "question": "If A = 2i - j + k and B = i + 2j - 3k, find |(2A + B) x (A - 2B)|.",
+    "options": {
+      "a": "58.9",
+      "b": "78.9",
+      "c": "43.3",
+      "d": "12.9"
+    },
+    "answer": "c",
+    "correct_answer_text": "43.3",
+    "category": "Math",
+    "sub_category": "Vector Analysis",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_046.json"
+  },
+  {
+    "id": 1995,
+    "question": "Find the Laplace transform: t cos(2t)",
+    "options": {
+      "a": "(s² - 4) / (s² + 4)²",
+      "b": "(s² + 4) / (s² - 4)²",
+      "c": "(s² + 2) / (s² + 4)²",
+      "d": "(s² - 2) / (s² - 4)²"
+    },
+    "answer": "a",
+    "correct_answer_text": "(s² - 4) / (s² + 4)²",
+    "category": "Math",
+    "sub_category": "Laplace Transform",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_046.json"
+  },
+  {
+    "id": 1996,
+    "question": "Perform the integration: ∫ z⁹ dz from i - 2 to i + 2",
+    "options": {
+      "a": "0",
+      "b": "14/23",
+      "c": "91/770",
+      "d": "2571/11"
+    },
+    "answer": "a",
+    "correct_answer_text": "0",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_046.json"
+  },
+  {
+    "id": 1997,
+    "question": "In Gaussian elimination, the matrix is reduced to an upper triangular matrix called:",
+    "options": {
+      "a": "Hermitian",
+      "b": "Wronskian",
+      "c": "Echelon",
+      "d": "Jacobian"
+    },
+    "answer": "c",
+    "correct_answer_text": "Echelon",
+    "category": "Math",
+    "sub_category": "Numerical Methods",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_046.json"
+  },
+  {
+    "id": 1998,
+    "question": "What is the Laplace transform of cosh(t) - sinh(t)?",
+    "options": {
+      "a": "2 / (s² - 1)",
+      "b": "1 / (s + 1)",
+      "c": "1 / (s - 1)",
+      "d": "2 / (s - 1)"
+    },
+    "answer": "b",
+    "correct_answer_text": "1 / (s + 1)",
+    "category": "Math",
+    "sub_category": "Laplace Transform",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_046.json"
+  },
+  {
+    "id": 1999,
+    "question": "When the magnetic field B = xy²i + 2x²yzj - 3yz²k, find the div B:",
+    "options": {
+      "a": "y² + 8yz",
+      "b": "y² + 2x²z - 6yz",
+      "c": "y² - 2x² + 6xz",
+      "d": "2x²z - 6yz"
+    },
+    "answer": "b",
+    "correct_answer_text": "y² + 2x²z - 6yz",
+    "category": "Math",
+    "sub_category": "Vector Analysis",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_046.json"
+  },
+  {
+    "id": 2000,
+    "question": "Find the area of the triangle with vertices (2, -3, 1), (1, -1, 2), and (-1, 2, 3):",
+    "options": {
+      "a": "(sqrt(3))/2",
+      "b": "4",
+      "c": "(sqrt(5))/2",
+      "d": "7/2"
+    },
+    "answer": "c",
+    "correct_answer_text": "(sqrt(5))/2",
+    "category": "Math",
+    "sub_category": "Vector Analysis",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_046.json"
+  },
+  {
+    "id": 2001,
+    "question": "Find the limit of [(z + 4)(z² + 2iz + 15)] / (z - 3i) as z approaches 3i?",
+    "options": {
+      "a": "-24 + 32i",
+      "b": "26 + 36i",
+      "c": "-12 - 18i",
+      "d": "40 - 20i"
+    },
+    "answer": "a",
+    "correct_answer_text": "-24 + 32i",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_046.json"
+  },
+  {
+    "id": 2002,
+    "question": "The Newton-Raphson may not guarantee convergence as compared to bisection method for finding the roots of a transcendental equation due to:",
+    "options": {
+      "a": "Newton-Raphson uses two bracketing points",
+      "b": "Newton-Raphson uses single point while bisection uses bracketing",
+      "c": "Newton-Raphson uses averaging while bisection uses derivatives",
+      "d": "Newton-Raphson uses derivatives while bisection uses slopes"
+    },
+    "answer": "b",
+    "correct_answer_text": "Newton-Raphson uses single point while bisection uses bracketing",
+    "category": "Math",
+    "sub_category": "Numerical Methods",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_046.json"
+  },
+  {
+    "id": 2003,
+    "question": "If V = (xy²)i + (2yx²z)j - (3yz²)k, then curl V at point (1, 1, 1) is:",
+    "options": {
+      "a": "-(j + 2k)",
+      "b": "(i + 3k)",
+      "c": "-(i + 2k)",
+      "d": "(2i - 3k)"
+    },
+    "answer": "c",
+    "correct_answer_text": "-(i + 2k)",
+    "category": "Math",
+    "sub_category": "Vector Analysis",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_046.json"
+  },
+  {
+    "id": 2004,
+    "question": "Integrate z³ / (z - 3i):",
+    "options": {
+      "a": "42pi",
+      "b": "54pi",
+      "c": "-60pi",
+      "d": "-128pi"
+    },
+    "answer": "b",
+    "correct_answer_text": "54pi",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_046.json"
+  },
+  {
+    "id": 2005,
+    "question": "Find an equation for the plane passing through (2, 1, 2), (-1, 2, 3), and (4, 1, 0):",
+    "options": {
+      "a": "2x + y - 3z = 9",
+      "b": "3x + y + 2z = -11",
+      "c": "3x - 2y + 5z = 8",
+      "d": "2x + 3y + 4z = 6"
+    },
+    "answer": "a",
+    "correct_answer_text": "2x + y - 3z = 9",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_046.json"
+  },
+  {
+    "id": 2006,
+    "question": "The Newton-Raphson method will not converge on a single value approximation if:",
+    "options": {
+      "a": "sign of slopes at initial point and root are the same",
+      "b": "sign of slopes at initial point and root are opposite",
+      "c": "the slope at the initial point is zero",
+      "d": "the calculator is defective"
+    },
+    "answer": "c",
+    "correct_answer_text": "the slope at the initial point is zero",
+    "category": "Math",
+    "sub_category": "Numerical Methods",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_046.json"
+  },
+  {
+    "id": 2007,
+    "question": "Find the limit of sin(7pi * i * z) / z as z approaches 0:",
+    "options": {
+      "a": "7pi * i",
+      "b": "3pi * i",
+      "c": "9pi * i",
+      "d": "pi * i"
+    },
+    "answer": "a",
+    "correct_answer_text": "7pi * i",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_046.json"
+  },
+  {
+    "id": 2008,
+    "question": "If beta = xy + yz + zx and A = x²yi + y²zj + z²xk, find (grad beta) x A at the point (3, -1, 2).",
+    "options": {
+      "a": "56i - 30j + 47k",
+      "b": "48i + 13j - 37k",
+      "c": "11i - 67j + 52k",
+      "d": "78i + 23j - 79k"
+    },
+    "answer": "c",
+    "correct_answer_text": "11i - 67j + 52k",
+    "category": "Math",
+    "sub_category": "Vector Analysis",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_046.json"
+  },
+  {
+    "id": 2009,
+    "question": "Which of the following is a key advantage of the Secant Method over the Newton-Raphson Method?",
+    "options": {
+      "a": "Faster convergence for all types of function",
+      "b": "Does not require the function to be continuous and differentiable",
+      "c": "Does not require the computation of the derivative",
+      "d": "Always converges regardless of initial guesses"
+    },
+    "answer": "c",
+    "correct_answer_text": "Does not require the computation of the derivative",
+    "category": "Math",
+    "sub_category": "Numerical Methods",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_047.json"
+  },
+  {
+    "id": 2010,
+    "question": "Integrate (iz² + z) / (z + i):",
+    "options": {
+      "a": "-(2 + i)pi",
+      "b": "4pi * i",
+      "c": "-72pi * i",
+      "d": "(3 + i)pi"
+    },
+    "answer": "a",
+    "correct_answer_text": "-(2 + i)pi",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_047.json"
+  },
+  {
+    "id": 2011,
+    "question": "Determine the Laplace transform of 3e^(4t):",
+    "options": {
+      "a": "3 / (s + 4)²",
+      "b": "6 / (s - 4)",
+      "c": "3 / (s - 4)",
+      "d": "-6 / (s + 4)"
+    },
+    "answer": "c",
+    "correct_answer_text": "3 / (s - 4)",
+    "category": "Math",
+    "sub_category": "Laplace Transform",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_047.json"
+  },
+  {
+    "id": 2012,
+    "question": "Determine the Laplace transform of 5 sin(2t) - 3 cos(2t):",
+    "options": {
+      "a": "(5 + 3s) / (s² + 4)",
+      "b": "(5 - 2s) / (s² + 4)",
+      "c": "(10 - 3s) / (s² + 4)",
+      "d": "(10 - 2s) / (s² + 4)"
+    },
+    "answer": "c",
+    "correct_answer_text": "(10 - 3s) / (s² + 4)",
+    "category": "Math",
+    "sub_category": "Laplace Transform",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_047.json"
+  },
+  {
+    "id": 2013,
+    "question": "Integrate (2iz³ + 2iz) / (z - 2i)²:",
+    "options": {
+      "a": "44pi",
+      "b": "24pi * i / 5",
+      "c": "24pi / 5",
+      "d": "-44pi * i"
+    },
+    "answer": "d",
+    "correct_answer_text": "-44pi * i",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_047.json"
+  },
+  {
+    "id": 2014,
+    "question": "Which of the following statements is TRUE about the Secant Method?",
+    "options": {
+      "a": "It uses tangent lines for approximation",
+      "b": "It requires two initial points to start",
+      "c": "It always converges faster than Newton-Raphson",
+      "d": "It converges quadratically like Newton-Raphson"
+    },
+    "answer": "b",
+    "correct_answer_text": "It requires two initial points to start",
+    "category": "Math",
+    "sub_category": "Numerical Methods",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_047.json"
+  },
+  {
+    "id": 2015,
+    "question": "Evaluate ln(50 - j70) + ln(50 + j70):",
+    "options": {
+      "a": "j4.5",
+      "b": "4.5",
+      "c": "11.9",
+      "d": "9.0"
+    },
+    "answer": "d",
+    "correct_answer_text": "9.0",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_047.json"
+  },
+  {
+    "id": 2016,
+    "question": "Determine the limit of the complex expression (z³ + i) / (z - i) as z approaches i?",
+    "options": {
+      "a": "5i",
+      "b": "-3i",
+      "c": "2i",
+      "d": "i"
+    },
+    "answer": "b",
+    "correct_answer_text": "-3i",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_047.json"
+  },
+  {
+    "id": 2017,
+    "question": "The charge on a capacitor varies by Q = 30t⁴ + 10t² mC. What is the mean value of the current between t = 3 to t = 7 seconds?",
+    "options": {
+      "a": "14.33 A",
+      "b": "17.50 A",
+      "c": "12.0 A",
+      "d": "12.67 A"
+    },
+    "answer": "d",
+    "correct_answer_text": "12.67 A",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_047.json"
+  },
+  {
+    "id": 2018,
+    "question": "Integrate the complex form z¹⁰ / (z - i)³:",
+    "options": {
+      "a": "40pi * i",
+      "b": "(10 - 40i)pi",
+      "c": "-90pi",
+      "d": "-700pi"
+    },
+    "answer": "c",
+    "correct_answer_text": "-90pi",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_047.json"
+  },
+  {
+    "id": 2019,
+    "question": "If r = xi + yj + zk, what is the value of div r?",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "answer": "c",
+    "correct_answer_text": "3",
+    "category": "Math",
+    "sub_category": "Vector Analysis",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_047.json"
+  },
+  {
+    "id": 2020,
+    "question": "Simplify cos (2 + 3i):",
+    "options": {
+      "a": "-3.724 - j0.512",
+      "b": "-3.724 - j0.878",
+      "c": "-4.190 - j9.100",
+      "d": "-7.455 - j0.346"
+    },
+    "answer": "c",
+    "correct_answer_text": "-4.190 - j9.100",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_047.json"
+  },
+  {
+    "id": 2021,
+    "question": "Simplify sinh (pi * i / 6):",
+    "options": {
+      "a": "1/3",
+      "b": "1/2",
+      "c": "pi * i / 3",
+      "d": "i/2"
+    },
+    "answer": "d",
+    "correct_answer_text": "i/2",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_047.json"
+  },
+  {
+    "id": 2022,
+    "question": "Find the resultant of concurrent forces: 50 kN at N40°W, 30 kN at W70°S, and 80 kN along East:",
+    "options": {
+      "a": "58 kN",
+      "b": "21 kN",
+      "c": "128 kN",
+      "d": "39 kN"
+    },
+    "answer": "d",
+    "correct_answer_text": "39 kN",
+    "category": "Math",
+    "sub_category": "Vector Analysis",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_047.json"
+  },
+  {
+    "id": 2023,
+    "question": "If A = xzi - y²j + 2x²yk, find the curl (A) at (2, 1, 3):",
+    "options": {
+      "a": "8i + 8k",
+      "b": "6i + 9k",
+      "c": "8j - 2k",
+      "d": "-10i + 8k"
+    },
+    "answer": "a",
+    "correct_answer_text": "8i + 8k",
+    "category": "Math",
+    "sub_category": "Vector Analysis",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_047.json"
+  },
+  {
+    "id": 2024,
+    "question": "Find the Laplace transform of t^(5/2):",
+    "options": {
+      "a": "7.869 / s^(5/2)",
+      "b": "3.323 / s^(5/2)",
+      "c": "3.323 / s^(7/2)",
+      "d": "7.869 / s^(7/2)"
+    },
+    "answer": "d",
+    "correct_answer_text": "7.869 / s^(7/2)",
+    "category": "Math",
+    "sub_category": "Laplace Transform",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_047.json"
+  },
+  {
+    "id": 2025,
+    "question": "Inverse the Laplace transform: (s + 7) / (s² - 3s - 10)",
+    "options": {
+      "a": "(-5/7)e^(-2t) + (12/7)e^(5t)",
+      "b": "(5/7)e^(-2t) - (12/7)e^(5t)",
+      "c": "(5/7)e^(2t) + (15/7)e^(-5t)",
+      "d": "(-5/7)e^(2t) + (15/7)e^(-5t)"
+    },
+    "answer": "a",
+    "correct_answer_text": "(-5/7)e^(-2t) + (12/7)e^(5t)",
+    "category": "Math",
+    "sub_category": "Laplace Transform",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_047.json"
+  },
+  {
+    "id": 2026,
+    "question": "Determine the Laplace transform of the voltage signal 6u(t - 2) volts:",
+    "options": {
+      "a": "3e^(-7s) / s",
+      "b": "6e^(-2s) / s",
+      "c": "3e^(2s) / s",
+      "d": "6e^(-2s) / s"
+    },
+    "answer": "d",
+    "correct_answer_text": "6e^(-2s) / s",
+    "category": "Math",
+    "sub_category": "Laplace Transform",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_047.json"
+  },
+  {
+    "id": 2027,
+    "question": "Which of the following best describes the key difference between the Bisection Method and the Regula Falsi Method?",
+    "options": {
+      "a": "Bisection uses the derivative, while Regula Falsi does not",
+      "b": "Bisection method always converges faster",
+      "c": "Regula Falsi uses a linear interpolation between points instead of a midpoint",
+      "d": "Regula Falsi is limited to continuous functions, while Bisection is not"
+    },
+    "answer": "c",
+    "correct_answer_text": "Regula Falsi uses a linear interpolation between points instead of a midpoint",
+    "category": "Math",
+    "sub_category": "Numerical Methods",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_047.json"
+  },
+  {
+    "id": 2028,
+    "question": "Compute the vorticity (curl) of the vector field y²i + z²j + x²k at (1, 1, 3):",
+    "options": {
+      "a": "6i + 2j - 2k",
+      "b": "6i - 2j - 2k",
+      "c": "6i - j + 2k",
+      "d": "5i - 4j - k"
+    },
+    "answer": "a",
+    "correct_answer_text": "6i + 2j - 2k",
+    "category": "Math",
+    "sub_category": "Vector Analysis",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_047.json"
+  },
+  {
+    "id": 2029,
+    "question": "Integrate the expression ∫ (3z² + i) dz from 1 to 2i + 1:",
+    "options": {
+      "a": "-14 - 21i",
+      "b": "16 - 15i",
+      "c": "-17 + 21i",
+      "d": "11 - 16i"
+    },
+    "answer": "a",
+    "correct_answer_text": "-14 - 21i",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_048.json"
+  },
+  {
+    "id": 2030,
+    "question": "Find the limit of the complex expression (z² - 6iz - 5) / (z² - 1) as z approaches i?",
+    "options": {
+      "a": "5i",
+      "b": "+infinity",
+      "c": "3 - 3i",
+      "d": "zero"
+    },
+    "answer": "c",
+    "correct_answer_text": "3 - 3i",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_048.json"
+  },
+  {
+    "id": 2031,
+    "question": "Which of the following method of integration uses series of quadratic curves, or parabolas in approximating definite integrals?",
+    "options": {
+      "a": "trapezoidal rule",
+      "b": "rectangular rule",
+      "c": "Simpson's rule",
+      "d": "Peter Griffin"
+    },
+    "answer": "c",
+    "correct_answer_text": "Simpson's rule",
+    "category": "Math",
+    "sub_category": "Numerical Methods",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_048.json"
+  },
+  {
+    "id": 2032,
+    "question": "Simplify the limit: lim (ix² - x) / x as x approaches i:",
+    "options": {
+      "a": "0",
+      "b": "-i",
+      "c": "-2",
+      "d": "2i"
+    },
+    "answer": "c",
+    "correct_answer_text": "-2",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_048.json"
+  },
+  {
+    "id": 2033,
+    "question": "Evaluate the following limit: lim x->0 [(1 + 2ix + 3x²) - 1] / x",
+    "options": {
+      "a": "2i",
+      "b": "3",
+      "c": "2i + 3",
+      "d": "0"
+    },
+    "answer": "a",
+    "correct_answer_text": "2i",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_048.json"
+  },
+  {
+    "id": 2034,
+    "question": "Derive the expression ln(x + i):",
+    "options": {
+      "a": "1 / (x + i)",
+      "b": "i / (x + i)",
+      "c": "1 / x + i",
+      "d": "1 / i + x"
+    },
+    "answer": "a",
+    "correct_answer_text": "1 / (x + i)",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_048.json"
+  },
+  {
+    "id": 2035,
+    "question": "Find the limit of (2z³ - iz) / (z - i) as z approaches i + 1?",
+    "options": {
+      "a": "5 + 6i / 7",
+      "b": "-3 + 3i",
+      "c": "-4 - 6i / 7",
+      "d": "150"
+    },
+    "answer": "b",
+    "correct_answer_text": "-3 + 3i",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_048.json"
+  },
+  {
+    "id": 2036,
+    "question": "Find the derivative: f(x) = 1 / (x + i)",
+    "options": {
+      "a": "1 / (x + i)²",
+      "b": "-1 / (x + i)²",
+      "c": "i / (x + i)²",
+      "d": "-i / (x + i)²"
+    },
+    "answer": "b",
+    "correct_answer_text": "-1 / (x + i)²",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_048.json"
+  },
+  {
+    "id": 2037,
+    "question": "Evaluate the derivative: d/dx (3ix⁴ - 2ix³)",
+    "options": {
+      "a": "3ix²(-1 + 3x)",
+      "b": "6ix²(-1 + 2x)",
+      "c": "4ix²(1 - 2x)",
+      "d": "12ix³ - 6ix²"
+    },
+    "answer": "d",
+    "correct_answer_text": "12ix³ - 6ix²",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_048.json"
+  },
+  {
+    "id": 2038,
+    "question": "Perform the derivative: d/dx (ln(ix²))",
+    "options": {
+      "a": "i / x",
+      "b": "x + i",
+      "c": "2 / x",
+      "d": "2i / x"
+    },
+    "answer": "c",
+    "correct_answer_text": "2 / x",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_048.json"
+  },
+  {
+    "id": 2039,
+    "question": "Find the area bounded by the curve y = x^2 + 2 and the lines x = 0, y = 0, and x = 4.",
+    "options": {
+      "a": "88/3 sq. units",
+      "b": "64/3 sq. units",
+      "c": "5.4/3 sq. units",
+      "d": "64/5 sq. units"
+    },
+    "answer": "a",
+    "correct_answer_text": "88/3 sq. units",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_048.json"
+  },
+  {
+    "id": 2040,
+    "question": "What is the perimeter of a Norman window of the Sistine Chapel if the maximum illumination sought is 50 ft²?",
+    "options": {
+      "a": "13.78 ft",
+      "b": "26.72 ft",
+      "c": "78.53 ft",
+      "d": "34.78 ft"
+    },
+    "answer": "b",
+    "correct_answer_text": "26.72 ft",
+    "category": "Math",
+    "sub_category": "Minima/Maxima",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_048.json"
+  },
+  {
+    "id": 2041,
+    "question": "A triangular region in the first quadrant is bounded by x = 0, y = 0, and x + y = 2. Find the moment of area about the y-axis.",
+    "options": {
+      "a": "3/7",
+      "b": "2/5",
+      "c": "4/3",
+      "d": "2/9"
+    },
+    "answer": "c",
+    "correct_answer_text": "4/3",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_048.json"
+  },
+  {
+    "id": 2042,
+    "question": "The motion of a dodge ball is given by x(t) = 60t^2 + 2t + 10 where x is in feet and t is in minutes. What is the acceleration of the ball at t = 3 min?",
+    "options": {
+      "a": "140",
+      "b": "100",
+      "c": "90",
+      "d": "120"
+    },
+    "answer": "d",
+    "correct_answer_text": "120",
+    "category": "Math",
+    "sub_category": "Differential Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_048.json"
+  },
+  {
+    "id": 2043,
+    "question": "Find the moment of area about the y-axis for the region bounded by x = y^2 and x = 4, extending from y = -2 to y = 2.",
+    "options": {
+      "a": "128/5",
+      "b": "144/13",
+      "c": "107/9",
+      "d": "115/11"
+    },
+    "answer": "a",
+    "correct_answer_text": "128/5",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_048.json"
+  },
+  {
+    "id": 2044,
+    "question": "A trough is 8 ft long with trapezoidal sides (3 ft top, 2 ft bottom, 1 ft deep). It contains gasoline to a height of 0.8 ft. Determine the volume of gasoline.",
+    "options": {
+      "a": "12.86 ft³",
+      "b": "17.54 ft³",
+      "c": "10.97 ft³",
+      "d": "15.36 ft³"
+    },
+    "answer": "d",
+    "correct_answer_text": "15.36 ft³",
+    "category": "Math",
+    "sub_category": "Geometry",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_048.json"
+  },
+  {
+    "id": 2045,
+    "question": "A spherical snow ball melts such that its surface area decreases at a rate of 1 cm²/min. How fast is its radius shrinking when it is 3 cm?",
+    "options": {
+      "a": "-1/24pi",
+      "b": "-1/48pi",
+      "c": "-1/20pi",
+      "d": "-1/12pi"
+    },
+    "answer": "a",
+    "correct_answer_text": "-1/24pi",
+    "category": "Math",
+    "sub_category": "Differential Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_048.json"
+  },
+  {
+    "id": 2046,
+    "question": "What is the area bounded by the polar curve r = 5cos(θ)?",
+    "options": {
+      "a": "14pi/3",
+      "b": "15pi/4",
+      "c": "25pi/4",
+      "d": "25pi/3"
+    },
+    "answer": "c",
+    "correct_answer_text": "25pi/4",
+    "category": "Math",
+    "sub_category": "Geometry",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_048.json"
+  },
+  {
+    "id": 2047,
+    "question": "What is the maximum area of a rectangle whose base is on the x-axis and whose upper two vertices lie on the parabola y = 12 - x^2?",
+    "options": {
+      "a": "32",
+      "b": "16",
+      "c": "54",
+      "d": "20"
+    },
+    "answer": "a",
+    "correct_answer_text": "32",
+    "category": "Math",
+    "sub_category": "Minima/Maxima",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_048.json"
+  },
+  {
+    "id": 2048,
+    "question": "What is the moment of inertia of the area bounded by y = x^2 and y + 3x = 4 when rotated about x = 5?",
+    "options": {
+      "a": "3423/13",
+      "b": "3625/4",
+      "c": "113/18",
+      "d": "11/9"
+    },
+    "answer": "b",
+    "correct_answer_text": "3625/4",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_048.json"
+  },
+  {
+    "id": 2049,
+    "question": "The region is bounded by y = x^2 and the x-axis between x = 0 and x = 2. What is the second moment of area (moment of inertia) about the x-axis?",
+    "options": {
+      "a": "128/21",
+      "b": "157/85",
+      "c": "117/23",
+      "d": "1/8"
+    },
+    "answer": "a",
+    "correct_answer_text": "128/21",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_049.json"
+  },
+  {
+    "id": 2050,
+    "question": "Determine the coordinates of the centroid when four masses (12 lbs, 17 lbs, 25 lbs, and 10 lbs) are placed at (-4, 5), (7, 0), (0, -3), and (5, 1) respectively.",
+    "options": {
+      "a": "(1.89, -0.078)",
+      "b": "(1.89, 3.53)",
+      "c": "(-6.44, -0.078)",
+      "d": "(-6.44, -2.451)"
+    },
+    "answer": "a",
+    "correct_answer_text": "(1.89, -0.078)",
+    "category": "Math",
+    "sub_category": "Geometry",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_049.json"
+  },
+  {
+    "id": 2051,
+    "question": "Find the area bounded between the curves y = x^2 and y = x + 2 for x ≥ 0.",
+    "options": {
+      "a": "4/5",
+      "b": "10/3",
+      "c": "8/3",
+      "d": "9/2"
+    },
+    "answer": "b",
+    "correct_answer_text": "10/3",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_049.json"
+  },
+  {
+    "id": 2052,
+    "question": "Find the slope-intercept equation of the normal line to the graph y = x^3 - x^2 at the point where x = 1.",
+    "options": {
+      "a": "y = x + 1",
+      "b": "y = -x + 1",
+      "c": "y = x - 1",
+      "d": "y = -x - 1"
+    },
+    "answer": "b",
+    "correct_answer_text": "y = -x + 1",
+    "category": "Math",
+    "sub_category": "Differential Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_049.json"
+  },
+  {
+    "id": 2053,
+    "question": "The region is bounded by y = sqrt(x) and y = x^2. Find the moment of inertia about the x-axis.",
+    "options": {
+      "a": "5/71",
+      "b": "3/35",
+      "c": "7/83",
+      "d": "543/29"
+    },
+    "answer": "b",
+    "correct_answer_text": "3/35",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_049.json"
+  },
+  {
+    "id": 2054,
+    "question": "Water flows into a conical vessel (15 cm deep, 3.75 cm radius) at a rate of 2 cm/sec rising. How fast is the water flowing (cm³/sec) into the vessel when it is 4 cm deep?",
+    "options": {
+      "a": "6.28",
+      "b": "2.37",
+      "c": "4.57",
+      "d": "5.73"
+    },
+    "answer": "a",
+    "correct_answer_text": "6.28",
+    "category": "Math",
+    "sub_category": "Differential Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_049.json"
+  },
+  {
+    "id": 2055,
+    "question": "Determine the volume generated by rotating the region bounded by the line 2x + y - 4 = 0 about the y-axis.",
+    "options": {
+      "a": "16pi/3",
+      "b": "4pi/3",
+      "c": "2pi/3",
+      "d": "pi/4"
+    },
+    "answer": "a",
+    "correct_answer_text": "16pi/3",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_049.json"
+  },
+  {
+    "id": 2056,
+    "question": "Find the area of the region bounded by the lines x = y, x = 2, and y = 1/x².",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "answer": "a",
+    "correct_answer_text": "1",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_049.json"
+  },
+  {
+    "id": 2057,
+    "question": "What is the moment of area for the region bounded by y = x^2 and y + 3x = 4 about x = 5?",
+    "options": {
+      "a": "1625/12",
+      "b": "1135/71",
+      "c": "1579/17",
+      "d": "115/6"
+    },
+    "answer": "a",
+    "correct_answer_text": "1625/12",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_049.json"
+  },
+  {
+    "id": 2058,
+    "question": "Find the volume of the solid obtained by revolving the area under y = x^2 from x = 0 to x = 1 about the x-axis.",
+    "options": {
+      "a": "pi/3",
+      "b": "pi/2",
+      "c": "pi/5",
+      "d": "pi/4"
+    },
+    "answer": "c",
+    "correct_answer_text": "pi/5",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_049.json"
+  },
+  {
+    "id": 2059,
+    "question": "The region is bounded by y = x and y = x^3. Find the second moment of area (inertia) about the y-axis.",
+    "options": {
+      "a": "1/15",
+      "b": "1/12",
+      "c": "1/24",
+      "d": "1/80"
+    },
+    "answer": "d",
+    "correct_answer_text": "1/80",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_049.json"
+  },
+  {
+    "id": 2060,
+    "question": "A hot air balloon rising at 5 m/s releases a sandbag when 20 m above the ground. With what velocity will the sandbag strike the ground?",
+    "options": {
+      "a": "14.6 m/s",
+      "b": "20.4 m/s",
+      "c": "21.2 m/s",
+      "d": "17.3 m/s"
+    },
+    "answer": "b",
+    "correct_answer_text": "20.4 m/s",
+    "category": "Math",
+    "sub_category": "Differential Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_049.json"
+  },
+  {
+    "id": 2061,
+    "question": "Find the volume of the solid obtained by revolving the region bounded by y = x and y = x^2 about the x-axis from x = 0 to x = 1.",
+    "options": {
+      "a": "3pi/16",
+      "b": "pi/12",
+      "c": "3pi/16",
+      "d": "2pi/15"
+    },
+    "answer": "d",
+    "correct_answer_text": "2pi/15",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_049.json"
+  },
+  {
+    "id": 2062,
+    "question": "Find the centroid of the region bounded by y = x and y = x^2 between x = 0 and x = 1.",
+    "options": {
+      "a": "(0.6, 0.4)",
+      "b": "(0.3, 0.5)",
+      "c": "(0.5, 0.4)",
+      "d": "(0.2, 0.667)"
+    },
+    "answer": "c",
+    "correct_answer_text": "(0.5, 0.4)",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_049.json"
+  },
+  {
+    "id": 2063,
+    "question": "Water is pouring into a swimming pool. After t hours, there are t + sqrt(t) gallons. At what rate, in GPM, is water pouring in when t = 9 hours?",
+    "options": {
+      "a": "0.0194",
+      "b": "1.167",
+      "c": "1.235",
+      "d": "3.6"
+    },
+    "answer": "a",
+    "correct_answer_text": "0.0194",
+    "category": "Math",
+    "sub_category": "Differential Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_049.json"
+  },
+  {
+    "id": 2064,
+    "question": "A sphere's volume increases at 5 cu.ft./min. At what rate is its radius changing when the radius is 1/2 ft?",
+    "options": {
+      "a": "1.333",
+      "b": "1.59",
+      "c": "2.67",
+      "d": "1.833"
+    },
+    "answer": "b",
+    "correct_answer_text": "1.59",
+    "category": "Math",
+    "sub_category": "Differential Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_049.json"
+  },
+  {
+    "id": 2065,
+    "question": "For the region bounded by y = sqrt(x) and y = x/2 from x = 0 to x = 4, find the centroid (x̄, ȳ).",
+    "options": {
+      "a": "(1.6, 1)",
+      "b": "(1.5, 0.8)",
+      "c": "(0.5, 0.8)",
+      "d": "(1, 2)"
+    },
+    "answer": "a",
+    "correct_answer_text": "(1.6, 1)",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_049.json"
+  },
+  {
+    "id": 2066,
+    "question": "Find the equation of the NORMAL to the curve y^2 + 2x + 3y = 0 through point (-5, 2).",
+    "options": {
+      "a": "7x + 2y + 39 = 0",
+      "b": "7x - 2y + 39 = 0",
+      "c": "2x - 7y - 39 = 0",
+      "d": "2x + 7y - 39 = 0"
+    },
+    "answer": "a",
+    "correct_answer_text": "7x + 2y + 39 = 0",
+    "category": "Math",
+    "sub_category": "Differential Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_049.json"
+  },
+  {
+    "id": 2067,
+    "question": "What is the area bounded by the curve y = x, the x-axis, and the lines x = -2 and x = 1?",
+    "options": {
+      "a": "4.25 sq. units",
+      "b": "2.45 sq. units",
+      "c": "5.24 sq. units",
+      "d": "5.42 sq. units"
+    },
+    "answer": "b",
+    "correct_answer_text": "2.45 sq. units",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_049.json"
+  },
+  {
+    "id": 2068,
+    "question": "Find the volume generated when the area bounded by x^2 = 8y, the line x = 4 and the x-axis is revolved about the y-axis.",
+    "options": {
+      "a": "52.12",
+      "b": "50.26",
+      "c": "50.01",
+      "d": "50.92"
+    },
+    "answer": "b",
+    "correct_answer_text": "50.26",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_049.json"
+  },
+  {
+    "id": 2069,
+    "question": "A rectangular trough is 8 ft long, 2 ft wide, and 4 ft deep. If water flows in at 2 ft³/min, how fast is the surface rising when water is 1 ft deep?",
+    "options": {
+      "a": "1/2 ft/min",
+      "b": "1/5 ft/min",
+      "c": "1/6 ft/min",
+      "d": "1/8 ft/min"
+    },
+    "answer": "d",
+    "correct_answer_text": "1/8 ft/min",
+    "category": "Math",
+    "sub_category": "Differential Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_050.json"
+  },
+  {
+    "id": 2070,
+    "question": "One train travels east at 45 mi/h starting at 11 AM. Another travels south at 60 mi/h starting at noon. How fast are they separating at 3 PM?",
+    "options": {
+      "a": "105sqrt(2)/2 mi/h",
+      "b": "43sqrt(3)/2 mi/h",
+      "c": "70sqrt(2)/2 mi/h",
+      "d": "43sqrt(2)/2 mi/h"
+    },
+    "answer": "a",
+    "correct_answer_text": "105sqrt(2)/2 mi/h",
+    "category": "Math",
+    "sub_category": "Differential Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_050.json"
+  },
+  {
+    "id": 2071,
+    "question": "The cost for manufacturing a product is C = 230 + 13.6x^2 + 719/x. What is the value of daily EOQ (x) for minimum cost?",
+    "options": {
+      "a": "2 units",
+      "b": "3 units",
+      "c": "4 units",
+      "d": "5 units"
+    },
+    "answer": "b",
+    "correct_answer_text": "3 units",
+    "category": "Math",
+    "sub_category": "Minima/Maxima",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_050.json"
+  },
+  {
+    "id": 2072,
+    "question": "Simplify the expression lim (x^2 - 16) / (x - 4) as x approaches 2.",
+    "options": {
+      "a": "8",
+      "b": "4",
+      "c": "6",
+      "d": "7"
+    },
+    "answer": "c",
+    "correct_answer_text": "6",
+    "category": "Math",
+    "sub_category": "Differential Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_050.json"
+  },
+  {
+    "id": 2073,
+    "question": "The location of a body is z(t) = 18t - 3t^2. Find the body's velocity at t = 3.",
+    "options": {
+      "a": "20",
+      "b": "24",
+      "c": "6",
+      "d": "0"
+    },
+    "answer": "d",
+    "correct_answer_text": "0",
+    "category": "Math",
+    "sub_category": "Differential Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_050.json"
+  },
+  {
+    "id": 2074,
+    "question": "A guy wire runs between poles (17 ft and 21 ft high, 200 ft apart) to a point on the ground. How far from the taller pole must the point be to minimize wire length?",
+    "options": {
+      "a": "89.5 ft",
+      "b": "110.5 ft",
+      "c": "77.8 ft",
+      "d": "122.2 ft."
+    },
+    "answer": "b",
+    "correct_answer_text": "110.5 ft",
+    "category": "Math",
+    "sub_category": "Minima/Maxima",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_050.json"
+  },
+  {
+    "id": 2075,
+    "question": "Determine the area of the region bounded by x = y^2 + 1, x = 5, y = -3, and y = 3.",
+    "options": {
+      "a": "46/3",
+      "b": "47/8",
+      "c": "51/4",
+      "d": "52/3"
+    },
+    "answer": "d",
+    "correct_answer_text": "52/3",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_050.json"
+  },
+  {
+    "id": 2076,
+    "question": "Determine the amount of work required to pump all water from a full spherical tank (40 ft diameter) to a height of 50 ft.",
+    "options": {
+      "a": "62,700,000 ft-lbf",
+      "b": "89,300,000 ft-lbf",
+      "c": "23,000,000 ft-lbf",
+      "d": "none of these"
+    },
+    "answer": "a",
+    "correct_answer_text": "62,700,000 ft-lbf",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_050.json"
+  },
+  {
+    "id": 2077,
+    "question": "Determine the volume generated by rotating the region bounded by 2x + y - 4 = 0 about the y-axis.",
+    "options": {
+      "a": "16pi/3",
+      "b": "4pi/3",
+      "c": "2pi/3",
+      "d": "pi/4"
+    },
+    "answer": "a",
+    "correct_answer_text": "16pi/3",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_050.json"
+  },
+  {
+    "id": 2078,
+    "question": "Find the area of the region bounded by x = y, x = 2, and y = 1/x².",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "answer": "a",
+    "correct_answer_text": "1",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_050.json"
+  },
+  {
+    "id": 2079,
+    "question": "Find the equation of the line tangent to y = x(2 - x)^2 at point (1, 1).",
+    "options": {
+      "a": "x = y = 1",
+      "b": "x + y = 2",
+      "c": "x + y = 3",
+      "d": "x + y = 4"
+    },
+    "answer": "b",
+    "correct_answer_text": "x + y = 2",
+    "category": "Math",
+    "sub_category": "Differential Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_050.json"
+  },
+  {
+    "id": 2080,
+    "question": "What is the area bounded by y = 4x + 3, y = 6 - x - 2x^2, x = -4, and x = 2?",
+    "options": {
+      "a": "28.58",
+      "b": "34.89",
+      "c": "16.75",
+      "d": "8.72"
+    },
+    "answer": "a",
+    "correct_answer_text": "28.58",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_050.json"
+  },
+  {
+    "id": 2081,
+    "question": "What is the volume generated by rotating the conic 2x^2 + 2y^2 - 36x + 12y - 5 = 0 about the line 3x + 4y - 7 = 0?",
+    "options": {
+      "a": "7526",
+      "b": "1362",
+      "c": "2921",
+      "d": "5342"
+    },
+    "answer": "c",
+    "correct_answer_text": "2921",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_050.json"
+  },
+  {
+    "id": 2082,
+    "question": "Find the area bounded by the line x - 2y + 10 = 0, the x-axis, the y-axis, and x = 10.",
+    "options": {
+      "a": "75",
+      "b": "50",
+      "c": "100",
+      "d": "25"
+    },
+    "answer": "a",
+    "correct_answer_text": "75",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_050.json"
+  },
+  {
+    "id": 2083,
+    "question": "Find the volume generated by rotating the region bounded by x = y^2 - 4 and x = 6 - 3y about the line x = 24.",
+    "options": {
+      "a": "43658pi/17",
+      "b": "21589pi/11",
+      "c": "11767pi/13",
+      "d": "31556pi/15"
+    },
+    "answer": "d",
+    "correct_answer_text": "31556pi/15",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_050.json"
+  },
+  {
+    "id": 2084,
+    "question": "Find the limit of (x^2 - 16) / (x^3 + 64) as x approaches -4.",
+    "options": {
+      "a": "-3/7",
+      "b": "1/8",
+      "c": "-1/6",
+      "d": "-3/8"
+    },
+    "answer": "c",
+    "correct_answer_text": "-1/6",
+    "category": "Math",
+    "sub_category": "Differential Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_050.json"
+  },
+  {
+    "id": 2085,
+    "question": "Find the limit of (sin(x) + cos(x) - 1) / x as x approaches zero.",
+    "options": {
+      "a": "one",
+      "b": "two",
+      "c": "three",
+      "d": "four"
+    },
+    "answer": "a",
+    "correct_answer_text": "one",
+    "category": "Math",
+    "sub_category": "Differential Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_050.json"
+  },
+  {
+    "id": 2086,
+    "question": "Find the volume generated when the area in the first quadrant bounded by x^2 = 8y, y = 2, and the y-axis is revolved about the x-axis.",
+    "options": {
+      "a": "20.32 cu units",
+      "b": "40.21 cu units",
+      "c": "34.45 cu units",
+      "d": "45.56 cu units"
+    },
+    "answer": "b",
+    "correct_answer_text": "40.21 cu units",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_050.json"
+  },
+  {
+    "id": 2087,
+    "question": "Derive: d/dx(3ix^3 - 4x)",
+    "options": {
+      "a": "-4 + 9ix^2",
+      "b": "5 - 4ix",
+      "c": "-4 - 6ix^2",
+      "d": "-2"
+    },
+    "answer": "a",
+    "correct_answer_text": "-4 + 9ix^2",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_050.json"
+  },
+  {
+    "id": 2088,
+    "question": "Evaluate the limit of |(2z + 3i)(z - i)| / (iz^3 - 3z + 4 - i) as z approaches infinity.",
+    "options": {
+      "a": "1",
+      "b": "0",
+      "c": "i/2",
+      "d": "-i/2"
+    },
+    "answer": "b",
+    "correct_answer_text": "0",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_050.json"
+  },
+  {
+    "id": 2089,
+    "question": "Evaluate the integral: ∫ (12z^2 - 4iz) dz from 1+i to 2+3i.",
+    "options": {
+      "a": "-156 + 38i",
+      "b": "672 - 137i",
+      "c": "-178 + 144i",
+      "d": "91 + 213i"
+    },
+    "answer": "a",
+    "correct_answer_text": "-156 + 38i",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_051.json"
+  },
+  {
+    "id": 2090,
+    "question": "Evaluate: (1 + i)^10",
+    "options": {
+      "a": "16i",
+      "b": "32i",
+      "c": "-32i",
+      "d": "-16i"
+    },
+    "answer": "b",
+    "correct_answer_text": "32i",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_051.json"
+  },
+  {
+    "id": 2091,
+    "question": "Determine the Laplace transform of 3e^-4t.",
+    "options": {
+      "a": "3/(s+4)",
+      "b": "6/(s-4)",
+      "c": "3/(s-4)",
+      "d": "-6/(s+4)"
+    },
+    "answer": "a",
+    "correct_answer_text": "3/(s+4)",
+    "category": "Math",
+    "sub_category": "Laplace Transform",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_051.json"
+  },
+  {
+    "id": 2092,
+    "question": "In a series R-L circuit with R=10 ohms and L=1 Henry, an AC voltage e(t) = 100 sin(377t) is applied. Determine the amplitude of the resulting steady-state sinusoidal current.",
+    "options": {
+      "a": "0.241 A",
+      "b": "0.292 A",
+      "c": "0.321 A",
+      "d": "0.265 A"
+    },
+    "answer": "d",
+    "correct_answer_text": "0.265 A",
+    "category": "Math",
+    "sub_category": "Differential Equation",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_051.json"
+  },
+  {
+    "id": 2093,
+    "question": "Evaluate the Inverse Laplace Transform of 6 / (s^2 + 4).",
+    "options": {
+      "a": "3cosh2t",
+      "b": "3sin2t",
+      "c": "3sinh2t",
+      "d": "3cos2t"
+    },
+    "answer": "b",
+    "correct_answer_text": "3sin2t",
+    "category": "Math",
+    "sub_category": "Laplace Transform",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_051.json"
+  },
+  {
+    "id": 2094,
+    "question": "Evaluate: sinh(5 + j5)",
+    "options": {
+      "a": "71.16 + j21.05",
+      "b": "21.05 + j71.16",
+      "c": "21.05 - j71.16",
+      "d": "71.16 - j21.05"
+    },
+    "answer": "b",
+    "correct_answer_text": "21.05 + j71.16",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_051.json"
+  },
+  {
+    "id": 2095,
+    "question": "Given the equations: x+y+z=2; 3x-y-2z=4, and 5x-2y+3z=-7. Solve for y using Gaussian elimination.",
+    "options": {
+      "a": "1",
+      "b": "-2",
+      "c": "0",
+      "d": "3"
+    },
+    "answer": "d",
+    "correct_answer_text": "3",
+    "category": "Math",
+    "sub_category": "Numerical Methods",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_051.json"
+  },
+  {
+    "id": 2096,
+    "question": "Which of the following is a true property of the Bisection method when solving f(x) = 0?",
+    "options": {
+      "a": "It converges quadratically.",
+      "b": "It requires the derivative of the function.",
+      "c": "It guarantees convergence if the initial interval brackets the root.",
+      "d": "It is faster than Newton-Raphson in all cases."
+    },
+    "answer": "c",
+    "correct_answer_text": "It guarantees convergence if the initial interval brackets the root.",
+    "category": "Math",
+    "sub_category": "Numerical Methods",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_051.json"
+  },
+  {
+    "id": 2097,
+    "question": "Derive: d/dx[ln(ix / (i+x))]",
+    "options": {
+      "a": "2i / (x^2+i)",
+      "b": "i / (x^2+ix)",
+      "c": "2i / (ix+1)",
+      "d": "i / (x+2-i)"
+    },
+    "answer": "b",
+    "correct_answer_text": "i / (x^2+ix)",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_051.json"
+  },
+  {
+    "id": 2098,
+    "question": "Evaluate: ln(2 + j3)",
+    "options": {
+      "a": "1.34 + j0.32",
+      "b": "2.54 + j0.866",
+      "c": "2.23 + j0.2",
+      "d": "1.28 + j0.98"
+    },
+    "answer": "d",
+    "correct_answer_text": "1.28 + j0.98",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_051.json"
+  },
+  {
+    "id": 2099,
+    "question": "Derive: d/dx(i sin(5ix))",
+    "options": {
+      "a": "5i cos(5x)",
+      "b": "-5cosh(ix)",
+      "c": "-5cosh(5x)",
+      "d": "-5cos(5x)"
+    },
+    "answer": "c",
+    "correct_answer_text": "-5cosh(5x)",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_051.json"
+  },
+  {
+    "id": 2100,
+    "question": "Inverse the following s-domain Laplace function: F(s) = (2s + 3) / (s^2 + 4s + 13)",
+    "options": {
+      "a": "e^-2t (2 cos(3t) + 3 sin(3t))",
+      "b": "e^-2t (2 cos(3t) - (1/3) sin(3t))",
+      "c": "e^2t (2 cos(3t) - 3 sin(3t))",
+      "d": "e^2t (2 cos(3t) + (1/2) sin(3t))"
+    },
+    "answer": "b",
+    "correct_answer_text": "e^-2t (2 cos(3t) - (1/3) sin(3t))",
+    "category": "Math",
+    "sub_category": "Laplace Transform",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_051.json"
+  },
+  {
+    "id": 2101,
+    "question": "Integrate: ∫ (ix^4 + 2ix) dx from i to 6i.",
+    "options": {
+      "a": "1314/7 + 9i",
+      "b": "11/7 - 9i",
+      "c": "646/5 + 8i",
+      "d": "-242/5 - 8i"
+    },
+    "answer": "d",
+    "correct_answer_text": "-242/5 - 8i",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_051.json"
+  },
+  {
+    "id": 2102,
+    "question": "Integrate: ∫ 2026x^2025 dx from 0 to i.",
+    "options": {
+      "a": "3240i",
+      "b": "2026/17 + 11i/17",
+      "c": "-1",
+      "d": "0"
+    },
+    "answer": "c",
+    "correct_answer_text": "-1",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_051.json"
+  },
+  {
+    "id": 2103,
+    "question": "Determine the Laplace transform: L{e^t cos^2(t)}",
+    "options": {
+      "a": "(s^2+4s-3)/(s^3+6s^2+9s-6)",
+      "b": "(s^2-2s+3)/(s^3-3s^2+7s-5)",
+      "c": "(s^2+2s-6)/(s^3+4s^2+9s-5)",
+      "d": "(s^2-2s+8)/(s^3+3s^2+7s+6)"
+    },
+    "answer": "b",
+    "correct_answer_text": "(s^2-2s+3)/(s^3-3s^2+7s-5)",
+    "category": "Math",
+    "sub_category": "Laplace Transform",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_051.json"
+  },
+  {
+    "id": 2104,
+    "question": "Determine the Inverse Laplace Transform of I(s) = 200 / (s^2 - 50s + 10,625).",
+    "options": {
+      "a": "I(t) = 2e^25t sin(100t)",
+      "b": "I(t) = 2e^-25t cos(100t)",
+      "c": "I(t) = 2te^-25t sin(100t)",
+      "d": "I(t) = 2te^-25t cos(100t)"
+    },
+    "answer": "a",
+    "correct_answer_text": "I(t) = 2e^25t sin(100t)",
+    "category": "Math",
+    "sub_category": "Laplace Transform",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_051.json"
+  },
+  {
+    "id": 2105,
+    "question": "Determine the gradient of 3x^3y - 2xz^4 at (0, 1, 2).",
+    "options": {
+      "a": "32",
+      "b": "-32i",
+      "c": "-32j",
+      "d": "32k"
+    },
+    "answer": "b",
+    "correct_answer_text": "-32i",
+    "category": "Math",
+    "sub_category": "Vector Analysis",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_051.json"
+  },
+  {
+    "id": 2106,
+    "question": "Evaluate the integral: ∫∫ (5x^2y - 8xy^3) dx dy from y=1 to 2 and x=0 to 4.",
+    "options": {
+      "a": "116/7",
+      "b": "400/13",
+      "c": "-80",
+      "d": "-230"
+    },
+    "answer": "d",
+    "correct_answer_text": "-230",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_051.json"
+  },
+  {
+    "id": 2107,
+    "question": "Evaluate the integral: ∫∫∫ (6xyz + 4xz) dy dx dz from z=0 to 1, x=-1 to 0, and y=0 to 2.",
+    "options": {
+      "a": "2",
+      "b": "7i",
+      "c": "11/5",
+      "d": "-5"
+    },
+    "answer": "d",
+    "correct_answer_text": "-5",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_051.json"
+  },
+  {
+    "id": 2108,
+    "question": "Evaluate the integral: ∫∫ (r sin(θ) - r^2) dr dθ from θ=0 to 2pi and r=0 to 2.",
+    "options": {
+      "a": "-16pi/3",
+      "b": "45pi/6",
+      "c": "pi/8",
+      "d": "pi^2"
+    },
+    "answer": "a",
+    "correct_answer_text": "-16pi/3",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_051.json"
+  },
+  {
+    "id": 2109,
+    "question": "Evaluate the integral: ∫∫ (r cos(θ) - sin(θ)) dr dθ from θ=0 to pi and r=-1 to 4.",
+    "options": {
+      "a": "-4",
+      "b": "-15",
+      "c": "-10",
+      "d": "zero"
+    },
+    "answer": "c",
+    "correct_answer_text": "-10",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_052.json"
+  },
+  {
+    "id": 2110,
+    "question": "Find the curl of the vector {3xy, 2yz, 4xz}.",
+    "options": {
+      "a": "-2yi - 4zj - 3xk",
+      "b": "2yi - 6zj + 3xk",
+      "c": "-2yi - 4xk + 3zk",
+      "d": "2zi + 3yk - 6xk"
+    },
+    "answer": "c",
+    "correct_answer_text": "-2yi - 4xk + 3zk",
+    "category": "Math",
+    "sub_category": "Vector Analysis",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_052.json"
+  },
+  {
+    "id": 2111,
+    "question": "Evaluate L{t^n}.",
+    "options": {
+      "a": "n! / s^n",
+      "b": "n! / s^(n+1)",
+      "c": "n! / s^(n-1)",
+      "d": "n! / s^(n+2)"
+    },
+    "answer": "b",
+    "correct_answer_text": "n! / s^(n+1)",
+    "category": "Math",
+    "sub_category": "Laplace Transform",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_052.json"
+  },
+  {
+    "id": 2112,
+    "question": "What is the second term of the Taylor expansion for sin(3x)?",
+    "options": {
+      "a": "x^2/2",
+      "b": "-9x^3/2",
+      "c": "-3x^2/2",
+      "d": "-27x^4/2"
+    },
+    "answer": "b",
+    "correct_answer_text": "-9x^3/2",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_052.json"
+  },
+  {
+    "id": 2113,
+    "question": "What is the convolution f * g if f = 4x and g = x^2?",
+    "options": {
+      "a": "16t^3 / 3",
+      "b": "-16t^4 / 5",
+      "c": "4t^4 / 5",
+      "d": "t^4 / 3"
+    },
+    "answer": "d",
+    "correct_answer_text": "t^4 / 3",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_052.json"
+  },
+  {
+    "id": 2114,
+    "question": "Determine the divergence of the field B = x²i - yj + yzk at (1, 2, 4)?",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "answer": "c",
+    "correct_answer_text": "3",
+    "category": "Math",
+    "sub_category": "Vector Analysis",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_052.json"
+  },
+  {
+    "id": 2115,
+    "question": "Temperature distribution in a valley is given by T(x,y,z) = 25xy² - 3zx², what is the magnitude of grad (T) at (5, 2, 1)?",
+    "options": {
+      "a": "510.42",
+      "b": "47.89",
+      "c": "115.64",
+      "d": "0.7682"
+    },
+    "answer": "a",
+    "correct_answer_text": "510.42",
+    "category": "Math",
+    "sub_category": "Vector Analysis",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_052.json"
+  },
+  {
+    "id": 2116,
+    "question": "If the momentum field of proton in an accelerator is given by P = xyi - yj - x²k, determine the value of the curl (P) at the point (3, 4, 1)?",
+    "options": {
+      "a": "6j + 3k",
+      "b": "4i + 3k",
+      "c": "5j",
+      "d": "-8k"
+    },
+    "answer": "a",
+    "correct_answer_text": "6j + 3k",
+    "category": "Math",
+    "sub_category": "Vector Analysis",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_052.json"
+  },
+  {
+    "id": 2117,
+    "question": "Given the charge distribution on a lamina as Q = xy² + z³ and the path f = xi - zj + yk, find the value of the grad (Q) • f at (2, 1, -1)?",
+    "options": {
+      "a": "6",
+      "b": "9",
+      "c": "12",
+      "d": "15"
+    },
+    "answer": "c",
+    "correct_answer_text": "12",
+    "category": "Math",
+    "sub_category": "Vector Analysis",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_052.json"
+  },
+  {
+    "id": 2118,
+    "question": "Perform the integration: ∫ (z - z²) dz from i to i+1",
+    "options": {
+      "a": "1",
+      "b": "-2i",
+      "c": "-7/6",
+      "d": "3+4i/7"
+    },
+    "answer": "c",
+    "correct_answer_text": "-7/6",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_052.json"
+  },
+  {
+    "id": 2119,
+    "question": "Compute the limit: (z³ + 6iz² + 12z + 8i) / (z - 2i) as z approaches 2i?",
+    "options": {
+      "a": "12i",
+      "b": "12 + 8i",
+      "c": "-24",
+      "d": "8 - 16i"
+    },
+    "answer": "c",
+    "correct_answer_text": "-24",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_052.json"
+  },
+  {
+    "id": 2120,
+    "question": "Determine the equation of the plane passing (2, 4, 5) parallel to another plane with equation 3x + 5y - 6z - 10 = 0?",
+    "options": {
+      "a": "3x + 5y - 6z + 15 = 0",
+      "b": "3x + 5y - 6z + 57 = 0",
+      "c": "3x + 5y - 6z + 78 = 0",
+      "d": "3x + 5y - 6z + 4 = 0"
+    },
+    "answer": "d",
+    "correct_answer_text": "3x + 5y - 6z + 4 = 0",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_052.json"
+  },
+  {
+    "id": 2121,
+    "question": "What is the equation of the 3-D line in parametric form passing (1/3, 2, 1) and parallel to the plane x - 7y + 3z = 9?",
+    "options": {
+      "a": "{1/2-t, 4, -4+t}",
+      "b": "{1/3+t, 2, -1-2t}",
+      "c": "{1/2+2t, 2, -2t}",
+      "d": "(1/3+t, -4, 1/2-2t)"
+    },
+    "answer": "b",
+    "correct_answer_text": "{1/3+t, 2, -1-2t}",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_052.json"
+  },
+  {
+    "id": 2122,
+    "question": "Determine the equation of the plane in R³ formed by the points (1/4, 3, -1), (0, -2, 1) and (3, 1/2, 5)?",
+    "options": {
+      "a": "140x - 78y - 245z + 117 = 0",
+      "b": "200x - 56y - 115z + 3 = 0",
+      "c": "200x + 89y + 35z + 11 = 0",
+      "d": "200x + 89y - 40z - 89 = 0"
+    },
+    "answer": "d",
+    "correct_answer_text": "200x + 89y - 40z - 89 = 0",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_052.json"
+  },
+  {
+    "id": 2123,
+    "question": "If f (x, y, z) = 3xz²y - y³z², find grad f at the point (1, -2, -1):",
+    "options": {
+      "a": "-(12i - 9j - 4k)",
+      "b": "-(12i - 9j + 4k)",
+      "c": "-(16i + 9j + 4k)",
+      "d": "-(16i - 6j + 4k)"
+    },
+    "answer": "b",
+    "correct_answer_text": "-(12i - 9j + 4k)",
+    "category": "Math",
+    "sub_category": "Vector Analysis",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_052.json"
+  },
+  {
+    "id": 2124,
+    "question": "What is the Laplace transform of 3t² u(t-1)?",
+    "options": {
+      "a": "e^-s (6/s³ - 6/s² - 3/s)",
+      "b": "e^s (6/s³ + 6/s² + 3/s)",
+      "c": "e^-s (6/s³ + 6/s² + 3/s)",
+      "d": "e^s (6/s³ - 6/s² - 3/s)"
+    },
+    "answer": "c",
+    "correct_answer_text": "e^-s (6/s³ + 6/s² + 3/s)",
+    "category": "Math",
+    "sub_category": "Laplace Transform",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_052.json"
+  },
+  {
+    "id": 2125,
+    "question": "What is the Laplace transform of sinh (3t)/t for s > 3?",
+    "options": {
+      "a": "(1/4) ln((s+3)/(s+6))",
+      "b": "(1/4) ln((s+3)/(s-6))",
+      "c": "(1/2) ln(s/(s+3))",
+      "d": "(1/2) ln((s+3)/(s-3))"
+    },
+    "answer": "d",
+    "correct_answer_text": "(1/2) ln((s+3)/(s-3))",
+    "category": "Math",
+    "sub_category": "Laplace Transform",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_052.json"
+  },
+  {
+    "id": 2126,
+    "question": "Determine the Laplace transform: L{e^(-3t) sinh(2t)}",
+    "options": {
+      "a": "3 / (s² - 6s + 4)",
+      "b": "2 / (s² + 6s + 5)",
+      "c": "3 / (s² + 4s - 6)",
+      "d": "4 / (s² + 6s + 6)"
+    },
+    "answer": "b",
+    "correct_answer_text": "2 / (s² + 6s + 5)",
+    "category": "Math",
+    "sub_category": "Laplace Transform",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_052.json"
+  },
+  {
+    "id": 2127,
+    "question": "What is the Laplace transform of t sin(2t) e^(-4t)?",
+    "options": {
+      "a": "(4s+16) / (s² + 8s + 20)²",
+      "b": "(s-4) / (s² + 4s + 20)²",
+      "c": "(s+4) / (s² + 4s + 20)²",
+      "d": "(s-16) / (s² + 8s + 20)³"
+    },
+    "answer": "a",
+    "correct_answer_text": "(4s+16) / (s² + 8s + 20)²",
+    "category": "Math",
+    "sub_category": "Laplace Transform",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_052.json"
+  },
+  {
+    "id": 2128,
+    "question": "Which of the following is the main difference between Gauss-Seidel and Gaussian elimination method of solving systems of equations?",
+    "options": {
+      "a": "Gauss-Seidel converge faster than Gaussian elimination",
+      "b": "Gauss-Seidel is non-iterative while Gaussian elimination is iterative",
+      "c": "Gauss-Seidel is iterative while Gaussian elimination is non-iterative",
+      "d": "Gauss-Seidel can solve even the sparse systems where some coefficients are zero."
+    },
+    "answer": "c",
+    "correct_answer_text": "Gauss-Seidel is iterative while Gaussian elimination is non-iterative",
+    "category": "Math",
+    "sub_category": "Numerical Methods",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_052.json"
+  },
+  {
+    "id": 2129,
+    "question": "If A = 2i - j + k and B = i + 2j - 3k, find |(2A + B) x (A - 2B)|.",
+    "options": {
+      "a": "58.9",
+      "b": "78.9",
+      "c": "43.3",
+      "d": "12.9"
+    },
+    "answer": "c",
+    "correct_answer_text": "43.3",
+    "category": "Math",
+    "sub_category": "Vector Analysis",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_053.json"
+  },
+  {
+    "id": 2130,
+    "question": "Find the Laplace transform: L{t cos(2t)}",
+    "options": {
+      "a": "(s² - 4) / (s² + 4)²",
+      "b": "(s² + 4) / (s² - 4)²",
+      "c": "(s² + 2) / (s² + 4)²",
+      "d": "(s² - 2) / (s² - 4)²"
+    },
+    "answer": "a",
+    "correct_answer_text": "(s² - 4) / (s² + 4)²",
+    "category": "Math",
+    "sub_category": "Laplace Transform",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_053.json"
+  },
+  {
+    "id": 2131,
+    "question": "Perform the integration: ∫ z⁹ dz from 1 - 2i to 1 + 2i",
+    "options": {
+      "a": "0",
+      "b": "14/23",
+      "c": "2571/11",
+      "d": "-31161/5"
+    },
+    "answer": "a",
+    "correct_answer_text": "0",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_053.json"
+  },
+  {
+    "id": 2132,
+    "question": "In Gaussian elimination, the matrix is reduced to an upper triangular matrix called:",
+    "options": {
+      "a": "Hermitian",
+      "b": "Wronskian",
+      "c": "Echelon",
+      "d": "Jacobian"
+    },
+    "answer": "c",
+    "correct_answer_text": "Echelon",
+    "category": "Math",
+    "sub_category": "Numerical Methods",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_053.json"
+  },
+  {
+    "id": 2133,
+    "question": "What is the Laplace transform of cosh(t) - sinh(t)?",
+    "options": {
+      "a": "2 / (s² - 1)",
+      "b": "1 / (s + 1)",
+      "c": "1 / (s - 1)",
+      "d": "2 / (s - 1)"
+    },
+    "answer": "b",
+    "correct_answer_text": "1 / (s + 1)",
+    "category": "Math",
+    "sub_category": "Laplace Transform",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_053.json"
+  },
+  {
+    "id": 2134,
+    "question": "When the magnetic field B = xy²i + 2x²yzj - 3yz²k, find the div B:",
+    "options": {
+      "a": "y² + 8yz",
+      "b": "y² + 2x²z - 6yz",
+      "c": "y² - 2x² + 6xz",
+      "d": "2x²z - 6yz"
+    },
+    "answer": "b",
+    "correct_answer_text": "y² + 2x²z - 6yz",
+    "category": "Math",
+    "sub_category": "Vector Analysis",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_053.json"
+  },
+  {
+    "id": 2135,
+    "question": "Find the area of the triangle with vertices (2, -3, 1), (1, -1, 2), and (-1, 2, 3):",
+    "options": {
+      "a": "(sqrt(3))/2",
+      "b": "4",
+      "c": "(sqrt(5))/2",
+      "d": "7/2"
+    },
+    "answer": "c",
+    "correct_answer_text": "(sqrt(5))/2",
+    "category": "Math",
+    "sub_category": "Vector Analysis",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_053.json"
+  },
+  {
+    "id": 2136,
+    "question": "Find the limit of (z + 4)(z² + 2iz + 15) / (z - 3i) as z approaches 3i?",
+    "options": {
+      "a": "-24 + 32i",
+      "b": "26 + 36i",
+      "c": "-12 - 18i",
+      "d": "40 + 20i"
+    },
+    "answer": "a",
+    "correct_answer_text": "-24 + 32i",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_053.json"
+  },
+  {
+    "id": 2137,
+    "question": "The Newton-Raphson may not guarantee convergence as compared to bisection method for finding the roots of a transcendental equation due to:",
+    "options": {
+      "a": "Newton-Raphson uses two bracketing points",
+      "b": "Newton-Raphson uses single point while bisection uses bracketing",
+      "c": "Newton-Raphson uses averaging while bisection uses derivatives",
+      "d": "Newton-Raphson uses derivatives while bisection uses slopes"
+    },
+    "answer": "b",
+    "correct_answer_text": "Newton-Raphson uses single point while bisection uses bracketing",
+    "category": "Math",
+    "sub_category": "Numerical Methods",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_053.json"
+  },
+  {
+    "id": 2138,
+    "question": "If V = (xy²)i + (2yx²z)j - (3yz²)k, then curl V at point (1, -1, 1) is:",
+    "options": {
+      "a": "-(j + 2k)",
+      "b": "(i + 3k)",
+      "c": "(i + 2k)",
+      "d": "(2i - 3k)"
+    },
+    "answer": "c",
+    "correct_answer_text": "(i + 2k)",
+    "category": "Math",
+    "sub_category": "Vector Analysis",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_053.json"
+  },
+  {
+    "id": 2139,
+    "question": "Integrate z³ / (z - 3i) along a contour enclosing 3i:",
+    "options": {
+      "a": "42pi",
+      "b": "54pi",
+      "c": "-60pi",
+      "d": "-128pi"
+    },
+    "answer": "b",
+    "correct_answer_text": "54pi",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_053.json"
+  },
+  {
+    "id": 2140,
+    "question": "Find an equation for the plane passing through (2, -1, -2), (-1, 2, -3), and (4, 1, 0):",
+    "options": {
+      "a": "2x + y - 3z = 9",
+      "b": "3x + y + 2z = -11",
+      "c": "3x - 2y + 5z = 8",
+      "d": "2x + 3y + 4z = 6"
+    },
+    "answer": "d",
+    "correct_answer_text": "2x + 3y + 4z = 6",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_053.json"
+  },
+  {
+    "id": 2141,
+    "question": "The Newton-Raphson method will not converge on a single value approximation if:",
+    "options": {
+      "a": "slopes at initial point and root are the same sign",
+      "b": "slopes at initial point and root are opposite sign",
+      "c": "the slope at the initial point is zero",
+      "d": "the calculator is defective"
+    },
+    "answer": "c",
+    "correct_answer_text": "the slope at the initial point is zero",
+    "category": "Math",
+    "sub_category": "Numerical Methods",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_053.json"
+  },
+  {
+    "id": 2142,
+    "question": "Find the limit of sin(7pi * i * z) / z as z approaches 0:",
+    "options": {
+      "a": "7pi * i",
+      "b": "3pi * i",
+      "c": "9pi * i",
+      "d": "pi * i"
+    },
+    "answer": "a",
+    "correct_answer_text": "7pi * i",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_053.json"
+  },
+  {
+    "id": 2143,
+    "question": "If beta = xy + yz + zx and A = x²yi + y²zj + z²xk, find (grad beta) x A at the point (3, -1, 2).",
+    "options": {
+      "a": "56i - 30j + 47k",
+      "b": "48i + 13j - 37k",
+      "c": "11i - 67j + 52k",
+      "d": "78i + 23j - 79k"
+    },
+    "answer": "c",
+    "correct_answer_text": "11i - 67j + 52k",
+    "category": "Math",
+    "sub_category": "Vector Analysis",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_053.json"
+  },
+  {
+    "id": 2144,
+    "question": "Which of the following is a key advantage of the Secant Method over the Newton-Raphson Method?",
+    "options": {
+      "a": "Faster convergence for all types of function",
+      "b": "Does not require continuity",
+      "c": "Does not require the computation of the derivative",
+      "d": "Always converges regardless of guesses"
+    },
+    "answer": "c",
+    "correct_answer_text": "Does not require the computation of the derivative",
+    "category": "Math",
+    "sub_category": "Numerical Methods",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_053.json"
+  },
+  {
+    "id": 2145,
+    "question": "Integrate (iz² + z) / (z + i) along a contour enclosing -i:",
+    "options": {
+      "a": "-(2 + i)pi",
+      "b": "4pi * i",
+      "c": "-72pi * i",
+      "d": "(3 - 4i)pi"
+    },
+    "answer": "a",
+    "correct_answer_text": "-(2 + i)pi",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_053.json"
+  },
+  {
+    "id": 2146,
+    "question": "Determine the Laplace transform of 3e^-4t:",
+    "options": {
+      "a": "3 / (s + 4)",
+      "b": "6 / (s - 4)",
+      "c": "3 / (s - 4)",
+      "d": "-6 / (s + 4)"
+    },
+    "answer": "a",
+    "correct_answer_text": "3 / (s + 4)",
+    "category": "Math",
+    "sub_category": "Laplace Transform",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_053.json"
+  },
+  {
+    "id": 2147,
+    "question": "Determine the Laplace transform of 5 sin(2t) - 3 cos(2t):",
+    "options": {
+      "a": "(5 + 3s) / (s² + 4)",
+      "b": "(5 - 2s) / (s² + 4)",
+      "c": "(10 - 3s) / (s² + 4)",
+      "d": "(10 - 2s) / (s² + 4)"
+    },
+    "answer": "c",
+    "correct_answer_text": "(10 - 3s) / (s² + 4)",
+    "category": "Math",
+    "sub_category": "Laplace Transform",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_053.json"
+  },
+  {
+    "id": 2148,
+    "question": "Integrate (2iz³ + 2iz) / (z - 2i)² along a contour enclosing 2i:",
+    "options": {
+      "a": "44pi",
+      "b": "24pi * i / 5",
+      "c": "24pi / 5",
+      "d": "-44pi * i"
+    },
+    "answer": "d",
+    "correct_answer_text": "-44pi * i",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_053.json"
+  },
+  {
+    "id": 2149,
+    "question": "Which of the following statements is TRUE about the Secant Method?",
+    "options": {
+      "a": "It uses tangent lines",
+      "b": "It requires two initial points to start",
+      "c": "It always converges faster",
+      "d": "It converges quadratically"
+    },
+    "answer": "b",
+    "correct_answer_text": "It requires two initial points to start",
+    "category": "Math",
+    "sub_category": "Numerical Methods",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_054.json"
+  },
+  {
+    "id": 2150,
+    "question": "Evaluate ln(50 - j70) + ln(50 + j70):",
+    "options": {
+      "a": "j4.5",
+      "b": "4.5",
+      "c": "j1.9",
+      "d": "9.0"
+    },
+    "answer": "d",
+    "correct_answer_text": "9.0",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_054.json"
+  },
+  {
+    "id": 2151,
+    "question": "Determine the limit of (z³ + i) / (z - i) as z approaches i?",
+    "options": {
+      "a": "5i",
+      "b": "-3i",
+      "c": "2i",
+      "d": "i"
+    },
+    "answer": "b",
+    "correct_answer_text": "-3i",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_054.json"
+  },
+  {
+    "id": 2152,
+    "question": "The charge on a capacitor varies by Q = 30t⁴ + 10t² mC. What is the mean value of the current between t = 3 to t = 7 seconds?",
+    "options": {
+      "a": "14.33 A",
+      "b": "17.50 A",
+      "c": "12.0 A",
+      "d": "12.67 A"
+    },
+    "answer": "d",
+    "correct_answer_text": "12.67 A",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_054.json"
+  },
+  {
+    "id": 2153,
+    "question": "Integrate the complex form z¹⁰ / (z - i)³ along a contour enclosing i:",
+    "options": {
+      "a": "40pi * i",
+      "b": "(10 - 40i)pi",
+      "c": "90pi * i",
+      "d": "-90pi"
+    },
+    "answer": "d",
+    "correct_answer_text": "-90pi",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_054.json"
+  },
+  {
+    "id": 2154,
+    "question": "If r = xi + yj + zk, what is the value of div r?",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "answer": "c",
+    "correct_answer_text": "3",
+    "category": "Math",
+    "sub_category": "Vector Analysis",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_054.json"
+  },
+  {
+    "id": 2155,
+    "question": "Simplify cos(2 + 3i):",
+    "options": {
+      "a": "-3.724 - j0.512",
+      "b": "-3.724 - j0.878",
+      "c": "-7.455 - j0.512",
+      "d": "-7.455 - j0.346"
+    },
+    "answer": "b",
+    "correct_answer_text": "-3.724 - j0.878",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_054.json"
+  },
+  {
+    "id": 2156,
+    "question": "Simplify sinh (pi * i / 6):",
+    "options": {
+      "a": "i/3",
+      "b": "i/2",
+      "c": "pi * i / 3",
+      "d": "-2pi * i"
+    },
+    "answer": "b",
+    "correct_answer_text": "i/2",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_054.json"
+  },
+  {
+    "id": 2157,
+    "question": "Find the resultant of concurrent forces: 50 kN at N40°W, 30 kN at W70°S, and 80 kN along East:",
+    "options": {
+      "a": "58 kN",
+      "b": "21 kN",
+      "c": "128 kN",
+      "d": "39 kN"
+    },
+    "answer": "d",
+    "correct_answer_text": "39 kN",
+    "category": "Math",
+    "sub_category": "Vector Analysis",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_054.json"
+  },
+  {
+    "id": 2158,
+    "question": "If A = xzi - y²j + 2x²yk, find the curl (A) at (2, 1, 3):",
+    "options": {
+      "a": "8i + 8k",
+      "b": "6i + 9k",
+      "c": "8j - 2k",
+      "d": "-10i + 8k"
+    },
+    "answer": "a",
+    "correct_answer_text": "8i + 8k",
+    "category": "Math",
+    "sub_category": "Vector Analysis",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_054.json"
+  },
+  {
+    "id": 2159,
+    "question": "Find the Laplace transform of t^(5/2):",
+    "options": {
+      "a": "7.869 / s^(5/2)",
+      "b": "3.323 / s^(5/2)",
+      "c": "3.323 / s^(7/2)",
+      "d": "7.869 / s^(7/2)"
+    },
+    "answer": "d",
+    "correct_answer_text": "7.869 / s^(7/2)",
+    "category": "Math",
+    "sub_category": "Laplace Transform",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_054.json"
+  },
+  {
+    "id": 2160,
+    "question": "Inverse the Laplace transform: (s + 7) / (s² - 3s - 10)",
+    "options": {
+      "a": "(-5/7)e^-2t + (12/7)e^5t",
+      "b": "(5/7)e^-2t - (12/7)e^5t",
+      "c": "(5/7)e^2t + (15/7)e^-5t",
+      "d": "(-5/7)e^2t + (15/7)e^-5t"
+    },
+    "answer": "a",
+    "correct_answer_text": "(-5/7)e^-2t + (12/7)e^5t",
+    "category": "Math",
+    "sub_category": "Laplace Transform",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_054.json"
+  },
+  {
+    "id": 2161,
+    "question": "Determine the Laplace transform of the voltage signal 6u(t-2) volts:",
+    "options": {
+      "a": "3e^(-2s) / s",
+      "b": "6e^(-2s) / s",
+      "c": "3e^(2s) / s",
+      "d": "6e^(2pi) / s"
+    },
+    "answer": "b",
+    "correct_answer_text": "6e^(-2s) / s",
+    "category": "Math",
+    "sub_category": "Laplace Transform",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_054.json"
+  },
+  {
+    "id": 2162,
+    "question": "Which of the following best describes the key difference between the Bisection Method and the Regula Falsi Method?",
+    "options": {
+      "a": "Bisection uses the derivative",
+      "b": "Bisection method always converges faster",
+      "c": "Regula Falsi uses a linear interpolation between points",
+      "d": "Regula Falsi is limited to continuous functions"
+    },
+    "answer": "c",
+    "correct_answer_text": "Regula Falsi uses a linear interpolation between points",
+    "category": "Math",
+    "sub_category": "Numerical Methods",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_054.json"
+  },
+  {
+    "id": 2163,
+    "question": "Compute the vorticity (curl) of the vector field y²i + z²j + x²k at (1, 1, 3):",
+    "options": {
+      "a": "6i + 2j - 2k",
+      "b": "6i - 2j - 2k",
+      "c": "6i - j + 2k",
+      "d": "6i - 4j - k"
+    },
+    "answer": "b",
+    "correct_answer_text": "6i - 2j - 2k",
+    "category": "Math",
+    "sub_category": "Vector Analysis",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_054.json"
+  },
+  {
+    "id": 2164,
+    "question": "Integrate the expression ∫ (3z² + i) dz from 1 to 2i + 1:",
+    "options": {
+      "a": "-14 - 21i",
+      "b": "16 - 15i",
+      "c": "-17 + 21i",
+      "d": "11 - 16i"
+    },
+    "answer": "a",
+    "correct_answer_text": "-14 - 21i",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_054.json"
+  },
+  {
+    "id": 2165,
+    "question": "Find the limit of (z² - 6iz - 5) / (e^(z-1) - 4i) as z approaches i?",
+    "options": {
+      "a": "5i",
+      "b": "+infinity",
+      "c": "-17 + 21i",
+      "d": "zero"
+    },
+    "answer": "d",
+    "correct_answer_text": "zero",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_054.json"
+  },
+  {
+    "id": 2166,
+    "question": "Which of the following method of integration uses series of quadratic curves or parabolas?",
+    "options": {
+      "a": "trapezoidal rule",
+      "b": "rectangular rule",
+      "c": "Simpson's rule",
+      "d": "Peter Griffin"
+    },
+    "answer": "c",
+    "correct_answer_text": "Simpson's rule",
+    "category": "Math",
+    "sub_category": "Numerical Methods",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_054.json"
+  },
+  {
+    "id": 2167,
+    "question": "Simplify the limit: lim (ix² - x) / x as x approaches i:",
+    "options": {
+      "a": "0",
+      "b": "-i",
+      "c": "-2",
+      "d": "2i"
+    },
+    "answer": "c",
+    "correct_answer_text": "-2",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_054.json"
+  },
+  {
+    "id": 2168,
+    "question": "Evaluate the following limit: lim x->0 [(1 + 2ix + 3x²) - 1] / x",
+    "options": {
+      "a": "2i",
+      "b": "3",
+      "c": "2i + 3",
+      "d": "0"
+    },
+    "answer": "a",
+    "correct_answer_text": "2i",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_054.json"
+  },
+  {
+    "id": 2169,
+    "question": "Derive the expression ln(x + i):",
+    "options": {
+      "a": "1 / (x + i)",
+      "b": "i / (x + i)",
+      "c": "1 / x + i",
+      "d": "1 / i + x"
+    },
+    "answer": "a",
+    "correct_answer_text": "1 / (x + i)",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_055.json"
+  },
+  {
+    "id": 2170,
+    "question": "Find the limit of (2z³ - iz) / (z - i) as z approaches i + 1?",
+    "options": {
+      "a": "5 + 6i / 7",
+      "b": "-3 + 3i",
+      "c": "-4 - 6i / 7",
+      "d": "150"
+    },
+    "answer": "b",
+    "correct_answer_text": "-3 + 3i",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_055.json"
+  },
+  {
+    "id": 2171,
+    "question": "Find the derivative: f(x) = 1 / (x + i)",
+    "options": {
+      "a": "1 / (x + i)²",
+      "b": "-1 / (x + i)²",
+      "c": "i / (x + i)²",
+      "d": "-i / (x + i)²"
+    },
+    "answer": "b",
+    "correct_answer_text": "-1 / (x + i)²",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_055.json"
+  },
+  {
+    "id": 2172,
+    "question": "Evaluate the derivative: d/dx (3ix⁴ - 2ix³)",
+    "options": {
+      "a": "3ix²(-1 + 3x)",
+      "b": "6ix²(-1 + 2x)",
+      "c": "4ix²(1 - 2x)",
+      "d": "12ix³ - 6ix²"
+    },
+    "answer": "d",
+    "correct_answer_text": "12ix³ - 6ix²",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_055.json"
+  },
+  {
+    "id": 2173,
+    "question": "Perform the derivative: d/dx (ln(ix²))",
+    "options": {
+      "a": "i / x",
+      "b": "x + i",
+      "c": "2 / x",
+      "d": "2i / x"
+    },
+    "answer": "c",
+    "correct_answer_text": "2 / x",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_055.json"
+  },
+  {
+    "id": 2174,
+    "question": "Determine the inverse Laplace transform of I(s) = 200 / (s² - 50s + 10,625)",
+    "options": {
+      "a": "I(t) = 2 e^(25t) sin(100t)",
+      "b": "I(t) = 2 e^(-25t) cos(100t)",
+      "c": "I(t) = 2t e^(-25t) sin(100t)",
+      "d": "I(t) = 2t e^(-25t) cos(100t)"
+    },
+    "answer": "a",
+    "correct_answer_text": "I(t) = 2 e^(25t) sin(100t)",
+    "category": "Math",
+    "sub_category": "Laplace Transform",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_055.json"
+  },
+  {
+    "id": 2175,
+    "question": "Solve the D.E.: x dy + (y - 2x²y) dx = 0",
+    "options": {
+      "a": "ln |xy| = x² + C",
+      "b": "ln |x + y| = y² + C",
+      "c": "ln |x + y| = x² + C",
+      "d": "ln |xy| = y² + C"
+    },
+    "answer": "a",
+    "correct_answer_text": "ln |xy| = x² + C",
+    "category": "Math",
+    "sub_category": "Differential Equation",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_055.json"
+  },
+  {
+    "id": 2176,
+    "question": "Solve the D.E.: x dy - (y + 2x³) dx = 0",
+    "options": {
+      "a": "y = x² + Cx",
+      "b": "y = x³ + Cx",
+      "c": "y = x + Cx²",
+      "d": "x = y + Cx²"
+    },
+    "answer": "b",
+    "correct_answer_text": "y = x³ + Cx",
+    "category": "Math",
+    "sub_category": "Differential Equation",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_055.json"
+  },
+  {
+    "id": 2177,
+    "question": "Solve the particular solution of the D.E.: Y'' + 3Y' = 0",
+    "options": {
+      "a": "Y = Be^x",
+      "b": "Y = A + Be^x",
+      "c": "Y = A + Be^-3x",
+      "d": "Y = Be^-3x"
+    },
+    "answer": "c",
+    "correct_answer_text": "Y = A + Be^-3x",
+    "category": "Math",
+    "sub_category": "Differential Equation",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_055.json"
+  },
+  {
+    "id": 2178,
+    "question": "Solve the particular solution of the D.E.: Y'' + 4Y = e^(3x)",
+    "options": {
+      "a": "Y = (1/12)e^(3x)",
+      "b": "Y = (1/10)e^(3x)",
+      "c": "Y = (1/13)e^(3x)",
+      "d": "Y = (1/13)e^(-3x)"
+    },
+    "answer": "c",
+    "correct_answer_text": "Y = (1/13)e^(3x)",
+    "category": "Math",
+    "sub_category": "Differential Equation",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_055.json"
+  },
+  {
+    "id": 2179,
+    "question": "Determine the Laplace transform of e^(2t) cos(3t)",
+    "options": {
+      "a": "(s + 2) / (s² + 4s + 13)",
+      "b": "(s + 2) / (s² - 4s + 21)",
+      "c": "(s - 2) / (s² + 4s + 21)",
+      "d": "(s - 2) / (s² - 4s + 13)"
+    },
+    "answer": "d",
+    "correct_answer_text": "(s - 2) / (s² - 4s + 13)",
+    "category": "Math",
+    "sub_category": "Laplace Transform",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_055.json"
+  },
+  {
+    "id": 2180,
+    "question": "Determine the inverse Laplace transform of (3s + 6) / (s² + 3s)",
+    "options": {
+      "a": "2 + e^(-3t)",
+      "b": "3 - e^(-3t)",
+      "c": "5e^(-3t)",
+      "d": "1 + 2e^(3t)"
+    },
+    "answer": "a",
+    "correct_answer_text": "2 + e^(-3t)",
+    "category": "Math",
+    "sub_category": "Laplace Transform",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_055.json"
+  },
+  {
+    "id": 2181,
+    "question": "Simplify i^1997 + i^1999",
+    "options": {
+      "a": "0",
+      "b": "i",
+      "c": "1 + i",
+      "d": "1 - i"
+    },
+    "answer": "a",
+    "correct_answer_text": "0",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_055.json"
+  },
+  {
+    "id": 2182,
+    "question": "Inverse the Laplace transform: (s² + 1) / (s(s + 1)²)",
+    "options": {
+      "a": "1 + 2e^t",
+      "b": "1 - 2te^-t",
+      "c": "1 - 2te^-t - 2e^-t",
+      "d": "1 + 2t + e^-t"
+    },
+    "answer": "b",
+    "correct_answer_text": "1 - 2te^-t",
+    "category": "Math",
+    "sub_category": "Laplace Transform",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_055.json"
+  },
+  {
+    "id": 2183,
+    "question": "Evaluate the integral of x³ e^-x from x=0 to x=infinity:",
+    "options": {
+      "a": "2",
+      "b": "4",
+      "c": "5",
+      "d": "6"
+    },
+    "answer": "d",
+    "correct_answer_text": "6",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_055.json"
+  },
+  {
+    "id": 2184,
+    "question": "A hemispherical tank of radius 5 feet is filled with 4 feet of water. Find the work to pump it all to 10 feet height.",
+    "options": {
+      "a": "62,700,000",
+      "b": "89,300,000",
+      "c": "23,000,000",
+      "d": "none of these"
+    },
+    "answer": "d",
+    "correct_answer_text": "none of these",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_055.json"
+  },
+  {
+    "id": 2185,
+    "question": "Solve the differential equation 2y dy = (x² + 1) dx.",
+    "options": {
+      "a": "y² = 3x³ + x + C",
+      "b": "y² = 1/3 x³ + x + C",
+      "c": "y = -x³ + x + C",
+      "d": "y = 1/3 x² - 3x + C"
+    },
+    "answer": "b",
+    "correct_answer_text": "y² = 1/3 x³ + x + C",
+    "category": "Math",
+    "sub_category": "Differential Equation",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_055.json"
+  },
+  {
+    "id": 2186,
+    "question": "Derive: d/dx(3ix³ - 4x)",
+    "options": {
+      "a": "-4 + 9ix²",
+      "b": "5 - 4ix",
+      "c": "-4 - 6ix²",
+      "d": "-2"
+    },
+    "answer": "a",
+    "correct_answer_text": "-4 + 9ix²",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_055.json"
+  },
+  {
+    "id": 2187,
+    "question": "Evaluate the limit of |(2z + 3i)(z - i)| / (iz³ - 3z + 4 - i) as z approaches infinity.",
+    "options": {
+      "a": "1",
+      "b": "0",
+      "c": "i/2",
+      "d": "-i/2"
+    },
+    "answer": "b",
+    "correct_answer_text": "0",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_055.json"
+  },
+  {
+    "id": 2188,
+    "question": "Evaluate the integral: ∫ (12z² - 4iz) dz from 1+i to 2+3i.",
+    "options": {
+      "a": "-156 + 38i",
+      "b": "672 - 137i",
+      "c": "-178 + 144i",
+      "d": "91 + 213i"
+    },
+    "answer": "a",
+    "correct_answer_text": "-156 + 38i",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_055.json"
+  },
+  {
+    "id": 2189,
+    "question": "Evaluate: (1 + i)¹⁰",
+    "options": {
+      "a": "16i",
+      "b": "32i",
+      "c": "-32i",
+      "d": "-16i"
+    },
+    "answer": "b",
+    "correct_answer_text": "32i",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_056.json"
+  },
+  {
+    "id": 2190,
+    "question": "Determine the Laplace transform of 3e^(-4t).",
+    "options": {
+      "a": "3/(s + 4)",
+      "b": "6/(s - 4)",
+      "c": "3/(s - 4)",
+      "d": "-6/(s + 4)"
+    },
+    "answer": "a",
+    "correct_answer_text": "3/(s + 4)",
+    "category": "Math",
+    "sub_category": "Laplace Transform",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_056.json"
+  },
+  {
+    "id": 2191,
+    "question": "A 10-ohm resistance R and a 1.0-Henry inductance L are in series with an AC voltage e(t) = 100 sin(377t). Solve for the particular solution and determine the amplitude of the resulting sinusoidal current i(t).",
+    "options": {
+      "a": "0.292 A",
+      "b": "0.241 A",
+      "c": "0.321 A",
+      "d": "0.265 A"
+    },
+    "answer": "d",
+    "correct_answer_text": "0.265 A",
+    "category": "Math",
+    "sub_category": "Differential Equation",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_056.json"
+  },
+  {
+    "id": 2192,
+    "question": "Evaluate the Inverse Laplace Transform of 6 / (s² + 4).",
+    "options": {
+      "a": "3cosh2t",
+      "b": "3sin2t",
+      "c": "3sinh2t",
+      "d": "3cos2t"
+    },
+    "answer": "b",
+    "correct_answer_text": "3sin2t",
+    "category": "Math",
+    "sub_category": "Laplace Transform",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_056.json"
+  },
+  {
+    "id": 2193,
+    "question": "Evaluate: sinh(5 + j5).",
+    "options": {
+      "a": "71.16 - j21.05",
+      "b": "21.05 + j71.16",
+      "c": "21.05 - j71.16",
+      "d": "71.16 + j21.05"
+    },
+    "answer": "b",
+    "correct_answer_text": "21.05 + j71.16",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_056.json"
+  },
+  {
+    "id": 2194,
+    "question": "Given the equations: x + y + z = 2; 3x - y - 2z = 4; and 5x - 2y + 3z = -7. Solve for y by Gaussian elimination.",
+    "options": {
+      "a": "1",
+      "b": "-2",
+      "c": "0",
+      "d": "3"
+    },
+    "answer": "d",
+    "correct_answer_text": "3",
+    "category": "Math",
+    "sub_category": "Numerical Methods",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_056.json"
+  },
+  {
+    "id": 2195,
+    "question": "Which statement correctly distinguishes the Gauss-Seidel Method from the Jacobi Method?",
+    "options": {
+      "a": "Gauss-Seidel updates all variables simultaneously.",
+      "b": "Jacobi typically converges faster than Gauss-Seidel for diagonally dominant matrices.",
+      "c": "Gauss-Seidel uses the most recently updated values during iteration, while Jacobi uses only values from the previous iteration.",
+      "d": "Both are direct methods."
+    },
+    "answer": "c",
+    "correct_answer_text": "Gauss-Seidel Method uses the most recently updated values during iteration, while the Jacobi Method uses only values from the previous iteration.",
+    "category": "Math",
+    "sub_category": "Numerical Methods",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_056.json"
+  },
+  {
+    "id": 2196,
+    "question": "Which of the following is a true property of the Bisection method when solving f(x) = 0?",
+    "options": {
+      "a": "It converges quadratically under most conditions.",
+      "b": "It requires knowledge of the derivative of the function.",
+      "c": "It guarantees convergence if the initial interval brackets the root and f(x) is continuous.",
+      "d": "It is faster than the Newton-Raphson method in all cases."
+    },
+    "answer": "c",
+    "correct_answer_text": "It guarantees convergence if the initial interval brackets the root and f(x) is continuous.",
+    "category": "Math",
+    "sub_category": "Numerical Methods",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_056.json"
+  },
+  {
+    "id": 2197,
+    "question": "Which of the following statements correctly compares the Newton-Raphson method and the Bisection method for finding roots?",
+    "options": {
+      "a": "Newton-Raphson requires the derivative of the function, while Bisection does not.",
+      "b": "Bisection method converges faster than Newton-Raphson in most cases.",
+      "c": "Newton-Raphson always guarantees convergence, while Bisection does not.",
+      "d": "Both methods require two initial guesses."
+    },
+    "answer": "a",
+    "correct_answer_text": "Newton-Raphson requires the derivative of the function, while Bisection does not.",
+    "category": "Math",
+    "sub_category": "Numerical Methods",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_056.json"
+  },
+  {
+    "id": 2198,
+    "question": "Derive the expression: d/dx(ln(ix / (i + x)))",
+    "options": {
+      "a": "2i / (x² + i)",
+      "b": "i / (x² + ix)",
+      "c": "2i / (ix + 1)",
+      "d": "i / (x + 2 - i)"
+    },
+    "answer": "b",
+    "correct_answer_text": "i / (x² + ix)",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_056.json"
+  },
+  {
+    "id": 2199,
+    "question": "Evaluate: ln(2 + j3)",
+    "options": {
+      "a": "1.34 + j0.32",
+      "b": "2.54 + j0.866",
+      "c": "2.23 + j0.2",
+      "d": "1.28 + j0.98"
+    },
+    "answer": "d",
+    "correct_answer_text": "1.28 + j0.98",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_056.json"
+  },
+  {
+    "id": 2200,
+    "question": "Derive the expression: d/dx(i sin(5ix))",
+    "options": {
+      "a": "5icos(5x)",
+      "b": "-5cosh(ix)",
+      "c": "-5cosh(5x)",
+      "d": "-5cos(5x)"
+    },
+    "answer": "c",
+    "correct_answer_text": "-5cosh(5x)",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_056.json"
+  },
+  {
+    "id": 2201,
+    "question": "Inverse the s-domain Laplace function: F(s) = (2s + 3) / (s² + 4s + 13)",
+    "options": {
+      "a": "e^(-2t)(2 cos(3t) + 3 sin(3t))",
+      "b": "e^(-2t)(2 cos(3t) - (1/3)sin(3t))",
+      "c": "e^(2t)(2 cos(3t) - 3 sin(3t))",
+      "d": "e^(2t)(2 cos(3t) + (1/2)sin(3t))"
+    },
+    "answer": "b",
+    "correct_answer_text": "e^(-2t)(2 cos(3t) - (1/3)sin(3t))",
+    "category": "Math",
+    "sub_category": "Laplace Transform",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_056.json"
+  },
+  {
+    "id": 2202,
+    "question": "Integrate: ∫ (ix⁴ + 2ix) dx from i to 6i.",
+    "options": {
+      "a": "1314/7 + 9i",
+      "b": "11/7 - 9i",
+      "c": "646/5 + 8i",
+      "d": "-242/5 - 8i"
+    },
+    "answer": "d",
+    "correct_answer_text": "-242/5 - 8i",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_056.json"
+  },
+  {
+    "id": 2203,
+    "question": "Integrate: ∫ 2026 x²⁰²⁵ dx from 0 to i.",
+    "options": {
+      "a": "3240i",
+      "b": "2026/17 + 111/17",
+      "c": "-1",
+      "d": "0"
+    },
+    "answer": "c",
+    "correct_answer_text": "-1",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_056.json"
+  },
+  {
+    "id": 2204,
+    "question": "Determine the Laplace transform: L{e^(t) cos²(t)}",
+    "options": {
+      "a": "(s² + 4s - 3) / (s³ + 6s² + 9s - 6)",
+      "b": "(s² - 2s + 3) / (s³ - 3s² + 7s - 5)",
+      "c": "(s² + 2s - 6) / (s³ + 4s² + 9s - 5)",
+      "d": "(s² - 2s + 8) / (s³ + 3s² + 7s + 6)"
+    },
+    "answer": "b",
+    "correct_answer_text": "(s² - 2s + 3) / (s³ - 3s² + 7s - 5)",
+    "category": "Math",
+    "sub_category": "Laplace Transform",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_056.json"
+  },
+  {
+    "id": 2205,
+    "question": "Determine the inverse Laplace transform of I(s) = 200 / (s² - 50s + 10,625).",
+    "options": {
+      "a": "I(t) = 2e^(25t) sin(100t)",
+      "b": "I(t) = 2e^(-25t) cos(100t)",
+      "c": "I(t) = 2te^(-25t) sin(100t)",
+      "d": "I(t) = 2te^(-25t) cos(100t)"
+    },
+    "answer": "a",
+    "correct_answer_text": "I(t) = 2e^(25t) sin(100t)",
+    "category": "Math",
+    "sub_category": "Laplace Transform",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_056.json"
+  },
+  {
+    "id": 2206,
+    "question": "If A = xzi - y²j + 2x²yk, find the curl of A at (2, 1, 3).",
+    "options": {
+      "a": "-4i + 7j",
+      "b": "8i - 6j",
+      "c": "9i + 7j",
+      "d": "8i + 8k"
+    },
+    "answer": "d",
+    "correct_answer_text": "8i + 8k",
+    "category": "Math",
+    "sub_category": "Vector Analysis",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_056.json"
+  },
+  {
+    "id": 2207,
+    "question": "Solve the D.E.: x dy + (y - 2x²y) dx = 0.",
+    "options": {
+      "a": "ln |xy| = x² + C",
+      "b": "ln |x + y| = y² + C",
+      "c": "ln |x + y| = x² + C",
+      "d": "ln |xy| = y² + C"
+    },
+    "answer": "a",
+    "correct_answer_text": "ln |xy| = x² + C",
+    "category": "Math",
+    "sub_category": "Differential Equation",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_056.json"
+  },
+  {
+    "id": 2208,
+    "question": "Determine the gradient of (3x³y - 2xz⁴) at (0, 1, 2).",
+    "options": {
+      "a": "32",
+      "b": "-32i",
+      "c": "-32j",
+      "d": "32k"
+    },
+    "answer": "b",
+    "correct_answer_text": "-32i",
+    "category": "Math",
+    "sub_category": "Vector Analysis",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_056.json"
+  },
+  {
+    "id": 2209,
+    "question": "Evaluate the integral: ∫∫ (5x²y - 8xy³) dx dy from x=0 to 4 and y=1 to 2.",
+    "options": {
+      "a": "116/7",
+      "b": "400/13",
+      "c": "-80",
+      "d": "-230"
+    },
+    "answer": "d",
+    "correct_answer_text": "-230",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_057.json"
+  },
+  {
+    "id": 2210,
+    "question": "Evaluate the integral: ∫∫∫ (6xyz + 4xz) dy dx dz from z=0 to 1, x=-1 to 0, and y=0 to 2.",
+    "options": {
+      "a": "2",
+      "b": "71",
+      "c": "11/5",
+      "d": "-5"
+    },
+    "answer": "d",
+    "correct_answer_text": "-5",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_057.json"
+  },
+  {
+    "id": 2211,
+    "question": "Evaluate the integral: ∫∫ (r sin(θ) - r²) dr dθ from θ=0 to 2π and r=0 to 2.",
+    "options": {
+      "a": "-16pi/3",
+      "b": "45pi/6",
+      "c": "pi/8",
+      "d": "pi²"
+    },
+    "answer": "a",
+    "correct_answer_text": "-16pi/3",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_057.json"
+  },
+  {
+    "id": 2212,
+    "question": "Perform the integral: ∫∫ (r cos(θ) - sin(θ)) dr dθ from θ=0 to π and r=-1 to 4.",
+    "options": {
+      "a": "-4",
+      "b": "-15",
+      "c": "-10",
+      "d": "zero"
+    },
+    "answer": "c",
+    "correct_answer_text": "-10",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_057.json"
+  },
+  {
+    "id": 2213,
+    "question": "Determine the Laplace transform of e^(2t) cos(3t).",
+    "options": {
+      "a": "(s + 2) / (s² + 4s + 13)",
+      "b": "(s + 2) / (s² - 4s + 21)",
+      "c": "(s - 2) / (s² + 4s + 21)",
+      "d": "(s - 2) / (s² - 4s + 13)"
+    },
+    "answer": "d",
+    "correct_answer_text": "(s - 2) / (s² - 4s + 13)",
+    "category": "Math",
+    "sub_category": "Laplace Transform",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_057.json"
+  },
+  {
+    "id": 2214,
+    "question": "Determine the inverse Laplace transform of (3s + 6) / (s² + 3s).",
+    "options": {
+      "a": "2 + e^(-3t)",
+      "b": "3 - e^(-3t)",
+      "c": "5e^(-3t)",
+      "d": "1 + 2e^(3t)"
+    },
+    "answer": "a",
+    "correct_answer_text": "2 + e^(-3t)",
+    "category": "Math",
+    "sub_category": "Laplace Transform",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_057.json"
+  },
+  {
+    "id": 2215,
+    "question": "Find the curl of the vector field {3xy, 2yz, 4xz}.",
+    "options": {
+      "a": "-2yi - 4zj - 3xk",
+      "b": "2yi - 6zj + 3xk",
+      "c": "-2yi - 4xk + 3zk",
+      "d": "2zi + 3yk - 6xk"
+    },
+    "answer": "c",
+    "correct_answer_text": "-2yi - 4xk + 3zk",
+    "category": "Math",
+    "sub_category": "Vector Analysis",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_057.json"
+  },
+  {
+    "id": 2216,
+    "question": "Simplify i¹⁹⁹⁷ + i¹⁹⁹⁹ where i is an imaginary number.",
+    "options": {
+      "a": "0",
+      "b": "i",
+      "c": "1 + i",
+      "d": "1 - i"
+    },
+    "answer": "a",
+    "correct_answer_text": "0",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_057.json"
+  },
+  {
+    "id": 2217,
+    "question": "Inverse the Laplace transform: (s² + 1) / (s(s + 1)²).",
+    "options": {
+      "a": "1 + 2e^(t)",
+      "b": "1 - 2te^(-t)",
+      "c": "1 - 2te^(-t)",
+      "d": "1 + 2t + e^(-t)"
+    },
+    "answer": "b",
+    "correct_answer_text": "1 - 2te^(-t)",
+    "category": "Math",
+    "sub_category": "Laplace Transform",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_057.json"
+  },
+  {
+    "id": 2218,
+    "question": "The inverse Laplace of (e^(-as) / s²) is:",
+    "options": {
+      "a": "t e^(at)",
+      "b": "t e^(-at)",
+      "c": "e^(-at)",
+      "d": "(t - a)u(t - a)"
+    },
+    "answer": "d",
+    "correct_answer_text": "(t - a)u(t - a)",
+    "category": "Math",
+    "sub_category": "Laplace Transform",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_057.json"
+  },
+  {
+    "id": 2219,
+    "question": "What is the second term of the Taylor expansion for sin(3x)?",
+    "options": {
+      "a": "x²/2",
+      "b": "-9x³/2",
+      "c": "-3x²/2",
+      "d": "-27x⁴/2"
+    },
+    "answer": "b",
+    "correct_answer_text": "-9x³/2",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_057.json"
+  },
+  {
+    "id": 2220,
+    "question": "What is the convolution function f * g if f = 4x and g = x²?",
+    "options": {
+      "a": "16t³/3",
+      "b": "-16t⁴/5",
+      "c": "4t⁴/5",
+      "d": "t⁴/3"
+    },
+    "answer": "d",
+    "correct_answer_text": "t⁴/3",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_057.json"
+  },
+  {
+    "id": 2221,
+    "question": "Simplify i²⁰ + i²¹ + i.",
+    "options": {
+      "a": "1 + 2i",
+      "b": "3",
+      "c": "3i",
+      "d": "2 + i"
+    },
+    "answer": "c",
+    "correct_answer_text": "3i",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_057.json"
+  },
+  {
+    "id": 2222,
+    "question": "Determine the magnitude of the gradient of f(x,y,z) = x² + y² + z² at point (1, 2, 3).",
+    "options": {
+      "a": "7.48",
+      "b": "8.25",
+      "c": "6.0",
+      "d": "7.21"
+    },
+    "answer": "a",
+    "correct_answer_text": "7.48",
+    "category": "Math",
+    "sub_category": "Vector Analysis",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_057.json"
+  },
+  {
+    "id": 2223,
+    "question": "Determine the divergence of the vector: v = ix²y + j(-xy) + k(xyz) at coordinates (3, 2, 1).",
+    "options": {
+      "a": "9",
+      "b": "7",
+      "c": "12",
+      "d": "15"
+    },
+    "answer": "d",
+    "correct_answer_text": "15",
+    "category": "Math",
+    "sub_category": "Vector Analysis",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_057.json"
+  },
+  {
+    "id": 2224,
+    "question": "Inverse the Laplace transform: (s² + 1) / (s(s + 1)²).",
+    "options": {
+      "a": "-1 + 2e^(t)",
+      "b": "1 - 2te^(-t)",
+      "c": "1 - 2te^(-t)",
+      "d": "1 + 2t + e^(-t)"
+    },
+    "answer": "b",
+    "correct_answer_text": "1 - 2te^(-t)",
+    "category": "Math",
+    "sub_category": "Laplace Transform",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_057.json"
+  },
+  {
+    "id": 2225,
+    "question": "The divergence of the curl of a vector is a/an:",
+    "options": {
+      "a": "vector",
+      "b": "scalar",
+      "c": "unity",
+      "d": "zero"
+    },
+    "answer": "d",
+    "correct_answer_text": "zero",
+    "category": "Math",
+    "sub_category": "Vector Analysis",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_057.json"
+  },
+  {
+    "id": 2226,
+    "question": "What is the first term of the Taylor expansion of e^(x+2)?",
+    "options": {
+      "a": "x",
+      "b": "-1",
+      "c": "1",
+      "d": "e²"
+    },
+    "answer": "d",
+    "correct_answer_text": "e²",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_057.json"
+  },
+  {
+    "id": 2227,
+    "question": "What is the fifth term of the Taylor expansion of e^(2x)?",
+    "options": {
+      "a": "2x⁴/3",
+      "b": "3x⁵/25",
+      "c": "4x⁵/15",
+      "d": "x⁵"
+    },
+    "answer": "c",
+    "correct_answer_text": "4x⁵/15",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_057.json"
+  },
+  {
+    "id": 2228,
+    "question": "What is the third term of the Taylor expansion of e^(3x) + e^(2x)?",
+    "options": {
+      "a": "15x³/6",
+      "b": "13x²/2",
+      "c": "16x³/5",
+      "d": "4x²/5"
+    },
+    "answer": "b",
+    "correct_answer_text": "13x²/2",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_057.json"
+  },
+  {
+    "id": 2229,
+    "question": "What is the second term of the Taylor expansion of sin(4x)?",
+    "options": {
+      "a": "-32x³/3",
+      "b": "-36x³/5",
+      "c": "-32x²/4",
+      "d": "none of these"
+    },
+    "answer": "a",
+    "correct_answer_text": "-32x³/3",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_058.json"
+  },
+  {
+    "id": 2230,
+    "question": "What is the second term of the Taylor expansion of tan(x)?",
+    "options": {
+      "a": "x²/2",
+      "b": "x²/4",
+      "c": "x³/3",
+      "d": "x⁴/6"
+    },
+    "answer": "c",
+    "correct_answer_text": "x³/3",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_058.json"
+  },
+  {
+    "id": 2231,
+    "question": "What is the greatest rate of increase of the function u = xyz² at the point (1, 0, 3)?",
+    "options": {
+      "a": "8",
+      "b": "9",
+      "c": "10",
+      "d": "11"
+    },
+    "answer": "b",
+    "correct_answer_text": "9",
+    "category": "Math",
+    "sub_category": "Vector Analysis",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_058.json"
+  },
+  {
+    "id": 2232,
+    "question": "Find div F and curl F where F = grad(x³ + y³ + z³ - 3xyz).",
+    "options": {
+      "a": "div F=3(x-y+z), curl F=3(x+z)",
+      "b": "div F=3(x-y-z), curl F=0",
+      "c": "div F=6(x+y+z), curl F=-3(x+z)",
+      "d": "div F=6(x+y+z), curl F=0"
+    },
+    "answer": "d",
+    "correct_answer_text": "div F=6(x+y+z), curl F=0",
+    "category": "Math",
+    "sub_category": "Vector Analysis",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_058.json"
+  },
+  {
+    "id": 2233,
+    "question": "Find (A • ∇)B at the point (3, -1, 2) where B = xy + yz + zx and A = (x²y)i + (y²z)j + (z²x)k.",
+    "options": {
+      "a": "25",
+      "b": "36",
+      "c": "9",
+      "d": "4"
+    },
+    "answer": "a",
+    "correct_answer_text": "25",
+    "category": "Math",
+    "sub_category": "Vector Analysis",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_058.json"
+  },
+  {
+    "id": 2234,
+    "question": "Evaluate the convolution of t * (te^(-t)).",
+    "options": {
+      "a": "te^(-t) - 2e^(-t) + t - 2",
+      "b": "te^(-t) + 2e^(-t) + t - 2",
+      "c": "te^(-t) + 2e^(-t) - t + 2",
+      "d": "te^(-t) - 2e^(-t) + t + 2"
+    },
+    "answer": "c",
+    "correct_answer_text": "te^(-t) + 2e^(-t) - t + 2",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_058.json"
+  },
+  {
+    "id": 2235,
+    "question": "Simplify cos(2 + 3i).",
+    "options": {
+      "a": "-3.724 - 0.512i",
+      "b": "-3.724 - 0.878i",
+      "c": "-4.19 - 9.11i",
+      "d": "-7.455 - 0.346i"
+    },
+    "answer": "c",
+    "correct_answer_text": "-4.19 - 9.11i",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_058.json"
+  },
+  {
+    "id": 2236,
+    "question": "Compute the vorticity (curl) of the vector field y²i + z²j + x²k at (1, 1, 3).",
+    "options": {
+      "a": "-6i + 2j + 2k",
+      "b": "6i - 2j - 2k",
+      "c": "6i - j + 2k",
+      "d": "6i - 4j - k"
+    },
+    "answer": "b",
+    "correct_answer_text": "6i - 2j - 2k",
+    "category": "Math",
+    "sub_category": "Vector Analysis",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_058.json"
+  },
+  {
+    "id": 2237,
+    "question": "The cross product of vector A = 4i + 2j with vector B is 0. The dot product of A and B is 30. Find B.",
+    "options": {
+      "a": "6i + 3j",
+      "b": "6i - 3j",
+      "c": "3i + 6j",
+      "d": "3i - 6j"
+    },
+    "answer": "a",
+    "correct_answer_text": "6i + 3j",
+    "category": "Math",
+    "sub_category": "Vector Analysis",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_058.json"
+  },
+  {
+    "id": 2238,
+    "question": "Determine the Inverse Laplace Transform of F(s) = (s + 2)e^(-s) / (s² + 4).",
+    "options": {
+      "a": "-cos 2(t-1) - sin 2(t-1)",
+      "b": "cos 2(t-1) + sin 2(t-1)",
+      "c": "cos 2(t-1) - sin 2(t-1)",
+      "d": "-cos 2(t-1) + sin 2(t-1)"
+    },
+    "answer": "b",
+    "correct_answer_text": "cos 2(t-1) + sin 2(t-1)",
+    "category": "Math",
+    "sub_category": "Laplace Transform",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_058.json"
+  },
+  {
+    "id": 2239,
+    "question": "Find the polar equation of the circle with radius r = 3/2 and center in polar coordinates (3/2, 0).",
+    "options": {
+      "a": "r = -3 cos θ",
+      "b": "r = 3 cos θ",
+      "c": "r = 1.5 cos θ",
+      "d": "r = -2 cos θ"
+    },
+    "answer": "b",
+    "correct_answer_text": "r = 3 cos θ",
+    "category": "Math",
+    "sub_category": "Geometry",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_058.json"
+  },
+  {
+    "id": 2240,
+    "question": "What is the Laplace transform of (t + 1) u(t - 3)?",
+    "options": {
+      "a": "(1/s² - 2/s)e^(-3s)",
+      "b": "(1/s² + 4/s)e^(-3s)",
+      "c": "(4/s² - 1/s)e^(-3s)",
+      "d": "(4/s² - 3/s)e^(-3s)"
+    },
+    "answer": "b",
+    "correct_answer_text": "(1/s² + 4/s)e^(-3s)",
+    "category": "Math",
+    "sub_category": "Laplace Transform",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_058.json"
+  },
+  {
+    "id": 2241,
+    "question": "What is the Laplace transform of E(t) = 4 cos(5t)?",
+    "options": {
+      "a": "4s / (s² + 25)",
+      "b": "4 / (s² + 5)",
+      "c": "4s / (s + 2)",
+      "d": "20 / (s² + 25)"
+    },
+    "answer": "a",
+    "correct_answer_text": "4s / (s² + 25)",
+    "category": "Math",
+    "sub_category": "Laplace Transform",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_058.json"
+  },
+  {
+    "id": 2242,
+    "question": "The Laplace transform of 3u(t - 1) + 4u(t + 2) is:",
+    "options": {
+      "a": "(e^s + 2e^-2s)/s",
+      "b": "(3e^-s - e^2s)/s",
+      "c": "(e^s - e^-2s)/s",
+      "d": "(3e^-s + 4e^2s)/s"
+    },
+    "answer": "d",
+    "correct_answer_text": "(3e^-s + 4e^2s)/s",
+    "category": "Math",
+    "sub_category": "Laplace Transform",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_058.json"
+  },
+  {
+    "id": 2243,
+    "question": "What is the Laplace transform of f(t) = t e^(3t)?",
+    "options": {
+      "a": "1 / (s - 3)²",
+      "b": "1 / (s + 3)²",
+      "c": "1 / (s² - 3s)",
+      "d": "1 / (s - 3)³"
+    },
+    "answer": "a",
+    "correct_answer_text": "1 / (s - 3)²",
+    "category": "Math",
+    "sub_category": "Laplace Transform",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_058.json"
+  },
+  {
+    "id": 2244,
+    "question": "Find the area bounded by the curve y = x^2 + 2 and the lines x = 0, y = 0, and x = 4.",
+    "options": {
+      "a": "88/3 sq units",
+      "b": "64/3 sq. units",
+      "c": "54/3 sq. units",
+      "d": "64/5 sq. units"
+    },
+    "answer": "a",
+    "correct_answer_text": "88/3 sq units",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_058.json"
+  },
+  {
+    "id": 2245,
+    "question": "What is the length of the longest rod that can be fitted on perpendicular hallway that are 7 feet and 12 feet wide respectively?",
+    "options": {
+      "a": "21.8 ft",
+      "b": "26.5 ft",
+      "c": "19.8 ft",
+      "d": "26.72 ft"
+    },
+    "answer": "b",
+    "correct_answer_text": "26.5 ft",
+    "category": "Math",
+    "sub_category": "Minima/Maxima",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_058.json"
+  },
+  {
+    "id": 2246,
+    "question": "What is the area bounded by the curve y = x^3, the x-axis, and the line x = -2 and x = 1?",
+    "options": {
+      "a": "4.25 sq. units",
+      "b": "2.45 sq. units",
+      "c": "5.24 sq. units",
+      "d": "5.42 sq. units"
+    },
+    "answer": "a",
+    "correct_answer_text": "4.25 sq. units",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_058.json"
+  },
+  {
+    "id": 2247,
+    "question": "What is the maximum area of illumination that can be admitted on a Norman window that is 200 cm on the base?",
+    "options": {
+      "a": "5283 cm2",
+      "b": "11,782 cm2",
+      "c": "8927 cm2",
+      "d": "9825 cm2"
+    },
+    "answer": "b",
+    "correct_answer_text": "11,782 cm2",
+    "category": "Math",
+    "sub_category": "Minima/Maxima",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_058.json"
+  },
+  {
+    "id": 2248,
+    "question": "Find the area in the first quadrant bounded by the parabola y^2 = 4x, x = 1, and x = 3.",
+    "options": {
+      "a": "9.555 sq. units",
+      "b": "9.955 sq. units",
+      "c": "5.595 sq. units",
+      "d": "5.955 sq. units"
+    },
+    "answer": "d",
+    "correct_answer_text": "5.955 sq. units",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_058.json"
+  },
+  {
+    "id": 2249,
+    "question": "Find the volume of the solid generated when the area bounded by y = x, y = 0, x = 1 is rotated about the y-axis.",
+    "options": {
+      "a": "pi/2",
+      "b": "pi",
+      "c": "2pi/3",
+      "d": "pi/3"
+    },
+    "answer": "c",
+    "correct_answer_text": "2pi/3",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_059.json"
+  },
+  {
+    "id": 2250,
+    "question": "A pile of sand is filled at a rate of 8000 ft3/hr and the height of the conical pile is always half the radius. At what rate is the height of the pile changing when it is 10 feet high?",
+    "options": {
+      "a": "3.18 ft/hr",
+      "b": "1.78 ft/hr",
+      "c": "6.37 ft/hr",
+      "d": "0.89 ft/hr"
+    },
+    "answer": "c",
+    "correct_answer_text": "6.37 ft/hr",
+    "category": "Math",
+    "sub_category": "Differential Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_059.json"
+  },
+  {
+    "id": 2251,
+    "question": "Evaluate: lim (x^2 - 4) / (x - 2) as x -> 2.",
+    "options": {
+      "a": "3",
+      "b": "4",
+      "c": "2",
+      "d": "5"
+    },
+    "answer": "b",
+    "correct_answer_text": "4",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_059.json"
+  },
+  {
+    "id": 2252,
+    "question": "Evaluate the limit: lim (ix^2 - x) / x as x -> i.",
+    "options": {
+      "a": "0",
+      "b": "-1",
+      "c": "-2",
+      "d": "2i"
+    },
+    "answer": "c",
+    "correct_answer_text": "-2",
+    "category": "Math",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_059.json"
+  },
+  {
+    "id": 2253,
+    "question": "For a parametric line: x = 2t - 1 and y = -4t + 5. What is the slope of the line?",
+    "options": {
+      "a": "-2",
+      "b": "2",
+      "c": "4",
+      "d": "-4"
+    },
+    "answer": "a",
+    "correct_answer_text": "-2",
+    "category": "Math",
+    "sub_category": "Differential Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_059.json"
+  },
+  {
+    "id": 2254,
+    "question": "A manufacturer estimates that the cost of production of 'x' units is C = 40x - 0.02x^2 - 600. How many units should be produced for minimum cost?",
+    "options": {
+      "a": "10 units",
+      "b": "100 units",
+      "c": "1000 units",
+      "d": "10000 units"
+    },
+    "answer": "c",
+    "correct_answer_text": "1000 units",
+    "category": "Math",
+    "sub_category": "Minima/Maxima",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_059.json"
+  },
+  {
+    "id": 2255,
+    "question": "A cylinder is fitted inside a 5-m radius sphere such that its volume is a maximum. What is the height of this cylinder?",
+    "options": {
+      "a": "4.89 m",
+      "b": "5.77 m",
+      "c": "6.54 m",
+      "d": "7.24 m"
+    },
+    "answer": "b",
+    "correct_answer_text": "5.77 m",
+    "category": "Math",
+    "sub_category": "Minima/Maxima",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_059.json"
+  },
+  {
+    "id": 2256,
+    "question": "What is the slope of the tangent line to the parabola y = x^2 - 4 passing through (5, -10)?",
+    "options": {
+      "a": "10",
+      "b": "-1.5",
+      "c": "-3.67",
+      "d": "35.84"
+    },
+    "answer": "c",
+    "correct_answer_text": "-3.67",
+    "category": "Math",
+    "sub_category": "Differential Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_059.json"
+  },
+  {
+    "id": 2257,
+    "question": "Evaluate the integral of x^2 * e^-2x from x = 0 to infinity.",
+    "options": {
+      "a": "1/2",
+      "b": "1/4",
+      "c": "1/3",
+      "d": "1/7"
+    },
+    "answer": "b",
+    "correct_answer_text": "1/4",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_059.json"
+  },
+  {
+    "id": 2258,
+    "question": "Water is running out of a conical funnel (4 in radius, 8 in height) at 1 in3/sec. Find the rate the water level is dropping when it is 6 in deep.",
+    "options": {
+      "a": "1/pi",
+      "b": "1/9pi",
+      "c": "2/pi",
+      "d": "1/7pi"
+    },
+    "answer": "b",
+    "correct_answer_text": "1/9pi",
+    "category": "Math",
+    "sub_category": "Differential Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_059.json"
+  },
+  {
+    "id": 2259,
+    "question": "A hemispherical tank of radius 5 feet is filled with 4 feet of water. Find the work to pump all water to a height of 10 feet.",
+    "options": {
+      "a": "7540 KJ",
+      "b": "9860 kJ",
+      "c": "13,450 kJ",
+      "d": "11,230 kJ"
+    },
+    "answer": "c",
+    "correct_answer_text": "13,450 kJ",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_059.json"
+  },
+  {
+    "id": 2260,
+    "question": "Evaluate: lim (cos(3x) - 1) / x^2 as x approaches 0.",
+    "options": {
+      "a": "9/2",
+      "b": "3/2",
+      "c": "-3/2",
+      "d": "-9/2"
+    },
+    "answer": "d",
+    "correct_answer_text": "-9/2",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_059.json"
+  },
+  {
+    "id": 2261,
+    "question": "Evaluate the double integral: ∫∫ (2x + y) dy dx from y = 1 to 3 and x to 2.",
+    "options": {
+      "a": "34",
+      "b": "12",
+      "c": "16",
+      "d": "10"
+    },
+    "answer": "b",
+    "correct_answer_text": "12",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_059.json"
+  },
+  {
+    "id": 2262,
+    "question": "What is the area bounded by the curve y = x^3, the x-axis and the line x = -1 and x = 1?",
+    "options": {
+      "a": "5.24",
+      "b": "5.42",
+      "c": "0.5",
+      "d": "0.4"
+    },
+    "answer": "c",
+    "correct_answer_text": "0.5",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_059.json"
+  },
+  {
+    "id": 2263,
+    "question": "What is the arclength for the curve y^3 = 6x^2 from y = 1 to y = 3?",
+    "options": {
+      "a": "2.78",
+      "b": "3.49",
+      "c": "4.81",
+      "d": "5.67"
+    },
+    "answer": "c",
+    "correct_answer_text": "4.81",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_059.json"
+  },
+  {
+    "id": 2264,
+    "question": "Find the volume (in cubic units) generated by rotating the circle x^2 + y^2 + 6x + 4y + 12 = 0 about the y-axis.",
+    "options": {
+      "a": "47.23",
+      "b": "59.22",
+      "c": "62.11",
+      "d": "39.48"
+    },
+    "answer": "b",
+    "correct_answer_text": "59.22",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_059.json"
+  },
+  {
+    "id": 2265,
+    "question": "Determine the area bounded by y = 8 - x^3, the x-axis and the y-axis.",
+    "options": {
+      "a": "14",
+      "b": "10",
+      "c": "16",
+      "d": "12"
+    },
+    "answer": "d",
+    "correct_answer_text": "12",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_059.json"
+  },
+  {
+    "id": 2266,
+    "question": "A cube's surface area is changing at 60 in2/min. At what rate is its volume changing when the side is 3 inch?",
+    "options": {
+      "a": "6 in3/min",
+      "b": "15 in3/min",
+      "c": "30 in3/min",
+      "d": "10 in3/min"
+    },
+    "answer": "b",
+    "correct_answer_text": "15 in3/min",
+    "category": "Math",
+    "sub_category": "Differential Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_059.json"
+  },
+  {
+    "id": 2267,
+    "question": "Find the area bounded by the curve y = 2 / (x - 3) and the lines y = 0, x = 4 and x = 5.",
+    "options": {
+      "a": "4ln2",
+      "b": "2ln4",
+      "c": "(1/2)ln 4",
+      "d": "ln 4"
+    },
+    "answer": "b",
+    "correct_answer_text": "2ln4",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_059.json"
+  },
+  {
+    "id": 2268,
+    "question": "Evaluate the double integral of xy dx dy, when the limits of x = 0 to 1, and y = 1 to 2.",
+    "options": {
+      "a": "0",
+      "b": "3/4",
+      "c": "1",
+      "d": "1/4"
+    },
+    "answer": "b",
+    "correct_answer_text": "3/4",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_059.json"
+  },
+  {
+    "id": 2269,
+    "question": "A cylinder is fitted inside a cone (18 cm tall, 16 cm radius). What is the height of the cylinder for maximum volume?",
+    "options": {
+      "a": "8 cm",
+      "b": "6 cm",
+      "c": "9 cm",
+      "d": "12 cm"
+    },
+    "answer": "b",
+    "correct_answer_text": "6 cm",
+    "category": "Math",
+    "sub_category": "Minima/Maxima",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_060.json"
+  },
+  {
+    "id": 2270,
+    "question": "Evaluate the integral: ∫ (sinh x)^3 * (cosh x)^2 dx.",
+    "options": {
+      "a": "1/5(cosh x)^5 - 1/3(cosh x)^3 + C",
+      "b": "(cosh x)^5 - (cosh x)^3 + C",
+      "c": "1/4 cosh 4x - 1/2 cosh 2x + C",
+      "d": "(cosh x)^4 * (cosh x)^2 + C"
+    },
+    "answer": "a",
+    "correct_answer_text": "1/5(cosh x)^5 - 1/3(cosh x)^3 + C",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_060.json"
+  },
+  {
+    "id": 2271,
+    "question": "Evaluate: ∫ sinh^2(x) dx, from x = 0 to x = 1.",
+    "options": {
+      "a": "0.40672",
+      "b": "0.04672",
+      "c": "0.46072",
+      "d": "0.46702"
+    },
+    "answer": "a",
+    "correct_answer_text": "0.40672",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_060.json"
+  },
+  {
+    "id": 2272,
+    "question": "What is the area between y = 0, y = 3x^2, and x = 2?",
+    "options": {
+      "a": "8",
+      "b": "12",
+      "c": "24",
+      "d": "6"
+    },
+    "answer": "a",
+    "correct_answer_text": "8",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_060.json"
+  },
+  {
+    "id": 2273,
+    "question": "What is the moment of inertia when the area bounded by y^2 = x, the x-axis and y = x is rotated along y = 2?",
+    "options": {
+      "a": "21/47",
+      "b": "23/60",
+      "c": "24/37",
+      "d": "11/40"
+    },
+    "answer": "b",
+    "correct_answer_text": "23/60",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_060.json"
+  },
+  {
+    "id": 2274,
+    "question": "Differentiate (x^2 + 2)^(1/2).",
+    "options": {
+      "a": "2x / [(x^2 + 2)^(1/2)]",
+      "b": "[(x^2 + 2)^(1/2)] / 2",
+      "c": "(x^2 + 2)^(3/2)",
+      "d": "x / [(x^2 + 2)^(1/2)]"
+    },
+    "answer": "d",
+    "correct_answer_text": "x / [(x^2 + 2)^(1/2)]",
+    "category": "Math",
+    "sub_category": "Differential Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_060.json"
+  },
+  {
+    "id": 2275,
+    "question": "Find the radius of the curvature of y = sin x at (pi/2, 1).",
+    "options": {
+      "a": "2",
+      "b": "2 sqrt of 3",
+      "c": "sqrt of 3",
+      "d": "1"
+    },
+    "answer": "d",
+    "correct_answer_text": "1",
+    "category": "Math",
+    "sub_category": "Differential Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_060.json"
+  },
+  {
+    "id": 2276,
+    "question": "Find the volume of the solid obtained by rotating the region bounded by y = x^2, y = 0, x = 0, x = 2 about the x-axis.",
+    "options": {
+      "a": "32pi/5",
+      "b": "16pi/3",
+      "c": "4pi",
+      "d": "8pi/5"
+    },
+    "answer": "a",
+    "correct_answer_text": "32pi/5",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_060.json"
+  },
+  {
+    "id": 2277,
+    "question": "What is the area bounded by the parabola x^2 = 4y, y = 1 and the y-axis?",
+    "options": {
+      "a": "2",
+      "b": "2/3",
+      "c": "3",
+      "d": "3/4"
+    },
+    "answer": "d",
+    "correct_answer_text": "3/4",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_060.json"
+  },
+  {
+    "id": 2278,
+    "question": "Evaluate d/dx (1/x^6).",
+    "options": {
+      "a": "6x^-7",
+      "b": "-6x^-6",
+      "c": "-6x^-7",
+      "d": "6x^-6"
+    },
+    "answer": "c",
+    "correct_answer_text": "-6x^-7",
+    "category": "Math",
+    "sub_category": "Differential Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_060.json"
+  },
+  {
+    "id": 2279,
+    "question": "A photographer views a sculpture (3.6 m tall) above a 2.5 m podium. He is 1.2 m tall. Where should he stand from the podium base for maximum view angle?",
+    "options": {
+      "a": "3.21 m",
+      "b": "4.32 m",
+      "c": "2.52 m",
+      "d": "1.92 m"
+    },
+    "answer": "c",
+    "correct_answer_text": "2.52 m",
+    "category": "Math",
+    "sub_category": "Minima/Maxima",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_060.json"
+  },
+  {
+    "id": 2280,
+    "question": "A hemispherical tank (8 ft diameter) is full of water. Find the work to pump all liquid out of the top.",
+    "options": {
+      "a": "15,246 ft-lb",
+      "b": "12,546 ft-lb",
+      "c": "10,628 ft-lb",
+      "d": "16,210 ft-lb"
+    },
+    "answer": "a",
+    "correct_answer_text": "15,246 ft-lb",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_060.json"
+  },
+  {
+    "id": 2281,
+    "question": "Find the centroid of the region under y = e^x and y = 0 over the interval x = 0 to 1.",
+    "options": {
+      "a": "(2.313, 4.23)",
+      "b": "(2.313, 5.700)",
+      "c": "(3.239, 1.929)",
+      "d": "(0.58, 0.77)"
+    },
+    "answer": "d",
+    "correct_answer_text": "(0.58, 0.77)",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_060.json"
+  },
+  {
+    "id": 2282,
+    "question": "Find the moment of inertia about the x-axis of the area bounded by x^2 = 8y, x = 4, and y = 0.",
+    "options": {
+      "a": "1.43",
+      "b": "1.32",
+      "c": "1.78",
+      "d": "1.14"
+    },
+    "answer": "b",
+    "correct_answer_text": "1.32",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_060.json"
+  },
+  {
+    "id": 2283,
+    "question": "Water flows into a spherical tank (6 ft diameter) at 70 ft3/hr. Find the rate the level rises at h = 1 foot.",
+    "options": {
+      "a": "4.45 ft/hr",
+      "b": "6.34 ft/hr",
+      "c": "1.32 ft/hr",
+      "d": "0.67 ft/hr"
+    },
+    "answer": "a",
+    "correct_answer_text": "4.45 ft/hr",
+    "category": "Math",
+    "sub_category": "Differential Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_060.json"
+  },
+  {
+    "id": 2284,
+    "question": "Gasoline is poured into an isosceles trapezoid prism (100 cm long, 40 cm top, 30 cm bottom, 20 cm depth) at 80 cm3/sec. Find the rate the level rises when full.",
+    "options": {
+      "a": "1/30 cm/sec",
+      "b": "1/50 cm/sec",
+      "c": "1/40 cm/sec",
+      "d": "1/60 cm/sec"
+    },
+    "answer": "b",
+    "correct_answer_text": "1/50 cm/sec",
+    "category": "Math",
+    "sub_category": "Differential Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_060.json"
+  },
+  {
+    "id": 2285,
+    "question": "Gas escapes from a spherical balloon at 2 ft3/min. How fast is the surface area shrinking (sq. ft/min) when the radius is 12 ft?",
+    "options": {
+      "a": "2/3",
+      "b": "1/3",
+      "c": "1/4",
+      "d": "4/7"
+    },
+    "answer": "b",
+    "correct_answer_text": "1/3",
+    "category": "Math",
+    "sub_category": "Differential Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_060.json"
+  },
+  {
+    "id": 2286,
+    "question": "What is the volume of the largest cylinder (in cm3) that can be fitted inside a sphere of radius 5 cm?",
+    "options": {
+      "a": "544",
+      "b": "342",
+      "c": "290",
+      "d": "302"
+    },
+    "answer": "d",
+    "correct_answer_text": "302",
+    "category": "Math",
+    "sub_category": "Minima/Maxima",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_060.json"
+  },
+  {
+    "id": 2287,
+    "question": "Find the area enclosed by the curve x^2 + 8y + 16 = 0, the x-axis, the y-axis and the line x - 4 = 0.",
+    "options": {
+      "a": "7.67 sq. units",
+      "b": "8.67 sq. units",
+      "c": "9.67 sq. units",
+      "d": "10.67 sq. units"
+    },
+    "answer": "d",
+    "correct_answer_text": "10.67 sq. units",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_060.json"
+  },
+  {
+    "id": 2288,
+    "question": "Find the limit of sin 3x / x as x approaches 0.",
+    "options": {
+      "a": "3/2",
+      "b": "3",
+      "c": "1",
+      "d": "0"
+    },
+    "answer": "b",
+    "correct_answer_text": "3",
+    "category": "Math",
+    "sub_category": "Differential Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_060.json"
+  },
+  {
+    "id": 2289,
+    "question": "Find the limit of (2 - x)^tan(πx/2) as x approaches 1.",
+    "options": {
+      "a": "e^(1/π)",
+      "b": "e^π",
+      "c": "π^2",
+      "d": "e^(2/π)"
+    },
+    "answer": "d",
+    "correct_answer_text": "e^(2/π)",
+    "category": "Math",
+    "sub_category": "Differential Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_061.json"
+  },
+  {
+    "id": 2290,
+    "question": "Evaluate the limit of (x + 4) / (x - 4) as x approaches infinity.",
+    "options": {
+      "a": "Infinity",
+      "b": "1",
+      "c": "0",
+      "d": "4"
+    },
+    "answer": "b",
+    "correct_answer_text": "1",
+    "category": "Math",
+    "sub_category": "Differential Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_061.json"
+  },
+  {
+    "id": 2291,
+    "question": "Find the equation of the line tangent to the curve y = sqrt(x) at the point (4, 2).",
+    "options": {
+      "a": "x - 4y + 2 = 0",
+      "b": "x - 4y + 4 = 0",
+      "c": "x + 4y + 2 = 0",
+      "d": "x - 2y - 3 = 0"
+    },
+    "answer": "b",
+    "correct_answer_text": "x - 4y + 4 = 0",
+    "category": "Math",
+    "sub_category": "Geometry",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_061.json"
+  },
+  {
+    "id": 2292,
+    "question": "What is the first derivative of the expression (xy)^x = e?",
+    "options": {
+      "a": "0",
+      "b": "x/y",
+      "c": "-y(1 + ln xy) / x",
+      "d": "-y(1 - ln xy) / x^2"
+    },
+    "answer": "c",
+    "correct_answer_text": "-y(1 + ln xy) / x",
+    "category": "Math",
+    "sub_category": "Differential Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_061.json"
+  },
+  {
+    "id": 2293,
+    "question": "Find the derivative with respect to x of the function sqrt(2 - 3x^2).",
+    "options": {
+      "a": "-2x^2 / sqrt(2 - 3x^2)",
+      "b": "-3x^2 / sqrt(2 - 3x^2)",
+      "c": "-3x / sqrt(2 - 3x^2)",
+      "d": "3x / sqrt(2 - 3x^2)"
+    },
+    "answer": "c",
+    "correct_answer_text": "-3x / sqrt(2 - 3x^2)",
+    "category": "Math",
+    "sub_category": "Differential Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_061.json"
+  },
+  {
+    "id": 2294,
+    "question": "Find the second derivative of x^3 - 5x^2 + x = y.",
+    "options": {
+      "a": "10x - 5",
+      "b": "3x + 10",
+      "c": "6x - 10",
+      "d": "3x^2 - 5x"
+    },
+    "answer": "c",
+    "correct_answer_text": "6x - 10",
+    "category": "Math",
+    "sub_category": "Differential Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_061.json"
+  },
+  {
+    "id": 2295,
+    "question": "What is the second derivative of arccot (3x)?",
+    "options": {
+      "a": "2 / (9x^2 - 1)^2",
+      "b": "54x / (9x^2 + 1)^2",
+      "c": "54x / sqrt(9x^2 - 1)",
+      "d": "54x / sqrt(9x^2 + 1)"
+    },
+    "answer": "b",
+    "correct_answer_text": "54x / (9x^2 + 1)^2",
+    "category": "Math",
+    "sub_category": "Differential Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_061.json"
+  },
+  {
+    "id": 2296,
+    "question": "If y = 4 cos x + sin 2x, what is the slope of the curve when x = 2 radians?",
+    "options": {
+      "a": "2.21",
+      "b": "3.25",
+      "c": "4.94",
+      "d": "-2.21"
+    },
+    "answer": "c",
+    "correct_answer_text": "4.94",
+    "category": "Math",
+    "sub_category": "Differential Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_061.json"
+  },
+  {
+    "id": 2297,
+    "question": "Find the slope of the curve x^2 + y^2 - 6x + 10y + 5 = 0 at point (1, 0).",
+    "options": {
+      "a": "1/5",
+      "b": "2/5",
+      "c": "1/4",
+      "d": "2"
+    },
+    "answer": "b",
+    "correct_answer_text": "2/5",
+    "category": "Math",
+    "sub_category": "Differential Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_061.json"
+  },
+  {
+    "id": 2298,
+    "question": "Find the equation of the normal to x^2 + y^2 = 5 at the point (2, 1).",
+    "options": {
+      "a": "y = 2x",
+      "b": "2x + 3y = 3",
+      "c": "x = 2y",
+      "d": "x + y = 1"
+    },
+    "answer": "c",
+    "correct_answer_text": "x = 2y",
+    "category": "Math",
+    "sub_category": "Geometry",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_061.json"
+  },
+  {
+    "id": 2299,
+    "question": "Find the minimum amount of tin sheet that can be made into a closed cylinder having a volume of 108 cu. inches in square inches.",
+    "options": {
+      "a": "125.50",
+      "b": "129.50",
+      "c": "127.50",
+      "d": "123.50"
+    },
+    "answer": "c",
+    "correct_answer_text": "127.50",
+    "category": "Math",
+    "sub_category": "Minima/Maxima",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_061.json"
+  },
+  {
+    "id": 2300,
+    "question": "A box is to be constructed from a piece of zinc 20 sq. in by cutting equal squares from each corner and turning up the zinc to form the side. What is the volume of the largest box that can be so constructed?",
+    "options": {
+      "a": "599.95 cu in.",
+      "b": "579.50 cu in.",
+      "c": "592.59 cu in.",
+      "d": "622.49 cu in."
+    },
+    "answer": "c",
+    "correct_answer_text": "592.59 cu in.",
+    "category": "Math",
+    "sub_category": "Minima/Maxima",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_061.json"
+  },
+  {
+    "id": 2301,
+    "question": "A statue 3 m high is standing on a base of 4 m high. If an observer's eye is 1.5 m above the ground, how far should he stand from the base in order that the angle subtended by the statue is a maximum?",
+    "options": {
+      "a": "3.41 m",
+      "b": "3.51 m",
+      "c": "3.71 m",
+      "d": "4.41 m"
+    },
+    "answer": "c",
+    "correct_answer_text": "3.71 m",
+    "category": "Math",
+    "sub_category": "Minima/Maxima",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_061.json"
+  },
+  {
+    "id": 2302,
+    "question": "What is the volume of the largest cylinder that can be inscribed inside a feet-radius sphere (assume radius = 5)?",
+    "options": {
+      "a": "302.2",
+      "b": "344.5",
+      "c": "273.3",
+      "d": "674.2"
+    },
+    "answer": "a",
+    "correct_answer_text": "302.2",
+    "category": "Math",
+    "sub_category": "Minima/Maxima",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_061.json"
+  },
+  {
+    "id": 2303,
+    "question": "Water is flowing into a conical cistern at the rate of 8 m^3/min. If the height of the inverted cone is 12 m and the radius of its circular opening is 6 m. How fast is the water level rising when the water is 4 m deep?",
+    "options": {
+      "a": "0.64 m/min",
+      "b": "0.75 m/min",
+      "c": "0.56 m/min",
+      "d": "0.45 m/min"
+    },
+    "answer": "a",
+    "correct_answer_text": "0.64 m/min",
+    "category": "Math",
+    "sub_category": "Differential Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_061.json"
+  },
+  {
+    "id": 2304,
+    "question": "A helicopter is rising vertically from the ground at a constant rate of 4.5 meters per second. When it is 75 m off the ground, a jeep passed beneath the helicopter traveling in a straight line at a constant rate of 80 kph. Determine how fast the distance between them changing after 1 second.",
+    "options": {
+      "a": "12.34 m/s",
+      "b": "10.32 m/s",
+      "c": "11.10 m/s",
+      "d": "9.85 m/s"
+    },
+    "answer": "b",
+    "correct_answer_text": "10.32 m/s",
+    "category": "Math",
+    "sub_category": "Differential Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_061.json"
+  },
+  {
+    "id": 2305,
+    "question": "A car starting at 12:00 noon travels west at a speed of 30 kph. Another car starting from the same point at 2:00 P.M. travels north at 45 kph. Find how (in kph) fast the two are separating at 4:00 P.M.?",
+    "options": {
+      "a": "49",
+      "b": "53",
+      "c": "51",
+      "d": "55"
+    },
+    "answer": "c",
+    "correct_answer_text": "51",
+    "category": "Math",
+    "sub_category": "Differential Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_061.json"
+  },
+  {
+    "id": 2306,
+    "question": "What is the integral of sin^5(x) dx if the lower limit is 0 and the upper limit is π/2?",
+    "options": {
+      "a": "0.233",
+      "b": "0.333",
+      "c": "0.433",
+      "d": "0.533"
+    },
+    "answer": "d",
+    "correct_answer_text": "0.533",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_061.json"
+  },
+  {
+    "id": 2307,
+    "question": "Evaluate the integral of cos(x) dx limits from π/4 to π/2.",
+    "options": {
+      "a": "0.423",
+      "b": "0.293",
+      "c": "0.923",
+      "d": "0.329"
+    },
+    "answer": "b",
+    "correct_answer_text": "0.293",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_061.json"
+  },
+  {
+    "id": 2308,
+    "question": "What is the area bounded by the curve x^2 = -9y and the line y + 1 = 0?",
+    "options": {
+      "a": "3 sq. units",
+      "b": "4 sq. units",
+      "c": "5 sq. units",
+      "d": "6 sq. units"
+    },
+    "answer": "b",
+    "correct_answer_text": "4 sq. units",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_061.json"
+  },
+  {
+    "id": 2309,
+    "question": "What is the area (in square units) bounded by the curve y^2 = x and the line x - 4 = 0?",
+    "options": {
+      "a": "30/3",
+      "b": "32/3",
+      "c": "31/3",
+      "d": "29/3"
+    },
+    "answer": "b",
+    "correct_answer_text": "32/3",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_062.json"
+  },
+  {
+    "id": 2310,
+    "question": "What is the area bounded by the curve y = x^3, the x-axis and the line x = -2 and x = 1?",
+    "options": {
+      "a": "4.25",
+      "b": "2.45",
+      "c": "5.24",
+      "d": "9.42"
+    },
+    "answer": "a",
+    "correct_answer_text": "4.25",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_062.json"
+  },
+  {
+    "id": 2311,
+    "question": "Find the length of arc of the parabola x^2 = 4y from x = -2 to x = 2.",
+    "options": {
+      "a": "4.2 units",
+      "b": "4.9 units",
+      "c": "4.6 units",
+      "d": "5.2 units"
+    },
+    "answer": "c",
+    "correct_answer_text": "4.6 units",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_062.json"
+  },
+  {
+    "id": 2312,
+    "question": "Given the area in the first quadrant by x^2 = 8y, the line x = 4 and the x-axis. What is the volume generated by revolving this area about the y-axis.",
+    "options": {
+      "a": "53.26",
+      "b": "52.26",
+      "c": "51.26",
+      "d": "50.26"
+    },
+    "answer": "d",
+    "correct_answer_text": "50.26",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_062.json"
+  },
+  {
+    "id": 2313,
+    "question": "The area bounded by the curve y^2 = 12x and the line x = 3 is revolved about the line x = 3. What is the volume generated?",
+    "options": {
+      "a": "179",
+      "b": "181",
+      "c": "183",
+      "d": "185"
+    },
+    "answer": "b",
+    "correct_answer_text": "181",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_062.json"
+  },
+  {
+    "id": 2314,
+    "question": "Given the area in the first quadrant bounded by x^2 = 8y, the line y - 2 = 0 and the y-axis. What is the volume generated when the area is revolved about the line y - 2 = 0?",
+    "options": {
+      "a": "28.41",
+      "b": "27.32",
+      "c": "25.83",
+      "d": "26.81"
+    },
+    "answer": "d",
+    "correct_answer_text": "26.81",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_062.json"
+  },
+  {
+    "id": 2315,
+    "question": "What is the longest steel rod that can be fitted along a perpendicular hallway of widths 4 feet and 7 feet respectively?",
+    "options": {
+      "a": "26.52",
+      "b": "8.89",
+      "c": "9.79",
+      "d": "15.39"
+    },
+    "answer": "d",
+    "correct_answer_text": "15.39",
+    "category": "Math",
+    "sub_category": "Minima/Maxima",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_062.json"
+  },
+  {
+    "id": 2316,
+    "question": "A water trough is 10 m long and has vertical cross-sections shaped as an isosceles trapezoid (30 cm wide bottom, 80 cm wide top, 50 cm height). If the trough is filled at 0.2 m^3/min, how fast is the water rising when it is 30 cm deep?",
+    "options": {
+      "a": "1/30",
+      "b": "1/25",
+      "c": "1/40",
+      "d": "1/35"
+    },
+    "answer": "a",
+    "correct_answer_text": "1/30",
+    "category": "Math",
+    "sub_category": "Differential Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_062.json"
+  },
+  {
+    "id": 2317,
+    "question": "Determine the work required to pump all the water from a hemispherical tank of diameter 16 feet to height of 20 feet. The water level is 5 feet.",
+    "options": {
+      "a": "470,900 ft-lbf",
+      "b": "669,800 ft-lbf",
+      "c": "140,000 ft-lbf",
+      "d": "520,700 ft-lbf"
+    },
+    "answer": "a",
+    "correct_answer_text": "470,900 ft-lbf",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_062.json"
+  },
+  {
+    "id": 2318,
+    "question": "Determine the work required to pump of a half-way full water trough that is 80 cm long with trapezoidal cross-section that is 50 cm deep and top width of 40 cm and bottom width of 30 cm. The water is pumped to the brim of the tank.",
+    "options": {
+      "a": "450 Joule",
+      "b": "237 Joule",
+      "c": "188 Joule",
+      "d": "670 Joule"
+    },
+    "answer": "c",
+    "correct_answer_text": "188 Joule",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_062.json"
+  },
+  {
+    "id": 2319,
+    "question": "Determine the slope of the orthonormal (normal) line to the curve y = x^3 - 2x at the point (2, 4)?",
+    "options": {
+      "a": "10",
+      "b": "1/10",
+      "c": "-1/10",
+      "d": "1"
+    },
+    "answer": "c",
+    "correct_answer_text": "-1/10",
+    "category": "Math",
+    "sub_category": "Differential Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_062.json"
+  },
+  {
+    "id": 2320,
+    "question": "Find the slope of the line tangent to the curve y = e^2x at the point (ln 3, 9):",
+    "options": {
+      "a": "3",
+      "b": "9",
+      "c": "18",
+      "d": "27"
+    },
+    "answer": "c",
+    "correct_answer_text": "18",
+    "category": "Math",
+    "sub_category": "Differential Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_062.json"
+  },
+  {
+    "id": 2321,
+    "question": "What work is required to pump all the water from a conical container (diameter 6 ft, depth 8 ft) if the water level is 5 ft and is pumped to an elevation of 12 ft?",
+    "options": {
+      "a": "5493 ft-lbf",
+      "b": "9476 ft-lbf",
+      "c": "4293 ft-lbf",
+      "d": "2943 ft-lbf"
+    },
+    "answer": "a",
+    "correct_answer_text": "5493 ft-lbf",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_062.json"
+  },
+  {
+    "id": 2322,
+    "question": "What is the equation of the line normal to the curve y = 4x^3 - 7x^2 - 3 at (1, -6)?",
+    "options": {
+      "a": "x - 2y = 13",
+      "b": "2x - y = 13",
+      "c": "3x + y = 26",
+      "d": "2x - 3y = -13"
+    },
+    "answer": "b",
+    "correct_answer_text": "2x - y = 13",
+    "category": "Math",
+    "sub_category": "Geometry",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_062.json"
+  },
+  {
+    "id": 2323,
+    "question": "Find the second derivative of y = arcsec (1/x)?",
+    "options": {
+      "a": "x / (1 + x^2)^(1/2)",
+      "b": "x / (1 + x^2)^(3/2)",
+      "c": "x / (1 - x^2)^(1/2)",
+      "d": "-x / (1 - x^2)^(3/2)"
+    },
+    "answer": "d",
+    "correct_answer_text": "-x / (1 - x^2)^(3/2)",
+    "category": "Math",
+    "sub_category": "Differential Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_062.json"
+  },
+  {
+    "id": 2324,
+    "question": "Find dy/dx if e^y = y + x.",
+    "options": {
+      "a": "1 / (x + y)",
+      "b": "a^x - y",
+      "c": "1 / (x + y - 1)",
+      "d": "e^y / (x + y)"
+    },
+    "answer": "c",
+    "correct_answer_text": "1 / (x + y - 1)",
+    "category": "Math",
+    "sub_category": "Differential Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_062.json"
+  },
+  {
+    "id": 2325,
+    "question": "What is the longest steel rod that can be fitted on perpendicular corridor of widths 5 meters and 3 meters?",
+    "options": {
+      "a": "11.2 m",
+      "b": "13.5 m",
+      "c": "8.45 m",
+      "d": "9.33 m"
+    },
+    "answer": "a",
+    "correct_answer_text": "11.2 m",
+    "category": "Math",
+    "sub_category": "Minima/Maxima",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_062.json"
+  },
+  {
+    "id": 2326,
+    "question": "What is the volume, in cm3, of the largest cylinder that can be fitted inside a cone that is 30 cm tall and 18 cm across at the base?",
+    "options": {
+      "a": "420 pi",
+      "b": "240 pi",
+      "c": "360 pi",
+      "d": "300 pi"
+    },
+    "answer": "c",
+    "correct_answer_text": "360 pi",
+    "category": "Math",
+    "sub_category": "Minima/Maxima",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_062.json"
+  },
+  {
+    "id": 2327,
+    "question": "The volume of the largest cylinder that can be fitted inside a sphere is 455 cubic feet. The diameter in feet of the sphere is nearly:",
+    "options": {
+      "a": "6.75",
+      "b": "4.33",
+      "c": "8.64",
+      "d": "11.46"
+    },
+    "answer": "d",
+    "correct_answer_text": "11.46",
+    "category": "Math",
+    "sub_category": "Minima/Maxima",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_062.json"
+  },
+  {
+    "id": 2328,
+    "question": "The Spolarium's frame is 12 feet wide and placed 7 feet from the floor. Jose is 6 feet tall while Maria is 5 feet tall. Both positioned themselves for maximum angle of view. What is their distance from one another?",
+    "options": {
+      "a": "2.52 ft",
+      "b": "1.69 ft",
+      "c": "3.11 ft",
+      "d": "3.53 ft"
+    },
+    "answer": "b",
+    "correct_answer_text": "1.69 ft",
+    "category": "Math",
+    "sub_category": "Minima/Maxima",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_062.json"
+  },
+  {
+    "id": 2329,
+    "question": "A gold square box has a volume of 80 in3. The base cost P300/in2 and the sides P200/in2. What is the minimum cost of the box?",
+    "options": {
+      "a": "P20,242",
+      "b": "P18,134",
+      "c": "P23,450",
+      "d": "P26,549"
+    },
+    "answer": "b",
+    "correct_answer_text": "P18,134",
+    "category": "Math",
+    "sub_category": "Minima/Maxima",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_063.json"
+  },
+  {
+    "id": 2330,
+    "question": "A car is initially 100 km west of a truck. Both start traveling at the same time: car at 20 kph northward and truck at 40 kph eastward. Determine the rate the distance changes after 2 hours.",
+    "options": {
+      "a": "44 kph",
+      "b": "22 kph",
+      "c": "33 kph",
+      "d": "55 kph"
+    },
+    "answer": "b",
+    "correct_answer_text": "22 kph",
+    "category": "Math",
+    "sub_category": "Differential Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_063.json"
+  },
+  {
+    "id": 2331,
+    "question": "A bubble changes its surface area at 10 in2/min. How fast is its volume changing when r = 2 in?",
+    "options": {
+      "a": "12 in3/min",
+      "b": "10 in3/min",
+      "c": "20 in3/min",
+      "d": "5 in3/min"
+    },
+    "answer": "d",
+    "correct_answer_text": "5 in3/min",
+    "category": "Math",
+    "sub_category": "Differential Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_063.json"
+  },
+  {
+    "id": 2332,
+    "question": "A light post is 13 feet tall. A man moves away from it at 6 ft/min such that his shadow extends at a rate of 4 ft/min. How tall is the man?",
+    "options": {
+      "a": "5.8 ft",
+      "b": "6.2 ft",
+      "c": "5.3 ft",
+      "d": "7.0 ft"
+    },
+    "answer": "c",
+    "correct_answer_text": "5.3 ft",
+    "category": "Math",
+    "sub_category": "Differential Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_063.json"
+  },
+  {
+    "id": 2333,
+    "question": "What is the area between the curves x = -2y^2 and the line x + 18 = 0?",
+    "options": {
+      "a": "81",
+      "b": "72",
+      "c": "36",
+      "d": "90"
+    },
+    "answer": "b",
+    "correct_answer_text": "72",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_063.json"
+  },
+  {
+    "id": 2334,
+    "question": "Find the area of the cardioid, r = 4 + 4 sin θ:",
+    "options": {
+      "a": "12pi",
+      "b": "24 pi",
+      "c": "36pi",
+      "d": "18pi"
+    },
+    "answer": "b",
+    "correct_answer_text": "24 pi",
+    "category": "Math",
+    "sub_category": "Geometry",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_063.json"
+  },
+  {
+    "id": 2335,
+    "question": "What is the area of a single petal of the rose, r = 3 cos 2θ?",
+    "options": {
+      "a": "9pi/8",
+      "b": "10pi/9",
+      "c": "7pi/6",
+      "d": "13pi/8"
+    },
+    "answer": "a",
+    "correct_answer_text": "9pi/8",
+    "category": "Math",
+    "sub_category": "Geometry",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_063.json"
+  },
+  {
+    "id": 2336,
+    "question": "Compute the length of the curve y = 2x ln x from x = 2 to x = 4.",
+    "options": {
+      "a": "7.23",
+      "b": "8.55",
+      "c": "8.21",
+      "d": "9.64"
+    },
+    "answer": "a",
+    "correct_answer_text": "7.23",
+    "category": "Math",
+    "sub_category": "Integral Calculus",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_063.json"
+  },
+  {
+    "id": 2337,
+    "question": "Express 67.82° in DMS (Degrees, Minutes, Seconds).",
+    "options": {
+      "a": "67° 12' 45.2\"",
+      "b": "67° 49' 12\"",
+      "c": "67° 49' 11.3\"",
+      "d": "67° 43' 12\""
+    },
+    "answer": "b",
+    "correct_answer_text": "67° 49' 12\"",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_063.json"
+  },
+  {
+    "id": 2338,
+    "question": "If A = x + sin(y), B = ln(A + y), and C = A - Bx, find A + B + C if x = 1 and y = 2 in radians.",
+    "options": {
+      "a": "3.818",
+      "b": "4.892",
+      "c": "34.43",
+      "d": "0.0967"
+    },
+    "answer": "b",
+    "correct_answer_text": "4.892",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_063.json"
+  },
+  {
+    "id": 2339,
+    "question": "Express 0° 24' 67.8\" + 0.567 rad in decimal degree form.",
+    "options": {
+      "a": "0.41883",
+      "b": "32.9055",
+      "c": "29.8832",
+      "d": "0.48133"
+    },
+    "answer": "b",
+    "correct_answer_text": "32.9055",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_063.json"
+  },
+  {
+    "id": 2340,
+    "question": "How many hours are there between 6:34 PM and 11:25 PM?",
+    "options": {
+      "a": "4.85 h",
+      "b": "4.83 h",
+      "c": "4.67 h",
+      "d": "4.23 h"
+    },
+    "answer": "a",
+    "correct_answer_text": "4.85 h",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_063.json"
+  },
+  {
+    "id": 2341,
+    "question": "The remainder of a polynomial f(x) divided by x - a is R = f(a). Find the remainder when 3x^2 - 4x + 2 is divided by (x - 2).",
+    "options": {
+      "a": "3",
+      "b": "9",
+      "c": "6",
+      "d": "1"
+    },
+    "answer": "c",
+    "correct_answer_text": "6",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_063.json"
+  },
+  {
+    "id": 2342,
+    "question": "Evaluate the limit of (ln cos x) / x^2 as x approaches 0.",
+    "options": {
+      "a": "-1/2",
+      "b": "2/3",
+      "c": "-1/3",
+      "d": "0"
+    },
+    "answer": "a",
+    "correct_answer_text": "-1/2",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_063.json"
+  },
+  {
+    "id": 2343,
+    "question": "Factor the expression x^2 + 2xy - z^2 - 2zy.",
+    "options": {
+      "a": "(x - z)(x - 2y + z)",
+      "b": "(x - y)(x + 2y - z)",
+      "c": "(x - y)(x - 2y + z)",
+      "d": "(x - z)(x + 2y + z)"
+    },
+    "answer": "d",
+    "correct_answer_text": "(x - z)(x + 2y + z)",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_063.json"
+  },
+  {
+    "id": 2344,
+    "question": "Determine the Greatest Common Divisor (GCD) of 34 and 58.",
+    "options": {
+      "a": "7",
+      "b": "2",
+      "c": "4",
+      "d": "17"
+    },
+    "answer": "b",
+    "correct_answer_text": "2",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_063.json"
+  },
+  {
+    "id": 2345,
+    "question": "Convert the binary number 11010110 into its hexadecimal equivalent.",
+    "options": {
+      "a": "D6",
+      "b": "A12",
+      "c": "67",
+      "d": "19E"
+    },
+    "answer": "a",
+    "correct_answer_text": "D6",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_063.json"
+  },
+  {
+    "id": 2346,
+    "question": "Solve the equation x^3 - 2x^2 - x + 2 = 0.",
+    "options": {
+      "a": "1, 2, -1",
+      "b": "1, 2, -2",
+      "c": "1, -1, -2",
+      "d": "2, -2, 0"
+    },
+    "answer": "a",
+    "correct_answer_text": "1, 2, -1",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_063.json"
+  },
+  {
+    "id": 2347,
+    "question": "Find the values of x in the equation 24x^2 + 5x - 1 = 0.",
+    "options": {
+      "a": "1/6, 1",
+      "b": "1/2, 1/5",
+      "c": "1/6, 1/5",
+      "d": "1/8, -1/3"
+    },
+    "answer": "d",
+    "correct_answer_text": "1/8, -1/3",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_063.json"
+  },
+  {
+    "id": 2348,
+    "question": "Find the values of x and y from the equations: x - 4y + 2 = 0 and 2x + y - 4 = 0.",
+    "options": {
+      "a": "11/7, -6/7",
+      "b": "4/9, 8/9",
+      "c": "14/9, 8/9",
+      "d": "3/2, 5/3"
+    },
+    "answer": "c",
+    "correct_answer_text": "14/9, 8/9",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_063.json"
+  },
+  {
+    "id": 2349,
+    "question": "Find the values of x, y, and z: x + y + z = 2; 3x - y - 2z = 4; 5x - 2y + 3z = -7.",
+    "options": {
+      "a": "1, 2, 3",
+      "b": "1, -1, 2",
+      "c": "1, 3, -2",
+      "d": "1, 4, -3"
+    },
+    "answer": "c",
+    "correct_answer_text": "1, 3, -2",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_064.json"
+  },
+  {
+    "id": 2350,
+    "question": "Which of the following matrices has no inverse?",
+    "options": {
+      "a": "[[4, 5], [6, 8]]",
+      "b": "[[6, 2], [12, 4]]",
+      "c": "[[3, 2], [6, 9]]",
+      "d": "[[3, 6], [8, 9]]"
+    },
+    "answer": "b",
+    "correct_answer_text": "[[6, 2], [12, 4]]",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_064.json"
+  },
+  {
+    "id": 2351,
+    "question": "Find the adjoint of the matrix A = [[0, -1, 7], [1.25, -0.25, 0.75], [-0.5, 0.5, -0.5]].",
+    "options": {
+      "a": "[[5, -1, 3], [-2, 2, -2], [1, -1, 3]]",
+      "b": "[[4, -1, 7], [-2, 2, -2], [5, -3, 1]]",
+      "c": "[[1, 8, 3], [-6, 2, 2], [1, -1, 4]]",
+      "d": "[[9, 0, -2], [1, 5, 0], [3, 0, 1]]"
+    },
+    "answer": "a",
+    "correct_answer_text": "[[5, -1, 3], [-2, 2, -2], [1, -1, 3]]",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_064.json"
+  },
+  {
+    "id": 2352,
+    "question": "Simplify i^29 + i^21 + i.",
+    "options": {
+      "a": "1 + 2i",
+      "b": "3i",
+      "c": "3",
+      "d": "2 + i"
+    },
+    "answer": "b",
+    "correct_answer_text": "3i",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_064.json"
+  },
+  {
+    "id": 2353,
+    "question": "Determine the two square roots of 3 - 2i.",
+    "options": {
+      "a": "0.82 ± j0.23",
+      "b": "1.82 ± j0.55",
+      "c": "4.78 ± j0.55",
+      "d": "4.78 ± j0.23"
+    },
+    "answer": "b",
+    "correct_answer_text": "1.82 ± j0.55",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_064.json"
+  },
+  {
+    "id": 2354,
+    "question": "What is the rectangular value of (1 + i)^16?",
+    "options": {
+      "a": "128",
+      "b": "256i",
+      "c": "256",
+      "d": "512i"
+    },
+    "answer": "c",
+    "correct_answer_text": "256",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_064.json"
+  },
+  {
+    "id": 2355,
+    "question": "Evaluate the integral of x / (x + 1)^8 from 0 to 1.",
+    "options": {
+      "a": "4/765",
+      "b": "5/224",
+      "c": "1/77",
+      "d": "6/89"
+    },
+    "answer": "b",
+    "correct_answer_text": "5/224",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_064.json"
+  },
+  {
+    "id": 2356,
+    "question": "Compute the rate at which water is pouring into a pool at t = 9 hours, given V = sqrt(t) gallons.",
+    "options": {
+      "a": "7/6 gph",
+      "b": "8/7 gph",
+      "c": "6/5 gph",
+      "d": "1/6 gph"
+    },
+    "answer": "d",
+    "correct_answer_text": "1/6 gph",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_064.json"
+  },
+  {
+    "id": 2357,
+    "question": "Find the tenth element of the sequence: 11, 4, -3, -10...",
+    "options": {
+      "a": "-52",
+      "b": "99",
+      "c": "-106",
+      "d": "58"
+    },
+    "answer": "a",
+    "correct_answer_text": "-52",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_064.json"
+  },
+  {
+    "id": 2358,
+    "question": "Find the sum of the first 12 terms of the series 5, 9, 13, 17...",
+    "options": {
+      "a": "324",
+      "b": "322",
+      "c": "317",
+      "d": "334"
+    },
+    "answer": "a",
+    "correct_answer_text": "324",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_064.json"
+  },
+  {
+    "id": 2359,
+    "question": "Determine the sum of the series: 2 + 5 + 8 + 11 + ... (up to 100 terms).",
+    "options": {
+      "a": "14750",
+      "b": "15350",
+      "c": "15050",
+      "d": "15660"
+    },
+    "answer": "c",
+    "correct_answer_text": "15050",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_064.json"
+  },
+  {
+    "id": 2360,
+    "question": "An arithmetic progression starts with 1, has 9 terms, and the middle term is 21. Determine the sum of the first 9 terms.",
+    "options": {
+      "a": "235",
+      "b": "112",
+      "c": "189",
+      "d": "148"
+    },
+    "answer": "c",
+    "correct_answer_text": "189",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_064.json"
+  },
+  {
+    "id": 2361,
+    "question": "The sum of the integers between 288 and 887 that are exactly divisible by 15 is:",
+    "options": {
+      "a": "23,700",
+      "b": "22,815",
+      "c": "21,800",
+      "d": "24,150"
+    },
+    "answer": "b",
+    "correct_answer_text": "22,815",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_064.json"
+  },
+  {
+    "id": 2362,
+    "question": "How many terms of the sequence 9, 6, 3... must be taken so that the sum is 66?",
+    "options": {
+      "a": "11",
+      "b": "6",
+      "c": "4",
+      "d": "9"
+    },
+    "answer": "a",
+    "correct_answer_text": "11",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_064.json"
+  },
+  {
+    "id": 2363,
+    "question": "Find the 10th term of the geometric progression 3, 6, 12, 24...",
+    "options": {
+      "a": "1563",
+      "b": "1653",
+      "c": "1356",
+      "d": "1536"
+    },
+    "answer": "d",
+    "correct_answer_text": "1536",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_064.json"
+  },
+  {
+    "id": 2364,
+    "question": "Determine the sum of the first 10 terms of the GP: 3, 6, 12, 24...",
+    "options": {
+      "a": "3069",
+      "b": "3070",
+      "c": "3071",
+      "d": "3072"
+    },
+    "answer": "a",
+    "correct_answer_text": "3069",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_064.json"
+  },
+  {
+    "id": 2365,
+    "question": "Compute the sum of the infinite GP: 1, 1/3, 1/9...",
+    "options": {
+      "a": "3/2",
+      "b": "2/3",
+      "c": "3/4",
+      "d": "4/3"
+    },
+    "answer": "a",
+    "correct_answer_text": "3/2",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_064.json"
+  },
+  {
+    "id": 2366,
+    "question": "Determine the common ratio of a GP if the first term is 3 and the 4th term is 24.",
+    "options": {
+      "a": "2",
+      "b": "3",
+      "c": "4",
+      "d": "5"
+    },
+    "answer": "a",
+    "correct_answer_text": "2",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_064.json"
+  },
+  {
+    "id": 2367,
+    "question": "A person has 2 parents, 4 grandparents, 8 great-grandparents, and so on. How many ancestors during the 15 generations preceding his own, assuming no duplication?",
+    "options": {
+      "a": "131070",
+      "b": "65534",
+      "c": "32766",
+      "d": "16383"
+    },
+    "answer": "b",
+    "correct_answer_text": "65534",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_064.json"
+  },
+  {
+    "id": 2368,
+    "question": "Convert 7431 (octal) into hexadecimal.",
+    "options": {
+      "a": "D90",
+      "b": "119",
+      "c": "F19",
+      "d": "A74"
+    },
+    "answer": "c",
+    "correct_answer_text": "F19",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_064.json"
+  },
+  {
+    "id": 2369,
+    "question": "Convert 101110111 (binary) to hexadecimal form.",
+    "options": {
+      "a": "18F",
+      "b": "1B2",
+      "c": "177",
+      "d": "45AC"
+    },
+    "answer": "c",
+    "correct_answer_text": "177",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_065.json"
+  },
+  {
+    "id": 2370,
+    "question": "What time after 3 o'clock will the hands of the clock be 60 degrees for the second time?",
+    "options": {
+      "a": "3:20.28",
+      "b": "3:27.27",
+      "c": "3:17.62",
+      "d": "3:24.42"
+    },
+    "answer": "b",
+    "correct_answer_text": "3:27.27",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_065.json"
+  },
+  {
+    "id": 2371,
+    "question": "When is the fifth time, from 2 AM, will the hands of a clock form an angle of 70 degrees?",
+    "options": {
+      "a": "4:12:33 AM",
+      "b": "4:09:05 AM",
+      "c": "4:23:12 AM",
+      "d": "4:10:45 AM"
+    },
+    "answer": "b",
+    "correct_answer_text": "4:09:05 AM",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_065.json"
+  },
+  {
+    "id": 2372,
+    "question": "The growth of Aspergillus niger in a batch culture doubles every 5 hours. How long will it take for the cells to grow to 5 times the initial number?",
+    "options": {
+      "a": "13.5 h",
+      "b": "11.6 h",
+      "c": "9.6 h",
+      "d": "20 h"
+    },
+    "answer": "b",
+    "correct_answer_text": "11.6 h",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_065.json"
+  },
+  {
+    "id": 2373,
+    "question": "A body whose temperature is 180°F is immersed in a liquid kept at 60°F. In one minute, the body temperature is 120°F. How long will it take for the temperature to decrease to 90°F?",
+    "options": {
+      "a": "2 min",
+      "b": "3 min",
+      "c": "1.5 min",
+      "d": "2 hrs"
+    },
+    "answer": "a",
+    "correct_answer_text": "2 min",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_065.json"
+  },
+  {
+    "id": 2374,
+    "question": "A radioactive substance has a half-life of 3 years. If 10 grams are present initially, how much remains after 9 years?",
+    "options": {
+      "a": "2.50g",
+      "b": "5.2g",
+      "c": "1.25g",
+      "d": "10.20g"
+    },
+    "answer": "c",
+    "correct_answer_text": "1.25g",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_065.json"
+  },
+  {
+    "id": 2375,
+    "question": "A radioactive material decays with a half-life of 13.86 hours. If the initial amount is 100 grams, how much remains after 10 hours?",
+    "options": {
+      "a": "51.2 g",
+      "b": "60.6 g",
+      "c": "73.4 g",
+      "d": "56.4 g"
+    },
+    "answer": "b",
+    "correct_answer_text": "60.6 g",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_065.json"
+  },
+  {
+    "id": 2376,
+    "question": "An ingot of molybdenum steel (initially 90°F) is placed in a 4200°F furnace. After 30 minutes, it is 230°F. When will it begin to melt (melting point 3100°F)?",
+    "options": {
+      "a": "8 hours",
+      "b": "19 hours",
+      "c": "23 hours",
+      "d": "5 hours"
+    },
+    "answer": "b",
+    "correct_answer_text": "19 hours",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_065.json"
+  },
+  {
+    "id": 2377,
+    "question": "Suppose that 30% of a radioactive substance disappears in 13 years. Find the half-life of the substance.",
+    "options": {
+      "a": "45 years",
+      "b": "36 years",
+      "c": "28 years",
+      "d": "25 years"
+    },
+    "answer": "d",
+    "correct_answer_text": "25 years",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_065.json"
+  },
+  {
+    "id": 2378,
+    "question": "Radioactive sludge (half-life 8.9 hours) is safe if radiation is reduced by 99.9%. When will fresh sludge become safe?",
+    "options": {
+      "a": "After 2.5 days",
+      "b": "After 1.22 days",
+      "c": "After 7.76 days",
+      "d": "After 3.7 days"
+    },
+    "answer": "d",
+    "correct_answer_text": "After 3.7 days",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_065.json"
+  },
+  {
+    "id": 2379,
+    "question": "In 100 years, 100 mg of radium decomposes to 96 mg. How many mg will be left after another 100 years?",
+    "options": {
+      "a": "88.60",
+      "b": "95.32",
+      "c": "92.16",
+      "d": "90.72"
+    },
+    "answer": "c",
+    "correct_answer_text": "92.16",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_065.json"
+  },
+  {
+    "id": 2380,
+    "question": "The population of Seoul doubles in 50 years. How many years will it take to be five times as much?",
+    "options": {
+      "a": "100 years",
+      "b": "116 years",
+      "c": "120 years",
+      "d": "98 years"
+    },
+    "answer": "b",
+    "correct_answer_text": "116 years",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_065.json"
+  },
+  {
+    "id": 2381,
+    "question": "Evaluate the integral of x^3 * e^-x from 0 to infinity.",
+    "options": {
+      "a": "2",
+      "b": "4",
+      "c": "5",
+      "d": "6"
+    },
+    "answer": "d",
+    "correct_answer_text": "6",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_065.json"
+  },
+  {
+    "id": 2382,
+    "question": "Solve the particular solution of the DE: y'' + 4y = e^3x.",
+    "options": {
+      "a": "y = (1/12)e^3x",
+      "b": "y = (1/10)e^3x",
+      "c": "y = (1/13)e^3x",
+      "d": "y = (1/13)e^-3x"
+    },
+    "answer": "c",
+    "correct_answer_text": "y = (1/13)e^3x",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_065.json"
+  },
+  {
+    "id": 2383,
+    "question": "Which of the following is a key advantage of the Secant Method over the Newton-Raphson Method?",
+    "options": {
+      "a": "Faster convergence for all functions",
+      "b": "Does not require continuity",
+      "c": "Does not require the computation of the derivative",
+      "d": "Always converges regardless of guess"
+    },
+    "answer": "c",
+    "correct_answer_text": "Does not require the computation of the derivative",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_065.json"
+  },
+  {
+    "id": 2384,
+    "question": "Simplify log base 2 of (j4 - 5).",
+    "options": {
+      "a": "2.678 + j2.763",
+      "b": "2.678 + j3.558",
+      "c": "0.663 + j2.763",
+      "d": "0.863 + j3.558"
+    },
+    "answer": "a",
+    "correct_answer_text": "2.678 + j2.763",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_065.json"
+  },
+  {
+    "id": 2385,
+    "question": "How many ways can 4 letters, 4 numbers, 4 symbols, and 4 shapes be arranged in a 16-element code such that there is alternation?",
+    "options": {
+      "a": "7,962,624",
+      "b": "7,765,320",
+      "c": "1,8965,940",
+      "d": "none of these"
+    },
+    "answer": "d",
+    "correct_answer_text": "none of these",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_065.json"
+  },
+  {
+    "id": 2386,
+    "question": "What is the 30th term of an AP: 4, 7, 10... if the 100th term is 1000?",
+    "options": {
+      "a": "56,000",
+      "b": "12,500",
+      "c": "41,100",
+      "d": "47,800"
+    },
+    "answer": "d",
+    "correct_answer_text": "47,800",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_065.json"
+  },
+  {
+    "id": 2387,
+    "question": "The 7th term of an AP is 1/3 and the 9th term is 7/3. What is the first term?",
+    "options": {
+      "a": "-7/3",
+      "b": "-17/3",
+      "c": "5/3",
+      "d": "-70/3"
+    },
+    "answer": "b",
+    "correct_answer_text": "-17/3",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_065.json"
+  },
+  {
+    "id": 2388,
+    "question": "The first term of an arithmetic progression is -6. The 8th term is 15. What is the 20th term?",
+    "options": {
+      "a": "50",
+      "b": "51",
+      "c": "67",
+      "d": "45"
+    },
+    "answer": "b",
+    "correct_answer_text": "51",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_065.json"
+  },
+  {
+    "id": 2389,
+    "question": "Find the principal root of the 5th root of [50(cos 150° + i sin 150°)].",
+    "options": {
+      "a": "1.9 + j1.1",
+      "b": "3.26 - j2.1",
+      "c": "2.87 + j2.1",
+      "d": "2.25 - j1.2"
+    },
+    "answer": "a",
+    "correct_answer_text": "1.9 + j1.1",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_066.json"
+  },
+  {
+    "id": 2390,
+    "question": "Express the power (1 + i)^8 in rectangular form.",
+    "options": {
+      "a": "16",
+      "b": "8i",
+      "c": "1 - i",
+      "d": "-6"
+    },
+    "answer": "a",
+    "correct_answer_text": "16",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_066.json"
+  },
+  {
+    "id": 2391,
+    "question": "Find the 10th term of 3, 6, 12, 24...",
+    "options": {
+      "a": "1563",
+      "b": "1653",
+      "c": "1356",
+      "d": "1536"
+    },
+    "answer": "d",
+    "correct_answer_text": "1536",
+    "category": "Math",
+    "sub_category": "Calculator Technique",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_066.json"
+  },
+  {
+    "id": 2392,
+    "question": "A dice is tossed five times. What is the probability that more than two times it will show an even number?",
+    "options": {
+      "a": "2/5",
+      "b": "1/5",
+      "c": "1/3",
+      "d": "1/2"
+    },
+    "answer": "d",
+    "correct_answer_text": "1/2",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_066.json"
+  },
+  {
+    "id": 2393,
+    "question": "The average national passing rate in the CMP board exam from 2018-2023 are 45.6%, 33.21%, 64.7%, 54.3% and 37.8%. What is the probability that the national passing rate in 2022 will be more than 60%?",
+    "options": {
+      "a": "9.86%",
+      "b": "43.2%",
+      "c": "12.8%",
+      "d": "32.6%"
+    },
+    "answer": "c",
+    "correct_answer_text": "12.8%",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_066.json"
+  },
+  {
+    "id": 2394,
+    "question": "Suppose we want to know whether or not the mean weight of a certain species of hawksbill turtle in Palawan is equal to 310 pounds. The t-test should be:",
+    "options": {
+      "a": "two-tailed",
+      "b": "right tailed",
+      "c": "left tailed",
+      "d": "three tailed"
+    },
+    "answer": "a",
+    "correct_answer_text": "two-tailed",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_066.json"
+  },
+  {
+    "id": 2395,
+    "question": "How many 4 digit number can be formed without repeating any digit, from the following digit 1,2,3,4 and 6.",
+    "options": {
+      "a": "150",
+      "b": "120",
+      "c": "140",
+      "d": "130"
+    },
+    "answer": "b",
+    "correct_answer_text": "120",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_066.json"
+  },
+  {
+    "id": 2396,
+    "question": "How many ways can 3 men and 4 women be seated on a bench if the women to be together?",
+    "options": {
+      "a": "720",
+      "b": "576",
+      "c": "5040",
+      "d": "1024"
+    },
+    "answer": "b",
+    "correct_answer_text": "576",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_066.json"
+  },
+  {
+    "id": 2397,
+    "question": "A dice is rolled 9 times. Find the probability of having a 'THREE' 2 times?",
+    "options": {
+      "a": "1/3250",
+      "b": "1/5530",
+      "c": "1/5651",
+      "d": "1/2187"
+    },
+    "answer": "d",
+    "correct_answer_text": "1/2187",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_066.json"
+  },
+  {
+    "id": 2398,
+    "question": "In problem no. 6, find the probability of having 'THREE' more than 5 times:",
+    "options": {
+      "a": "2.34%",
+      "b": "0.113%",
+      "c": "0.084%",
+      "d": "99.6%"
+    },
+    "answer": "c",
+    "correct_answer_text": "0.084%",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_066.json"
+  },
+  {
+    "id": 2399,
+    "question": "Concrete blocks are tested and it is found that, on average, 7% fail to meet the required specification. For a batch of 9 blocks, determine the probabilities that 2 or less blocks will fail to meet the specification.",
+    "options": {
+      "a": "97.11%",
+      "b": "97.91%",
+      "c": "100%",
+      "d": "99.56%"
+    },
+    "answer": "d",
+    "correct_answer_text": "99.56%",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_066.json"
+  },
+  {
+    "id": 2400,
+    "question": "A manufacturer estimates that 3% of his output of a small item is defective. Find the probabilities that in a sample of 10 items more than two items will be defective.",
+    "options": {
+      "a": "0.28%",
+      "b": "1.34%",
+      "c": "0.62%",
+      "d": "1.05%"
+    },
+    "answer": "a",
+    "correct_answer_text": "0.28%",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_066.json"
+  },
+  {
+    "id": 2401,
+    "question": "On the average, five out of 20 of cane stalks are rejected due to low juice content. What is the probability that out of 100 stalks in a truck more less than 19 will be rejected?",
+    "options": {
+      "a": "9.2%",
+      "b": "5.66%",
+      "c": "3.21%",
+      "d": "33.3%"
+    },
+    "answer": "c",
+    "correct_answer_text": "3.21%",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_066.json"
+  },
+  {
+    "id": 2402,
+    "question": "Petron Pilipinas estimates that 0.25% of their output of a component are defective. The components are marketed in packets of 200. Determine the probability of a packet containing less than three defective components.",
+    "options": {
+      "a": "0.9856",
+      "b": "0.9637",
+      "c": "0.9912",
+      "d": "0.9721"
+    },
+    "answer": "a",
+    "correct_answer_text": "0.9856",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_066.json"
+  },
+  {
+    "id": 2403,
+    "question": "The mean thickness of a spline from a mechanical shop is 23.67 mm with standard deviation of 2.42 mm. What is the probability that a spline will measure more than 22.78 mm considering tolerance offset?",
+    "options": {
+      "a": "30.55%",
+      "b": "69.32%",
+      "c": "64.35%",
+      "d": "35.65%"
+    },
+    "answer": "c",
+    "correct_answer_text": "64.35%",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_066.json"
+  },
+  {
+    "id": 2404,
+    "question": "How many 3-letter word can be generated from the word, STRESS?",
+    "options": {
+      "a": "31",
+      "b": "47",
+      "c": "21",
+      "d": "34"
+    },
+    "answer": "a",
+    "correct_answer_text": "31",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_066.json"
+  },
+  {
+    "id": 2405,
+    "question": "How many ways can 4 letters, 4 numbers, 4 symbols, and 4 shapes be arranged in a 16-element code such that there is alternation?",
+    "options": {
+      "a": "7,962,624",
+      "b": "7,765,320",
+      "c": "1,8965,940",
+      "d": "none of these"
+    },
+    "answer": "d",
+    "correct_answer_text": "none of these",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_066.json"
+  },
+  {
+    "id": 2406,
+    "question": "In a 15-item true or false question test, what is the probability that you will get a raw score of more than 10?",
+    "options": {
+      "a": "13.21%",
+      "b": "5.92%",
+      "c": "48.54%",
+      "d": "89.65%"
+    },
+    "answer": "b",
+    "correct_answer_text": "5.92%",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_066.json"
+  },
+  {
+    "id": 2407,
+    "question": "Seven dice is tossed at once. What is the probability that at more than five will show an odd number?",
+    "options": {
+      "a": "1/16",
+      "b": "7/18",
+      "c": "3/16",
+      "d": "5/16"
+    },
+    "answer": "a",
+    "correct_answer_text": "1/16",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_066.json"
+  },
+  {
+    "id": 2408,
+    "question": "A coin is tossed three times. What is the probability that at most 2 will be tails?",
+    "options": {
+      "a": "3/8",
+      "b": "1/8",
+      "c": "7/8",
+      "d": "5/8"
+    },
+    "answer": "c",
+    "correct_answer_text": "7/8",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_066.json"
+  },
+  {
+    "id": 2409,
+    "question": "It is known that 2 out of 10 of the shafting in foundry shop will be off-spec. What is the probability that less than ten out of 75 shafts will be off-spec?",
+    "options": {
+      "a": "0.0342",
+      "b": "0.0698",
+      "c": "0.0832",
+      "d": "0.1252"
+    },
+    "answer": "b",
+    "correct_answer_text": "0.0698",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_067.json"
+  },
+  {
+    "id": 2410,
+    "question": "An urn contains 4 blue, 2 red and 3 black pens. If Shane drew 2 pens at once, what is the probability that it will be of same color?",
+    "options": {
+      "a": "2/13",
+      "b": "5/18",
+      "c": "5/16",
+      "d": "1/2"
+    },
+    "answer": "b",
+    "correct_answer_text": "5/18",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_067.json"
+  },
+  {
+    "id": 2411,
+    "question": "Determine the sample variance of the following data: [0-5: 4], [5-10: 11], [10-15: 23], [15-20: 8]",
+    "options": {
+      "a": "15.67",
+      "b": "17.98",
+      "c": "16.89",
+      "d": "18.45"
+    },
+    "answer": "b",
+    "correct_answer_text": "17.98",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_067.json"
+  },
+  {
+    "id": 2412,
+    "question": "In a toss of 5 dice, what is the probability that one will get at most 2 dice showing more than FOUR dots?",
+    "options": {
+      "a": "36/81",
+      "b": "37/81",
+      "c": "64/81",
+      "d": "43/90"
+    },
+    "answer": "c",
+    "correct_answer_text": "64/81",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_067.json"
+  },
+  {
+    "id": 2413,
+    "question": "Four boys and 5 girls are chosen from a group of 8 boys and 9 girls to sit on a row of chairs. How many possible arrangements are there if the girls and boys are alternated?",
+    "options": {
+      "a": "4,503,200",
+      "b": "20,321,289",
+      "c": "16,289,950",
+      "d": "32,420,620"
+    },
+    "answer": "d",
+    "correct_answer_text": "32,420,620",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_067.json"
+  },
+  {
+    "id": 2414,
+    "question": "In a water cooling plant, the average wet bulb temperature of air entering a cooling tower is 82 F and standard deviation of 1.35. What is the probability that in a given day, the air is at 82.8-83.5 F?",
+    "options": {
+      "a": "12.5%",
+      "b": "14.3%",
+      "c": "43.6%",
+      "d": "97.89%"
+    },
+    "answer": "b",
+    "correct_answer_text": "14.3%",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_067.json"
+  },
+  {
+    "id": 2415,
+    "question": "A box contains 3 blue, 4 reds, 5 yellow and 2 green balls. What is the probability that in a draw of three balls, all balls are of same color?",
+    "options": {
+      "a": "4/17",
+      "b": "3/19",
+      "c": "7/19",
+      "d": "5/13"
+    },
+    "answer": "b",
+    "correct_answer_text": "3/19",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_067.json"
+  },
+  {
+    "id": 2416,
+    "question": "Compute the geometric mean of 13, 17, 18, 21 and 32",
+    "options": {
+      "a": "19.73",
+      "b": "18.34",
+      "c": "19.23",
+      "d": "19.29"
+    },
+    "answer": "a",
+    "correct_answer_text": "19.73",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_067.json"
+  },
+  {
+    "id": 2417,
+    "question": "According to DOE-IIEE Electrical Engineering Progress 2024, approximately 30% of all failures in energy plants automations are caused by operator error. What is the probability that out of the next 20 failures at least 10 are due to operator error?",
+    "options": {
+      "a": "0.052",
+      "b": "0.043",
+      "c": "0.048",
+      "d": "0.072"
+    },
+    "answer": "c",
+    "correct_answer_text": "0.048",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_067.json"
+  },
+  {
+    "id": 2418,
+    "question": "Cebu Pacific Air Inc. installs aircraft emergency locator transmitter (ELT) which is a device designed to transmit a signal in the case of a crash. The Altigauge Manufacturing Company makes 80% of the ELTs, the Bryant Company makes 15% of them, and the Chartair Company makes the other 5%. The ELTs made by Altigauge have a 4% rate of defects, the Bryant ELTs have a 6% rate of defects, and the Chartair ELTs have a 9% rate of defects. If a randomly selected ELT is then tested and is found to be defective, find the probability that it was made by the Altigauge Manufacturing Company?",
+    "options": {
+      "a": "0.653",
+      "b": "0.703",
+      "c": "0.832",
+      "d": "0.871"
+    },
+    "answer": "b",
+    "correct_answer_text": "0.703",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_067.json"
+  },
+  {
+    "id": 2419,
+    "question": "How many ways can 3 letters, 3 numbers, 3 symbols, and 3 shapes be arranged in a 12-element code such that there is alternation?",
+    "options": {
+      "a": "27,312",
+      "b": "37,822",
+      "c": "32,402",
+      "d": "31,104"
+    },
+    "answer": "d",
+    "correct_answer_text": "31,104",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_067.json"
+  },
+  {
+    "id": 2420,
+    "question": "A coin is tossed three times. What is the probability that at most 2 will be tails?",
+    "options": {
+      "a": "3/8",
+      "b": "1/8",
+      "c": "7/8",
+      "d": "5/8"
+    },
+    "answer": "c",
+    "correct_answer_text": "7/8",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_067.json"
+  },
+  {
+    "id": 2421,
+    "question": "In a toss of 5 dice, what is the probability that one will get at most 2 dice showing more than FOUR dots?",
+    "options": {
+      "a": "36/81",
+      "b": "37/81",
+      "c": "64/81",
+      "d": "43/90"
+    },
+    "answer": "c",
+    "correct_answer_text": "64/81",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_067.json"
+  },
+  {
+    "id": 2422,
+    "question": "Four boys and 5 girls are chosen from a group of 8 boys and 9 girls to sit on a row of chairs. How many possible arrangements are there if the girls and boys are alternated?",
+    "options": {
+      "a": "4,503,200",
+      "b": "20,321,289",
+      "c": "16,289,950",
+      "d": "32,420,620"
+    },
+    "answer": "d",
+    "correct_answer_text": "32,420,620",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_067.json"
+  },
+  {
+    "id": 2423,
+    "question": "How many 3-letter word can be generated from the word, STRESS?",
+    "options": {
+      "a": "31",
+      "b": "47",
+      "c": "21",
+      "d": "34"
+    },
+    "answer": "a",
+    "correct_answer_text": "31",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_067.json"
+  },
+  {
+    "id": 2424,
+    "question": "An urn contains 4 blue, 2 red and 3 black pens. If Shane drew 2 pens at once, what is the probability that it will be of same color?",
+    "options": {
+      "a": "2/13",
+      "b": "5/18",
+      "c": "5/16",
+      "d": "1/2"
+    },
+    "answer": "b",
+    "correct_answer_text": "5/18",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_067.json"
+  },
+  {
+    "id": 2425,
+    "question": "Determine the sample variance of the following data: [0-5: 4], [5-10: 11], [10-15: 23], [15-20: 8]",
+    "options": {
+      "a": "15.67",
+      "b": "17.98",
+      "c": "16.89",
+      "d": "18.45"
+    },
+    "answer": "b",
+    "correct_answer_text": "17.98",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_067.json"
+  },
+  {
+    "id": 2426,
+    "question": "In a box, there are 10 red marbles, 8 white marbles and 6 blue marbles. If 3 marbles are drawn at random, what is the probability that they are all of different colors?",
+    "options": {
+      "a": "21/53",
+      "b": "31/133",
+      "c": "60/253",
+      "d": "32/145"
+    },
+    "answer": "c",
+    "correct_answer_text": "60/253",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_067.json"
+  },
+  {
+    "id": 2427,
+    "question": "What is the probability of obtaining at least 4 heads when a coin is tossed 5 times?",
+    "options": {
+      "a": "0.1875",
+      "b": "0.2115",
+      "c": "0.3225",
+      "d": "0.5015"
+    },
+    "answer": "a",
+    "correct_answer_text": "0.1875",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_067.json"
+  },
+  {
+    "id": 2428,
+    "question": "The probability of hitting a target is 0.3. If 5 shots are fired, what is the probability that the target is hit at least twice?",
+    "options": {
+      "a": "0.5282",
+      "b": "0.6278",
+      "c": "0.4718",
+      "d": "0.3562"
+    },
+    "answer": "c",
+    "correct_answer_text": "0.4718",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_067.json"
+  },
+  {
+    "id": 2429,
+    "question": "Compute the probability of drawing a 'full house' in a hand of poker.",
+    "options": {
+      "a": "0.00144",
+      "b": "0.00512",
+      "c": "0.00234",
+      "d": "0.00892"
+    },
+    "answer": "a",
+    "correct_answer_text": "0.00144",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_068.json"
+  },
+  {
+    "id": 2430,
+    "question": "Find the number of permutations of the letters in the word MISSISSIPPI.",
+    "options": {
+      "a": "34,650",
+      "b": "22,500",
+      "c": "43,210",
+      "d": "12,600"
+    },
+    "answer": "a",
+    "correct_answer_text": "34,650",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_068.json"
+  },
+  {
+    "id": 2431,
+    "question": "In how many ways can 6 people be seated at a round table?",
+    "options": {
+      "a": "720",
+      "b": "120",
+      "c": "240",
+      "d": "360"
+    },
+    "answer": "b",
+    "correct_answer_text": "120",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_068.json"
+  },
+  {
+    "id": 2432,
+    "question": "What is the probability of drawing an ace or a spade from a standard deck of cards?",
+    "options": {
+      "a": "1/13",
+      "b": "17/52",
+      "c": "4/13",
+      "d": "1/4"
+    },
+    "answer": "c",
+    "correct_answer_text": "4/13",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_068.json"
+  },
+  {
+    "id": 2433,
+    "question": "A box contains 5 red, 7 white and 8 blue balls. If two balls are drawn without replacement, what is the probability that both are white?",
+    "options": {
+      "a": "21/190",
+      "b": "7/19",
+      "c": "49/400",
+      "d": "3/20"
+    },
+    "answer": "a",
+    "correct_answer_text": "21/190",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_068.json"
+  },
+  {
+    "id": 2434,
+    "question": "Determine the number of ways a committee of 3 can be chosen from a group of 10 people.",
+    "options": {
+      "a": "720",
+      "b": "120",
+      "c": "30",
+      "d": "240"
+    },
+    "answer": "b",
+    "correct_answer_text": "120",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_068.json"
+  },
+  {
+    "id": 2435,
+    "question": "What is the mean of the following numbers: 12, 15, 18, 22, 25, 30?",
+    "options": {
+      "a": "18.5",
+      "b": "20.3",
+      "c": "21.0",
+      "d": "19.8"
+    },
+    "answer": "b",
+    "correct_answer_text": "20.3",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_068.json"
+  },
+  {
+    "id": 2436,
+    "question": "Find the median of the data set: 5, 8, 12, 15, 18, 22, 25.",
+    "options": {
+      "a": "12",
+      "b": "15",
+      "c": "18",
+      "d": "14"
+    },
+    "answer": "b",
+    "correct_answer_text": "15",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_068.json"
+  },
+  {
+    "id": 2437,
+    "question": "How many ways can the letters of the word 'GOOGLE' be arranged?",
+    "options": {
+      "a": "720",
+      "b": "360",
+      "c": "180",
+      "d": "120"
+    },
+    "answer": "c",
+    "correct_answer_text": "180",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_068.json"
+  },
+  {
+    "id": 2438,
+    "question": "A die is rolled once. What is the probability of getting a number greater than 4?",
+    "options": {
+      "a": "1/2",
+      "b": "1/3",
+      "c": "2/3",
+      "d": "1/6"
+    },
+    "answer": "b",
+    "correct_answer_text": "1/3",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_068.json"
+  },
+  {
+    "id": 2439,
+    "question": "In a group of 50 students, 30 play basketball, 20 play volleyball, and 10 play both. How many students play neither sport?",
+    "options": {
+      "a": "0",
+      "b": "10",
+      "c": "20",
+      "d": "5"
+    },
+    "answer": "b",
+    "correct_answer_text": "10",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_068.json"
+  },
+  {
+    "id": 2440,
+    "question": "Find the standard deviation of the numbers: 2, 4, 6, 8, 10.",
+    "options": {
+      "a": "2.83",
+      "b": "4.0",
+      "c": "8.0",
+      "d": "2.0"
+    },
+    "answer": "a",
+    "correct_answer_text": "2.83",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_068.json"
+  },
+  {
+    "id": 2441,
+    "question": "What is the probability of drawing a red face card from a standard deck?",
+    "options": {
+      "a": "3/26",
+      "b": "6/52",
+      "c": "1/13",
+      "d": "Both a and b"
+    },
+    "answer": "d",
+    "correct_answer_text": "Both a and b",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_068.json"
+  },
+  {
+    "id": 2442,
+    "question": "A bag contains 3 red, 4 green and 5 blue marbles. One marble is drawn and replaced, then a second is drawn. What is the probability that both are red?",
+    "options": {
+      "a": "1/16",
+      "b": "1/22",
+      "c": "1/4",
+      "d": "9/144"
+    },
+    "answer": "a",
+    "correct_answer_text": "1/16",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_068.json"
+  },
+  {
+    "id": 2443,
+    "question": "How many ways can 5 books be arranged on a shelf?",
+    "options": {
+      "a": "120",
+      "b": "24",
+      "c": "60",
+      "d": "25"
+    },
+    "answer": "a",
+    "correct_answer_text": "120",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_068.json"
+  },
+  {
+    "id": 2444,
+    "question": "What is the range of the following data: 15, 22, 18, 35, 12, 40, 28?",
+    "options": {
+      "a": "25",
+      "b": "28",
+      "c": "30",
+      "d": "22"
+    },
+    "answer": "b",
+    "correct_answer_text": "28",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_068.json"
+  },
+  {
+    "id": 2445,
+    "question": "If the probability of an event is 0.45, what is the probability of its complement?",
+    "options": {
+      "a": "0.45",
+      "b": "0.55",
+      "c": "1.0",
+      "d": "0"
+    },
+    "answer": "b",
+    "correct_answer_text": "0.55",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_068.json"
+  },
+  {
+    "id": 2446,
+    "question": "How many combinations of 2 items can be made from 5 unique items?",
+    "options": {
+      "a": "10",
+      "b": "20",
+      "c": "5",
+      "d": "120"
+    },
+    "answer": "a",
+    "correct_answer_text": "10",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_068.json"
+  },
+  {
+    "id": 2447,
+    "question": "Find the mode of the data: 2, 3, 3, 5, 7, 8, 8, 8, 10.",
+    "options": {
+      "a": "3",
+      "b": "8",
+      "c": "10",
+      "d": "5"
+    },
+    "answer": "b",
+    "correct_answer_text": "8",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_068.json"
+  },
+  {
+    "id": 2448,
+    "question": "What is the probability of rolling a sum of 7 with two dice?",
+    "options": {
+      "a": "1/6",
+      "b": "1/12",
+      "c": "7/36",
+      "d": "1/36"
+    },
+    "answer": "a",
+    "correct_answer_text": "1/6",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_068.json"
+  },
+  {
+    "id": 2449,
+    "question": "If you draw a card from a standard deck, what is the probability that it is a king given that it is a face card?",
+    "options": {
+      "a": "1/3",
+      "b": "1/13",
+      "c": "4/52",
+      "d": "1/4"
+    },
+    "answer": "a",
+    "correct_answer_text": "1/3",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_069.json"
+  },
+  {
+    "id": 2450,
+    "question": "A coin is tossed until a head appears. What is the probability that it takes exactly 3 tosses?",
+    "options": {
+      "a": "1/8",
+      "b": "1/4",
+      "c": "1/2",
+      "d": "1/3"
+    },
+    "answer": "a",
+    "correct_answer_text": "1/8",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_069.json"
+  },
+  {
+    "id": 2451,
+    "question": "Find the value of 5! (5 factorial).",
+    "options": {
+      "a": "20",
+      "b": "60",
+      "c": "120",
+      "d": "100"
+    },
+    "answer": "c",
+    "correct_answer_text": "120",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_069.json"
+  },
+  {
+    "id": 2452,
+    "question": "How many ways can a president and vice-president be chosen from a group of 8 people?",
+    "options": {
+      "a": "56",
+      "b": "28",
+      "c": "64",
+      "d": "15"
+    },
+    "answer": "a",
+    "correct_answer_text": "56",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_069.json"
+  },
+  {
+    "id": 2453,
+    "question": "What is the probability of drawing a jack and then a queen from a standard deck without replacement?",
+    "options": {
+      "a": "4/663",
+      "b": "1/169",
+      "c": "8/52",
+      "d": "16/2652"
+    },
+    "answer": "a",
+    "correct_answer_text": "4/663",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_069.json"
+  },
+  {
+    "id": 2454,
+    "question": "In a binomial distribution with n=10 and p=0.5, what is the mean?",
+    "options": {
+      "a": "2",
+      "b": "5",
+      "c": "2.5",
+      "d": "10"
+    },
+    "answer": "b",
+    "correct_answer_text": "5",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_069.json"
+  },
+  {
+    "id": 2455,
+    "question": "What is the probability of rolling an odd number or a number less than 3 on a single die roll?",
+    "options": {
+      "a": "2/3",
+      "b": "1/2",
+      "c": "5/6",
+      "d": "1/3"
+    },
+    "answer": "a",
+    "correct_answer_text": "2/3",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_069.json"
+  },
+  {
+    "id": 2456,
+    "question": "How many subsets can be formed from a set with 4 elements?",
+    "options": {
+      "a": "8",
+      "b": "16",
+      "c": "4",
+      "d": "12"
+    },
+    "answer": "b",
+    "correct_answer_text": "16",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_069.json"
+  },
+  {
+    "id": 2457,
+    "question": "If seven coins are tossed, find the probability that there will be at least five heads.",
+    "options": {
+      "a": "21/128",
+      "b": "29/128",
+      "c": "32/128",
+      "d": "28/128"
+    },
+    "answer": "b",
+    "correct_answer_text": "29/128",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_069.json"
+  },
+  {
+    "id": 2458,
+    "question": "If seven coins are tossed, find the probability that will just have three heads.",
+    "options": {
+      "a": "33/128",
+      "b": "35/128",
+      "c": "30/129",
+      "d": "37/129"
+    },
+    "answer": "b",
+    "correct_answer_text": "35/128",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_069.json"
+  },
+  {
+    "id": 2459,
+    "question": "If seven coins are tossed simultaneously, find the probability that there will be at least six tails.",
+    "options": {
+      "a": "2/128",
+      "b": "3/128",
+      "c": "1/16",
+      "d": "2/16"
+    },
+    "answer": "c",
+    "correct_answer_text": "1/16",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_069.json"
+  },
+  {
+    "id": 2460,
+    "question": "A face of a coin is either head or tail. If three coins are tossed, what is are the probability of getting three tails?",
+    "options": {
+      "a": "1/8",
+      "b": "1/2",
+      "c": "1/4",
+      "d": "1/6"
+    },
+    "answer": "a",
+    "correct_answer_text": "1/8",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_069.json"
+  },
+  {
+    "id": 2461,
+    "question": "A marksman hits 75% of all his targets. What is the probability that he will hit exactly 4 of his next ten shot?",
+    "options": {
+      "a": "0.01622",
+      "b": "0.4055",
+      "c": "0.004055",
+      "d": "0.001622"
+    },
+    "answer": "d",
+    "correct_answer_text": "0.001622",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_069.json"
+  },
+  {
+    "id": 2462,
+    "question": "How many four-letter combinations can be made from the letters of the word, FARADAY?",
+    "options": {
+      "a": "446",
+      "b": "315",
+      "c": "218",
+      "d": "476"
+    },
+    "answer": "c",
+    "correct_answer_text": "218",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_069.json"
+  },
+  {
+    "id": 2463,
+    "question": "In a shooting game, the probability that Boto and Toto will hit a target is 2/3 and 3/4 respectively. What is the probability that the target is hit when both shoot at it once?",
+    "options": {
+      "a": "13/5",
+      "b": "5/13",
+      "c": "7/12",
+      "d": "11/12"
+    },
+    "answer": "d",
+    "correct_answer_text": "11/12",
+    "category": "Math",
+    "sub_category": "Probability and Statistics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "batch_069.json"
   },
   {
     "id": 545,
