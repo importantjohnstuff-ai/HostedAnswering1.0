@@ -3,13 +3,13 @@
         "id": 2309,
         "question": "What is the area (in square units) bounded by the curve y^2 = x and the line x - 4 = 0?",
         "options": {
-            "a": "30/3",
-            "b": "32/3",
-            "c": "31/3",
-            "d": "29/3"
+            "a": "30\/3",
+            "b": "32\/3",
+            "c": "31\/3",
+            "d": "29\/3"
         },
         "answer": "b",
-        "correct_answer_text": "32/3",
+        "correct_answer_text": "32\/3",
         "category": "Math",
         "sub_category": "Integral Calculus",
         "solutions": [],
@@ -125,7 +125,7 @@
         "answer": "d",
         "correct_answer_text": "15.39",
         "category": "Math",
-        "sub_category": "Minima/Maxima",
+        "sub_category": "Minima\/Maxima",
         "solutions": [],
         "locked_by": null,
         "flagged_by": null,
@@ -134,15 +134,15 @@
     },
     {
         "id": 2316,
-        "question": "A water trough is 10 m long and has vertical cross-sections shaped as an isosceles trapezoid (30 cm wide bottom, 80 cm wide top, 50 cm height). If the trough is filled at 0.2 m^3/min, how fast is the water rising when it is 30 cm deep?",
+        "question": "A water trough is 10 m long and has vertical cross-sections shaped as an isosceles trapezoid (30 cm wide bottom, 80 cm wide top, 50 cm height). If the trough is filled at 0.2 m^3\/min, how fast is the water rising when it is 30 cm deep?",
         "options": {
-            "a": "1/30",
-            "b": "1/25",
-            "c": "1/40",
-            "d": "1/35"
+            "a": "1\/30",
+            "b": "1\/25",
+            "c": "1\/40",
+            "d": "1\/35"
         },
         "answer": "a",
-        "correct_answer_text": "1/30",
+        "correct_answer_text": "1\/30",
         "category": "Math",
         "sub_category": "Differential Calculus",
         "solutions": [],
@@ -194,12 +194,12 @@
         "question": "Determine the slope of the orthonormal (normal) line to the curve y = x^3 - 2x at the point (2, 4)?",
         "options": {
             "a": "10",
-            "b": "1/10",
-            "c": "-1/10",
+            "b": "1\/10",
+            "c": "-1\/10",
             "d": "1"
         },
         "answer": "c",
-        "correct_answer_text": "-1/10",
+        "correct_answer_text": "-1\/10",
         "category": "Math",
         "sub_category": "Differential Calculus",
         "solutions": [],
@@ -267,15 +267,15 @@
     },
     {
         "id": 2323,
-        "question": "Find the second derivative of y = arcsec (1/x)?",
+        "question": "Find the second derivative of y = arcsec (1\/x)?",
         "options": {
-            "a": "x / (1 + x^2)^(1/2)",
-            "b": "x / (1 + x^2)^(3/2)",
-            "c": "x / (1 - x^2)^(1/2)",
-            "d": "-x / (1 - x^2)^(3/2)"
+            "a": "x \/ (1 + x^2)^(1\/2)",
+            "b": "x \/ (1 + x^2)^(3\/2)",
+            "c": "x \/ (1 - x^2)^(1\/2)",
+            "d": "-x \/ (1 - x^2)^(3\/2)"
         },
         "answer": "d",
-        "correct_answer_text": "-x / (1 - x^2)^(3/2)",
+        "correct_answer_text": "-x \/ (1 - x^2)^(3\/2)",
         "category": "Math",
         "sub_category": "Differential Calculus",
         "solutions": [],
@@ -286,15 +286,15 @@
     },
     {
         "id": 2324,
-        "question": "Find dy/dx if e^y = y + x.",
+        "question": "Find dy\/dx if e^y = y + x.",
         "options": {
-            "a": "1 / (x + y)",
+            "a": "1 \/ (x + y)",
             "b": "a^x - y",
-            "c": "1 / (x + y - 1)",
-            "d": "e^y / (x + y)"
+            "c": "1 \/ (x + y - 1)",
+            "d": "e^y \/ (x + y)"
         },
         "answer": "c",
-        "correct_answer_text": "1 / (x + y - 1)",
+        "correct_answer_text": "1 \/ (x + y - 1)",
         "category": "Math",
         "sub_category": "Differential Calculus",
         "solutions": [],
@@ -315,8 +315,15 @@
         "answer": "a",
         "correct_answer_text": "11.2 m",
         "category": "Math",
-        "sub_category": "Minima/Maxima",
-        "solutions": [],
+        "sub_category": "Minima\/Maxima",
+        "solutions": [
+            {
+                "solution_id": "sol_69a1350b5f6dc",
+                "user": "Keypee",
+                "chosen_option": "a",
+                "image": "uploads\/solution_2325_1772172555.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
@@ -327,15 +334,22 @@
         "question": "What is the volume, in cm3, of the largest cylinder that can be fitted inside a cone that is 30 cm tall and 18 cm across at the base?",
         "options": {
             "a": "420 pi",
-            "b": "240 pi",
+            "b": "540 pi",
             "c": "360 pi",
             "d": "300 pi"
         },
         "answer": "c",
         "correct_answer_text": "360 pi",
         "category": "Math",
-        "sub_category": "Minima/Maxima",
-        "solutions": [],
+        "sub_category": "Minima\/Maxima",
+        "solutions": [
+            {
+                "solution_id": "sol_69a13c1c2e09a",
+                "user": "Keypee",
+                "chosen_option": "c",
+                "image": "uploads\/solution_2326_1772174364.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
@@ -353,8 +367,15 @@
         "answer": "d",
         "correct_answer_text": "11.46",
         "category": "Math",
-        "sub_category": "Minima/Maxima",
-        "solutions": [],
+        "sub_category": "Minima\/Maxima",
+        "solutions": [
+            {
+                "solution_id": "sol_69a13e61d3231",
+                "user": "Keypee",
+                "chosen_option": "d",
+                "image": "uploads\/solution_2327_1772174945.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
@@ -372,8 +393,15 @@
         "answer": "b",
         "correct_answer_text": "1.69 ft",
         "category": "Math",
-        "sub_category": "Minima/Maxima",
-        "solutions": [],
+        "sub_category": "Minima\/Maxima",
+        "solutions": [
+            {
+                "solution_id": "sol_69a13cdd54a82",
+                "user": "Keypee",
+                "chosen_option": "b",
+                "image": "uploads\/solution_2328_1772174557.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,

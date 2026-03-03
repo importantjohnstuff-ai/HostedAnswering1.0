@@ -8,10 +8,21 @@
             "c": "567.45 cm3",
             "d": "842.12 cm3"
         },
-        "answer": "a",
         "correct_answer_text": "743.22 cm3",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [
+            {
+                "solution_id": "sol_69a14ad75a9bd",
+                "user": "Joy",
+                "chosen_option": "a",
+                "image": "uploads\/solution_1850_1772178135.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1851,
@@ -22,10 +33,14 @@
             "c": "1.86",
             "d": "1.92"
         },
-        "answer": "b",
         "correct_answer_text": "1.80",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1852,
@@ -36,10 +51,21 @@
             "c": "a circle",
             "d": "an ellipse"
         },
-        "answer": "a",
         "correct_answer_text": "a parabola",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [
+            {
+                "solution_id": "sol_69a14af9d8cae",
+                "user": "Joy",
+                "chosen_option": "a",
+                "image": null
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1853,
@@ -50,10 +76,21 @@
             "c": "x2+y2+8x+10y-12=0",
             "d": "x2+y2-8x+10y+12=0"
         },
-        "answer": "c",
         "correct_answer_text": "x2+y2+8x+10y-12=0",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [
+            {
+                "solution_id": "sol_69a14b743c176",
+                "user": "Joy",
+                "chosen_option": "c",
+                "image": "uploads\/solution_1853_1772178292.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1854,
@@ -64,10 +101,21 @@
             "c": "43.21 m",
             "d": "48.21 m"
         },
-        "answer": "b",
         "correct_answer_text": "65.42 m",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [
+            {
+                "solution_id": "sol_69a14be347d1b",
+                "user": "Joy",
+                "chosen_option": "a",
+                "image": "uploads\/solution_1854_1772178403.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1855,
@@ -78,10 +126,21 @@
             "c": "(1.5,2)",
             "d": "(3,1.5)"
         },
-        "answer": "a",
         "correct_answer_text": "(2,1.5)",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [
+            {
+                "solution_id": "sol_69a14ba452776",
+                "user": "Joy",
+                "chosen_option": "a",
+                "image": "uploads\/solution_1855_1772178340.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1856,
@@ -92,10 +151,21 @@
             "c": "36.44",
             "d": "32.1"
         },
-        "answer": "a",
         "correct_answer_text": "34.64",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [
+            {
+                "solution_id": "sol_69a14c45058b6",
+                "user": "Joy",
+                "chosen_option": "a",
+                "image": "uploads\/solution_1856_1772178501.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1857,
@@ -106,10 +176,21 @@
             "c": "5",
             "d": "6"
         },
-        "answer": "a",
         "correct_answer_text": "3.3",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [
+            {
+                "solution_id": "sol_69a14c91682ca",
+                "user": "Joy",
+                "chosen_option": "a",
+                "image": "uploads\/solution_1857_1772178577.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1858,
@@ -120,10 +201,21 @@
             "c": "32",
             "d": "30"
         },
-        "answer": "a",
         "correct_answer_text": "28",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [
+            {
+                "solution_id": "sol_69a14cae58655",
+                "user": "Joy",
+                "chosen_option": "a",
+                "image": "uploads\/solution_1858_1772178606.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1859,
@@ -134,10 +226,21 @@
             "c": "(2.50, 1.50)",
             "d": "(2.80, 1.90)"
         },
-        "answer": "b",
         "correct_answer_text": "(2.30, 1.80)",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [
+            {
+                "solution_id": "sol_69a14d08e4a1c",
+                "user": "Joy",
+                "chosen_option": "b",
+                "image": "uploads\/solution_1859_1772178696.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1860,
@@ -148,10 +251,21 @@
             "c": "3",
             "d": "-3"
         },
-        "answer": "a",
         "correct_answer_text": "8",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [
+            {
+                "solution_id": "sol_69a14ded6a175",
+                "user": "Joy",
+                "chosen_option": "a",
+                "image": "uploads\/solution_1860_1772178925.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1861,
@@ -162,24 +276,46 @@
             "c": "5.8",
             "d": "6.2"
         },
-        "answer": "b",
         "correct_answer_text": "5.4",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [
+            {
+                "solution_id": "sol_69a14d2366474",
+                "user": "Joy",
+                "chosen_option": "b",
+                "image": "uploads\/solution_1861_1772178723.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1862,
         "question": "Find the acute angle formed by the lines 2x + y - 8 = 0 and x + 3y + 4 = 0",
         "options": {
-            "a": "30°",
-            "b": "35°",
-            "c": "45°",
-            "d": "60°"
+            "a": "30\u00b0",
+            "b": "35\u00b0",
+            "c": "45\u00b0",
+            "d": "60\u00b0"
         },
-        "answer": "c",
-        "correct_answer_text": "45°",
+        "correct_answer_text": "45\u00b0",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [
+            {
+                "solution_id": "sol_69a14d7b3dff6",
+                "user": "Joy",
+                "chosen_option": "c",
+                "image": "uploads\/solution_1862_1772178811.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1863,
@@ -190,10 +326,21 @@
             "c": "(2.25, 2.00)",
             "d": "(1.75, 1.50)"
         },
-        "answer": "a",
         "correct_answer_text": "(1.92, 1.83)",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [
+            {
+                "solution_id": "sol_69a14d9f66e0b",
+                "user": "Joy",
+                "chosen_option": "a",
+                "image": "uploads\/solution_1863_1772178847.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1864,
@@ -204,10 +351,14 @@
             "c": "10.97 ft3",
             "d": "16.64 ft3"
         },
-        "answer": "d",
         "correct_answer_text": "16.64 ft3",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1865,
@@ -218,10 +369,14 @@
             "c": "Acute angle",
             "d": "Bearing"
         },
-        "answer": "a",
         "correct_answer_text": "Angle of elevation",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1866,
@@ -232,10 +387,14 @@
             "c": "(2.75, 3.10)",
             "d": "(2.20, 2.80)"
         },
-        "answer": "b",
         "correct_answer_text": "(2.40, 2.60)",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1867,
@@ -246,10 +405,14 @@
             "c": "1.534",
             "d": "6.234"
         },
-        "answer": "b",
         "correct_answer_text": "2.752",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1868,
@@ -260,23 +423,31 @@
             "c": "600pi",
             "d": "700pi"
         },
-        "answer": "d",
         "correct_answer_text": "700pi",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1869,
         "question": "The acute angle between the two straight lines: y = 3x + 2 and y = 4x + 7 is close to:",
         "options": {
             "a": "0.4",
-            "b": "90°",
-            "c": "4.39°",
-            "d": "5.19°"
+            "b": "90\u00b0",
+            "c": "4.39\u00b0",
+            "d": "5.19\u00b0"
         },
-        "answer": "c",
-        "correct_answer_text": "4.39°",
+        "correct_answer_text": "4.39\u00b0",
         "category": "Math",
-        "sub_category": "Geometry"
+        "sub_category": "Geometry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     }
 ]

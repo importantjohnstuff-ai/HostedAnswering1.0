@@ -104,14 +104,21 @@
         "question": "Find the equation of the perpendicular bisector of the line joining (4,0) & (-6,-3).",
         "options": {
             "a": "20x + 6y - 29 = 0",
-            "c": "20x - 6y - 29 = 0",
             "b": "20x + 6y + 29 = 0",
+            "c": "20x - 6y - 29 = 0",
             "d": "20x - 6y + 29 = 0"
         },
         "correct_answer_text": "",
         "category": "Math",
         "sub_category": "Geometry",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_69a141958dbe3",
+                "user": "Joy",
+                "chosen_option": "b",
+                "image": "uploads\/solution_505_1772175765.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
@@ -197,7 +204,14 @@
         "correct_answer_text": "",
         "category": "Math",
         "sub_category": "Geometry",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_69a1436449117",
+                "user": "Joy",
+                "chosen_option": "b",
+                "image": "uploads\/solution_509_1772176228.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
@@ -208,14 +222,21 @@
         "question": "Which of the following equations describes a circle with center at (2,3) and passing through the point (-3,-4)?",
         "options": {
             "a": "$(x+3)^2 + (y+4)^2 = 85$",
-            "c": "$(x+3)^2 + (y-2)^2 = 74$",
             "b": "$(x+3)^2 + (y+2)^2 = \\sqrt{74}$",
+            "c": "$(x+3)^2 + (y-2)^2 = 74$",
             "d": "$(x-2)^2 + (y-3)^2 = 74$"
         },
         "correct_answer_text": "",
         "category": "Math",
         "sub_category": "Geometry",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_69a142f86f45b",
+                "user": "Joy",
+                "chosen_option": "d",
+                "image": "uploads\/solution_510_1772176120.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
@@ -233,7 +254,14 @@
         "correct_answer_text": "",
         "category": "Math",
         "sub_category": "Geometry",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_69a1421d59d48",
+                "user": "Joy",
+                "chosen_option": "c",
+                "image": "uploads\/solution_511_1772175901.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
@@ -312,14 +340,21 @@
         "question": "Find the area of the enclosed by the curve $9x^2 + 18x + 25y^2 - 100y = 116$",
         "options": {
             "a": "15\u03c0 sq. units",
-            "c": "24\u03c0 sq. units",
             "b": "20\u03c0 sq. units",
+            "c": "24\u03c0 sq. units",
             "d": "31\u03c0 sq. units"
         },
         "correct_answer_text": "",
         "category": "Math",
         "sub_category": "Geometry",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_69a1425961aab",
+                "user": "Joy",
+                "chosen_option": "a",
+                "image": "uploads\/solution_515_1772175961.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
@@ -362,7 +397,14 @@
         "correct_answer_text": "",
         "category": "Math",
         "sub_category": "Geometry",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_69a143a057a97",
+                "user": "Joy",
+                "chosen_option": "a",
+                "image": "uploads\/solution_517_1772176288.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
@@ -405,7 +447,14 @@
         "correct_answer_text": "",
         "category": "Math",
         "sub_category": "Geometry",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_69a143f88a605",
+                "user": "Joy",
+                "chosen_option": "c",
+                "image": "uploads\/solution_519_1772176376.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,

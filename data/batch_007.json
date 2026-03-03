@@ -396,7 +396,14 @@
         "correct_answer_text": "",
         "category": "Math",
         "sub_category": "Integral Calculus",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_69a135af8bc71",
+                "user": "Joy",
+                "chosen_option": "b",
+                "image": "uploads\/solution_139_1772172719.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,

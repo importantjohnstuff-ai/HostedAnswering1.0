@@ -61,7 +61,14 @@
         "correct_answer_text": "",
         "category": "Math",
         "sub_category": "Geometry",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_69a142b9c45f8",
+                "user": "mark",
+                "chosen_option": "c",
+                "image": "uploads\/solution_523_1772176057.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
@@ -79,7 +86,14 @@
         "correct_answer_text": "",
         "category": "Math",
         "sub_category": "Geometry",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_69a1432b674fe",
+                "user": "mark",
+                "chosen_option": "c",
+                "image": "uploads\/solution_524_1772176171.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,

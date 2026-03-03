@@ -1,17 +1,21 @@
 [
     {
         "id": 1890,
-        "question": "Compute the limit of (z^3 + 6iz^2 + 12z + 8i) / (z - 2i) as z approaches 2i?",
+        "question": "Compute the limit of (z^3 + 6iz^2 + 12z + 8i) \/ (z - 2i) as z approaches 2i?",
         "options": {
             "a": "12i",
             "b": "12 + 8i",
             "c": "-24",
             "d": "816i"
         },
-        "answer": "d",
         "correct_answer_text": "816i",
         "category": "Math",
-        "sub_category": "Advanced Math"
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1891,
@@ -22,24 +26,39 @@
             "c": "-(-6i + 9j + 4k)",
             "d": "-(16i - 6j + 4k)"
         },
-        "answer": "b",
         "correct_answer_text": "-(12i - 9j + 4k)",
         "category": "Math",
-        "sub_category": "Vector Analysis"
+        "sub_category": "Vector Analysis",
+        "solutions": [
+            {
+                "solution_id": "sol_69a14bc571b3c",
+                "user": "Keypee",
+                "chosen_option": "a",
+                "image": "uploads\/solution_1891_1772178373.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1892,
         "question": "Determine the Laplace transform: L{e^(-3t) sinh(2t)}",
         "options": {
-            "a": "3 / (s^2 - 6s + 4)",
-            "b": "2 / (s^2 + 6s + 5)",
-            "c": "3 / (s^2 + 4s - 6)",
-            "d": "4 / (s^2 + 6s + 6)"
+            "a": "3 \/ (s^2 - 6s + 4)",
+            "b": "2 \/ (s^2 + 6s + 5)",
+            "c": "3 \/ (s^2 + 4s - 6)",
+            "d": "4 \/ (s^2 + 6s + 6)"
         },
-        "answer": "b",
-        "correct_answer_text": "2 / (s^2 + 6s + 5)",
+        "correct_answer_text": "2 \/ (s^2 + 6s + 5)",
         "category": "Math",
-        "sub_category": "Laplace Transform"
+        "sub_category": "Laplace Transform",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1893,
@@ -50,10 +69,14 @@
             "c": "Gauss-Seidel is iterative while Gaussian elimination is non-iterative",
             "d": "Gauss-Seidel can solve even the sparse systems where some coefficients are zero."
         },
-        "answer": "c",
         "correct_answer_text": "Gauss-Seidel is iterative while Gaussian elimination is non-iterative",
         "category": "Math",
-        "sub_category": "Numerical Methods"
+        "sub_category": "Numerical Methods",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1894,
@@ -64,38 +87,50 @@
             "c": "43.3",
             "d": "12.9"
         },
-        "answer": "c",
         "correct_answer_text": "43.3",
         "category": "Math",
-        "sub_category": "Vector Analysis"
+        "sub_category": "Vector Analysis",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1895,
         "question": "Find the Laplace transform of: t cos(2t)",
         "options": {
-            "a": "(s^2 - 4) / (s^2 + 4)^2",
-            "b": "(s^2 + 4) / (s^2 - 4)^2",
-            "c": "(s^2 + 2) / (s^2 + 4)^2",
-            "d": "(s^2 - 2) / (s^2 - 4)^2"
+            "a": "(s^2 - 4) \/ (s^2 + 4)^2",
+            "b": "(s^2 + 4) \/ (s^2 - 4)^2",
+            "c": "(s^2 + 2) \/ (s^2 + 4)^2",
+            "d": "(s^2 - 2) \/ (s^2 - 4)^2"
         },
-        "answer": "a",
-        "correct_answer_text": "(s^2 - 4) / (s^2 + 4)^2",
+        "correct_answer_text": "(s^2 - 4) \/ (s^2 + 4)^2",
         "category": "Math",
-        "sub_category": "Laplace Transform"
+        "sub_category": "Laplace Transform",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1896,
         "question": "Perform the integration: integral from i - 2 to i + 2 of z^9 dz",
         "options": {
             "a": "0",
-            "b": "14/23",
-            "c": "91/770",
-            "d": "2571/11"
+            "b": "14\/23",
+            "c": "91\/770",
+            "d": "2571\/11"
         },
-        "answer": "a",
         "correct_answer_text": "0",
         "category": "Math",
-        "sub_category": "Advanced Math"
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1897,
@@ -106,24 +141,32 @@
             "c": "Echelon",
             "d": "Jacobian"
         },
-        "answer": "c",
         "correct_answer_text": "Echelon",
         "category": "Math",
-        "sub_category": "Numerical Methods"
+        "sub_category": "Numerical Methods",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1898,
         "question": "What is the Laplace transform of cosh(t) - sinh(t)?",
         "options": {
-            "a": "2 / (s^2 - 1)",
-            "b": "1 / (s + 1)",
-            "c": "1 / (s - 1)",
-            "d": "2 / (s - 1)"
+            "a": "2 \/ (s^2 - 1)",
+            "b": "1 \/ (s + 1)",
+            "c": "1 \/ (s - 1)",
+            "d": "2 \/ (s - 1)"
         },
-        "answer": "b",
-        "correct_answer_text": "1 / (s + 1)",
+        "correct_answer_text": "1 \/ (s + 1)",
         "category": "Math",
-        "sub_category": "Laplace Transform"
+        "sub_category": "Laplace Transform",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1899,
@@ -134,38 +177,64 @@
             "c": "y^2 - 2x^2 + 6xz",
             "d": "2x^2z - 6yz"
         },
-        "answer": "b",
         "correct_answer_text": "y^2 + 2x^2z - 6yz",
         "category": "Math",
-        "sub_category": "Vector Analysis"
+        "sub_category": "Vector Analysis",
+        "solutions": [
+            {
+                "solution_id": "sol_69a1445b0f8ce",
+                "user": "Keypee",
+                "chosen_option": "b",
+                "image": "uploads\/solution_1899_1772176475.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1900,
         "question": "Find the area of the triangle with vertices (2, -3, 1), (1, -1, 2), and (-1, 2, 3):",
         "options": {
-            "a": "(sqrt(3))/2",
+            "a": "(sqrt(3))\/2",
             "b": "4",
-            "c": "(sqrt(5))/2",
-            "d": "7/2"
+            "c": "(sqrt(5))\/2",
+            "d": "7\/2"
         },
-        "answer": "c",
-        "correct_answer_text": "(sqrt(5))/2",
+        "correct_answer_text": "(sqrt(5))\/2",
         "category": "Math",
-        "sub_category": "Vector Analysis"
+        "sub_category": "Vector Analysis",
+        "solutions": [
+            {
+                "solution_id": "sol_69a145713a0d4",
+                "user": "Keypee",
+                "chosen_option": "a",
+                "image": "uploads\/solution_1900_1772176753.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1901,
-        "question": "Find the limit of (z + 4)(z^2 + 2iz + 15) / (z - 3i) as z approaches 3i?",
+        "question": "Find the limit of (z + 4)(z^2 + 2iz + 15) \/ (z - 3i) as z approaches 3i?",
         "options": {
             "a": "-24 + 32i",
             "b": "26 + 36i",
             "c": "-12 - 18i",
             "d": "40 - 20i"
         },
-        "answer": "a",
         "correct_answer_text": "-24 + 32i",
         "category": "Math",
-        "sub_category": "Advanced Math"
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1902,
@@ -176,38 +245,57 @@
             "c": "Newton-Raphson uses averaging while bisection uses derivatives",
             "d": "Newton-Raphson uses derivatives while bisection uses slopes"
         },
-        "answer": "b",
         "correct_answer_text": "Newton-Raphson uses single point while bisection uses bracketing",
         "category": "Math",
-        "sub_category": "Numerical Methods"
+        "sub_category": "Numerical Methods",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1903,
-        "question": "If V = (xy^2)i + (2yx^2z)j - (3yz^2)k, then curl V at point (1, 1, 1) is:",
+        "question": "If V = (xy^2)i + (2yx^2z)j - (3yz^2)k, then curl V at point (1, -1, 1) is:",
         "options": {
             "a": "-(j + 2k)",
             "b": "(i + 3k)",
             "c": "-(i + 2k)",
             "d": "(2i - 3k)"
         },
-        "answer": "c",
         "correct_answer_text": "-(i + 2k)",
         "category": "Math",
-        "sub_category": "Vector Analysis"
+        "sub_category": "Vector Analysis",
+        "solutions": [
+            {
+                "solution_id": "sol_69a14930cc9c8",
+                "user": "Keypee",
+                "chosen_option": "c",
+                "image": "uploads\/solution_1903_1772177712.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1904,
-        "question": "Integrate z^3 / (z - 3i) along a contour enclosing 3i:",
+        "question": "Integrate z^3 \/ (z - 3i) along a contour enclosing 3i:",
         "options": {
             "a": "42pi",
             "b": "54pi",
             "c": "-60pi",
             "d": "-54pi"
         },
-        "answer": "d",
         "correct_answer_text": "-54pi",
         "category": "Math",
-        "sub_category": "Advanced Math"
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1905,
@@ -218,10 +306,14 @@
             "c": "x + 3y + z = 7",
             "d": "2x + 3y + 4z = 6"
         },
-        "answer": "c",
         "correct_answer_text": "x + 3y + z = 7",
         "category": "Math",
-        "sub_category": "Advanced Math"
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1906,
@@ -232,24 +324,32 @@
             "c": "the slope at the initial point is zero",
             "d": "the calculator is defective"
         },
-        "answer": "c",
         "correct_answer_text": "the slope at the initial point is zero",
         "category": "Math",
-        "sub_category": "Numerical Methods"
+        "sub_category": "Numerical Methods",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1907,
-        "question": "Find the limit of sin(7pi * i * z) / z as z approaches 0:",
+        "question": "Find the limit of sin(7pi * i * z) \/ z as z approaches 0:",
         "options": {
             "a": "7pi * i",
             "b": "3pi * i",
             "c": "9pi * i",
             "d": "pi * i"
         },
-        "answer": "a",
         "correct_answer_text": "7pi * i",
         "category": "Math",
-        "sub_category": "Advanced Math"
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1908,
@@ -260,10 +360,14 @@
             "c": "11i - 67j + 52k",
             "d": "78i + 23j - 79k"
         },
-        "answer": "c",
         "correct_answer_text": "11i - 67j + 52k",
         "category": "Math",
-        "sub_category": "Vector Analysis"
+        "sub_category": "Vector Analysis",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 1909,
@@ -274,9 +378,13 @@
             "c": "Does not require the computation of the derivative",
             "d": "Always converges regardless of guess"
         },
-        "answer": "c",
         "correct_answer_text": "Does not require the computation of the derivative",
         "category": "Math",
-        "sub_category": "Numerical Methods"
+        "sub_category": "Numerical Methods",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     }
 ]

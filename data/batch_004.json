@@ -211,7 +211,14 @@
         "correct_answer_text": "",
         "category": "Math",
         "sub_category": "Integral Calculus",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_69a135187a587",
+                "user": "Alfredolim",
+                "chosen_option": "b",
+                "image": "uploads\/solution_69_1772172568.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
@@ -247,7 +254,14 @@
         "correct_answer_text": "",
         "category": "Math",
         "sub_category": "Integral Calculus",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_69a137fdaff1c",
+                "user": "Alfredolim",
+                "chosen_option": "a",
+                "image": "uploads\/solution_71_1772173309.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
@@ -265,7 +279,14 @@
         "correct_answer_text": "",
         "category": "Math",
         "sub_category": "Calculator Technique",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_69a13ca09459f",
+                "user": "mark",
+                "chosen_option": "b",
+                "image": "uploads\/solution_72_1772174496.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
@@ -297,7 +318,7 @@
         "category": "Math",
         "sub_category": "Calculator Technique",
         "solutions": [],
-        "locked_by": null,
+        "locked_by": "John",
         "flagged_by": null,
         "flag_reason": null,
         "hidden_by": null

@@ -104,7 +104,14 @@
         "correct_answer_text": "",
         "category": "Math",
         "sub_category": "Calculator Technique",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_69a12f1350460",
+                "user": "fil",
+                "chosen_option": "a",
+                "image": "uploads\/solution_85_1772171027.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
@@ -297,7 +304,14 @@
         "correct_answer_text": "",
         "category": "Math",
         "sub_category": "Calculator Technique",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_69a13fef6be1d",
+                "user": "mark",
+                "chosen_option": "b",
+                "image": "uploads\/solution_93_1772175343.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
@@ -390,7 +404,14 @@
         "correct_answer_text": "",
         "category": "Math",
         "sub_category": "Calculator Technique",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_69a1365b217aa",
+                "user": "fil",
+                "chosen_option": "a",
+                "image": "uploads\/solution_99_1772172891.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,

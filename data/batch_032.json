@@ -83,7 +83,14 @@
         "correct_answer_text": "110.5 ft.",
         "category": "Math",
         "sub_category": "Minima\/Maxima",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_69a12f1856169",
+                "user": "Keypee",
+                "chosen_option": "a",
+                "image": "uploads\/solution_1714_1772171032.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
@@ -342,7 +349,14 @@
         "correct_answer_text": "38.1 feet",
         "category": "Math",
         "sub_category": "Minima\/Maxima",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_69a130021def4",
+                "user": "Keypee",
+                "chosen_option": "d",
+                "image": "uploads\/solution_1728_1772171266.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,

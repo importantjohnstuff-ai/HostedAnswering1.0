@@ -1,31 +1,39 @@
 [
     {
         "id": 401,
-        "question": "A water trough is 10 m long and has vertical cross-sections perpendicular to its long axis with the shape of an isosceles trapezoid that is 30 cm wide at the bottom, 80 cm wide at the top, and has height of 50 cm. If the trough is being filled with water at the rate of 0.2 cubic metres per minute, how fast in m/min is the water level rising when the water is 30 cm deep?",
+        "question": "A water trough is 10 m long and has vertical cross-sections perpendicular to its long axis with the shape of an isosceles trapezoid that is 30 cm wide at the bottom, 80 cm wide at the top, and has height of 50 cm. If the trough is being filled with water at the rate of 0.2 cubic metres per minute, how fast in m\/min is the water level rising when the water is 30 cm deep?",
         "options": {
-            "a": "1/30",
-            "b": "1/25",
-            "c": "1/40",
-            "d": "1/35"
+            "a": "1\/30",
+            "b": "1\/25",
+            "c": "1\/40",
+            "d": "1\/35"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Integral Calculus"
+        "sub_category": "Integral Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 402,
         "question": "Determine the slope of the orthonormal line to the curve $y = x^3 - 2x$ at the point (2, 4)?",
         "options": {
             "a": "10",
-            "b": "1/10",
-            "c": "-1/10",
+            "b": "1\/10",
+            "c": "-1\/10",
             "d": "1"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 403,
@@ -36,10 +44,14 @@
             "c": "18",
             "d": "27"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 404,
@@ -50,74 +62,98 @@
             "c": "8.45 m",
             "d": "9.33 m"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 405,
-        "question": "A gold square box is constructed such that the volume is 80 in$^3$. The cost of the base is P300/in$^2$ while the sides cost P200/in$^2$. The box is open on the top. What is the minimum cost of the box?",
+        "question": "A gold square box is constructed such that the volume is 80 in$^3$. The cost of the base is P300\/in$^2$ while the sides cost P200\/in$^2$. The box is open on the top. What is the minimum cost of the box?",
         "options": {
             "a": "P20,242",
             "b": "P23,45",
             "c": "P26,54"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Integral Calculus"
+        "sub_category": "Integral Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 406,
-        "question": "A bubble changes its surface area at 10 in$^2$/min. How fast is its volume changing when r = 2 in?",
-        "options": {},
-        "answer": "",
+        "question": "A bubble changes its surface area at 10 in$^2$\/min. How fast is its volume changing when r = 2 in?",
+        "options": [],
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Integral Calculus"
+        "sub_category": "Integral Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 407,
         "question": "Determine the moment of inertia of the area bounded between $x = y^2$ and $x = 2y$ with respect to y-axis:",
         "options": {
-            "a": "4270/57",
-            "b": "335/51",
-            "c": "1137/31",
-            "d": "4131/140"
+            "a": "4270\/57",
+            "b": "335\/51",
+            "c": "1137\/31",
+            "d": "4131\/140"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Integral Calculus"
+        "sub_category": "Integral Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 408,
         "question": "Determine the moment of inertia of the area bounded between $y = x^2 - 4x$ and $y = 2x - 9$ and the y-axis, with respect to x-axis?",
         "options": {
-            "a": "8181/35",
-            "b": "2174/37",
-            "c": "9183/35",
-            "d": "1724/35"
+            "a": "8181\/35",
+            "b": "2174\/37",
+            "c": "9183\/35",
+            "d": "1724\/35"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Integral Calculus"
+        "sub_category": "Integral Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 409,
         "question": "What is the moment of inertia of the area bounded between $x = y^3$, and $x = y^2$ with respect to the y-axis?",
         "options": {
-            "a": "2/45",
-            "b": "3/77",
-            "c": "1/70",
-            "d": "2/47"
+            "a": "2\/45",
+            "b": "3\/77",
+            "c": "1\/70",
+            "d": "2\/47"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Integral Calculus"
+        "sub_category": "Integral Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 410,
@@ -128,24 +164,32 @@
             "c": "1627.67",
             "d": "972.12"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Integral Calculus"
+        "sub_category": "Integral Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 411,
         "question": "What is the moment of inertia of the area bounded by $x = y^2$, $y = 3$ and the y-axis with respect to the y-axis?",
         "options": {
-            "a": "452/9",
-            "b": "729/7",
-            "c": "100/11",
-            "d": "474/7"
+            "a": "452\/9",
+            "b": "729\/7",
+            "c": "100\/11",
+            "d": "474\/7"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Integral Calculus"
+        "sub_category": "Integral Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 412,
@@ -156,10 +200,14 @@
             "c": "19.8 ft",
             "d": "29.3 ft"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 413,
@@ -170,24 +218,32 @@
             "c": "5.24 sq. units",
             "d": "5.42 sq. units"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Integral Calculus"
+        "sub_category": "Integral Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 414,
         "question": "Determine the center of mass for the region bounded by $y = x^3$ and $y=\\sqrt{x}$?",
         "options": {
-            "a": "(12/25, 3/7)",
-            "b": "(12/25, 4/7)",
-            "c": "(18/25, 3/7)",
-            "d": "(18/25, 4/7)"
+            "a": "(12\/25, 3\/7)",
+            "b": "(12\/25, 4\/7)",
+            "c": "(18\/25, 3\/7)",
+            "d": "(18\/25, 4\/7)"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 415,
@@ -198,38 +254,50 @@
             "c": "8927 cm$^2$",
             "d": "9825 cm$^2$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Integral Calculus"
+        "sub_category": "Integral Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 416,
-        "question": "A pile of sand is filled at a rate of 8000 ft$^3$/hr and the height of the conical pile is always half the radius. At what rate is the height of the pile changing when it is 10 feet high?",
+        "question": "A pile of sand is filled at a rate of 8000 ft$^3$\/hr and the height of the conical pile is always half the radius. At what rate is the height of the pile changing when it is 10 feet high?",
         "options": {
-            "a": "3.18 ft/hr",
-            "b": "1.78 ft/hr",
-            "c": "6.37 ft/hr",
-            "d": "0.89 ft/hr"
+            "a": "3.18 ft\/hr",
+            "b": "1.78 ft\/hr",
+            "c": "6.37 ft\/hr",
+            "d": "0.89 ft\/hr"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 417,
-        "question": "Evaluate: $\\lim_{x \\to 2} (x^2 - 4) / (x - 2)$",
+        "question": "Evaluate: $\\lim_{x \\to 2} (x^2 - 4) \/ (x - 2)$",
         "options": {
             "a": "3",
             "b": "4",
             "c": "2",
             "d": "5"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 418,
@@ -240,10 +308,14 @@
             "c": "-2",
             "d": "-4"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 419,
@@ -254,10 +326,14 @@
             "c": "1000 units",
             "d": "10000 units"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 420,
@@ -268,9 +344,13 @@
             "c": "6.54 m",
             "d": "7.24 m"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Integral Calculus"
+        "sub_category": "Integral Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     }
 ]

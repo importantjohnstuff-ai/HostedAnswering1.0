@@ -176,7 +176,14 @@
         "correct_answer_text": "",
         "category": "Math",
         "sub_category": "Differential Calculus",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_69a14e133f8b4",
+                "user": "E-D boy",
+                "chosen_option": "a",
+                "image": "uploads\/solution_149_1772178963.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,

@@ -129,7 +129,14 @@
         "correct_answer_text": "",
         "category": "Math",
         "sub_category": "Differential Equation",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_69a1475fb097c",
+                "user": "Anonymous",
+                "chosen_option": "a",
+                "image": "uploads\/solution_166_1772177247.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
@@ -202,7 +209,7 @@
         "category": "Math",
         "sub_category": "Differential Equation",
         "solutions": [],
-        "locked_by": null,
+        "locked_by": "Alfredolim",
         "flagged_by": null,
         "flag_reason": null,
         "hidden_by": null
@@ -219,7 +226,14 @@
         "correct_answer_text": "",
         "category": "Math",
         "sub_category": "Differential Equation",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_69a145efc2f47",
+                "user": "Alfredolim",
+                "chosen_option": "a",
+                "image": "uploads\/solution_171_1772176879.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,

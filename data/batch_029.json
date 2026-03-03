@@ -67,12 +67,6 @@
         "sub_category": "Vector Analysis",
         "solutions": [
             {
-                "solution_id": "sol_699ff071428ad",
-                "user": "Lyan",
-                "chosen_option": "a",
-                "image": null
-            },
-            {
                 "solution_id": "sol_699ff0b957ea0",
                 "user": "Lyan",
                 "chosen_option": "a",
@@ -124,7 +118,7 @@
         "id": 1656,
         "question": "The distribution of charge (in coulombs) on a surface is given by Q = 2y - xz^3. What is the magnitude of change of charge given by grad(Q) at (-1, 2, 1)?",
         "options": {
-            "a": "2sqrt(15)",
+            "a": "sqrt(14)",
             "b": "4sqrt(57)",
             "c": "2sqrt(53)",
             "d": "sqrt(93)"
@@ -132,7 +126,14 @@
         "correct_answer_text": "4sqrt(57)",
         "category": "Math",
         "sub_category": "Vector Analysis",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_69a1419d08562",
+                "user": "Keypee",
+                "chosen_option": "a",
+                "image": "uploads\/solution_1656_1772175773.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
@@ -373,7 +374,14 @@
         "correct_answer_text": "-6i + 2j - 4k",
         "category": "Math",
         "sub_category": "Vector Analysis",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_69a14a4e9c25e",
+                "user": "Keypee",
+                "chosen_option": "c",
+                "image": "uploads\/solution_1669_1772177998.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,

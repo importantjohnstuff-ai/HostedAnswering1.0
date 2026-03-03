@@ -2,11 +2,15 @@
     {
         "id": 101,
         "question": "**Example:** Determine the sum of the first eight terms of a geometric progression if the third term is 72 and the fifth term is 80? **ANS: 627.91**",
-        "options": {},
-        "answer": "",
+        "options": [],
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Calculator Technique"
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 102,
@@ -17,10 +21,21 @@
             "c": "4094",
             "d": "4064"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Calculator Technique"
+        "sub_category": "Calculator Technique",
+        "solutions": [
+            {
+                "solution_id": "sol_69a13930de5e6",
+                "user": "fil",
+                "chosen_option": "c",
+                "image": "uploads\/solution_102_1772173616.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 103,
@@ -29,10 +44,14 @@
             "a": "The mean **ANS: 88.73**",
             "b": "The standard deviation (sample) **ANS: 6.72**"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Calculator Technique"
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 104,
@@ -42,38 +61,64 @@
             "b": "$y = 2x^2 + 3x + 5$",
             "c": "$y = 2x^2 - 9x - 1$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Calculator Technique"
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 105,
-        "question": "**Form: $y = Ae^{Bx}$** How long will it take for a 40.0 gram sample of Iodine-131 with half-life equal to 8.040 days to decay to 1/100 its original mass?",
+        "question": "**Form: $y = Ae^{Bx}$** How long will it take for a 40.0 gram sample of Iodine-131 with half-life equal to 8.040 days to decay to 1\/100 its original mass?",
         "options": {
             "a": "53.42 days",
             "b": "78.32 days",
             "c": "43.12 days",
             "d": "12.89 days"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Calculator Technique"
+        "sub_category": "Calculator Technique",
+        "solutions": [
+            {
+                "solution_id": "sol_69a13c187d56c",
+                "user": "fil",
+                "chosen_option": "a",
+                "image": "uploads\/solution_105_1772174360.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 106,
-        "question": "**Form: $y = Ae^{Bx}$** Dramstadtium decays into 1/5 of its initial amount in 20 minutes. What is the half-life of Dramstadtium?",
+        "question": "**Form: $y = Ae^{Bx}$** Dramstadtium decays into 1\/5 of its initial amount in 20 minutes. What is the half-life of Dramstadtium?",
         "options": {
             "a": "5.4 min",
             "b": "7.3 min",
             "c": "8.6 min",
             "d": "10.2 min"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Calculator Technique"
+        "sub_category": "Calculator Technique",
+        "solutions": [
+            {
+                "solution_id": "sol_69a149f975a2b",
+                "user": "John",
+                "chosen_option": "c",
+                "image": "uploads\/solution_106_1772177913.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 107,
@@ -84,19 +129,34 @@
             "c": "66.85 degC",
             "d": "55.96 degC"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Calculator Technique"
+        "sub_category": "Calculator Technique",
+        "solutions": [
+            {
+                "solution_id": "sol_69a13d202a98c",
+                "user": "John",
+                "chosen_option": "c",
+                "image": "uploads\/solution_107_1772174624.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 108,
         "question": "Convert $100_{10}$ to hexadecimal, binary and octal. **Ans. $64_{16}$, $1100100_2$, $144_8$**",
-        "options": {},
-        "answer": "",
+        "options": [],
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Calculator Technique"
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 109,
@@ -107,28 +167,40 @@
             "c": "754",
             "d": "670"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Calculator Technique"
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 110,
         "question": "$$ \\begin{cases} 2x + 5y + 2z = -38 \\\\ 3x - 2y + 4z = 17 \\\\ -6x + y - 7z = -12 \\end{cases} $$ **Sol:** $x = 3, y = -8, z = -2$ $$ \\begin{cases} x + 2y - 3z + 4w = 12 \\\\ 2x + 2y - 2z + 3w = 10 \\\\ 0 + y + z + 0 = -1 \\\\ x - y + z - 2w = -4 \\end{cases} $$ **Ans:** $x = 1, y = 0, z = -1, w = 2$",
-        "options": {},
-        "answer": "",
+        "options": [],
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Calculator Technique"
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 111,
-        "question": "Find the root/s of the following equation: $2x^2 + 5x - 12 = 0$ **ANS: 3/2 and -4**",
-        "options": {},
-        "answer": "",
+        "question": "Find the root\/s of the following equation: $2x^2 + 5x - 12 = 0$ **ANS: 3\/2 and -4**",
+        "options": [],
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Calculator Technique"
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 112,
@@ -139,10 +211,14 @@
             "c": "$\\begin{bmatrix} 3 \\\\ 0 \\\\ 32 \\end{bmatrix}$",
             "d": "$\\begin{bmatrix} 1 \\\\ 32 \\\\ 0 \\end{bmatrix}$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Calculator Technique"
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 113,
@@ -153,10 +229,14 @@
             "c": "43",
             "d": "15"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Calculator Technique"
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 114,
@@ -167,10 +247,14 @@
             "c": "5",
             "d": "-5"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Calculator Technique"
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 115,
@@ -181,24 +265,32 @@
             "c": "$\\begin{bmatrix} 2 & 5 & 6 \\\\ -4 & 1 & 4 \\\\ 2 & 1 & -1 \\end{bmatrix}$",
             "d": "$\\begin{bmatrix} 2 & -1 & 1 \\\\ 5 & 1 & -4 \\\\ 6 & 4 & 2 \\end{bmatrix}$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Calculator Technique"
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 116,
         "question": "Determine the inverse of $X = \\begin{bmatrix} 4 & -5 \\\\ 3 & 2 \\end{bmatrix}$",
         "options": {
-            "a": "$\\begin{bmatrix} 2/23 & 5/23 \\\\ -3/23 & 4/23 \\end{bmatrix}$",
-            "b": "$\\begin{bmatrix} -2/23 & 5/23 \\\\ -3/23 & 3/23 \\end{bmatrix}$",
-            "c": "$\\begin{bmatrix} -5/23 & 2/23 \\\\ 3/23 & 4/23 \\end{bmatrix}$",
-            "d": "$\\begin{bmatrix} 1/23 & -5/23 \\\\ 3/23 & 2/23 \\end{bmatrix}$"
+            "a": "$\\begin{bmatrix} 2\/23 & 5\/23 \\\\ -3\/23 & 4\/23 \\end{bmatrix}$",
+            "b": "$\\begin{bmatrix} -2\/23 & 5\/23 \\\\ -3\/23 & 3\/23 \\end{bmatrix}$",
+            "c": "$\\begin{bmatrix} -5\/23 & 2\/23 \\\\ 3\/23 & 4\/23 \\end{bmatrix}$",
+            "d": "$\\begin{bmatrix} 1\/23 & -5\/23 \\\\ 3\/23 & 2\/23 \\end{bmatrix}$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Calculator Technique"
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 117,
@@ -209,10 +301,14 @@
             "c": "$\\begin{bmatrix} -2 & 1 & 2 \\\\ 8 & -4 & 6 \\\\ 7 & -5 & 7 \\end{bmatrix}$",
             "d": "$\\begin{bmatrix} -6 & 7 & -1 \\\\ 0 & 9 & 6 \\\\ -4 & 3 & 3 \\end{bmatrix}$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Calculator Technique"
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 118,
@@ -223,10 +319,14 @@
             "c": "$0.64\\mathbf{i} + 0.53\\mathbf{j} - 0.78\\mathbf{k}$",
             "d": "$0.28\\mathbf{i} + 0.55\\mathbf{j} - 0.78\\mathbf{k}$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Calculator Technique"
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 119,
@@ -237,10 +337,14 @@
             "c": "$82.2\\mathbf{i} + 164.4\\mathbf{j} - 410.96\\mathbf{k}$ lbs",
             "d": "$-89.4\\mathbf{i} - 27.5\\mathbf{j} - 410.96\\mathbf{k}$ lbs"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Calculator Technique"
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 120,
@@ -251,9 +355,13 @@
             "c": "78.3 degrees",
             "d": "17.3 degrees"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Calculator Technique"
+        "sub_category": "Calculator Technique",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     }
 ]

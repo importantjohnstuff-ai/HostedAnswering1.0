@@ -1413,10 +1413,10 @@ window.ALL_PROBLEMS = [
     "sub_category": "Integral Calculus",
     "solutions": [
       {
-        "solution_id": "sol_699fde39cee83",
+        "solution_id": "sol_69a13f27c871a",
         "user": "Keypee",
         "chosen_option": "a",
-        "image": "uploads/solution_57_1772084793.jpg"
+        "image": "uploads/solution_57_1772175143.jpg"
       }
     ],
     "locked_by": null,
@@ -1723,7 +1723,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Integral Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a135187a587",
+        "user": "Alfredolim",
+        "chosen_option": "b",
+        "image": "uploads/solution_69_1772172568.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -1761,7 +1768,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Integral Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a137fdaff1c",
+        "user": "Alfredolim",
+        "chosen_option": "a",
+        "image": "uploads/solution_71_1772173309.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -1780,7 +1794,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Calculator Technique",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a13ca09459f",
+        "user": "mark",
+        "chosen_option": "b",
+        "image": "uploads/solution_72_1772174496.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -1814,7 +1835,7 @@ window.ALL_PROBLEMS = [
     "category": "Math",
     "sub_category": "Calculator Technique",
     "solutions": [],
-    "locked_by": null,
+    "locked_by": "John",
     "flagged_by": null,
     "flag_reason": null,
     "hidden_by": null,
@@ -2078,7 +2099,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Calculator Technique",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a12f1350460",
+        "user": "fil",
+        "chosen_option": "a",
+        "image": "uploads/solution_85_1772171027.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -2279,7 +2307,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Calculator Technique",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a13fef6be1d",
+        "user": "mark",
+        "chosen_option": "b",
+        "image": "uploads/solution_93_1772175343.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -2378,7 +2413,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Calculator Technique",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a1365b217aa",
+        "user": "fil",
+        "chosen_option": "a",
+        "image": "uploads/solution_99_1772172891.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -2402,7 +2444,7 @@ window.ALL_PROBLEMS = [
   {
     "id": 101,
     "question": "**Example:** Determine the sum of the first eight terms of a geometric progression if the third term is 72 and the fifth term is 80? **ANS: 627.91**",
-    "options": {},
+    "options": [],
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Calculator Technique",
@@ -2425,7 +2467,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Calculator Technique",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a13930de5e6",
+        "user": "fil",
+        "chosen_option": "c",
+        "image": "uploads/solution_102_1772173616.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -2479,7 +2528,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Calculator Technique",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a13c187d56c",
+        "user": "fil",
+        "chosen_option": "a",
+        "image": "uploads/solution_105_1772174360.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -2498,7 +2554,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Calculator Technique",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a149f975a2b",
+        "user": "John",
+        "chosen_option": "c",
+        "image": "uploads/solution_106_1772177913.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -2517,7 +2580,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Calculator Technique",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a13d202a98c",
+        "user": "John",
+        "chosen_option": "c",
+        "image": "uploads/solution_107_1772174624.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -2527,7 +2597,7 @@ window.ALL_PROBLEMS = [
   {
     "id": 108,
     "question": "Convert $100_{10}$ to hexadecimal, binary and octal. **Ans. $64_{16}$, $1100100_2$, $144_8$**",
-    "options": {},
+    "options": [],
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Calculator Technique",
@@ -2560,7 +2630,7 @@ window.ALL_PROBLEMS = [
   {
     "id": 110,
     "question": "$$ \\begin{cases} 2x + 5y + 2z = -38 \\\\ 3x - 2y + 4z = 17 \\\\ -6x + y - 7z = -12 \\end{cases} $$ **Sol:** $x = 3, y = -8, z = -2$ $$ \\begin{cases} x + 2y - 3z + 4w = 12 \\\\ 2x + 2y - 2z + 3w = 10 \\\\ 0 + y + z + 0 = -1 \\\\ x - y + z - 2w = -4 \\end{cases} $$ **Ans:** $x = 1, y = 0, z = -1, w = 2$",
-    "options": {},
+    "options": [],
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Calculator Technique",
@@ -2574,7 +2644,7 @@ window.ALL_PROBLEMS = [
   {
     "id": 111,
     "question": "Find the root/s of the following equation: $2x^2 + 5x - 12 = 0$ **ANS: 3/2 and -4**",
-    "options": {},
+    "options": [],
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Calculator Technique",
@@ -3171,7 +3241,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Integral Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a135af8bc71",
+        "user": "Joy",
+        "chosen_option": "b",
+        "image": "uploads/solution_139_1772172719.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -3382,7 +3459,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Differential Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a14e133f8b4",
+        "user": "E-D boy",
+        "chosen_option": "a",
+        "image": "uploads/solution_149_1772178963.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -3763,7 +3847,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Differential Equation",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a1475fb097c",
+        "user": "Anonymous",
+        "chosen_option": "a",
+        "image": "uploads/solution_166_1772177247.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -3840,7 +3931,7 @@ window.ALL_PROBLEMS = [
     "category": "Math",
     "sub_category": "Differential Equation",
     "solutions": [],
-    "locked_by": null,
+    "locked_by": "Alfredolim",
     "flagged_by": null,
     "flag_reason": null,
     "hidden_by": null,
@@ -3858,7 +3949,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Differential Equation",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a145efc2f47",
+        "user": "Alfredolim",
+        "chosen_option": "a",
+        "image": "uploads/solution_171_1772176879.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -4382,7 +4480,7 @@ window.ALL_PROBLEMS = [
     "id": 199,
     "question": "Find the first moment of area about the x-axis of the region bounded by $y = x$, the x-axis, and $x = 2$.",
     "options": {
-      "a": "11/30",
+      "a": "4/3",
       "b": "19/17",
       "c": "3/19",
       "d": "4/51"
@@ -4390,7 +4488,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Integral Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a13aaf2480a",
+        "user": "Joy",
+        "chosen_option": "a",
+        "image": "uploads/solution_199_1772173999.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -4420,15 +4525,22 @@ window.ALL_PROBLEMS = [
     "id": 201,
     "question": "A spherical (diameter = 6 m) tank is full of water. Find the work required to pump the water out of the spout. The spout is 1 meter from the top of the tank:",
     "options": {
-      "a": "144 min",
-      "b": "378 min",
-      "c": "200 min",
-      "d": "157 min"
+      "a": "3274.52 kJ",
+      "b": "3578.98 kJ",
+      "c": "6594.98kJ",
+      "d": "13698.25 kJ"
     },
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Integral Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a139acd5959",
+        "user": "Joy",
+        "chosen_option": "a",
+        "image": "uploads/solution_201_1772173740.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -5440,15 +5552,22 @@ window.ALL_PROBLEMS = [
     "id": 242,
     "question": "A factory has three machines producing bolts: Machine A: 50% of production, 2% defect rate Machine B: 30% of production, 4% defect rate Machine C: 20% of production, 5% defect rate A bolt selected at random is found to be defective. What is the probability that it was produced by Machine B?",
     "options": {
-      "a": "0.24",
-      "b": "0.30",
-      "c": "0.36",
-      "d": "0.40"
+      "a": "0.245",
+      "b": "0.305",
+      "c": "0.375",
+      "d": "0.405"
     },
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Probability and Statistics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a13a83d4946",
+        "user": "mark",
+        "chosen_option": "c",
+        "image": "uploads/solution_242_1772173955.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -5505,7 +5624,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Probability and Statistics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a13b91387af",
+        "user": "mark",
+        "chosen_option": "a",
+        "image": "uploads/solution_245_1772174225.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -5595,7 +5721,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Probability and Statistics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a1327041297",
+        "user": "mark",
+        "chosen_option": "c",
+        "image": "uploads/solution_249_1772171888.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -5614,7 +5747,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Probability and Statistics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a134bb5ac21",
+        "user": "mark",
+        "chosen_option": "a",
+        "image": "uploads/solution_250_1772172475.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -5981,7 +6121,7 @@ window.ALL_PROBLEMS = [
     "category": "Math",
     "sub_category": "Advanced Math",
     "solutions": [],
-    "locked_by": null,
+    "locked_by": "mark",
     "flagged_by": null,
     "flag_reason": null,
     "hidden_by": null,
@@ -8661,7 +8801,7 @@ window.ALL_PROBLEMS = [
   {
     "id": 406,
     "question": "A bubble changes its surface area at 10 in$^2$/min. How fast is its volume changing when r = 2 in?",
-    "options": {},
+    "options": [],
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Integral Calculus",
@@ -9216,7 +9356,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Integral Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a13c6ed927b",
+        "user": "Joy",
+        "chosen_option": "a",
+        "image": "uploads/solution_435_1772174446.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -9254,7 +9401,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Integral Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a12f49ca177",
+        "user": "Joy",
+        "chosen_option": "a",
+        "image": "uploads/solution_437_1772171081.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -10399,7 +10553,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Geometry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a1411882c33",
+        "user": "mark",
+        "chosen_option": "b",
+        "image": "uploads/solution_497_1772175640.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -10593,14 +10754,21 @@ window.ALL_PROBLEMS = [
     "question": "Find the equation of the perpendicular bisector of the line joining (4,0) & (-6,-3).",
     "options": {
       "a": "20x + 6y - 29 = 0",
-      "c": "20x - 6y - 29 = 0",
       "b": "20x + 6y + 29 = 0",
+      "c": "20x - 6y - 29 = 0",
       "d": "20x - 6y + 29 = 0"
     },
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Geometry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a141958dbe3",
+        "user": "Joy",
+        "chosen_option": "b",
+        "image": "uploads/solution_505_1772175765.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -10690,7 +10858,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Geometry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a1436449117",
+        "user": "Joy",
+        "chosen_option": "b",
+        "image": "uploads/solution_509_1772176228.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -10702,14 +10877,21 @@ window.ALL_PROBLEMS = [
     "question": "Which of the following equations describes a circle with center at (2,3) and passing through the point (-3,-4)?",
     "options": {
       "a": "$(x+3)^2 + (y+4)^2 = 85$",
-      "c": "$(x+3)^2 + (y-2)^2 = 74$",
       "b": "$(x+3)^2 + (y+2)^2 = \\sqrt{74}$",
+      "c": "$(x+3)^2 + (y-2)^2 = 74$",
       "d": "$(x-2)^2 + (y-3)^2 = 74$"
     },
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Geometry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a142f86f45b",
+        "user": "Joy",
+        "chosen_option": "d",
+        "image": "uploads/solution_510_1772176120.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -10728,7 +10910,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Geometry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a1421d59d48",
+        "user": "Joy",
+        "chosen_option": "c",
+        "image": "uploads/solution_511_1772175901.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -10811,14 +11000,21 @@ window.ALL_PROBLEMS = [
     "question": "Find the area of the enclosed by the curve $9x^2 + 18x + 25y^2 - 100y = 116$",
     "options": {
       "a": "15π sq. units",
-      "c": "24π sq. units",
       "b": "20π sq. units",
+      "c": "24π sq. units",
       "d": "31π sq. units"
     },
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Geometry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a1425961aab",
+        "user": "Joy",
+        "chosen_option": "a",
+        "image": "uploads/solution_515_1772175961.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -10863,7 +11059,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Geometry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a143a057a97",
+        "user": "Joy",
+        "chosen_option": "a",
+        "image": "uploads/solution_517_1772176288.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -10908,7 +11111,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Geometry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a143f88a605",
+        "user": "Joy",
+        "chosen_option": "c",
+        "image": "uploads/solution_519_1772176376.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -11005,7 +11215,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Geometry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a142b9c45f8",
+        "user": "mark",
+        "chosen_option": "c",
+        "image": "uploads/solution_523_1772176057.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -11024,7 +11241,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Math",
     "sub_category": "Geometry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a1432b674fe",
+        "user": "mark",
+        "chosen_option": "c",
+        "image": "uploads/solution_524_1772176171.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -11529,12 +11753,6 @@ window.ALL_PROBLEMS = [
     "sub_category": "Vector Analysis",
     "solutions": [
       {
-        "solution_id": "sol_699ff071428ad",
-        "user": "Lyan",
-        "chosen_option": "a",
-        "image": null
-      },
-      {
         "solution_id": "sol_699ff0b957ea0",
         "user": "Lyan",
         "chosen_option": "a",
@@ -11589,7 +11807,7 @@ window.ALL_PROBLEMS = [
     "id": 1656,
     "question": "The distribution of charge (in coulombs) on a surface is given by Q = 2y - xz^3. What is the magnitude of change of charge given by grad(Q) at (-1, 2, 1)?",
     "options": {
-      "a": "2sqrt(15)",
+      "a": "sqrt(14)",
       "b": "4sqrt(57)",
       "c": "2sqrt(53)",
       "d": "sqrt(93)"
@@ -11597,7 +11815,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "4sqrt(57)",
     "category": "Math",
     "sub_category": "Vector Analysis",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a1419d08562",
+        "user": "Keypee",
+        "chosen_option": "a",
+        "image": "uploads/solution_1656_1772175773.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -11851,7 +12076,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "-6i + 2j - 4k",
     "category": "Math",
     "sub_category": "Vector Analysis",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a14a4e9c25e",
+        "user": "Keypee",
+        "chosen_option": "c",
+        "image": "uploads/solution_1669_1772177998.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -12440,7 +12672,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "-2k",
     "category": "Math",
     "sub_category": "Vector Analysis",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a143c7651e7",
+        "user": "Keypee",
+        "chosen_option": "a",
+        "image": "uploads/solution_1700_1772176327.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -12706,7 +12945,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "110.5 ft.",
     "category": "Math",
     "sub_category": "Minima/Maxima",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a12f1856169",
+        "user": "Keypee",
+        "chosen_option": "a",
+        "image": "uploads/solution_1714_1772171032.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -12979,7 +13225,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "38.1 feet",
     "category": "Math",
     "sub_category": "Minima/Maxima",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a130021def4",
+        "user": "Keypee",
+        "chosen_option": "d",
+        "image": "uploads/solution_1728_1772171266.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -13017,7 +13270,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "246 in",
     "category": "Math",
     "sub_category": "Minima/Maxima",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a13d69c3fd7",
+        "user": "Keypee",
+        "chosen_option": "d",
+        "image": "uploads/solution_1730_1772174697.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -13197,7 +13457,7 @@ window.ALL_PROBLEMS = [
   },
   {
     "id": 1740,
-    "question": "Locate the centroid of the area bounded by the parabola y^2 = 4x, the line y - 2 = 0 and the y-axis.",
+    "question": "Locate the centroid of the area bounded by the parabola y^2 = 4x, the line y - 4 = 0 and the y-axis.",
     "options": {
       "a": "6/5, 3",
       "b": "2/5, 3/2",
@@ -13207,7 +13467,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "2/5, 3/2",
     "category": "Math",
     "sub_category": "Integral Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a13e7adb0c6",
+        "user": "Joy",
+        "chosen_option": "a",
+        "image": "uploads/solution_1740_1772174970.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -15114,7 +15381,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "5.08",
     "category": "Math",
     "sub_category": "Geometry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a1448dba768",
+        "user": "Joy",
+        "chosen_option": "d",
+        "image": "uploads/solution_1840_1772176525.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -15152,7 +15426,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "144.55°",
     "category": "Math",
     "sub_category": "Geometry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a145006948d",
+        "user": "Joy",
+        "chosen_option": "d",
+        "image": "uploads/solution_1842_1772176640.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -15171,7 +15452,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "121pi/20",
     "category": "Math",
     "sub_category": "Geometry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a144cfd4a24",
+        "user": "Joy",
+        "chosen_option": "a",
+        "image": "uploads/solution_1843_1772176591.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -15190,7 +15478,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "109 in2",
     "category": "Math",
     "sub_category": "Geometry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a14536dbbc5",
+        "user": "Joy",
+        "chosen_option": "c",
+        "image": "uploads/solution_1844_1772176694.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -15209,7 +15504,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "91 cm",
     "category": "Math",
     "sub_category": "Geometry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a1456c9f3df",
+        "user": "Joy",
+        "chosen_option": "b",
+        "image": "uploads/solution_1845_1772176748.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -15247,7 +15549,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "38 sq. u.",
     "category": "Math",
     "sub_category": "Geometry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a145ea8cbfe",
+        "user": "Joy",
+        "chosen_option": "b",
+        "image": "uploads/solution_1847_1772176874.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -15266,7 +15575,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "3.54",
     "category": "Math",
     "sub_category": "Geometry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a148e66c88c",
+        "user": "John",
+        "chosen_option": "a",
+        "image": "uploads/solution_1848_1772177638.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -15285,7 +15601,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "10 unit",
     "category": "Math",
     "sub_category": "Geometry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a14a633571b",
+        "user": "Joy",
+        "chosen_option": "d",
+        "image": "uploads/solution_1849_1772178019.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -15304,7 +15627,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "743.22 cm3",
     "category": "Math",
     "sub_category": "Geometry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a14ad75a9bd",
+        "user": "Joy",
+        "chosen_option": "a",
+        "image": "uploads/solution_1850_1772178135.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -15342,7 +15672,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "a parabola",
     "category": "Math",
     "sub_category": "Geometry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a14af9d8cae",
+        "user": "Joy",
+        "chosen_option": "a",
+        "image": null
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -15361,7 +15698,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "x2+y2+8x+10y-12=0",
     "category": "Math",
     "sub_category": "Geometry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a14b743c176",
+        "user": "Joy",
+        "chosen_option": "c",
+        "image": "uploads/solution_1853_1772178292.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -15380,7 +15724,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "65.42 m",
     "category": "Math",
     "sub_category": "Geometry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a14be347d1b",
+        "user": "Joy",
+        "chosen_option": "a",
+        "image": "uploads/solution_1854_1772178403.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -15399,7 +15750,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "(2,1.5)",
     "category": "Math",
     "sub_category": "Geometry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a14ba452776",
+        "user": "Joy",
+        "chosen_option": "a",
+        "image": "uploads/solution_1855_1772178340.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -15418,7 +15776,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "34.64",
     "category": "Math",
     "sub_category": "Geometry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a14c45058b6",
+        "user": "Joy",
+        "chosen_option": "a",
+        "image": "uploads/solution_1856_1772178501.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -15437,7 +15802,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "3.3",
     "category": "Math",
     "sub_category": "Geometry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a14c91682ca",
+        "user": "Joy",
+        "chosen_option": "a",
+        "image": "uploads/solution_1857_1772178577.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -15456,7 +15828,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "28",
     "category": "Math",
     "sub_category": "Geometry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a14cae58655",
+        "user": "Joy",
+        "chosen_option": "a",
+        "image": "uploads/solution_1858_1772178606.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -15475,7 +15854,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "(2.30, 1.80)",
     "category": "Math",
     "sub_category": "Geometry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a14d08e4a1c",
+        "user": "Joy",
+        "chosen_option": "b",
+        "image": "uploads/solution_1859_1772178696.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -15494,7 +15880,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "8",
     "category": "Math",
     "sub_category": "Geometry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a14ded6a175",
+        "user": "Joy",
+        "chosen_option": "a",
+        "image": "uploads/solution_1860_1772178925.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -15513,7 +15906,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "5.4",
     "category": "Math",
     "sub_category": "Geometry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a14d2366474",
+        "user": "Joy",
+        "chosen_option": "b",
+        "image": "uploads/solution_1861_1772178723.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -15532,7 +15932,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "45°",
     "category": "Math",
     "sub_category": "Geometry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a14d7b3dff6",
+        "user": "Joy",
+        "chosen_option": "c",
+        "image": "uploads/solution_1862_1772178811.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -15551,7 +15958,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "(1.92, 1.83)",
     "category": "Math",
     "sub_category": "Geometry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a14d9f66e0b",
+        "user": "Joy",
+        "chosen_option": "a",
+        "image": "uploads/solution_1863_1772178847.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -16083,7 +16497,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "-(12i - 9j + 4k)",
     "category": "Math",
     "sub_category": "Vector Analysis",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a14bc571b3c",
+        "user": "Keypee",
+        "chosen_option": "a",
+        "image": "uploads/solution_1891_1772178373.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -16235,7 +16656,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "y^2 + 2x^2z - 6yz",
     "category": "Math",
     "sub_category": "Vector Analysis",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a1445b0f8ce",
+        "user": "Keypee",
+        "chosen_option": "b",
+        "image": "uploads/solution_1899_1772176475.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -16254,7 +16682,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "(sqrt(5))/2",
     "category": "Math",
     "sub_category": "Vector Analysis",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a145713a0d4",
+        "user": "Keypee",
+        "chosen_option": "a",
+        "image": "uploads/solution_1900_1772176753.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -16301,7 +16736,7 @@ window.ALL_PROBLEMS = [
   },
   {
     "id": 1903,
-    "question": "If V = (xy^2)i + (2yx^2z)j - (3yz^2)k, then curl V at point (1, 1, 1) is:",
+    "question": "If V = (xy^2)i + (2yx^2z)j - (3yz^2)k, then curl V at point (1, -1, 1) is:",
     "options": {
       "a": "-(j + 2k)",
       "b": "(i + 3k)",
@@ -16311,7 +16746,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "-(i + 2k)",
     "category": "Math",
     "sub_category": "Vector Analysis",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a14930cc9c8",
+        "user": "Keypee",
+        "chosen_option": "c",
+        "image": "uploads/solution_1903_1772177712.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -18960,7 +19402,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "88/3 sq. units",
     "category": "Math",
     "sub_category": "Integral Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a13f2e09969",
+        "user": "Joy",
+        "chosen_option": "a",
+        "image": "uploads/solution_2039_1772175150.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -18980,7 +19429,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "26.72 ft",
     "category": "Math",
     "sub_category": "Minima/Maxima",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a13674d002d",
+        "user": "Keypee",
+        "chosen_option": "b",
+        "image": "uploads/solution_2040_1772172916.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -19520,7 +19976,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "2.45 sq. units",
     "category": "Math",
     "sub_category": "Integral Calculus",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a1405e85596",
+        "user": "Joy",
+        "chosen_option": "a",
+        "image": "uploads/solution_2067_1772175454.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -19660,7 +20123,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "110.5 ft",
     "category": "Math",
     "sub_category": "Minima/Maxima",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a130c76e12c",
+        "user": "Keypee",
+        "chosen_option": "a",
+        "image": "uploads/solution_2074_1772171463.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -23280,7 +23750,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "5.77 m",
     "category": "Math",
     "sub_category": "Minima/Maxima",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a1316e4ecea",
+        "user": "Keypee",
+        "chosen_option": "b",
+        "image": "uploads/solution_2255_1772171630.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -23560,7 +24037,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "6 cm",
     "category": "Math",
     "sub_category": "Minima/Maxima",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a13798cab53",
+        "user": "Keypee",
+        "chosen_option": "c",
+        "image": "uploads/solution_2269_1772173208.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -23900,7 +24384,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "302",
     "category": "Math",
     "sub_category": "Minima/Maxima",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a132e7c00a0",
+        "user": "Keypee",
+        "chosen_option": "d",
+        "image": "uploads/solution_2286_1772172007.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -24200,7 +24691,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "3.71 m",
     "category": "Math",
     "sub_category": "Minima/Maxima",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a13423ecb6d",
+        "user": "Keypee",
+        "chosen_option": "c",
+        "image": "uploads/solution_2301_1772172323.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -24220,7 +24718,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "302.2",
     "category": "Math",
     "sub_category": "Minima/Maxima",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a134878c550",
+        "user": "Keypee",
+        "chosen_option": "a",
+        "image": "uploads/solution_2302_1772172423.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -24680,7 +25185,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "11.2 m",
     "category": "Math",
     "sub_category": "Minima/Maxima",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a1350b5f6dc",
+        "user": "Keypee",
+        "chosen_option": "a",
+        "image": "uploads/solution_2325_1772172555.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -24692,7 +25204,7 @@ window.ALL_PROBLEMS = [
     "question": "What is the volume, in cm3, of the largest cylinder that can be fitted inside a cone that is 30 cm tall and 18 cm across at the base?",
     "options": {
       "a": "420 pi",
-      "b": "240 pi",
+      "b": "540 pi",
       "c": "360 pi",
       "d": "300 pi"
     },
@@ -24700,7 +25212,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "360 pi",
     "category": "Math",
     "sub_category": "Minima/Maxima",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a13c1c2e09a",
+        "user": "Keypee",
+        "chosen_option": "c",
+        "image": "uploads/solution_2326_1772174364.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -24720,7 +25239,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "11.46",
     "category": "Math",
     "sub_category": "Minima/Maxima",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a13e61d3231",
+        "user": "Keypee",
+        "chosen_option": "d",
+        "image": "uploads/solution_2327_1772174945.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -24740,7 +25266,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "1.69 ft",
     "category": "Math",
     "sub_category": "Minima/Maxima",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a13cdd54a82",
+        "user": "Keypee",
+        "chosen_option": "b",
+        "image": "uploads/solution_2328_1772174557.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,

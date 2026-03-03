@@ -306,7 +306,14 @@
         "correct_answer_text": "",
         "category": "Math",
         "sub_category": "Geometry",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_69a1411882c33",
+                "user": "mark",
+                "chosen_option": "b",
+                "image": "uploads\/solution_497_1772175640.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,

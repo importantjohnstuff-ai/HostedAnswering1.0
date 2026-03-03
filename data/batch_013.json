@@ -21,15 +21,22 @@
         "id": 242,
         "question": "A factory has three machines producing bolts: Machine A: 50% of production, 2% defect rate Machine B: 30% of production, 4% defect rate Machine C: 20% of production, 5% defect rate A bolt selected at random is found to be defective. What is the probability that it was produced by Machine B?",
         "options": {
-            "a": "0.24",
-            "b": "0.30",
-            "c": "0.36",
-            "d": "0.40"
+            "a": "0.245",
+            "b": "0.305",
+            "c": "0.375",
+            "d": "0.405"
         },
         "correct_answer_text": "",
         "category": "Math",
         "sub_category": "Probability and Statistics",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_69a13a83d4946",
+                "user": "mark",
+                "chosen_option": "c",
+                "image": "uploads\/solution_242_1772173955.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
@@ -83,7 +90,14 @@
         "correct_answer_text": "",
         "category": "Math",
         "sub_category": "Probability and Statistics",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_69a13b91387af",
+                "user": "mark",
+                "chosen_option": "a",
+                "image": "uploads\/solution_245_1772174225.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
@@ -169,7 +183,14 @@
         "correct_answer_text": "",
         "category": "Math",
         "sub_category": "Probability and Statistics",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_69a1327041297",
+                "user": "mark",
+                "chosen_option": "c",
+                "image": "uploads\/solution_249_1772171888.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
@@ -187,7 +208,14 @@
         "correct_answer_text": "",
         "category": "Math",
         "sub_category": "Probability and Statistics",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_69a134bb5ac21",
+                "user": "mark",
+                "chosen_option": "a",
+                "image": "uploads\/solution_250_1772172475.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,

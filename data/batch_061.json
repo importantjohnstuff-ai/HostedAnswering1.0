@@ -1,15 +1,15 @@
 [
     {
         "id": 2289,
-        "question": "Find the limit of (2 - x)^tan(πx/2) as x approaches 1.",
+        "question": "Find the limit of (2 - x)^tan(\u03c0x\/2) as x approaches 1.",
         "options": {
-            "a": "e^(1/π)",
-            "b": "e^π",
-            "c": "π^2",
-            "d": "e^(2/π)"
+            "a": "e^(1\/\u03c0)",
+            "b": "e^\u03c0",
+            "c": "\u03c0^2",
+            "d": "e^(2\/\u03c0)"
         },
         "answer": "d",
-        "correct_answer_text": "e^(2/π)",
+        "correct_answer_text": "e^(2\/\u03c0)",
         "category": "Math",
         "sub_category": "Differential Calculus",
         "solutions": [],
@@ -20,7 +20,7 @@
     },
     {
         "id": 2290,
-        "question": "Evaluate the limit of (x + 4) / (x - 4) as x approaches infinity.",
+        "question": "Evaluate the limit of (x + 4) \/ (x - 4) as x approaches infinity.",
         "options": {
             "a": "Infinity",
             "b": "1",
@@ -61,12 +61,12 @@
         "question": "What is the first derivative of the expression (xy)^x = e?",
         "options": {
             "a": "0",
-            "b": "x/y",
-            "c": "-y(1 + ln xy) / x",
-            "d": "-y(1 - ln xy) / x^2"
+            "b": "x\/y",
+            "c": "-y(1 + ln xy) \/ x",
+            "d": "-y(1 - ln xy) \/ x^2"
         },
         "answer": "c",
-        "correct_answer_text": "-y(1 + ln xy) / x",
+        "correct_answer_text": "-y(1 + ln xy) \/ x",
         "category": "Math",
         "sub_category": "Differential Calculus",
         "solutions": [],
@@ -79,13 +79,13 @@
         "id": 2293,
         "question": "Find the derivative with respect to x of the function sqrt(2 - 3x^2).",
         "options": {
-            "a": "-2x^2 / sqrt(2 - 3x^2)",
-            "b": "-3x^2 / sqrt(2 - 3x^2)",
-            "c": "-3x / sqrt(2 - 3x^2)",
-            "d": "3x / sqrt(2 - 3x^2)"
+            "a": "-2x^2 \/ sqrt(2 - 3x^2)",
+            "b": "-3x^2 \/ sqrt(2 - 3x^2)",
+            "c": "-3x \/ sqrt(2 - 3x^2)",
+            "d": "3x \/ sqrt(2 - 3x^2)"
         },
         "answer": "c",
-        "correct_answer_text": "-3x / sqrt(2 - 3x^2)",
+        "correct_answer_text": "-3x \/ sqrt(2 - 3x^2)",
         "category": "Math",
         "sub_category": "Differential Calculus",
         "solutions": [],
@@ -117,13 +117,13 @@
         "id": 2295,
         "question": "What is the second derivative of arccot (3x)?",
         "options": {
-            "a": "2 / (9x^2 - 1)^2",
-            "b": "54x / (9x^2 + 1)^2",
-            "c": "54x / sqrt(9x^2 - 1)",
-            "d": "54x / sqrt(9x^2 + 1)"
+            "a": "2 \/ (9x^2 - 1)^2",
+            "b": "54x \/ (9x^2 + 1)^2",
+            "c": "54x \/ sqrt(9x^2 - 1)",
+            "d": "54x \/ sqrt(9x^2 + 1)"
         },
         "answer": "b",
-        "correct_answer_text": "54x / (9x^2 + 1)^2",
+        "correct_answer_text": "54x \/ (9x^2 + 1)^2",
         "category": "Math",
         "sub_category": "Differential Calculus",
         "solutions": [],
@@ -155,13 +155,13 @@
         "id": 2297,
         "question": "Find the slope of the curve x^2 + y^2 - 6x + 10y + 5 = 0 at point (1, 0).",
         "options": {
-            "a": "1/5",
-            "b": "2/5",
-            "c": "1/4",
+            "a": "1\/5",
+            "b": "2\/5",
+            "c": "1\/4",
             "d": "2"
         },
         "answer": "b",
-        "correct_answer_text": "2/5",
+        "correct_answer_text": "2\/5",
         "category": "Math",
         "sub_category": "Differential Calculus",
         "solutions": [],
@@ -201,7 +201,7 @@
         "answer": "c",
         "correct_answer_text": "127.50",
         "category": "Math",
-        "sub_category": "Minima/Maxima",
+        "sub_category": "Minima\/Maxima",
         "solutions": [],
         "locked_by": null,
         "flagged_by": null,
@@ -220,7 +220,7 @@
         "answer": "c",
         "correct_answer_text": "592.59 cu in.",
         "category": "Math",
-        "sub_category": "Minima/Maxima",
+        "sub_category": "Minima\/Maxima",
         "solutions": [],
         "locked_by": null,
         "flagged_by": null,
@@ -239,8 +239,15 @@
         "answer": "c",
         "correct_answer_text": "3.71 m",
         "category": "Math",
-        "sub_category": "Minima/Maxima",
-        "solutions": [],
+        "sub_category": "Minima\/Maxima",
+        "solutions": [
+            {
+                "solution_id": "sol_69a13423ecb6d",
+                "user": "Keypee",
+                "chosen_option": "c",
+                "image": "uploads\/solution_2301_1772172323.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
@@ -258,8 +265,15 @@
         "answer": "a",
         "correct_answer_text": "302.2",
         "category": "Math",
-        "sub_category": "Minima/Maxima",
-        "solutions": [],
+        "sub_category": "Minima\/Maxima",
+        "solutions": [
+            {
+                "solution_id": "sol_69a134878c550",
+                "user": "Keypee",
+                "chosen_option": "a",
+                "image": "uploads\/solution_2302_1772172423.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
@@ -267,15 +281,15 @@
     },
     {
         "id": 2303,
-        "question": "Water is flowing into a conical cistern at the rate of 8 m^3/min. If the height of the inverted cone is 12 m and the radius of its circular opening is 6 m. How fast is the water level rising when the water is 4 m deep?",
+        "question": "Water is flowing into a conical cistern at the rate of 8 m^3\/min. If the height of the inverted cone is 12 m and the radius of its circular opening is 6 m. How fast is the water level rising when the water is 4 m deep?",
         "options": {
-            "a": "0.64 m/min",
-            "b": "0.75 m/min",
-            "c": "0.56 m/min",
-            "d": "0.45 m/min"
+            "a": "0.64 m\/min",
+            "b": "0.75 m\/min",
+            "c": "0.56 m\/min",
+            "d": "0.45 m\/min"
         },
         "answer": "a",
-        "correct_answer_text": "0.64 m/min",
+        "correct_answer_text": "0.64 m\/min",
         "category": "Math",
         "sub_category": "Differential Calculus",
         "solutions": [],
@@ -288,13 +302,13 @@
         "id": 2304,
         "question": "A helicopter is rising vertically from the ground at a constant rate of 4.5 meters per second. When it is 75 m off the ground, a jeep passed beneath the helicopter traveling in a straight line at a constant rate of 80 kph. Determine how fast the distance between them changing after 1 second.",
         "options": {
-            "a": "12.34 m/s",
-            "b": "10.32 m/s",
-            "c": "11.10 m/s",
-            "d": "9.85 m/s"
+            "a": "12.34 m\/s",
+            "b": "10.32 m\/s",
+            "c": "11.10 m\/s",
+            "d": "9.85 m\/s"
         },
         "answer": "b",
-        "correct_answer_text": "10.32 m/s",
+        "correct_answer_text": "10.32 m\/s",
         "category": "Math",
         "sub_category": "Differential Calculus",
         "solutions": [],
@@ -324,7 +338,7 @@
     },
     {
         "id": 2306,
-        "question": "What is the integral of sin^5(x) dx if the lower limit is 0 and the upper limit is π/2?",
+        "question": "What is the integral of sin^5(x) dx if the lower limit is 0 and the upper limit is \u03c0\/2?",
         "options": {
             "a": "0.233",
             "b": "0.333",
@@ -343,7 +357,7 @@
     },
     {
         "id": 2307,
-        "question": "Evaluate the integral of cos(x) dx limits from π/4 to π/2.",
+        "question": "Evaluate the integral of cos(x) dx limits from \u03c0\/4 to \u03c0\/2.",
         "options": {
             "a": "0.423",
             "b": "0.293",

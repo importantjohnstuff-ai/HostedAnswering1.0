@@ -8,10 +8,14 @@
             "c": "N2",
             "d": "H2"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 182,
@@ -22,24 +26,32 @@
             "c": "will depend on initial temperature",
             "d": "increases"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 183,
         "question": "The cost of electricity can be calculated by:",
         "options": {
-            "a": "Electrical energy generated / (Fixed cost + Variable cost)",
-            "b": "(Fixed cost + Variable cost) / Electrical energy generated",
-            "c": "Variable cost / Electrical energy generated",
-            "d": "Fixed cost / Electrical energy generated"
+            "a": "Electrical energy generated \/ (Fixed cost + Variable cost)",
+            "b": "(Fixed cost + Variable cost) \/ Electrical energy generated",
+            "c": "Variable cost \/ Electrical energy generated",
+            "d": "Fixed cost \/ Electrical energy generated"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 184,
@@ -50,10 +62,14 @@
             "c": "The change of volume is proportional to temperature change",
             "d": "The change of pressure is proportional to temperature change"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 185,
@@ -64,10 +80,14 @@
             "c": "Momentum",
             "d": "Mass"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 186,
@@ -78,10 +98,14 @@
             "c": "A membrane that bursts",
             "d": "The expanding membrane of a balloon"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Integral Calculus"
+        "sub_category": "Integral Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 187,
@@ -92,10 +116,14 @@
             "c": "The differential of work is inexact",
             "d": "Work is always zero for a constant-volume process"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Integral Calculus"
+        "sub_category": "Integral Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 188,
@@ -106,10 +134,14 @@
             "c": "The temperature in the tank remains constant",
             "d": "The enthalpy across a valve remains constant"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 189,
@@ -120,10 +152,14 @@
             "c": "Specific enthalpy in supply equals specific internal energy in cylinder",
             "d": "Specific internal energy in supply equals specific enthalpy in cylinder"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 190,
@@ -134,10 +170,14 @@
             "c": "Generalized compressibility chart",
             "d": "Redlich-Kwong equation"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 191,
@@ -148,10 +188,14 @@
             "c": "Thermal diffusivity",
             "d": "Density"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 192,
@@ -162,10 +206,14 @@
             "c": "Presence of free electrons",
             "d": "Reflective surfaces"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 193,
@@ -176,10 +224,14 @@
             "c": "Stirling and Otto",
             "d": "Joule and Diesel"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 194,
@@ -190,24 +242,32 @@
             "c": "$\\ln (e^{x} - 1) + x + C$",
             "d": "$\\ln (e^{x} + 1)^2 - x + C$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Integral Calculus"
+        "sub_category": "Integral Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 195,
         "question": "Locate the centroid of the area bounded by the parabola $y^2=4x$, the line $y=4$ and the y-axis.",
         "options": {
-            "a": "(3/2, 6/5)",
-            "b": "(4/3, 3/5)",
-            "c": "(3/2, 2/5)",
-            "d": "(4/3, 4/5)"
+            "a": "(3\/2, 6\/5)",
+            "b": "(4\/3, 3\/5)",
+            "c": "(3\/2, 2\/5)",
+            "d": "(4\/3, 4\/5)"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Integral Calculus"
+        "sub_category": "Integral Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 196,
@@ -218,65 +278,92 @@
             "c": "4.6 units",
             "d": "5.2 units"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Differential Calculus"
+        "sub_category": "Differential Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 197,
         "question": "Find the centroid for the region bounded by $y=4-x^2$ that is in the first quadrant.",
         "options": {
-            "a": "(3/4, 7/8)",
-            "b": "(3/4, 8/5)",
-            "c": "(5/6, 3/4)",
-            "d": "(1/4, 5/6)"
+            "a": "(3\/4, 7\/8)",
+            "b": "(3\/4, 8\/5)",
+            "c": "(5\/6, 3\/4)",
+            "d": "(1\/4, 5\/6)"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Integral Calculus"
+        "sub_category": "Integral Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 198,
         "question": "Find the volume of the solid generated when the area bounded by $y = x$, $y = 0$, $x = 1$ is rotated about the y-axis.",
         "options": {
-            "a": "3\u03c0/16",
-            "b": "\u03c0/12",
-            "c": "3\u03c0/16",
-            "d": "2\u03c0/15"
+            "a": "3\u03c0\/16",
+            "b": "\u03c0\/12",
+            "c": "3\u03c0\/16",
+            "d": "2\u03c0\/15"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Integral Calculus"
+        "sub_category": "Integral Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 199,
         "question": "Find the first moment of area about the x-axis of the region bounded by $y = x$, the x-axis, and $x = 2$.",
         "options": {
-            "a": "11/30",
-            "b": "19/17",
-            "c": "3/19",
-            "d": "4/51"
+            "a": "4\/3",
+            "b": "19\/17",
+            "c": "3\/19",
+            "d": "4\/51"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Integral Calculus"
+        "sub_category": "Integral Calculus",
+        "solutions": [
+            {
+                "solution_id": "sol_69a13aaf2480a",
+                "user": "Joy",
+                "chosen_option": "a",
+                "image": "uploads\/solution_199_1772173999.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 200,
         "question": "Find the moment of inertia about the x-axis of the area bounded by the x-axis and the straight line $y = 2x$ from $x = 0$ to $x = 2$.",
         "options": {
-            "a": "652/3",
-            "b": "792/5",
-            "c": "133/7",
-            "d": "189/4"
+            "a": "652\/3",
+            "b": "792\/5",
+            "c": "133\/7",
+            "d": "189\/4"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Math",
-        "sub_category": "Integral Calculus"
+        "sub_category": "Integral Calculus",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     }
 ]

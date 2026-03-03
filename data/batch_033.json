@@ -11,7 +11,14 @@
         "correct_answer_text": "246 in",
         "category": "Math",
         "sub_category": "Minima\/Maxima",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_69a13d69c3fd7",
+                "user": "Keypee",
+                "chosen_option": "d",
+                "image": "uploads\/solution_1730_1772174697.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
@@ -181,7 +188,7 @@
     },
     {
         "id": 1740,
-        "question": "Locate the centroid of the area bounded by the parabola y^2 = 4x, the line y - 2 = 0 and the y-axis.",
+        "question": "Locate the centroid of the area bounded by the parabola y^2 = 4x, the line y - 4 = 0 and the y-axis.",
         "options": {
             "a": "6\/5, 3",
             "b": "2\/5, 3\/2",
@@ -191,7 +198,14 @@
         "correct_answer_text": "2\/5, 3\/2",
         "category": "Math",
         "sub_category": "Integral Calculus",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_69a13e7adb0c6",
+                "user": "Joy",
+                "chosen_option": "a",
+                "image": "uploads\/solution_1740_1772174970.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,

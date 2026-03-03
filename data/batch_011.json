@@ -3,15 +3,22 @@
         "id": 201,
         "question": "A spherical (diameter = 6 m) tank is full of water. Find the work required to pump the water out of the spout. The spout is 1 meter from the top of the tank:",
         "options": {
-            "a": "144 min",
-            "b": "378 min",
-            "c": "200 min",
-            "d": "157 min"
+            "a": "3274.52 kJ",
+            "b": "3578.98 kJ",
+            "c": "6594.98kJ",
+            "d": "13698.25 kJ"
         },
         "correct_answer_text": "",
         "category": "Math",
         "sub_category": "Integral Calculus",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_69a139acd5959",
+                "user": "Joy",
+                "chosen_option": "a",
+                "image": "uploads\/solution_201_1772173740.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
