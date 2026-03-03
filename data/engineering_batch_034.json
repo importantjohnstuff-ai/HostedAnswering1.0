@@ -1,0 +1,391 @@
+[
+    {
+        "id": 1190,
+        "question": "An ideal gas at 45 psig and 80°F is heated in the closed container to 130°F. What is the final pressure?",
+        "options": {
+            "a": "65.10 psi",
+            "b": "65.11 psi",
+            "c": "65.23 psi",
+            "d": "61.16 psi"
+        },
+        "answer": "c",
+        "correct_answer_text": "65.23 psi",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1191,
+        "question": "An ideal gas of volume 1 liter and pressure 10 bar undergoes a quasistatic adiabatic expansion until the pressure drops to 1 bar. Assume γ to be 1.4. What is the final volume?",
+        "options": {
+            "a": "3.18 l",
+            "b": "4.18 l",
+            "c": "5.18 l",
+            "d": "6.18 l"
+        },
+        "answer": "c",
+        "correct_answer_text": "5.18 l",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1192,
+        "question": "A perfect gas has a value of R = 319.2 J/kg.K and k = 1.26. If 120 kJ are added to 2.27 kg of this gas at constant pressure when the initial temp is 32.2°C, find T2.",
+        "options": {
+            "a": "339.4 K",
+            "b": "449.4 K",
+            "c": "559.4 K",
+            "d": "669.4 K"
+        },
+        "answer": "a",
+        "correct_answer_text": "339.4 K",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1193,
+        "question": "A certain gas, with cp = 0.529 Btu/lb-°R and R = 96.2 ft.lb/lb-°R, expands from 5 cu ft and 80°F to 15 cu ft while the pressure remains constant at 15.5 psia. Compute for T2.",
+        "options": {
+            "a": "1520°R",
+            "b": "1620°R",
+            "c": "1720°R",
+            "d": "1820°R"
+        },
+        "answer": "b",
+        "correct_answer_text": "1620°R",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1194,
+        "question": "Heat is added to a 2.0 kg piece of ice at a rate of 793.0 kW. How long will it take for the ice to melt if it was initially at 0.00°C? (The latent heat of fusion for water is 334 kJ/kg)",
+        "options": {
+            "a": "0.84 s",
+            "b": "530,000 s",
+            "c": "4.7 s",
+            "d": "670 s"
+        },
+        "answer": "a",
+        "correct_answer_text": "0.84 s",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1195,
+        "question": "An adiabatic compression is performed on an ideal gas. The final pressure is equal to 0.560 times the initial pressure and the final volume equals 1.50 times the initial volume. What is the adiabatic constant for the gas?",
+        "options": {
+            "a": "1.33",
+            "b": "1.43",
+            "c": "1.48",
+            "d": "1.52"
+        },
+        "answer": "b",
+        "correct_answer_text": "1.43",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1196,
+        "question": "Identify the element that has an atomic number of 40.",
+        "options": {
+            "a": "neon",
+            "b": "calcium",
+            "c": "zirconium",
+            "d": "bromine"
+        },
+        "answer": "c",
+        "correct_answer_text": "zirconium",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1197,
+        "question": "The mass number is equal to",
+        "options": {
+            "a": "the sum of the sum of the electrons and protons.",
+            "b": "the sum of the sum of the neutrons and electrons.",
+            "c": "the sum of the number of protons, neutrons, and electrons.",
+            "d": "the sum of the number of protons and neutrons."
+        },
+        "answer": "d",
+        "correct_answer_text": "the sum of the number of protons and neutrons.",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1198,
+        "question": "Determine the number of protons, neutrons and electrons in the following: $^{40}_{18}X$",
+        "options": {
+            "a": "$p^+=18, n^0=18, e^-=22$",
+            "b": "$p^+=18, n^0=22, e^-=18$",
+            "c": "$p^+=22, n^0=18, e^-=18$",
+            "d": "$p^+=18, n^0=22, e^-=40$",
+            "e": "$p^+=40, n^0=22, e^-=18$"
+        },
+        "answer": "b",
+        "correct_answer_text": "$p^+=18, n^0=22, e^-=18$",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1199,
+        "question": "Calculate the energy of the orange light emitted, per photon, by a neon sign with a frequency of $4.89 \\times 10^{14}$ Hz.",
+        "options": {
+            "a": "$3.09 \\times 10^{-19}$ J",
+            "b": "$6.14 \\times 10^{-19}$ J",
+            "c": "$3.24 \\times 10^{-19}$ J",
+            "d": "$1.63 \\times 10^{-19}$ J",
+            "e": "$5.11 \\times 10^{-19}$ J"
+        },
+        "answer": "c",
+        "correct_answer_text": "$3.24 \\times 10^{-19}$ J",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1200,
+        "question": "Calculate the energy of the red light emitted by a neon atom with a wavelength of 703.2 nm.",
+        "options": {
+            "a": "$3.54 \\times 10^{-19}$ J",
+            "b": "$4.27 \\times 10^{-19}$ J",
+            "c": "$2.34 \\times 10^{-19}$ J",
+            "d": "$6.45 \\times 10^{-19}$ J",
+            "e": "$2.83 \\times 10^{-19}$ J"
+        },
+        "answer": "e",
+        "correct_answer_text": "$2.83 \\times 10^{-19}$ J",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1201,
+        "question": "Determine the energy change associated with the transition from $n=2$ to $n=5$ in the hydrogen atom.",
+        "options": {
+            "a": "$-2.18 \\times 10^{-19}$ J",
+            "b": "$+6.54 \\times 10^{-19}$ J",
+            "c": "$+4.58 \\times 10^{-19}$ J",
+            "d": "$-1.53 \\times 10^{-19}$ J",
+            "e": "$+3.76 \\times 10^{-19}$ J"
+        },
+        "answer": "c",
+        "correct_answer_text": "$+4.58 \\times 10^{-19}$ J",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1202,
+        "question": "Silver has an atomic mass of 107.868 amu. The Ag-109 isotope (108.905 amu) is 48.16%. What is the amu of the other isotope?",
+        "options": {
+            "a": "106.905 amu",
+            "b": "106.908 amu",
+            "c": "106.903 amu",
+            "d": "106.911 amu"
+        },
+        "answer": "c",
+        "correct_answer_text": "106.903 amu",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1203,
+        "question": "How many silver atoms are contained in 3.75 moles of silver?",
+        "options": {
+            "a": "$6.23 \\times 10^{24}$ silver atoms",
+            "b": "$2.26 \\times 10^{24}$ silver atoms",
+            "c": "$1.61 \\times 10^{23}$ silver atoms",
+            "d": "$2.44 \\times 10^{26}$ silver atoms",
+            "e": "$6.50 \\times 10^{25}$ silver atoms"
+        },
+        "answer": "b",
+        "correct_answer_text": "$2.26 \\times 10^{24}$ silver atoms",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1204,
+        "question": "How many $N_2O_4$ molecules are contained in 76.3 g $N_2O_4$? The molar mass of $N_2O_4$ is 92.02 g/mol.",
+        "options": {
+            "a": "$5.54 \\times 10^{25}$ $N_2O_4$ molecules",
+            "b": "$7.26 \\times 10^{23}$ $N_2O_4$ molecules",
+            "c": "$1.38 \\times 10^{24}$ $N_2O_4$ molecules",
+            "d": "$4.59 \\times 10^{25}$ $N_2O_4$ molecules",
+            "e": "$4.99 \\times 10^{23}$ $N_2O_4$ molecules"
+        },
+        "answer": "e",
+        "correct_answer_text": "$4.99 \\times 10^{23}$ $N_2O_4$ molecules",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1205,
+        "question": "Calculate the mass percent composition of sulfur in $Al_2(SO_4)_3$.",
+        "options": {
+            "a": "28.12%",
+            "b": "9.37%",
+            "c": "42.73%",
+            "d": "21.38%",
+            "e": "35.97%"
+        },
+        "answer": "a",
+        "correct_answer_text": "28.12%",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1206,
+        "question": "Determine the empirical formula for a compound that contains C, H and O. It contains 51.59% C and 35.30% O by mass.",
+        "options": {
+            "a": "$C_2H_6O$",
+            "b": "CHO",
+            "c": "$C_4H_{13}O_2$",
+            "d": "$CH_4O_3$",
+            "e": "$CH_3O$"
+        },
+        "answer": "a",
+        "correct_answer_text": "$C_2H_6O$",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1207,
+        "question": "What is the stoichiometric coefficient for oxygen when the following equation is balanced using the lowest, whole-number coefficients? $C_2H_6O(l) + O_2(g) \\rightarrow CO_2(g) + H_2O(l)$",
+        "options": {
+            "a": "9",
+            "b": "7",
+            "c": "5",
+            "d": "3"
+        },
+        "answer": "d",
+        "correct_answer_text": "3",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1208,
+        "question": "A large balloon is initially filled to a volume of 25.0 L at 353 K and a pressure of 2575 mm Hg. What volume of gas will the balloon contain at 1.35 atm and 253 K?",
+        "options": {
+            "a": "22.2 L",
+            "b": "87.5 L",
+            "c": "11.4 L",
+            "d": "45.0 L",
+            "e": "58.6 L"
+        },
+        "answer": "d",
+        "correct_answer_text": "45.0 L",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1209,
+        "question": "The rate of effusion of oxygen to an unknown gas is 0.935. What is the other gas?",
+        "options": {
+            "a": "Ne",
+            "b": "Ar",
+            "c": "$F_2$",
+            "d": "$N_2$"
+        },
+        "answer": "d",
+        "correct_answer_text": "$N_2$",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    }
+]

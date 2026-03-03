@@ -1,0 +1,386 @@
+[
+    {
+        "id": 1150,
+        "question": "A spherical shell (800 mm diameter) is at 2 N/mm2. Find required thickness if safe stress cannot exceed 100 MPa.",
+        "options": {
+            "a": "4 mm",
+            "b": "3 mm",
+            "c": "2 mm",
+            "d": "5 mm"
+        },
+        "answer": "a",
+        "correct_answer_text": "4 mm",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1151,
+        "question": "A simple pendulum has a period of 2.0 s. What is the pendulum length? (g = 9.8 m/s^2)",
+        "options": {
+            "a": "0.36 m",
+            "b": "0.78 m",
+            "c": "0.99 m",
+            "d": "2.4 m"
+        },
+        "answer": "c",
+        "correct_answer_text": "0.99 m",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1152,
+        "question": "A 2.0-m long piano string of mass 10 g is under a tension of 338 N. Find the speed with which a wave travels on this string.",
+        "options": {
+            "a": "130 m/s",
+            "b": "260 m/s",
+            "c": "520 m/s",
+            "d": "1040 m/s"
+        },
+        "answer": "b",
+        "correct_answer_text": "260 m/s",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1153,
+        "question": "The frequency separating audible waves and ultrasonic waves is considered to be 20 kHz. What wavelength in air at room temperature is associated with this frequency?",
+        "options": {
+            "a": "1.7 cm",
+            "b": "5.2 cm",
+            "c": "34 cm",
+            "d": "55 cm"
+        },
+        "answer": "a",
+        "correct_answer_text": "1.7 cm",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1154,
+        "question": "Tripling the power output from a speaker emitting a single frequency will result in what increase in loudness?",
+        "options": {
+            "a": "0.33 dB",
+            "b": "3.0 dB",
+            "c": "4.8 dB",
+            "d": "9.0 dB"
+        },
+        "answer": "c",
+        "correct_answer_text": "4.8 dB",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1155,
+        "question": "In the afternoon, the decibel level of a busy freeway is 80 dB with 100 cars passing a given point every minute. Late at night, the traffic flow is only 5 cars per minute. What is the late-night decibel level?",
+        "options": {
+            "a": "77 dB",
+            "b": "74 dB",
+            "c": "70 dB",
+            "d": "68 dB"
+        },
+        "answer": "d",
+        "correct_answer_text": "68 dB",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1156,
+        "question": "A sound source of frequency 1000 Hz moves at 50.0 m/s toward a listener who is at rest. What is the apparent frequency heard by the listener?",
+        "options": {
+            "a": "853 Hz",
+            "b": "872 Hz",
+            "c": "1150 Hz",
+            "d": "1170 Hz"
+        },
+        "answer": "d",
+        "correct_answer_text": "1170 Hz",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1157,
+        "question": "If a guitar string has a fundamental frequency of 500 Hz, what is the frequency of its second overtone?",
+        "options": {
+            "a": "250 Hz",
+            "b": "750 Hz",
+            "c": "1000 Hz",
+            "d": "1500 Hz"
+        },
+        "answer": "d",
+        "correct_answer_text": "1500 Hz",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1158,
+        "question": "If two adjacent frequencies of an organ pipe closed at one end are 550 Hz and 650 Hz, what is the length of the organ pipe?",
+        "options": {
+            "a": "0.85 m",
+            "b": "1.25 m",
+            "c": "1.50 m",
+            "d": "1.70 m"
+        },
+        "answer": "d",
+        "correct_answer_text": "1.70 m",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1159,
+        "question": "Leandro Conti pours carbon tetrachloride (n=1.46) into a container made of crown glass (n=1.52). The light ray in glass incident on the glass-to-liquid boundary makes an angle of 30° with the normal. Find the angle of the corresponding refracted ray.",
+        "options": {
+            "a": "55.5°",
+            "b": "29.4°",
+            "c": "31.4°",
+            "d": "19.2°"
+        },
+        "answer": "c",
+        "correct_answer_text": "31.4°",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1160,
+        "question": "A ray of light travels across a liquid-to-glass interface. If the indices of refraction for the liquid and glass are, respectively, 1.75 and 1.52, what is the critical angle at this interface?",
+        "options": {
+            "a": "30.0°",
+            "b": "52.2°",
+            "c": "60.3°",
+            "d": "Critical angle does not exist."
+        },
+        "answer": "c",
+        "correct_answer_text": "60.3°",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1161,
+        "question": "A convex mirror with focal length of 20 cm forms an image 12 cm behind the surface. Where is the object located as measured from the surface?",
+        "options": {
+            "a": "7.5 cm",
+            "b": "15 cm",
+            "c": "22 cm",
+            "d": "30 cm"
+        },
+        "answer": "d",
+        "correct_answer_text": "30 cm",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1162,
+        "question": "An object placed 12 cm from a concave mirror produces a real image 8.0 cm from the mirror. If the object is now moved to a new position 18.0 cm from the mirror, where is the new image located as measured from the mirror?",
+        "options": {
+            "a": "3.0 cm",
+            "b": "6.5 cm",
+            "c": "9.2 cm",
+            "d": "14.6 cm"
+        },
+        "answer": "b",
+        "correct_answer_text": "6.5 cm",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1163,
+        "question": "An object is placed at a distance of 30 cm from a thin convex lens along its axis. The lens has a focal length of 10 cm. What are the values, respectively, of the image distance and magnification?",
+        "options": {
+            "a": "60 cm and 2.0",
+            "b": "15 cm and 2.0",
+            "c": "60 cm and -0.50",
+            "d": "15 cm and -0.50"
+        },
+        "answer": "d",
+        "correct_answer_text": "15 cm and -0.50",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1164,
+        "question": "A converging lens with two convex surfaces has a front surface with radius of curvature of 10.0 cm, the back surface has radius of curvature of 20.0 cm, and it is made from material with an index of refraction of 2.50. What is the focal length of the lens?",
+        "options": {
+            "a": "4.44 cm",
+            "b": "13.3 cm",
+            "c": "-13.3 cm",
+            "d": "0.250 cm"
+        },
+        "answer": "a",
+        "correct_answer_text": "4.44 cm",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1165,
+        "question": "For a converging lens with two curved surfaces, the radius of curvature for both surfaces is 10 cm. If the focal length is 10 cm, what must the index of refraction be?",
+        "options": {
+            "a": "1.5",
+            "b": "2.0",
+            "c": "2.5",
+            "d": "3.0"
+        },
+        "answer": "a",
+        "correct_answer_text": "1.5",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1166,
+        "question": "A convex mirror in an amusement park has a radius of curvature of 3.00 m. A man stands in front of the mirror so that his image is half as tall as his actual height. At what distance must the man focus his eyes in order to see his image?",
+        "options": {
+            "a": "2.25 m",
+            "b": "4.50 m",
+            "c": "6.75 m",
+            "d": "3.00 m",
+            "e": "5.00 m"
+        },
+        "answer": "a",
+        "correct_answer_text": "2.25 m",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1167,
+        "question": "A spherical concave mirror has a radius of curvature of 6.0 cm. At what distance from the mirror should a 6.0-cm object be placed to obtain an image that is 48 cm tall?",
+        "options": {
+            "a": "1.3 cm",
+            "b": "4.2 cm",
+            "c": "6.8 cm",
+            "d": "3.6 cm",
+            "e": "5.3 cm"
+        },
+        "answer": "d",
+        "correct_answer_text": "3.6 cm",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1168,
+        "question": "A scuba diver shines a flashlight from beneath the surface of water (n=1.33) such that the light strikes the water-air boundary with an angle of incidence of 43°. At what angle is the beam refracted?",
+        "options": {
+            "a": "31°",
+            "b": "48°",
+            "c": "90°",
+            "d": "43°",
+            "e": "65°"
+        },
+        "answer": "e",
+        "correct_answer_text": "65°",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1169,
+        "question": "A 2.00-cm tall object is placed 40.0 cm from a lens. The resulting image is 8.00-cm tall and upright relative to the object. Determine the focal length of the lens.",
+        "options": {
+            "a": "26.6 cm",
+            "b": "53.3 cm",
+            "c": "80.0 cm",
+            "d": "32.0 cm",
+            "e": "64.0 cm"
+        },
+        "answer": "b",
+        "correct_answer_text": "53.3 cm",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    }
+]

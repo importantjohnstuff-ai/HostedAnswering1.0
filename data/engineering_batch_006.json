@@ -8,10 +8,21 @@
             "c": "Harness",
             "d": "Belt"
         },
-        "answer": "a",
         "correct_answer_text": "Hard Hat",
         "category": "Engineering Sciences",
-        "sub_category": "Physics"
+        "sub_category": "Physics",
+        "solutions": [
+            {
+                "solution_id": "sol_69a69e3268444",
+                "user": "John",
+                "chosen_option": "a",
+                "image": null
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 646,
@@ -22,10 +33,14 @@
             "c": "Expense to get license of start business",
             "d": "License to start business"
         },
-        "answer": "d",
         "correct_answer_text": "License to start business",
         "category": "Engineering Sciences",
-        "sub_category": "Economy"
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 647,
@@ -36,10 +51,14 @@
             "c": "Hg",
             "d": "Fe"
         },
-        "answer": "d",
         "correct_answer_text": "Fe",
         "category": "Engineering Sciences",
-        "sub_category": "Chemistry"
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 648,
@@ -50,24 +69,32 @@
             "c": "Laminar",
             "d": "Turbulent"
         },
-        "answer": "a",
         "correct_answer_text": "Critical",
         "category": "Engineering Sciences",
-        "sub_category": "Fluid Mechanics"
+        "sub_category": "Fluid Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 649,
         "question": "Which of the following is the Ideal Gas Law?",
         "options": {
-            "a": "V/T = k",
-            "b": "P1/T1 = P2/T2",
+            "a": "V\/T = k",
+            "b": "P1\/T1 = P2\/T2",
             "c": "PV = nRT",
-            "d": "V = k x 1/P"
+            "d": "V = k x 1\/P"
         },
-        "answer": "c",
         "correct_answer_text": "PV = nRT",
         "category": "Engineering Sciences",
-        "sub_category": "Thermodynamics"
+        "sub_category": "Thermodynamics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 650,
@@ -78,10 +105,14 @@
             "c": "Isomers",
             "d": "Crystal Systems"
         },
-        "answer": "c",
         "correct_answer_text": "Isomers",
         "category": "Engineering Sciences",
-        "sub_category": "Chemistry"
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 651,
@@ -92,10 +123,14 @@
             "c": "Sum",
             "d": "Force Polygon"
         },
-        "answer": "b",
         "correct_answer_text": "Resultant",
         "category": "Engineering Sciences",
-        "sub_category": "Mechanics"
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 652,
@@ -106,10 +141,14 @@
             "c": "Work is a path function",
             "d": "Work is always zero for a constant-volume process"
         },
-        "answer": "b",
         "correct_answer_text": "Work is the area under a P-T diagram",
         "category": "Engineering Sciences",
-        "sub_category": "Thermodynamics"
+        "sub_category": "Thermodynamics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 653,
@@ -120,10 +159,14 @@
             "c": "Red",
             "d": "Yellow"
         },
-        "answer": "a",
         "correct_answer_text": "Blue",
         "category": "Engineering Sciences",
-        "sub_category": "Physics"
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 655,
@@ -134,10 +177,14 @@
             "c": "Kelvin gauge",
             "d": "Barometer"
         },
-        "answer": "a",
         "correct_answer_text": "Bourdon tube gauge",
         "category": "Engineering Sciences",
-        "sub_category": "Fluid Mechanics"
+        "sub_category": "Fluid Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 656,
@@ -148,10 +195,14 @@
             "c": "Wiring design rule",
             "d": "Installation rule"
         },
-        "answer": "c",
         "correct_answer_text": "Wiring design rule",
         "category": "Engineering Sciences",
-        "sub_category": "Physics"
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 658,
@@ -162,10 +213,21 @@
             "c": "Capillarity",
             "d": "Adhesion"
         },
-        "answer": "c",
         "correct_answer_text": "Capillarity",
         "category": "Engineering Sciences",
-        "sub_category": "Physics"
+        "sub_category": "Physics",
+        "solutions": [
+            {
+                "solution_id": "sol_69a69e4b3fe0c",
+                "user": "John",
+                "chosen_option": "c",
+                "image": null
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 659,
@@ -176,24 +238,39 @@
             "c": "Creep",
             "d": "Bending"
         },
-        "answer": "c",
         "correct_answer_text": "Creep",
         "category": "Engineering Sciences",
-        "sub_category": "Strength of Materials"
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 660,
-        "question": "A cannonball is fired from the top of a tower 78 m high at 120 m/s, 15 degrees from the horizontal. Determine the range on the ground at which the ball will land? Neglect air resistance.",
+        "question": "A cannonball is fired from the top of a tower 78 m high at 120 m\/s, 15 degrees from the horizontal. Determine the range on the ground at which the ball will land? Neglect air resistance.",
         "options": {
             "a": "762 m",
             "b": "1083 m",
             "c": "957 m",
             "d": "210 m"
         },
-        "answer": "b",
         "correct_answer_text": "1083 m",
         "category": "Engineering Sciences",
-        "sub_category": "Physics"
+        "sub_category": "Physics",
+        "solutions": [
+            {
+                "solution_id": "sol_69a68435e8ed1",
+                "user": "Pugeria",
+                "chosen_option": "c",
+                "image": "uploads\/solution_660_1772520501.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 662,
@@ -204,24 +281,39 @@
             "c": "0.642",
             "d": "0.667"
         },
-        "answer": "c",
         "correct_answer_text": "0.642",
         "category": "Engineering Sciences",
-        "sub_category": "Fluid Mechanics"
+        "sub_category": "Fluid Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 663,
         "question": "A car negotiates a curved road with super-elevation of 10 degrees and radius of 120 feet. Determine the speed limit on the road:",
         "options": {
-            "a": "26 ft/s",
-            "b": "35 ft/s",
-            "c": "13 ft/s",
-            "d": "10 ft/s"
+            "a": "26 ft\/s",
+            "b": "35 ft\/s",
+            "c": "13 ft\/s",
+            "d": "10 ft\/s"
         },
-        "answer": "a",
-        "correct_answer_text": "26 ft/s",
+        "correct_answer_text": "26 ft\/s",
         "category": "Engineering Sciences",
-        "sub_category": "Physics"
+        "sub_category": "Physics",
+        "solutions": [
+            {
+                "solution_id": "sol_69a685cfc8b65",
+                "user": "Pugeria",
+                "chosen_option": "a",
+                "image": "uploads\/solution_663_1772520911.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 664,
@@ -232,9 +324,20 @@
             "c": "An expense",
             "d": "Owner\u2019s equity"
         },
-        "answer": "a",
         "correct_answer_text": "An asset",
         "category": "Engineering Sciences",
-        "sub_category": "Physics"
+        "sub_category": "Physics",
+        "solutions": [
+            {
+                "solution_id": "sol_69a69e5fe8da2",
+                "user": "John",
+                "chosen_option": "a",
+                "image": null
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     }
 ]

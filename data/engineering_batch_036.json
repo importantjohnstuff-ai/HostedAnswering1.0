@@ -1,0 +1,382 @@
+[
+    {
+        "id": 1230,
+        "question": "What is a step-by-step drawing that represents a specific procedure or algorithm?",
+        "options": {
+            "a": "Flowchart",
+            "b": "Assembler diagram",
+            "c": "Circuit diagram",
+            "d": "Block diagram"
+        },
+        "answer": "a",
+        "correct_answer_text": "Flowchart",
+        "category": "Engineering Sciences",
+        "sub_category": "Engineering Sciences",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1231,
+        "question": "The most effective alloying ingredient in increasing hardness (as given) is:",
+        "options": {
+            "a": "Carbon",
+            "b": "Chromium",
+            "c": "Silicon",
+            "d": "Nickel"
+        },
+        "answer": "a",
+        "correct_answer_text": "Carbon",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1232,
+        "question": "The part of the computer responsible for executing programs, performing arithmetic operations, and general control is the:",
+        "options": {
+            "a": "RAM",
+            "b": "ROM",
+            "c": "CPU",
+            "d": "ALU"
+        },
+        "answer": "c",
+        "correct_answer_text": "CPU",
+        "category": "Engineering Sciences",
+        "sub_category": "Engineering Sciences",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1233,
+        "question": "From the following percent by mass compositions, determine the empirical formula of the compound. Li=18.0%, P=26.7%, O=55.3%",
+        "options": {
+            "a": "LiPO2",
+            "b": "Li3PO4",
+            "c": "LiPO3",
+            "d": "Li3PO3"
+        },
+        "answer": "b",
+        "correct_answer_text": "Li3PO4",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1234,
+        "question": "What is the shape of the s-orbital?",
+        "options": {
+            "a": "two lobes",
+            "b": "4 lobes",
+            "c": "sphere",
+            "d": "torus"
+        },
+        "answer": "c",
+        "correct_answer_text": "sphere",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1235,
+        "question": "Give the appropriate values of n and l for the orbital designation 4d.",
+        "options": {
+            "a": "n=3, l=2",
+            "b": "n=1, l=3",
+            "c": "n=4, l=4",
+            "d": "n=4, l=2"
+        },
+        "answer": "d",
+        "correct_answer_text": "n=4, l=2",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1236,
+        "question": "A 4.0 L sample of N2 (g) at 760 mmHg is compressed, at constant temperature, to 3.2 atm. What is the final gas volume?",
+        "options": {
+            "a": "950 L",
+            "b": "13 L",
+            "c": "59 L",
+            "d": "1.3 L"
+        },
+        "answer": "d",
+        "correct_answer_text": "1.3 L",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1237,
+        "question": "Determine the empirical and molecular formula for chrysotile asbestos. Chrysotile has the following percent composition: 28.03% Mg, 21.60% Si, 1.16% H, and 49.21% O. The molar mass for chrysotile is 520.8 g/mol",
+        "options": {
+            "a": "Mg6Si5H7O19",
+            "b": "Mg6Si4H6O16",
+            "c": "Mg5SiH6O10",
+            "d": "Mg6Si4H4O12"
+        },
+        "answer": "b",
+        "correct_answer_text": "Mg6Si4H6O16",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1238,
+        "question": "What is the molarity of a solution formed by mixing 500 grams of water and 10 grams of NaCl (MW=58.45 g/mol)? Density of water is 1 g/mL",
+        "options": {
+            "a": "0.736 M",
+            "b": "0.128 M",
+            "c": "0.674 M",
+            "d": "0.342 M"
+        },
+        "answer": "d",
+        "correct_answer_text": "0.342 M",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1239,
+        "question": "How many atoms of silicon are contained in 8.50 x 10^-5 grams?",
+        "options": {
+            "a": "1.44 x 10^23 atoms",
+            "b": "5.02 x 10^30 atoms",
+            "c": "1.82 x 10^18 atoms",
+            "d": "5.02 x 10^18 atoms"
+        },
+        "answer": "c",
+        "correct_answer_text": "1.82 x 10^18 atoms",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1240,
+        "question": "How many liters of gas is 23.4 grams of nitrogen at 750 mmHg and 28.0°C?",
+        "options": {
+            "a": "586 L",
+            "b": "20.9 L",
+            "c": "0.771 L",
+            "d": "20.4 L"
+        },
+        "answer": "b",
+        "correct_answer_text": "20.9 L",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1241,
+        "question": "A 4.0 L sample of N2 (g) at 760 mmHg is compressed, at constant temperature, to 3.2 atm. What is the final gas volume?",
+        "options": {
+            "a": "950 L",
+            "b": "13 L",
+            "c": "59 L",
+            "d": "1.3 L"
+        },
+        "answer": "d",
+        "correct_answer_text": "1.3 L",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1242,
+        "question": "When Fe++ changes to Fe+++ in a reaction, it",
+        "options": {
+            "a": "it gains an electron",
+            "b": "it gains a pair of electrons",
+            "c": "it loses an electron",
+            "d": "it loses two electron"
+        },
+        "answer": "c",
+        "correct_answer_text": "it loses an electron",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1243,
+        "question": "A 3000 Li-tank contains nitrogen is kept cold at -20degC and 80 kPa gage. What is the mass of hydrogen inside the tank?",
+        "options": {
+            "a": "7.24 kg",
+            "b": "4.77 kg",
+            "c": "8.64 kg",
+            "d": "6.44 kg"
+        },
+        "answer": "a",
+        "correct_answer_text": "7.24 kg",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1244,
+        "question": "A compound contains 40% C, 6.67% H and 53.33% O and has molecular mass of 180. What is the chemical formula of the compound?",
+        "options": {
+            "a": "CH2O",
+            "b": "C6H12O6",
+            "c": "C4H16O2",
+            "d": "CHO2"
+        },
+        "answer": "b",
+        "correct_answer_text": "C6H12O6",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1245,
+        "question": "How many valence electrons does an oxygen atom have?",
+        "options": {
+            "a": "2",
+            "b": "6",
+            "c": "8",
+            "d": "16"
+        },
+        "answer": "b",
+        "correct_answer_text": "6",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1246,
+        "question": "The half-life of francium-212 is 19 minutes. How many minutes will it take for 1 gram of this isotope to decay to 0.125 grams?",
+        "options": {
+            "a": "4.75 minutes",
+            "b": "9.5 minutes",
+            "c": "38 minutes",
+            "d": "57 minutes"
+        },
+        "answer": "d",
+        "correct_answer_text": "57 minutes",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1247,
+        "question": "How many moles of CO2 are present in 220 mg?",
+        "options": {
+            "a": "5 moles",
+            "b": "5000 moles",
+            "c": "0.005 mole",
+            "d": "10 moles"
+        },
+        "answer": "c",
+        "correct_answer_text": "0.005 mole",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1248,
+        "question": "When the following reaction equation is properly balanced, the number of moles of O2 will be... C3H8 + O2 -> CO2 + H2O",
+        "options": {
+            "a": "1.5 moles",
+            "b": "3 moles",
+            "c": "3.5 moles",
+            "d": "5 moles"
+        },
+        "answer": "d",
+        "correct_answer_text": "5 moles",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1249,
+        "question": "If the absolute temperature of a gas is doubled and the pressure of the gas is halved, how will the volume change?",
+        "options": {
+            "a": "It will decrease to one fourth of its original value.",
+            "b": "It will increase by two times its original value.",
+            "c": "It will stay the same as its original value.",
+            "d": "It will increase by four times its original value."
+        },
+        "answer": "d",
+        "correct_answer_text": "It will increase by four times its original value.",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    }
+]

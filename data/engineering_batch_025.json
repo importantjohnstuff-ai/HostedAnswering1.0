@@ -1,0 +1,382 @@
+[
+    {
+        "id": 1010,
+        "question": "What technical standard is stipulated in the IEEE 802.11?",
+        "options": {
+            "a": "5G",
+            "b": "FTTH",
+            "c": "AR/VR",
+            "d": "Wi-Fi"
+        },
+        "answer": "d",
+        "correct_answer_text": "Wi-Fi",
+        "category": "Engineering Sciences",
+        "sub_category": "Engineering Sciences",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1011,
+        "question": "In molecules of the same composition, what are the variations of atomic arrangements known as?",
+        "options": {
+            "a": "Polymers",
+            "b": "Monomers",
+            "c": "Isomers",
+            "d": "Crystal Systems"
+        },
+        "answer": "c",
+        "correct_answer_text": "Isomers",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1012,
+        "question": "A conduit experiences an expansion from a diameter of 50 cm to 70 cm. If the water enters at 80 m/s, determine the exit velocity:",
+        "options": {
+            "a": "31.5 m/s",
+            "b": "23.2 m/s",
+            "c": "40.8 m/s",
+            "d": "56.7 m/s"
+        },
+        "answer": "c",
+        "correct_answer_text": "40.8 m/s",
+        "category": "Engineering Sciences",
+        "sub_category": "Fluid Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1013,
+        "question": "What does BASIC stand for?",
+        "options": {
+            "a": "Basic All-Purpose Symbolic Instruction Code",
+            "b": "Basic All-Purpose System Instruction Code",
+            "c": "Beginner's All-Purpose Symbolic Instruction Code",
+            "d": "Beginner's All-Purpose System Instruction Code"
+        },
+        "answer": "c",
+        "correct_answer_text": "Beginner's All-Purpose Symbolic Instruction Code",
+        "category": "Engineering Sciences",
+        "sub_category": "Engineering Sciences",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1014,
+        "question": "Determine the velocity of a 11.4 gram bullet if on a ballistics test, the bob of the 2 kg wood pendulum displaced an angle of 60 degrees with the vertical. The length of the bob is 1.0 meters.",
+        "options": {
+            "a": "454 m/s",
+            "b": "785 m/s",
+            "c": "594 m/s",
+            "d": "552 m/s"
+        },
+        "answer": "d",
+        "correct_answer_text": "552 m/s",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1015,
+        "question": "Determine the maximum speed at which a car traverse a 800 feet radius road that is banked at 15 degrees and the friction coefficient 0.3 in mi/hr",
+        "options": {
+            "a": "60",
+            "b": "23",
+            "c": "99",
+            "d": "78"
+        },
+        "answer": "a",
+        "correct_answer_text": "60",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1016,
+        "question": "An essential part of a large dam that provides an efficient and safe means of releasing flow of water that exceeds the design capacity of the reservoir.",
+        "options": {
+            "a": "Spillway",
+            "b": "Weir",
+            "c": "Culverts",
+            "d": "Standpipe"
+        },
+        "answer": "a",
+        "correct_answer_text": "Spillway",
+        "category": "Engineering Sciences",
+        "sub_category": "Fluid Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1017,
+        "question": "Gasoline is flowing on a 4 inch-diameter pipeline at 250 GPM. What is the speed inside the pipeline?",
+        "options": {
+            "a": "2.7 ft/s",
+            "b": "6.4 ft/s",
+            "c": "1.4 ft/s",
+            "d": "0.66 ft/s"
+        },
+        "answer": "b",
+        "correct_answer_text": "6.4 ft/s",
+        "category": "Engineering Sciences",
+        "sub_category": "Fluid Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1018,
+        "question": "The ideal, reversible Carnot cycle involves four basic processes. What type of processes are they?",
+        "options": {
+            "a": "All isothermal",
+            "b": "Two adiabatic and two isentropic",
+            "c": "All adiabatic",
+            "d": "Two isothermal and two isentropic"
+        },
+        "answer": "d",
+        "correct_answer_text": "Two isothermal and two isentropic",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1019,
+        "question": "A 250 kg block rests on a 50 degrees plane. If the coefficient of kinetic friction is 0.20, determine the horizontal force P applied on the block to start the block moving up the plane.",
+        "options": {
+            "a": "259 kg",
+            "b": "158 kg",
+            "c": "223 kg",
+            "d": "285 kg"
+        },
+        "answer": "c",
+        "correct_answer_text": "223 kg",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1020,
+        "question": "A software that is commonly known as firmware.",
+        "options": {
+            "a": "OS",
+            "b": "Cache Memory",
+            "c": "BIOS",
+            "d": "IO"
+        },
+        "answer": "c",
+        "correct_answer_text": "BIOS",
+        "category": "Engineering Sciences",
+        "sub_category": "Engineering Sciences",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1021,
+        "question": "A baseball is thrown on a horizontal plane following a parabolic path with an initial velocity of 120 ft/s at an angle of 70 degrees above the horizontal. Solve the range from the throwing point that the ball attains its original level.",
+        "options": {
+            "a": "287 m",
+            "b": "354 m",
+            "c": "219 m",
+            "d": "176 m"
+        },
+        "answer": "a",
+        "correct_answer_text": "287 m",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1022,
+        "question": "What does the NGCP Color Alert System 'Red Alert' status signify?",
+        "options": {
+            "a": "There is an excess of electricity supply over demand",
+            "b": "The grid is under preventive maintenance and several brownouts on selected areas are expected.",
+            "c": "The power supply is insufficient, and rotating brownouts are possible",
+            "d": "All transmission lines are operating normally"
+        },
+        "answer": "c",
+        "correct_answer_text": "The power supply is insufficient, and rotating brownouts are possible",
+        "category": "Engineering Sciences",
+        "sub_category": "Engineering Sciences",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1023,
+        "question": "In cold working of metals:",
+        "options": {
+            "a": "close dimensional tolerance cannot be maintained",
+            "b": "poor surface finish is obtained",
+            "c": "recrystallization temperature for steel is reduced",
+            "d": "strength and hardness of steel is increased"
+        },
+        "answer": "d",
+        "correct_answer_text": "strength and hardness of steel is increased",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1024,
+        "question": "What is the escape velocity on Jupiter given the mean radius of approximately 69,911 kilometers and a mass of about 1.898 x 10^27 kg.",
+        "options": {
+            "a": "1300 m/s",
+            "b": "12,000 m/s",
+            "c": "60,200 m/s",
+            "d": "900,000 m/s"
+        },
+        "answer": "c",
+        "correct_answer_text": "60,200 m/s",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1025,
+        "question": "Which of the following are NOT examples of nonvolatile memory in the computer system?",
+        "options": {
+            "a": "Flash drives",
+            "b": "RAM",
+            "c": "Optical disk",
+            "d": "Hard drives"
+        },
+        "answer": "b",
+        "correct_answer_text": "RAM",
+        "category": "Engineering Sciences",
+        "sub_category": "Engineering Sciences",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1026,
+        "question": "A 0.6 kg ball is tied on a 1 meter string and whirled around a circular motion at 12 m/s. What is the tension on the string?",
+        "options": {
+            "a": "53.6 N",
+            "b": "86.4 N",
+            "c": "12.5 N",
+            "d": "73.5 N"
+        },
+        "answer": "b",
+        "correct_answer_text": "86.4 N",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1027,
+        "question": "What is a protective device designed to protect an individual against electric shock?",
+        "options": {
+            "a": "Circuit breaker",
+            "b": "Differential relay",
+            "c": "AFCI",
+            "d": "GFCI"
+        },
+        "answer": "d",
+        "correct_answer_text": "GFCI",
+        "category": "Engineering Sciences",
+        "sub_category": "Engineering Sciences",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1028,
+        "question": "A projectile is fired from a cliff 100 m high with an initial velocity of 400 m/s. If the firing angle is 30 degrees from the horizontal, compute the horizontal range of the projectile.",
+        "options": {
+            "a": "15.74 km",
+            "b": "14.54 km",
+            "c": "12.31 km",
+            "d": "20.43 km"
+        },
+        "answer": "a",
+        "correct_answer_text": "15.74 km",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1029,
+        "question": "A motor shall be marked with the following information: manufacturer's name, rated volts, full-load current, rated frequency, and number of phases. This is a rule in the Philippine Electrical Code Part I.",
+        "options": {
+            "a": "construction",
+            "b": "installation",
+            "c": "wiring design",
+            "d": "manufacturing"
+        },
+        "answer": "d",
+        "correct_answer_text": "manufacturing",
+        "category": "Engineering Sciences",
+        "sub_category": "Engineering Sciences",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    }
+]

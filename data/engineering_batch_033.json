@@ -1,0 +1,387 @@
+[
+    {
+        "id": 1170,
+        "question": "A diverging lens has a focal length of 10 cm. A 3-cm object is placed 25 cm from the lens. Which pair of terms most accurately describes the image?",
+        "options": {
+            "a": "real, upright",
+            "b": "real, inverted",
+            "c": "real, reduced",
+            "d": "virtual, upright",
+            "e": "virtual, inverted"
+        },
+        "answer": "d",
+        "correct_answer_text": "virtual, upright",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1171,
+        "question": "Ansel places an object 30 cm from a thin convex lens along the axis. If a real image forms at a distance of 10 cm from the lens, what is the focal length of the lens?",
+        "options": {
+            "a": "30 cm",
+            "b": "15 cm",
+            "c": "10 cm",
+            "d": "7.5 cm"
+        },
+        "answer": "d",
+        "correct_answer_text": "7.5 cm",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1172,
+        "question": "Two thin lenses, with focal lengths of 25.0 cm and -30.0 cm are placed in contact in an orientation so that their optic axes coincide. What is the focal length of the two in combination?",
+        "options": {
+            "a": "5.0 cm",
+            "b": "13.6 cm",
+            "c": "55.5 cm",
+            "d": "150 cm"
+        },
+        "answer": "d",
+        "correct_answer_text": "150 cm",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1173,
+        "question": "For a diverging lens with one flat surface, the radius of curvature for the curved surface is 20.0 cm. What must the index of refraction be so that the focal length is -15.0 cm?",
+        "options": {
+            "a": "0.333",
+            "b": "1.33",
+            "c": "2.33",
+            "d": "5.00"
+        },
+        "answer": "c",
+        "correct_answer_text": "2.33",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1174,
+        "question": "Calculate the change in internal energy (ΔE) for a system that is giving off 45.0 kJ of heat and is performing 855 J of work on the surroundings.",
+        "options": {
+            "a": "44.1 kJ",
+            "b": "-44.1 kJ",
+            "c": "-45.9 kJ",
+            "d": "9.00 x 10^2 kJ",
+            "e": "-9.00 x 10^2 kJ"
+        },
+        "answer": "c",
+        "correct_answer_text": "-45.9 kJ",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1175,
+        "question": "Calculate the change in internal energy (ΔU) for an isobaric system that is giving off 25.0 kJ of heat and is changing from 12.00 L to 6.00 L in volume at 1.50 atm pressure.",
+        "options": {
+            "a": "+25.9 kJ",
+            "b": "-16.0 kJ",
+            "c": "-25.9 kJ",
+            "d": "-24.1 kJ"
+        },
+        "answer": "d",
+        "correct_answer_text": "-24.1 kJ",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1176,
+        "question": "\"The enthalpy change for any chemical reaction is independent of the intermediate stages, provided the initial and final conditions are the same for each route.\" This statement is known as:",
+        "options": {
+            "a": "Dulong's Law",
+            "b": "Dalton's Law",
+            "c": "Hess's Law",
+            "d": "Petit Law"
+        },
+        "answer": "c",
+        "correct_answer_text": "Hess's Law",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1177,
+        "question": "Calculate the change in internal energy (ΔE) for a system that is absorbing 35.8 kJ of heat and is expanding from 8.00 to 24.0 L in volume at 1.00 atm.",
+        "options": {
+            "a": "+51.8 kJ",
+            "b": "-15.8 kJ",
+            "c": "-16.6 kJ",
+            "d": "+34.2 kJ"
+        },
+        "answer": "d",
+        "correct_answer_text": "+34.2 kJ",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1178,
+        "question": "Calculate the amount of heat (in kJ) required to raise the temperature of a 79.0 g sample of ethanol from 298.0 K to 385.0 K. The specific heat capacity of ethanol is 2.42 J/g°C.",
+        "options": {
+            "a": "57.0 kJ",
+            "b": "16.6 kJ",
+            "c": "73.6 kJ",
+            "d": "28.4 kJ",
+            "e": "12.9 kJ"
+        },
+        "answer": "b",
+        "correct_answer_text": "16.6 kJ",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1179,
+        "question": "What states that if two bodies are in thermal equilibrium with a third body, they are also in equilibrium with each other?",
+        "options": {
+            "a": "Zeroth law of thermodynamics",
+            "b": "First law of thermodynamics",
+            "c": "Second law of thermodynamics",
+            "d": "Third law of thermodynamics"
+        },
+        "answer": "a",
+        "correct_answer_text": "Zeroth law of thermodynamics",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1180,
+        "question": "Determine the specific heat capacity of an alloy that requires 59.3 kJ to raise the temperature of 150.0 g alloy from 298 K to 398 K.",
+        "options": {
+            "a": "4.38 J/g°C",
+            "b": "2.29 J/g°C",
+            "c": "3.95 J/g°C",
+            "d": "2.53 J/g°C",
+            "e": "1.87 J/g°C"
+        },
+        "answer": "c",
+        "correct_answer_text": "3.95 J/g°C",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1181,
+        "question": "Determine the final temperature of a gold nugget (mass 376 g) that starts at 390 K and loses 4.85 kJ of heat to a snowbank when it is lost. The specific heat capacity of gold is 0.128 J/g°C.",
+        "options": {
+            "a": "133 K",
+            "b": "398 K",
+            "c": "187 K",
+            "d": "297 K",
+            "e": "377 K"
+        },
+        "answer": "d",
+        "correct_answer_text": "297 K",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1182,
+        "question": "What horsepower is required to isothermally compress 800 ft^3 of Air per minute from 14.7 psia to 120 psia? (1 hp = 550 ft-lbf/sec)",
+        "options": {
+            "a": "28 hp",
+            "b": "108 hp",
+            "c": "256 hp",
+            "d": "13900 hp"
+        },
+        "answer": "b",
+        "correct_answer_text": "108 hp",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1183,
+        "question": "Helium (R = 0.4961 BTU/lbm-°R) is compressed isothermally from 14.7 psia and 68°F. The compression ratio is 1:4. Calculate the work done by the gas.",
+        "options": {
+            "a": "1454 BTU/lbm",
+            "b": "-364 BTU/lbm",
+            "c": "-187 BTU/lbm",
+            "d": "46.7 BTU/lbm"
+        },
+        "answer": "b",
+        "correct_answer_text": "-364 BTU/lbm",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1184,
+        "question": "Twenty grams of ice at 0°C melts to water at 0°C. How much does the entropy of the 20g change in this process?",
+        "options": {
+            "a": "30.5 J/K",
+            "b": "24.6 J/K",
+            "c": "21.3 J/K",
+            "d": "15.7 J/K"
+        },
+        "answer": "b",
+        "correct_answer_text": "24.6 J/K",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1185,
+        "question": "A gas is enclosed in a cylinder with a weighted piston as the top boundary. The gas is heated and expands from a volume of 0.04 m^3 to 0.10 m^3 at a constant pressure of 200 kPa. Find the work done on the system.",
+        "options": {
+            "a": "5 kJ",
+            "b": "15 kJ",
+            "c": "10 kJ",
+            "d": "12 kJ"
+        },
+        "answer": "d",
+        "correct_answer_text": "12 kJ",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1186,
+        "question": "A simple steam engine receives steam from the boiler at 180°C and exhausts directly into the air at 100°C. What is the upper limit of its efficiency?",
+        "options": {
+            "a": "11.28 %",
+            "b": "36.77 %",
+            "c": "20.36 %",
+            "d": "17.66 %"
+        },
+        "answer": "d",
+        "correct_answer_text": "17.66 %",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1187,
+        "question": "The flow energy of 150 L of a fluid passing a boundary to a system is 110 kJ. Determine the pressure at this point.",
+        "options": {
+            "a": "733.33 kPa",
+            "b": "833.33 kPa",
+            "c": "933.33 kPa",
+            "d": "633.33 kPa"
+        },
+        "answer": "a",
+        "correct_answer_text": "733.33 kPa",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1188,
+        "question": "Steam at 1000 lbf/ft^2 pressure and 300°R has specific volume of 6.5 ft^3/lbm and a specific enthalpy of 9800 lbf-ft/lbm. Find the internal energy per pound mass of steam.",
+        "options": {
+            "a": "2500 lbf-ft/lbm",
+            "b": "3300 lbf-ft/lbm",
+            "c": "5400 lbf-ft/lbm",
+            "d": "6900 lbf-ft/lbm"
+        },
+        "answer": "b",
+        "correct_answer_text": "3300 lbf-ft/lbm",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1189,
+        "question": "Water (specific heat Cp 4.2 kJ/kg K) is being heated by a 1500 W heater. What is the rate of change in temperature of 1kg of the water?",
+        "options": {
+            "a": "0.043 K/s",
+            "b": "0.179 K/s",
+            "c": "0.357 K/s",
+            "d": "1.50 K/s"
+        },
+        "answer": "c",
+        "correct_answer_text": "0.357 K/s",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    }
+]

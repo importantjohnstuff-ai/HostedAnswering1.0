@@ -8,66 +8,93 @@
             "c": "1.3 GPa",
             "d": "1.1 GPa"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Strength of Materials"
+        "sub_category": "Strength of Materials",
+        "solutions": [
+            {
+                "solution_id": "sol_69a68393b6e0a",
+                "user": "Keypee",
+                "chosen_option": "c",
+                "image": "uploads\/solution_745_1772520339.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 746,
-        "question": "A metal cube, 2.00 cm on each side, has a density of $6600 \\text{ kg/m}^3$. Find its apparent mass when it is totally submerged in water.",
+        "question": "A metal cube, 2.00 cm on each side, has a density of $6600 \\text{ kg\/m}^3$. Find its apparent mass when it is totally submerged in water.",
         "options": {
             "a": "58.2 g",
             "b": "52.8 g",
             "c": "48.4 g",
             "d": "44.8 g"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Fluid Mechanics"
+        "sub_category": "Fluid Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 747,
-        "question": "Find the depth of the water having a pressure of $1.01 \\times 10^5 \\text{ kPa}$ at the bottom ($\\rho_{H2O} = 1000 \\text{ kg/cu. m}$).",
+        "question": "Find the depth of the water having a pressure of $1.01 \\times 10^5 \\text{ kPa}$ at the bottom ($\\rho_{H2O} = 1000 \\text{ kg\/cu. m}$).",
         "options": {
             "a": "12,400 m",
             "b": "9,800 m",
             "c": "10,300 m",
             "d": "11,200 m"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Fluid Mechanics"
+        "sub_category": "Fluid Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 748,
-        "question": "Water flows from a reservoir with an elevation of 25 m out a short pipe that contains a turbine. The exit is at an elevation of 5 m. If the flow rate is $0.01 \\text{ m}^3/\\text{s}$, the maximum power output is:",
+        "question": "Water flows from a reservoir with an elevation of 25 m out a short pipe that contains a turbine. The exit is at an elevation of 5 m. If the flow rate is $0.01 \\text{ m}^3\/\\text{s}$, the maximum power output is:",
         "options": {
             "a": "1960 W",
             "b": "2430 W",
             "c": "2560 W",
             "d": "3480 W"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Thermodynamics"
+        "sub_category": "Thermodynamics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 749,
         "question": "For an orifice, head above the orifice is 4 m, and $C_c = 0.6$. Then the actual velocity of flow through the orifice will be:",
         "options": {
-            "a": "5.32 m/s",
-            "b": "8.96 m/s",
-            "c": "12.56 m/s",
-            "d": "16.32 m/s"
+            "a": "5.32 m\/s",
+            "b": "8.96 m\/s",
+            "c": "12.56 m\/s",
+            "d": "16.32 m\/s"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Fluid Mechanics"
+        "sub_category": "Fluid Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 750,
@@ -78,80 +105,118 @@
             "c": "10.2 N",
             "d": "9.64 N"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Fluid Mechanics"
+        "sub_category": "Fluid Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 751,
-        "question": "What is the static head corresponding to a flow velocity of 10 ft/sec?",
+        "question": "What is the static head corresponding to a flow velocity of 10 ft\/sec?",
         "options": {
             "a": "1.55 ft",
             "b": "1.75 ft",
             "c": "2.05 ft",
             "d": "2.25 ft"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Mechanics"
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 752,
-        "question": "A high velocity flow of gas at 800 ft/sec possesses kinetic energy nearest to which of the following?",
+        "question": "A high velocity flow of gas at 800 ft\/sec possesses kinetic energy nearest to which of the following?",
         "options": {
-            "a": "1.03 BTU/lb",
-            "b": "4.10 BTU/lb",
-            "c": "9.95 BTU/lb",
-            "d": "12.8 BTU/lb"
+            "a": "1.03 BTU\/lb",
+            "b": "4.10 BTU\/lb",
+            "c": "9.95 BTU\/lb",
+            "d": "12.8 BTU\/lb"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Mechanics"
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 753,
-        "question": "A sharp edge orifice will be required to produce a discharge of 35 liters/sec of water under a head of 3 m. The required diameter is nearest to, when $C = 0.596$.",
+        "question": "A sharp edge orifice will be required to produce a discharge of 35 liters\/sec of water under a head of 3 m. The required diameter is nearest to, when $C = 0.596$.",
         "options": {
             "a": "125 mm",
             "b": "100 mm",
             "c": "75 mm",
             "d": "50 mm"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Fluid Mechanics"
+        "sub_category": "Fluid Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 754,
-        "question": "You stand by the railroad tracks as a train passes by. You hear a 1 000-Hz frequency when the train approaches, which changes to 800 Hz as it goes away. How fast is the train moving? The speed of sound in air is 340 m/s.",
+        "question": "You stand by the railroad tracks as a train passes by. You hear a 1 000-Hz frequency when the train approaches, which changes to 800 Hz as it goes away. How fast is the train moving? The speed of sound in air is 340 m\/s.",
         "options": {
-            "a": "15.7 m/s",
-            "b": "21.2 m/s",
-            "c": "28.0 m/s",
-            "d": "37.8 m/s"
+            "a": "15.7 m\/s",
+            "b": "21.2 m\/s",
+            "c": "28.0 m\/s",
+            "d": "37.8 m\/s"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Physics"
+        "sub_category": "Physics",
+        "solutions": [
+            {
+                "solution_id": "sol_69a689d48f882",
+                "user": "John",
+                "chosen_option": "d",
+                "image": "uploads\/solution_754_1772521940.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 755,
         "question": "With no machinery operating, the background noise in a room has a sound pressure level of 43 dB. With the machinery operating, the sound pressure level is 45 dB. The sound pressure level due to the machinery alone is:",
         "options": {
-            "a": "41 dB",
+            "a": "$42 dB$",
             "b": "47 dB",
             "c": "49 dB",
             "d": "32 dB"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Physics"
+        "sub_category": "Physics",
+        "solutions": [
+            {
+                "solution_id": "sol_69a68c610f4fd",
+                "user": "John",
+                "chosen_option": "a",
+                "image": "uploads\/solution_755_1772522593.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 756,
@@ -162,10 +227,21 @@
             "c": "240 dB",
             "d": "117 dB"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Physics"
+        "sub_category": "Physics",
+        "solutions": [
+            {
+                "solution_id": "sol_69a68d08bf0d5",
+                "user": "John",
+                "chosen_option": "b",
+                "image": "uploads\/solution_756_1772522760.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 757,
@@ -176,10 +252,21 @@
             "c": "112 dB",
             "d": "148 dB"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Physics"
+        "sub_category": "Physics",
+        "solutions": [
+            {
+                "solution_id": "sol_69a68df5ebadd",
+                "user": "John",
+                "chosen_option": "c",
+                "image": "uploads\/solution_757_1772522997.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 758,
@@ -190,10 +277,21 @@
             "c": "128 Hz",
             "d": "680 Hz"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Physics"
+        "sub_category": "Physics",
+        "solutions": [
+            {
+                "solution_id": "sol_69a6892b8cab9",
+                "user": "Pugeria",
+                "chosen_option": "c",
+                "image": "uploads\/solution_758_1772521771.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 759,
@@ -204,10 +302,14 @@
             "c": "350 Hz",
             "d": "410 Hz"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Fluid Mechanics"
+        "sub_category": "Fluid Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 760,
@@ -218,10 +320,21 @@
             "c": "59 deg",
             "d": "90 deg"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Physics"
+        "sub_category": "Physics",
+        "solutions": [
+            {
+                "solution_id": "sol_69a69116cf7db",
+                "user": "John",
+                "chosen_option": "b",
+                "image": "uploads\/solution_760_1772523798.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 761,
@@ -232,10 +345,21 @@
             "c": "diffraction",
             "d": "interference"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Physics"
+        "sub_category": "Physics",
+        "solutions": [
+            {
+                "solution_id": "sol_69a69f3890acc",
+                "user": "John",
+                "chosen_option": "c",
+                "image": null
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 762,
@@ -246,10 +370,21 @@
             "c": "36 deg",
             "d": "39 deg"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Physics"
+        "sub_category": "Physics",
+        "solutions": [
+            {
+                "solution_id": "sol_69a6928a8c959",
+                "user": "John",
+                "chosen_option": "b",
+                "image": "uploads\/solution_762_1772524170.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 763,
@@ -260,10 +395,14 @@
             "c": "+0.255 D",
             "d": "+0.675 D"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Physics"
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 764,
@@ -274,9 +413,20 @@
             "c": "26.5 Hz",
             "d": "52.9 Hz"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Physics"
+        "sub_category": "Physics",
+        "solutions": [
+            {
+                "solution_id": "sol_69a68be67fcaa",
+                "user": "Pugeria",
+                "chosen_option": "b",
+                "image": "uploads\/solution_764_1772522470.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     }
 ]

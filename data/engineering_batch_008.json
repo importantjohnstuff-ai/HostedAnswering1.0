@@ -8,10 +8,14 @@
             "c": "17.7 kN",
             "d": "29.4 kN"
         },
-        "answer": "b",
         "correct_answer_text": "5.8 kN",
         "category": "Engineering Sciences",
-        "sub_category": "Physics"
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 686,
@@ -22,10 +26,14 @@
             "c": "Bernoulli",
             "d": "Torricelli"
         },
-        "answer": "a",
         "correct_answer_text": "Archimedes",
         "category": "Engineering Sciences",
-        "sub_category": "Fluid Mechanics"
+        "sub_category": "Fluid Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 687,
@@ -36,24 +44,32 @@
             "c": "8.82",
             "d": "7.8"
         },
-        "answer": "c",
         "correct_answer_text": "8.82",
         "category": "Engineering Sciences",
-        "sub_category": "Fluid Mechanics"
+        "sub_category": "Fluid Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 688,
-        "question": "The average density of a human body is 980kg/cu.m. What percent of the human body will float in fresh water?",
+        "question": "The average density of a human body is 980kg\/cu.m. What percent of the human body will float in fresh water?",
         "options": {
             "a": "1",
             "b": "2",
             "c": "98",
             "d": "10"
         },
-        "answer": "b",
         "correct_answer_text": "2",
         "category": "Engineering Sciences",
-        "sub_category": "Fluid Mechanics"
+        "sub_category": "Fluid Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 690,
@@ -64,52 +80,68 @@
             "c": "4m",
             "d": "6m"
         },
-        "answer": "a",
         "correct_answer_text": "2m",
         "category": "Engineering Sciences",
-        "sub_category": "Fluid Mechanics"
+        "sub_category": "Fluid Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 691,
         "question": "Determine the velocity of the liquid which is 1.5m deep at the exit orifice on the side of a tank which is 0.3m above the base.",
         "options": {
-            "a": "1.9 m/s",
-            "b": "2.9 m/s",
-            "c": "3.9 m/s",
-            "d": "4.9 m/s"
+            "a": "1.9 m\/s",
+            "b": "2.9 m\/s",
+            "c": "3.9 m\/s",
+            "d": "4.9 m\/s"
         },
-        "answer": "d",
-        "correct_answer_text": "4.9 m/s",
+        "correct_answer_text": "4.9 m\/s",
         "category": "Engineering Sciences",
-        "sub_category": "Chemistry"
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 692,
-        "question": "Given is an orifice with coefficient of velocity Cv = 0.6. If the head above the orifice is 4m, the actual velocity of the jet issuing from the orifice in m/s is nearest to",
+        "question": "Given is an orifice with coefficient of velocity Cv = 0.6. If the head above the orifice is 4m, the actual velocity of the jet issuing from the orifice in m\/s is nearest to",
         "options": {
             "a": "9.81",
             "b": "6.98",
             "c": "5.32",
             "d": "3.22"
         },
-        "answer": "c",
         "correct_answer_text": "5.32",
         "category": "Engineering Sciences",
-        "sub_category": "Fluid Mechanics"
+        "sub_category": "Fluid Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 693,
-        "question": "A stream of water 1 inch in diameter (density = 62.27 lb/cu.ft) impinges on a bathroom scale which measures a force of 250 lbs. What is the velocity of the stream in ft/s?",
+        "question": "A stream of water 1 inch in diameter (density = 62.27 lb\/cu.ft) impinges on a bathroom scale which measures a force of 250 lbs. What is the velocity of the stream in ft\/s?",
         "options": {
             "a": "153.7",
             "b": "24.3",
             "c": "190.6",
             "d": "24.9"
         },
-        "answer": "a",
         "correct_answer_text": "153.7",
         "category": "Engineering Sciences",
-        "sub_category": "Mechanics"
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 694,
@@ -118,12 +150,16 @@
             "a": "Pa",
             "b": "Unitless",
             "c": "N-m",
-            "d": "N-m/s"
+            "d": "N-m\/s"
         },
-        "answer": "b",
         "correct_answer_text": "Unitless",
         "category": "Engineering Sciences",
-        "sub_category": "Strength of Materials"
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 696,
@@ -134,10 +170,21 @@
             "c": "Geothermal energy",
             "d": "Solar energy"
         },
-        "answer": "d",
         "correct_answer_text": "Solar energy",
         "category": "Engineering Sciences",
-        "sub_category": "Physics"
+        "sub_category": "Physics",
+        "solutions": [
+            {
+                "solution_id": "sol_69a69eab29009",
+                "user": "John",
+                "chosen_option": "d",
+                "image": null
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 697,
@@ -148,10 +195,21 @@
             "c": "Wind",
             "d": "Tidal"
         },
-        "answer": "a",
         "correct_answer_text": "Coal",
         "category": "Engineering Sciences",
-        "sub_category": "Physics"
+        "sub_category": "Physics",
+        "solutions": [
+            {
+                "solution_id": "sol_69a69eb05494c",
+                "user": "John",
+                "chosen_option": "a",
+                "image": null
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 698,
@@ -162,10 +220,21 @@
             "c": "recrystallization temperature for steel is reduced",
             "d": "strength and hardness of steel is increased"
         },
-        "answer": "d",
         "correct_answer_text": "strength and hardness of steel is increased",
         "category": "Engineering Sciences",
-        "sub_category": "Physics"
+        "sub_category": "Physics",
+        "solutions": [
+            {
+                "solution_id": "sol_69a69ee9046ad",
+                "user": "John",
+                "chosen_option": "d",
+                "image": null
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 700,
@@ -176,24 +245,32 @@
             "c": "a continuous beam",
             "d": "a step tapered column"
         },
-        "answer": "c",
         "correct_answer_text": "a continuous beam",
         "category": "Engineering Sciences",
-        "sub_category": "Mechanics"
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 701,
-        "question": "A liquid pesticide has a density of 1.67 g/mL. Find the mass of the liquid in kg for a full 20-L container.",
+        "question": "A liquid pesticide has a density of 1.67 g\/mL. Find the mass of the liquid in kg for a full 20-L container.",
         "options": {
             "a": "35.7",
             "b": "34.5",
             "c": "32.6",
             "d": "33.4"
         },
-        "answer": "d",
         "correct_answer_text": "33.4",
         "category": "Engineering Sciences",
-        "sub_category": "Fluid Mechanics"
+        "sub_category": "Fluid Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 703,
@@ -204,10 +281,21 @@
             "c": "4.5 x 10^18",
             "d": "7.4 x 10^18"
         },
-        "answer": "c",
         "correct_answer_text": "4.5 x 10^18",
         "category": "Engineering Sciences",
-        "sub_category": "Physics"
+        "sub_category": "Physics",
+        "solutions": [
+            {
+                "solution_id": "sol_69a684a24a9ee",
+                "user": "John",
+                "chosen_option": "b",
+                "image": "uploads\/solution_703_1772520610.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 704,
@@ -215,12 +303,16 @@
         "options": {
             "a": "h = pv + T",
             "b": "h = u + pv",
-            "c": "h = u + p/v",
-            "d": "h = u + p/T"
+            "c": "h = u + p\/v",
+            "d": "h = u + p\/T"
         },
-        "answer": "b",
         "correct_answer_text": "h = u + pv",
         "category": "Engineering Sciences",
-        "sub_category": "Thermodynamics"
+        "sub_category": "Thermodynamics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     }
 ]

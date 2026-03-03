@@ -1,0 +1,382 @@
+[
+    {
+        "id": 870,
+        "question": "What is the nominal rate compounded monthly which is equivalent 10% compounded semi-annually?",
+        "options": {
+            "a": "8.7%",
+            "b": "9.8%",
+            "c": "9.7%",
+            "d": "7.7 %"
+        },
+        "answer": "b",
+        "correct_answer_text": "9.8%",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 871,
+        "question": "Brutus purchased an electric violin that cost 10,000php. It is expected to have a value of 3000php at the end of 4 years. Calculate depreciation expense on the musical instrument using straight line method.",
+        "options": {
+            "a": "1650.87 php",
+            "b": "1750.00 php",
+            "c": "1675.72 php",
+            "d": "1625.45 php"
+        },
+        "answer": "b",
+        "correct_answer_text": "1750.00 php",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 872,
+        "question": "A $180,000 was spent on the lighting project in CALABARZON that yields annual benefit of $60,000 for a period of 8 years without any salvage value. Determine the benefit-to-cost ratio considering the cost of money to be 7%.",
+        "options": {
+            "a": "1.99",
+            "b": "1.57",
+            "c": "2.21",
+            "d": "2.63"
+        },
+        "answer": "a",
+        "correct_answer_text": "1.99",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 873,
+        "question": "Compute the effective annual interest rate equivalent to 5% nominal annual rate interest compounded continuously.",
+        "options": {
+            "a": "5.1271 %",
+            "b": "6.1234 %",
+            "c": "7.9696 %",
+            "d": "4.8888 %"
+        },
+        "answer": "a",
+        "correct_answer_text": "5.1271 %",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 874,
+        "question": "In a certain bank, Php 1,000.00 became Php 30,000 in 30 years. Calculate the interest rate of the bank.",
+        "options": {
+            "a": "10 %",
+            "b": "15 %",
+            "c": "8.5 %",
+            "d": "12 %"
+        },
+        "answer": "d",
+        "correct_answer_text": "12 %",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 875,
+        "question": "A lathe machine costs Php 10,000.00 with a scrap value of Php 500.00 at the end of its life of 10 years. What is the annual depreciation cost by straight line method?",
+        "options": {
+            "a": "Php 700.00",
+            "b": "Php 650.00",
+            "c": "Php 950.00",
+            "d": "Php 1500.00"
+        },
+        "answer": "c",
+        "correct_answer_text": "Php 950.00",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 876,
+        "question": "Income from a certain operation is expected to be zero in years one through five, after which it will be $50,000 per year forever. The capitalized cost of the income at 10% per year is nearest to:",
+        "options": {
+            "a": "$252,300",
+            "b": "$282,250",
+            "c": "$310,450",
+            "d": "$296,710"
+        },
+        "answer": "c",
+        "correct_answer_text": "$310,450",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 877,
+        "question": "A small company wants to have enough money saved to purchase a new $200,000 warehouse in five years. If the company can invest money at 18% per year, the amount that must be invested each year is closest to:",
+        "options": {
+            "a": "$27,960",
+            "b": "$46,920",
+            "c": "$59,650",
+            "d": "$63,960"
+        },
+        "answer": "a",
+        "correct_answer_text": "$27,960",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 878,
+        "question": "Fifteen years ago P1,000.00 was deposited in a bank account and today it is worth P2,370.00. The bank pays interest semi-annually. What was the interest rate paid on this account?",
+        "options": {
+            "a": "4.9%",
+            "b": "5.6%",
+            "c": "5.0%",
+            "d": "3.8%"
+        },
+        "answer": "b",
+        "correct_answer_text": "5.6%",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 879,
+        "question": "An amount of P1000 becomes P1608.44 after 4 years compounded bimonthly. Find the nominal interest.",
+        "options": {
+            "a": "12.96%",
+            "b": "12.0%",
+            "c": "14.64%",
+            "d": "15.0%"
+        },
+        "answer": "b",
+        "correct_answer_text": "12.0%",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 880,
+        "question": "A person deposits $5,000 into a money market account which pays interest at a rate of 8% per year. The amount that would be in the account at the end of ten years is most nearly:",
+        "options": {
+            "a": "$2,792",
+            "b": "$9,000",
+            "c": "$10,795",
+            "d": "$12,165"
+        },
+        "answer": "c",
+        "correct_answer_text": "$10,795",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 881,
+        "question": "A small company wants to deposit a single amount of money now so that it will have enough to purchase a new truck costing $50,000 five years from now. If the money can be deposited into an account which earns interest at 10% per year, the amount that must be deposited is most nearly:",
+        "options": {
+            "a": "$10,000",
+            "b": "$31,050",
+            "c": "$33,250",
+            "d": "$319,160"
+        },
+        "answer": "b",
+        "correct_answer_text": "$31,050",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 882,
+        "question": "If James Garin deposited P1000 in a savings account that pays 6% annual interest and all the interest is left in the account, what is the account balance after three years?",
+        "options": {
+            "a": "666",
+            "b": "999",
+            "c": "1010",
+            "d": "1191"
+        },
+        "answer": "d",
+        "correct_answer_text": "1191",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 883,
+        "question": "Your perfectly reliable friend, Zack Tabulong, asks for a loan and promises to pay back P150 two years from now. If the minimum interest rate you will accept is 8%, what is the maximum amount that you will loan?",
+        "options": {
+            "a": "111",
+            "b": "112",
+            "c": "113",
+            "d": "129"
+        },
+        "answer": "d",
+        "correct_answer_text": "129",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 884,
+        "question": "If the money invested will earn P200,000 after 10 years at 16% compounded annually, what is the principal amount?",
+        "options": {
+            "a": "P50,000.00",
+            "b": "P123,000.00",
+            "c": "P69,000.00",
+            "d": "P58,626.36"
+        },
+        "answer": "d",
+        "correct_answer_text": "P58,626.36",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 885,
+        "question": "If money will triple itself after 8 years, determine the nominal interest rate.",
+        "options": {
+            "a": "14.72%",
+            "b": "6%",
+            "c": "69%",
+            "d": "9%"
+        },
+        "answer": "a",
+        "correct_answer_text": "14.72%",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 886,
+        "question": "A company purchased an equipment for P110,000. It is estimated that it will have a useful life of 10 years, production of 100,000 units and working hours of 100,000. The scrap value of the equipment is P10,000, compute the book value of the equipment at the end of second year using Declining-balance method.",
+        "options": {
+            "a": "P 68,096",
+            "b": "P70,400",
+            "c": "P94,371",
+            "d": "P 95,000"
+        },
+        "answer": "b",
+        "correct_answer_text": "P70,400",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 887,
+        "question": "A telephone company purchased a microwave radio equipment for P6,000,000.00. Freight and installation charges amounted to 3% of the purchased price. If the equipment shall be depreciated over a period of 8 years with a salvage value of 5% of the total initial cost, determine the depreciation charge during the 5th year using the sum-of-the year's digits method.",
+        "options": {
+            "a": "652,333",
+            "b": "723,451",
+            "c": "578,242",
+            "d": "822,343"
+        },
+        "answer": "c",
+        "correct_answer_text": "578,242",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 888,
+        "question": "An asset for drilling was purchased for P6M and has an estimated book value of P1.2 M at the end of an estimated useful life of 14 years. Compute the depreciation amount in the third year by SOYD method.",
+        "options": {
+            "a": "P3.26M",
+            "b": "P2.33M",
+            "c": "P3.11M",
+            "d": "P2.78M"
+        },
+        "answer": "b",
+        "correct_answer_text": "P2.33M",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 889,
+        "question": "Mr. Grey cleaning equipment was purchased in 2009 for P 8,500 and is depreciated by the double declining balance (DDB) method for an expected life of 12 years. What is the total depreciation at the end of 2014? Original salvage value was estimated to be P2,500.",
+        "options": {
+            "a": "P4,329.22",
+            "b": "P5,423.63",
+            "c": "P4,432.83",
+            "d": "P5,653.37"
+        },
+        "answer": "d",
+        "correct_answer_text": "P5,653.37",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    }
+]

@@ -8,10 +8,14 @@
             "c": "55.5 cm",
             "d": "150 cm"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Physics"
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 806,
@@ -22,10 +26,14 @@
             "c": "2.33",
             "d": "5.00"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Physics"
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 807,
@@ -34,26 +42,48 @@
             "a": "274",
             "b": "248",
             "c": "316",
-            "d": "236"
+            "d": "265"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Strength of Materials"
+        "sub_category": "Strength of Materials",
+        "solutions": [
+            {
+                "solution_id": "sol_69a684ba61e94",
+                "user": "Keypee",
+                "chosen_option": "d",
+                "image": "uploads\/solution_807_1772520634.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 808,
-        "question": "Compute the induced/compressive stress, in kPa, of a steel solid shafting of 50 mm diameter and 800 mm in length that is subjected to an increase of temperature by 80\u00b0C.",
+        "question": "Compute the induced\/compressive stress, in kPa, of a steel solid shafting of 50 mm diameter and 800 mm in length that is subjected to an increase of temperature by 80\u00b0C.",
         "options": {
             "a": "181,816",
             "b": "242,816",
             "c": "218,182",
             "d": "196,560"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Strength of Materials"
+        "sub_category": "Strength of Materials",
+        "solutions": [
+            {
+                "solution_id": "sol_69a6870c5a4cc",
+                "user": "Keypee",
+                "chosen_option": "a",
+                "image": "uploads\/solution_808_1772521228.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 809,
@@ -64,10 +94,21 @@
             "c": "103",
             "d": "234"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Strength of Materials"
+        "sub_category": "Strength of Materials",
+        "solutions": [
+            {
+                "solution_id": "sol_69a687e5ef8ab",
+                "user": "Keypee",
+                "chosen_option": "a",
+                "image": "uploads\/solution_809_1772521445.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 812,
@@ -78,10 +119,21 @@
             "c": "41.202 x 10\u2076",
             "d": "43.101 x 10\u2076"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Strength of Materials"
+        "sub_category": "Strength of Materials",
+        "solutions": [
+            {
+                "solution_id": "sol_69a6889721c05",
+                "user": "Keypee",
+                "chosen_option": "a",
+                "image": "uploads\/solution_812_1772521623.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 813,
@@ -92,10 +144,21 @@
             "c": "68,080 lbs",
             "d": "66,800 lbs"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Strength of Materials"
+        "sub_category": "Strength of Materials",
+        "solutions": [
+            {
+                "solution_id": "sol_69a6895962680",
+                "user": "Keypee",
+                "chosen_option": "b",
+                "image": "uploads\/solution_813_1772521817.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 814,
@@ -106,24 +169,46 @@
             "c": "3.41",
             "d": "1.86"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Strength of Materials"
+        "sub_category": "Strength of Materials",
+        "solutions": [
+            {
+                "solution_id": "sol_69a68a3e65d92",
+                "user": "Keypee",
+                "chosen_option": "d",
+                "image": "uploads\/solution_814_1772522046.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 815,
-        "question": "For a given material, the modulus of elasticity is 100 GN/m\u00b2 in tension and 40 GN/m\u00b2 in shear. Find the Poisson\u2019s ratio.",
+        "question": "For a given material, the modulus of elasticity is 100 GN\/m\u00b2 in tension and 40 GN\/m\u00b2 in shear. Find the Poisson\u2019s ratio.",
         "options": {
             "a": "0.10",
             "b": "0.50",
             "c": "0.25",
             "d": "0.35"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Strength of Materials"
+        "sub_category": "Strength of Materials",
+        "solutions": [
+            {
+                "solution_id": "sol_69a68b29a27f7",
+                "user": "Keypee",
+                "chosen_option": "c",
+                "image": "uploads\/solution_815_1772522281.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 816,
@@ -134,10 +219,21 @@
             "c": "420,340 N",
             "d": "460,240 N"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Strength of Materials"
+        "sub_category": "Strength of Materials",
+        "solutions": [
+            {
+                "solution_id": "sol_69a68d7b00536",
+                "user": "Keypee",
+                "chosen_option": "a",
+                "image": "uploads\/solution_816_1772522875.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 817,
@@ -148,10 +244,21 @@
             "c": "24,896 psi",
             "d": "23,654 psi"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Strength of Materials"
+        "sub_category": "Strength of Materials",
+        "solutions": [
+            {
+                "solution_id": "sol_69a68e9b00863",
+                "user": "Keypee",
+                "chosen_option": "a",
+                "image": "uploads\/solution_817_1772523163.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 818,
@@ -162,38 +269,64 @@
             "c": "199 hp",
             "d": "260 hp"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Strength of Materials"
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 819,
-        "question": "A steel shaft operates at 186 rad/s and must handle 2 kW of power. The shearing stress is not to exceed 40 MN/m\u00b2. Calculate the minimum shaft diameter based on pure torsion.",
+        "question": "A steel shaft operates at 186 rad\/s and must handle 2 kW of power. The shearing stress is not to exceed 40 MN\/m\u00b2. Calculate the minimum shaft diameter based on pure torsion.",
         "options": {
             "a": "9 mm",
             "b": "11 mm",
             "c": "13 mm",
             "d": "15 mm"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Strength of Materials"
+        "sub_category": "Strength of Materials",
+        "solutions": [
+            {
+                "solution_id": "sol_69a693850d63d",
+                "user": "Keypee",
+                "chosen_option": "b",
+                "image": "uploads\/solution_819_1772524421.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 820,
-        "question": "What power would the spindle 55 mm in diameter transmit at 480 rpm stress allowed for short shaft is 59 N/mm\u00b2?",
+        "question": "What power would the spindle 55 mm in diameter transmit at 480 rpm stress allowed for short shaft is 59 N\/mm\u00b2?",
         "options": {
             "a": "98.68 kW",
             "b": "96.88 kW",
             "c": "68.98 kW",
             "d": "68.89 kW"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Strength of Materials"
+        "sub_category": "Strength of Materials",
+        "solutions": [
+            {
+                "solution_id": "sol_69a694c71dbed",
+                "user": "Keypee",
+                "chosen_option": "b",
+                "image": "uploads\/solution_820_1772524743.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 823,
@@ -204,10 +337,21 @@
             "c": "0.60 in",
             "d": "0.75 in"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Strength of Materials"
+        "sub_category": "Strength of Materials",
+        "solutions": [
+            {
+                "solution_id": "sol_69a69621d883d",
+                "user": "Keypee",
+                "chosen_option": "c",
+                "image": "uploads\/solution_823_1772525089.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 824,
@@ -218,9 +362,20 @@
             "c": "1000 psi",
             "d": "500 psi"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Strength of Materials"
+        "sub_category": "Strength of Materials",
+        "solutions": [
+            {
+                "solution_id": "sol_69a697215cf34",
+                "user": "Keypee",
+                "chosen_option": "d",
+                "image": "uploads\/solution_824_1772525345.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     }
 ]

@@ -1,0 +1,382 @@
+[
+    {
+        "id": 1030,
+        "question": "Determine the gage pressure at the bottom of a dam with a water level of 25 meters:",
+        "options": {
+            "a": "125 kPa",
+            "b": "550 kPa",
+            "c": "245 kPa",
+            "d": "300 kPa"
+        },
+        "answer": "c",
+        "correct_answer_text": "245 kPa",
+        "category": "Engineering Sciences",
+        "sub_category": "Fluid Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1031,
+        "question": "When using the net present worth calculations to compare two projects, which of the following could invalidate the calculation?",
+        "options": {
+            "a": "evaluating over different time periods",
+            "b": "mutually exclusive projects",
+            "c": "non-conventional cash flows",
+            "d": "difference in the magnitude of the project"
+        },
+        "answer": "a",
+        "correct_answer_text": "evaluating over different time periods",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1032,
+        "question": "What horizontal force P can be applied to a 10 kg block on a level surface with a coefficient of friction of 0.20 that will cause an acceleration of 2.50 m/s^2?",
+        "options": {
+            "a": "44.62 N",
+            "b": "224.5 N",
+            "c": "53.8 N",
+            "d": "343.5 N"
+        },
+        "answer": "a",
+        "correct_answer_text": "44.62 N",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1033,
+        "question": "The loss resulted from which poor estimate of the life of the equipment.",
+        "options": {
+            "a": "sunk cost",
+            "b": "in-place value",
+            "c": "economic life",
+            "d": "annuity"
+        },
+        "answer": "a",
+        "correct_answer_text": "sunk cost",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1034,
+        "question": "It is responsible for the procurement and administration of funds with the view of achieving the objective of business.",
+        "options": {
+            "a": "finance",
+            "b": "capital",
+            "c": "budget",
+            "d": "funds"
+        },
+        "answer": "a",
+        "correct_answer_text": "finance",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1035,
+        "question": "A car travels at a steady 40.0 m/s around a horizontal curve of radius 200 m. What is the minimum coefficient of static friction between the road and the car's tires that will allow the car to travel at this speed without sliding?",
+        "options": {
+            "a": "1.23",
+            "b": "0.816",
+            "c": "0.706",
+            "d": "0.952"
+        },
+        "answer": "b",
+        "correct_answer_text": "0.816",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1036,
+        "question": "A market situation with only one buyer of an item and no good substitute.",
+        "options": {
+            "a": "monopsony",
+            "b": "monopoly",
+            "c": "oligopoly",
+            "d": "duopsony"
+        },
+        "answer": "a",
+        "correct_answer_text": "monopsony",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1037,
+        "question": "A tank consists of three layers of liquids: 0.75 m of seawater (s.g.=1.03), 0.50 m of kerosene (s.g. 0.80), and 0.25 m of acetone (s.g. 0.65). Determine the pressure at the bottom of the tank:",
+        "options": {
+            "a": "10 kPa",
+            "b": "17 kPa",
+            "c": "13 kPa",
+            "d": "6 kPa"
+        },
+        "answer": "c",
+        "correct_answer_text": "13 kPa",
+        "category": "Engineering Sciences",
+        "sub_category": "Fluid Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1038,
+        "question": "It is a method of paying debt including the principal and interest which is usually done in a series of equal payments occurring at equal intervals of time.",
+        "options": {
+            "a": "amortization",
+            "b": "depreciation",
+            "c": "depletion",
+            "d": "annuity"
+        },
+        "answer": "a",
+        "correct_answer_text": "amortization",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1039,
+        "question": "A car enters a 300-m radius horizontal curve on a rainy day when the coefficient of static friction between its tires and the road is 0.600. What is the maximum speed at which the car can travel around this curve without sliding?",
+        "options": {
+            "a": "29.6 m/s",
+            "b": "33.1 m/s",
+            "c": "24.8 m/s",
+            "d": "42.0 m/s"
+        },
+        "answer": "d",
+        "correct_answer_text": "42.0 m/s",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1040,
+        "question": "A 6.0-m long, 18-kg uniform ladder rests against a smooth vertical wall with the bottom leaning at 80 degrees with the wall. The coefficient of static friction between the floor and the ladder is 0.28. What distance, measured along the ladder from the bottom, can a 50-kg person climb before the ladder starts to slip?",
+        "options": {
+            "a": "5.82 m",
+            "b": "2.78 m",
+            "c": "1.64 m",
+            "d": "1.25 m"
+        },
+        "answer": "c",
+        "correct_answer_text": "1.64 m",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1041,
+        "question": "It is the sum of the first cost and the present worth of annual costs of repair and maintenance and operational costs, and the renewal costs.",
+        "options": {
+            "a": "capitalized cost",
+            "b": "marginal cost",
+            "c": "annual cost",
+            "d": "future worth cost"
+        },
+        "answer": "a",
+        "correct_answer_text": "capitalized cost",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1042,
+        "question": "The motion of a particle is defined by the relation x = (1/3)t^3 - 3t^2 + 8t + 2 where x is the distance in meters and t is the time in seconds. What is the time when the velocity is zero?",
+        "options": {
+            "a": "2 seconds",
+            "b": "3 seconds",
+            "c": "5 seconds",
+            "d": "7 seconds"
+        },
+        "answer": "a",
+        "correct_answer_text": "2 seconds",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1043,
+        "question": "When the net torque acting on the body is zero, the body is in:",
+        "options": {
+            "a": "rotational equilibrium",
+            "b": "stable equilibrium",
+            "c": "unstable equilibrium",
+            "d": "translational equilibrium"
+        },
+        "answer": "a",
+        "correct_answer_text": "rotational equilibrium",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1044,
+        "question": "A 300-lb block is resting on a horizontal pavement with coefficient of friction of 0.3. What force that is 40 degrees with the horizontal is required in order to impend the motion?",
+        "options": {
+            "a": "67.3 lb",
+            "b": "133.4 lb",
+            "c": "93 lb",
+            "d": "210.7 lb"
+        },
+        "answer": "c",
+        "correct_answer_text": "93 lb",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1045,
+        "question": "A bicyclist negotiates a curved road with radius of 70 meters. The coefficient of friction between the wheel and the road is 0.4 and the banking is 5 degrees, what is the maximum velocity before skidding?",
+        "options": {
+            "a": "18.6 m/s",
+            "b": "25.7 m/s",
+            "c": "14 m/s",
+            "d": "9.7 m/s"
+        },
+        "answer": "a",
+        "correct_answer_text": "18.6 m/s",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1046,
+        "question": "A 50 kg sled is on an incline that is 20 degrees with the horizontal. What minimum horizontal force P is required in order to prevent the sled from sliding down? Assume u = 0.2:",
+        "options": {
+            "a": "45 N",
+            "b": "80 N",
+            "c": "75 N",
+            "d": "60 N"
+        },
+        "answer": "c",
+        "correct_answer_text": "75 N",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1047,
+        "question": "A wooden block rests on a frictionless adjustable ramp. The block is 5 cm on the base and 8 cm tall. At what minimum angle should the ramp be tilted to topple the block?",
+        "options": {
+            "a": "42 degrees",
+            "b": "32 degrees",
+            "c": "56 degrees",
+            "d": "15 degrees"
+        },
+        "answer": "b",
+        "correct_answer_text": "32 degrees",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1048,
+        "question": "A body of weight 100 Newtons is placed on a rough horizontal plane. Determine the coefficient of friction if a horizontal force of 50 Newtons just causes the body to slide over the horizontal plane.",
+        "options": {
+            "a": "0.6",
+            "b": "0.5",
+            "c": "0.7",
+            "d": "0.3"
+        },
+        "answer": "b",
+        "correct_answer_text": "0.5",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1049,
+        "question": "The first Philippine satellite, 'Diwata', was installed at geosynchronous orbit that is 20,000 km from the sea-level. The radius of the earth is 6.4 x 10^6 m and the mass is 6 x 10^24 kg. What is the velocity of 'Diwata'?",
+        "options": {
+            "a": "2400 m/s",
+            "b": "6900 m/s",
+            "c": "1000 m/s",
+            "d": "3900 m/s"
+        },
+        "answer": "d",
+        "correct_answer_text": "3900 m/s",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    }
+]

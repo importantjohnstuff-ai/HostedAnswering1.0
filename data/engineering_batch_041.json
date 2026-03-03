@@ -1,0 +1,382 @@
+[
+    {
+        "id": 1330,
+        "question": "A printing equipment costs P73,500 has a life expectancy of 8 years and has a salvage value of 23,500 at the end of its life. The book value at the end of x years is equal to P38,500. Using straight line method of depreciation, solve for the value of x.",
+        "options": {
+            "a": "5 years",
+            "b": "6 years",
+            "c": "4 years",
+            "d": "3 years"
+        },
+        "answer": "c",
+        "correct_answer_text": "4 years",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1331,
+        "question": "The first cost of a machine is P1,800,000 with a salvage value of P300,000 at the end of its life of 5 years. Determine the total depreciation after 3 years using declining balance method.",
+        "options": {
+            "a": "P1,024,142.14",
+            "b": "P1,246,422.03",
+            "c": "P1,185,769.76",
+            "d": "P1,432,624.84"
+        },
+        "answer": "c",
+        "correct_answer_text": "P1,185,769.76",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1332,
+        "question": "A roller mill that cost P90,000 will have an estimated salvage value of P18,000 at the end of 8 years. Using double-declining balance method, compute the book value and the total depreciation at the end of the 5th year.",
+        "options": {
+            "a": "P21,357.42 & P68,642.58",
+            "b": "P24,362.48 & P65,637.52",
+            "c": "P15,830.34 & P74,169.66",
+            "d": "P19,432.78 & P70,567.22"
+        },
+        "answer": "a",
+        "correct_answer_text": "P21,357.42 & P68,642.58",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1333,
+        "question": "The price of a centrifugal pump increase at constant rate amount of 1,400 pesos every year for 5 years. If the basic annuity is 12,600 peso how much is the present worth of the pump at 3% annual interest?",
+        "options": {
+            "a": "70,148",
+            "b": "56,600",
+            "c": "110,893",
+            "d": "133,890"
+        },
+        "answer": "a",
+        "correct_answer_text": "70,148",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1334,
+        "question": "A steel rod 30 mm & 800 mm long has an allowance elongation not to exceed 1.5 mm, find the allowable load in KN.",
+        "options": {
+            "a": "274",
+            "b": "248",
+            "c": "316",
+            "d": "236"
+        },
+        "answer": "a",
+        "correct_answer_text": "274",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1335,
+        "question": "Compute the induced/compressive stress, in kpa, of a steel solid shafting of 50 mm diameter and 800 mm in length that is subjected to an increase of temperature by 80deg C.",
+        "options": {
+            "a": "181,816",
+            "b": "242,816",
+            "c": "218,182",
+            "d": "196,560"
+        },
+        "answer": "d",
+        "correct_answer_text": "196,560",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1336,
+        "question": "Determine the load in KW on a 25 mm diameter x 1200 mm long steel shaft if its maximum elongation exceeds 1 mm.",
+        "options": {
+            "a": "83",
+            "b": "125",
+            "c": "103",
+            "d": "234"
+        },
+        "answer": "a",
+        "correct_answer_text": "83",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1337,
+        "question": "How many 5/16 inch holes can be punched in one motion in a steel plate made of SAE 1010 steel, 7/16 inch thick using a force of 55 tons. The ultimate strength for shear is 100 ksi and use 2 factor of safety.",
+        "options": {
+            "a": "5.8",
+            "b": "3.7",
+            "c": "5",
+            "d": "6.2"
+        },
+        "answer": "c",
+        "correct_answer_text": "5",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1338,
+        "question": "A steel tie rod on bridge must be made withstand a pull of 5000 lbs. Find the diameter of the rod assuming a factor of safety of 5 and ultimate stress of 64,000 psi.",
+        "options": {
+            "a": "0.75",
+            "b": "0.84",
+            "c": "0.71",
+            "d": "0.79"
+        },
+        "answer": "c",
+        "correct_answer_text": "0.71",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1339,
+        "question": "What is the modulus of elasticity if the stress is 4,000 psi and unit a strain of 0.00105?",
+        "options": {
+            "a": "41.905 x 106",
+            "b": "42.300 x 106",
+            "c": "41.202 x 106",
+            "d": "43.101 x 106"
+        },
+        "answer": "a",
+        "correct_answer_text": "41.905 x 106",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1340,
+        "question": "If the ultimate shear strength of a steel plates is 42,000 psi, what force is necessary to punch a 0.75 inch diameter hole in a 0.625 inch thick plate?",
+        "options": {
+            "a": "63,008 lbs",
+            "b": "61,800 lbs",
+            "c": "68,080 lbs",
+            "d": "66,800 lbs"
+        },
+        "answer": "b",
+        "correct_answer_text": "61,800 lbs",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1341,
+        "question": "In the LRT II project steel railroad rails of 10 meters long are to be installed. If lowest temperature considered is 20 deg. C and a maximum temperature of 36 deg C is designed for, and the modulus of elasticity of steel to be 207,000 Mpa, determine the clearance between the clearance between rails such that adjoining rail will just touch at maximum design temperature.",
+        "options": {
+            "a": "2.34",
+            "b": "3.32",
+            "c": "3.41",
+            "d": "1.86"
+        },
+        "answer": "a",
+        "correct_answer_text": "2.34",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1342,
+        "question": "For a given material, the modulus of elasticity is 100 GN/m2 in tension and 40 GN/m2 in shear. Find the Poisson's ratio.",
+        "options": {
+            "a": "0.10",
+            "b": "0.50",
+            "c": "0.25",
+            "d": "0.35"
+        },
+        "answer": "c",
+        "correct_answer_text": "0.25",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1343,
+        "question": "A lap joint consists of steel plate 250 mm by 18 mm in thickness is connected by 4-20 mm diameter rivets. Compute the bearing capacity of the rivet connection if the allowable bearing stress is 210 Mpa.",
+        "options": {
+            "a": "302,400 N",
+            "b": "360,200 N",
+            "c": "420,340 N",
+            "d": "460,240 N"
+        },
+        "answer": "a",
+        "correct_answer_text": "302,400 N",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1344,
+        "question": "A steel bar, initially free of stress, is held between rigid supports. Determine the stress in the bar if temperature drops 130F.",
+        "options": {
+            "a": "25,350 psi",
+            "b": "26,234 psi",
+            "c": "24,896 psi",
+            "d": "23,654 psi"
+        },
+        "answer": "a",
+        "correct_answer_text": "25,350 psi",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1345,
+        "question": "A 3 in diameter short shaft carrying pulleys close to the bearings transmit how much horsepower if the shaft makes 280 rpm?",
+        "options": {
+            "a": "991 hp",
+            "b": "919 hp",
+            "c": "199 hp",
+            "d": "260 hp"
+        },
+        "answer": "c",
+        "correct_answer_text": "199 hp",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1346,
+        "question": "A steel shaft operates at 186 rad/s and must handle 2 kW of power. The shearing stress is not to exceed 40 MN/m^2. Calculate the minimum shaft diameter based on pure torsion.",
+        "options": {
+            "a": "9 mm",
+            "b": "11 mm",
+            "c": "13 mm",
+            "d": "15 mm"
+        },
+        "answer": "b",
+        "correct_answer_text": "11 mm",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1347,
+        "question": "What power would the spindle 55 mm in diameter transmit at 480 rpm stress allowed for short shaft is 59 N/mm^2",
+        "options": {
+            "a": "98.68 KW",
+            "b": "96.88 KW",
+            "c": "68.98 KW",
+            "d": "68.89 KW"
+        },
+        "answer": "c",
+        "correct_answer_text": "68.98 KW",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1348,
+        "question": "A 1 1/2 in Monel shaft is used in a torsional application. Based on operating speed of 100 rpm and safety factor of 12. How much horsepower can it transmit? Assume the shearing stress is of the ultimate tensile stress which is 100,000 psi.",
+        "options": {
+            "a": "6.57 hp",
+            "b": "3.45 hp",
+            "c": "2.34 hp",
+            "d": "5.23 hp"
+        },
+        "answer": "a",
+        "correct_answer_text": "6.57 hp",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1349,
+        "question": "A steel tie rod is to withstand a pull of 3000 lbs. Find the diameter the rod assuming yield stress of 48,000 lb/in^2 and a factor of safety of 5.",
+        "options": {
+            "a": "16mm",
+            "b": "20mm",
+            "c": "25mm",
+            "d": "63 mm"
+        },
+        "answer": "a",
+        "correct_answer_text": "16mm",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    }
+]

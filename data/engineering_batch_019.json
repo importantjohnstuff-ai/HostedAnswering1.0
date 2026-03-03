@@ -1,0 +1,382 @@
+[
+    {
+        "id": 890,
+        "question": "For an inflation of 2.33%, an investment of 1 million (at 3%, compounded semi-monthly) will grow by how much after 10 years?",
+        "options": {
+            "a": "P72,000",
+            "b": "P45,755",
+            "c": "P126,965",
+            "d": "P 200,000"
+        },
+        "answer": "a",
+        "correct_answer_text": "P72,000",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 891,
+        "question": "The cash flow associated with a strip mining operation is expected to be $200,000 in year 1, $180,000 in year 2, and amounts decreasing by $20,000 per year through 8. At an interest rate of 12% per year, the equivalent annual cash flow is nearest to:",
+        "options": {
+            "a": "$61,970",
+            "b": "$142,738",
+            "c": "$185,070",
+            "d": "$261,970"
+        },
+        "answer": "b",
+        "correct_answer_text": "$142,738",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 892,
+        "question": "Engr. Danilo Conde borrowed money from a bank. He received from the bank P1,340.00 and promised to pay P1,500.00 at the end of 9 months. Determine rate of simple interest.",
+        "options": {
+            "a": "15.92%",
+            "b": "15.75%",
+            "c": "15.45%",
+            "d": "15.08%"
+        },
+        "answer": "a",
+        "correct_answer_text": "15.92%",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 893,
+        "question": "Suppose that the maintenance for a piece of equipment costs P300 and increases by 15% every year for 5 years. The value of money is 9%. What is the equivalent present cost over the time horizon?",
+        "options": {
+            "a": "P2022.71",
+            "b": "P1175.16",
+            "c": "P1536.22",
+            "d": "P1166.90"
+        },
+        "answer": "c",
+        "correct_answer_text": "P1536.22",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 894,
+        "question": "Annie Batumbaycal buys a television set from a merchant who asks P1,250.00 at the end of 60 days. Annie wishes to pay immediately and the merchant offers to compute the cash price on the assumption that money is worth 8% simple interest. What is the cash price?",
+        "options": {
+            "a": "P1,124.67",
+            "b": "P1,233.55",
+            "c": "P1,289.08",
+            "d": "P1, 302.67"
+        },
+        "answer": "b",
+        "correct_answer_text": "P1,233.55",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 895,
+        "question": "Miss Calledo deposited P 1,000, P 1,500 and P 2,000 at the end of the 2nd year, 3rd year and 4th year, respectively in a savings account which earned 10% per annum. How much is in the account at the end of the 4th year?",
+        "options": {
+            "a": "P 4,880.00",
+            "b": "P 4,820.00",
+            "c": "P 4,860.00",
+            "d": "P 4,840.00"
+        },
+        "answer": "c",
+        "correct_answer_text": "P 4,860.00",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 896,
+        "question": "The cost of equipment for the sales of mahogany chairs is 43,500. The fixed charges per month amounts to 18,570 pesos and the labor cost is 290 pesos per unit. If the material cost is 424 pesos per unit and a chair costs 1300 apiece, what is the break-even production per month?",
+        "options": {
+            "a": "88",
+            "b": "143",
+            "c": "56",
+            "d": "106"
+        },
+        "answer": "c",
+        "correct_answer_text": "56",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 897,
+        "question": "You invest $10,000 into a mutual fund. If the fund averages a 70% annual return, what is the worth of your investment after 20 years?",
+        "options": {
+            "a": "$23,300,000",
+            "b": "$406,423,140",
+            "c": "$500,300,000",
+            "d": "$344,500,000"
+        },
+        "answer": "b",
+        "correct_answer_text": "$406,423,140",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 898,
+        "question": "A downpayment of P240,200 is made in order to acquire a lot that is worth P2,100,000. What will the bi-monthly payments be if the lease payment begins after 1 year from downpayment for 10 bi-monthly periods? Assume i = 3%.",
+        "options": {
+            "a": "133,670",
+            "b": "231,689",
+            "c": "123,893",
+            "d": "195,959"
+        },
+        "answer": "b",
+        "correct_answer_text": "231,689",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 899,
+        "question": "A diesel engine has an initial cost of 560,700 pesos and a scrap value of 76,554 for 15 years of service. What is the value of the total depreciation at the end of 4th year using SOYD?",
+        "options": {
+            "a": "217,866",
+            "b": "324,895",
+            "c": "189,438",
+            "d": "111,689"
+        },
+        "answer": "c",
+        "correct_answer_text": "189,438",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 900,
+        "question": "If a machine is purchased on installment and the buyer makes an P80,000.00 down payment and owes a balance of P150,000 in 2 years. Determine the machine cash value if money is worth 14% compounded quarterly.",
+        "options": {
+            "a": "P199,312.00",
+            "b": "P183,912.00",
+            "c": "P193,912.00",
+            "d": "P139,912.00"
+        },
+        "answer": "c",
+        "correct_answer_text": "P193,912.00",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 901,
+        "question": "Pedro borrowed P2,000.00 from a bank and agreed to pay the loan at the end of one year. The bank discounted the loan and gave him P1950 in cash. Determine the rate of discount.",
+        "options": {
+            "a": "3.75 %",
+            "b": "3.12 %",
+            "c": "2.5%",
+            "d": "1.2 %"
+        },
+        "answer": "c",
+        "correct_answer_text": "2.5%",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 902,
+        "question": "An Electrical Engineer obtained a loan of P50,000.00 at the rate of 6% compounded annually. How much must he pay monthly to amortize the loan within a period of ten years?",
+        "options": {
+            "a": "P605.20",
+            "b": "P550.90",
+            "c": "P505.90",
+            "d": "P508.90"
+        },
+        "answer": "c",
+        "correct_answer_text": "P505.90",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 903,
+        "question": "If P1,000 becomes P1,126.49 after 4 years when invested at a certain nominal rate of interest compounded semi-annually, determine the nominal rate and the corresponding effective rate.",
+        "options": {
+            "a": "3.00% and 3.02%",
+            "b": "2.30% and 2.76%",
+            "c": "4.29% and 4.32%",
+            "d": "3.97% and 3.95%"
+        },
+        "answer": "a",
+        "correct_answer_text": "3.00% and 3.02%",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 904,
+        "question": "A printing equipment costs P73,500 has a life expectancy of 8 years and has a salvage value of P3,500 at the end of its life. The book value at the end of x years is equal to P38,500. Using straight line method of depreciation, solve for the value of x.",
+        "options": {
+            "a": "5 years",
+            "b": "6 years",
+            "c": "4 years",
+            "d": "3 years"
+        },
+        "answer": "c",
+        "correct_answer_text": "4 years",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 905,
+        "question": "The first cost of a machine is P1,800,000 with a salvage value of P300,000 at the end of its life of 5 years. Determine the total depreciation after 3 years using declining balance method.",
+        "options": {
+            "a": "P1,355,024.24",
+            "b": "P1,246,422.53",
+            "c": "P1,185,769.76",
+            "d": "P1,432,624.84"
+        },
+        "answer": "b",
+        "correct_answer_text": "P1,246,422.53",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 906,
+        "question": "An asset is purchased for P90,000.00. Its estimated life is 10 years after which it will be sold for P1,000.00. Find the book value during the first year if Sum of the Years Digits (SYD) depreciation is used.",
+        "options": {
+            "a": "P7,545.45",
+            "b": "P5,245.92",
+            "c": "P2,980.24",
+            "d": "P6,259.98"
+        },
+        "answer": "a",
+        "correct_answer_text": "P7,545.45",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 907,
+        "question": "A roller mill that cost P90,000 will have an estimated salvage value of P18,000 at the end of 8 years. Using double-declining balance method, compute the book value and the total depreciation at the end of the 5th year.",
+        "options": {
+            "a": "P21,357.42 and P68,642.58",
+            "b": "P15,830.34 and P74,169.66",
+            "c": "P24,362.48 and P65,637.52",
+            "d": "P19,442.78 and P70,557.22"
+        },
+        "answer": "a",
+        "correct_answer_text": "P21,357.42 and P68,642.58",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 908,
+        "question": "A machine purchased for P45,000 had a depreciable life of 4 years. It will have an expected salvage value of P5,000. The book value at the end of year 2 using straight line method and sum of years digits are:",
+        "options": {
+            "a": "25,000 and 17,000",
+            "b": "25,000 and 19,000",
+            "c": "19,000 and 25,000",
+            "d": "25,000 and 18,000"
+        },
+        "answer": "a",
+        "correct_answer_text": "25,000 and 17,000",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 909,
+        "question": "The annual fixed cost for the operation of a company is P70,000. The cost for manufacturing the product is P56.00. The product is sold at a price of P125.00 per unit. Find the number of units to be manufactured to break even.",
+        "options": {
+            "a": "2190",
+            "b": "1015",
+            "c": "1549",
+            "d": "766"
+        },
+        "answer": "b",
+        "correct_answer_text": "1015",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    }
+]

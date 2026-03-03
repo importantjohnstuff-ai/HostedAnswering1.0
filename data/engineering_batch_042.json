@@ -1,0 +1,287 @@
+[
+    {
+        "id": 1350,
+        "question": "The ultimate shear strength of a steel plate is 42,000 psi. Determine the diameter of the hole to punch it if the force applied is 30 tons in a inch thick plate.",
+        "options": {
+            "a": "0.10 in",
+            "b": "0.20 in",
+            "c": "0.60 in",
+            "d": "0.75 in"
+        },
+        "answer": "d",
+        "correct_answer_text": "0.75 in",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1351,
+        "question": "A 2 inches diameter by 3 inches long journal bearing is to carry a load 3000 lb. Compute the bearing pressure.",
+        "options": {
+            "a": "2000 psi",
+            "b": "1500 psi",
+            "c": "1000 psi",
+            "d": "500 psi"
+        },
+        "answer": "d",
+        "correct_answer_text": "500 psi",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1352,
+        "question": "What modulus of elasticity in tension is required to obtain a unit deformation of 0.00203 from a load producing a unit tensile stress of 35,000 psi?",
+        "options": {
+            "a": "12.22 x 10^6 psi",
+            "b": "14.75 x 10^6 psi",
+            "c": "15.75 x 10^6 psi",
+            "d": "17.24 x 10^6 psi"
+        },
+        "answer": "d",
+        "correct_answer_text": "17.24 x 10^6 psi",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1353,
+        "question": "The shaft whose torque varies from 3000 to 8000 in-lbs has 2 1/2 inches in diameter. Compute the shaft mean stress.",
+        "options": {
+            "a": "1120.2 psi",
+            "b": "1350.4 psi",
+            "c": "1792.7 psi",
+            "d": "2010.8 psi"
+        },
+        "answer": "a",
+        "correct_answer_text": "1120.2 psi",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1354,
+        "question": "How many 1/2 inch holes can be punch in one motion in steel plate 3/16 inch thick plate using a force of 40 tons. The ultimate shear strength for shear is 50 ksi and use 2 as factor of safety.",
+        "options": {
+            "a": "2 holes",
+            "b": "5 holes",
+            "c": "7 holes",
+            "d": "8 holes"
+        },
+        "answer": "b",
+        "correct_answer_text": "5 holes",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1355,
+        "question": "A copper rolled wire 10 meters long and 1.5 mm in diameter when supporting a weight of 35.7 kg, elongates by 1.86 cm. Compute the value of the modulus of elasticity for this wire in kg/cm^2.",
+        "options": {
+            "a": "1,086,132",
+            "b": "1,975,231",
+            "c": "2,860,345",
+            "d": "2,976,317"
+        },
+        "answer": "a",
+        "correct_answer_text": "1,086,132",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1356,
+        "question": "A single bolt is used to lap join two steel bars together. Tensile force on the bars is 4,400 lbs. Determine the diameter of the bolt if the allowable shearing stress is 10,000 psi.",
+        "options": {
+            "a": "0.453 in",
+            "b": "0.748 in",
+            "c": "0.925 in",
+            "d": "0.985 in"
+        },
+        "answer": "b",
+        "correct_answer_text": "0.748 in",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1357,
+        "question": "A rod with a cross-sectional area of A and loaded in tension with an axial force of 2000 lbf undergoes a stress. Using a material strength of 24 kpsi and design factor of 3.0, determine the minimum diameter of a solid circular rod:",
+        "options": {
+            "a": "0.564 in",
+            "b": "0.343 in",
+            "c": "0.213 in",
+            "d": "0.832 in"
+        },
+        "answer": "a",
+        "correct_answer_text": "0.564 in",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1358,
+        "question": "Compute for the load in KN on a 3 cm diameter, 100 cm long steel rod if its maximum elongation exceed 0.12 cm.",
+        "options": {
+            "a": "178",
+            "b": "148",
+            "c": "196",
+            "d": "287"
+        },
+        "answer": "a",
+        "correct_answer_text": "178",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1359,
+        "question": "Compute the allowable load in kN on a 20 mm x 120 cm long steel rod with a maximum elongation must not exceed 1 mm.",
+        "options": {
+            "a": "35",
+            "b": "66",
+            "c": "55",
+            "d": "76"
+        },
+        "answer": "a",
+        "correct_answer_text": "35",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1360,
+        "question": "What pressure is required for punching a hole 2 inches in diameter thru a 1/4 in steel A plate?",
+        "options": {
+            "a": "Otons",
+            "b": "20 tons",
+            "c": "30 tons",
+            "d": "40 tons"
+        },
+        "answer": "d",
+        "correct_answer_text": "40 tons",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1361,
+        "question": "A steel tie rod on bridge must be made withstand a pull of 5000 lbs. Find the diameter of the rod assuming a factor of safety of 5 and ultimate stress of 64,000 psi.",
+        "options": {
+            "a": "0.75",
+            "b": "0.71",
+            "c": "0.84",
+            "d": "0.79"
+        },
+        "answer": "b",
+        "correct_answer_text": "0.71",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1362,
+        "question": "A steel hallow tube is use to carry a tensile load of 500 KN at a stress of 140 Mpa. If outside diameter is 10 times the tube thickness, find the thickness of the tube.",
+        "options": {
+            "a": "11.24 mm",
+            "b": "20.64 mm",
+            "c": "10.7 mm",
+            "d": "22.61 mm"
+        },
+        "answer": "a",
+        "correct_answer_text": "11.24 mm",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1363,
+        "question": "A steel wire 10m long, hanging vertically supports a tensile load of 2 kN. Neglecting the weight of wire, determine the required diameter if the stress is not to exceed 140 Mpa and the total elongation is not to exceed 5 mm. Assume 200 Gpa.",
+        "options": {
+            "a": "2mm",
+            "b": "4mm",
+            "c": "3mm",
+            "d": "5mmm"
+        },
+        "answer": "c",
+        "correct_answer_text": "3mm",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1364,
+        "question": "For a given material, the modulus of elasticity is 100 GN/m2 tension and 40 GN/m2 in shear. Find the Poisson's ratio.",
+        "options": {
+            "a": "0.10",
+            "b": "0.25",
+            "c": "0.50",
+            "d": "0.35"
+        },
+        "answer": "b",
+        "correct_answer_text": "0.25",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    }
+]

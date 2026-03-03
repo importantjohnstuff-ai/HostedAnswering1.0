@@ -1,0 +1,382 @@
+[
+    {
+        "id": 1110,
+        "question": "A stone is dropped from a balloon at 1000 ft. Two seconds later, another stone is thrown upward from the ground at 248 ft/s. When will the stones pass each other?",
+        "options": {
+            "a": "3 sec",
+            "b": "5 sec",
+            "c": "6 sec",
+            "d": "8 sec"
+        },
+        "answer": "b",
+        "correct_answer_text": "5 sec",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1111,
+        "question": "A ball is dropped from an 80 ft tower at the same instant a second ball is thrown upward from the ground at 40 ft/sec. When do they pass each other?",
+        "options": {
+            "a": "1 s",
+            "b": "2 s",
+            "c": "3 s",
+            "d": "4 s"
+        },
+        "answer": "b",
+        "correct_answer_text": "2 s",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1112,
+        "question": "The wheels of an automobile are locked as it slides to a stop from 30.0 m/s. If the coefficient of kinetic friction is 0.200, approximately how long does it take the car to stop?",
+        "options": {
+            "a": "6.00 s",
+            "b": "15.3 s",
+            "c": "30.0 s",
+            "d": "7.57 s"
+        },
+        "answer": "b",
+        "correct_answer_text": "15.3 s",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1113,
+        "question": "A boy pulls a sled (5.0 kg) with a rope at 60.0° from horizontal with a force of 10.0 N. If the sled moves with constant velocity, what is the coefficient of friction?",
+        "options": {
+            "a": "0.10",
+            "b": "0.18",
+            "c": "1.0",
+            "d": "0.12"
+        },
+        "answer": "d",
+        "correct_answer_text": "0.12",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1114,
+        "question": "Two boxes are connected by a pulley. Box A is on a frictionless table (3 kg), box B is hanging (1 kg). If released from rest and box B falls 1.00 m, what is the kinetic energy of box B just before it hits the floor?",
+        "options": {
+            "a": "2.45 J",
+            "b": "29.4 J",
+            "c": "4.90 J",
+            "d": "39.2 J"
+        },
+        "answer": "a",
+        "correct_answer_text": "2.45 J",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1115,
+        "question": "A 0.25-kg ball on a string rotates in a horizontal circle of radius 0.5 m. If it revolves twice every second, what is the tension in the string?",
+        "options": {
+            "a": "2 N",
+            "b": "7 N",
+            "c": "20 N",
+            "d": "10 N"
+        },
+        "answer": "c",
+        "correct_answer_text": "20 N",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1116,
+        "question": "A car enters a curved unbanked roadbed of radius 50 m. If the coefficient of static friction is 0.20, what is the maximum safe speed?",
+        "options": {
+            "a": "5 m/s",
+            "b": "20 m/s",
+            "c": "100 m/s",
+            "d": "10 m/s"
+        },
+        "answer": "d",
+        "correct_answer_text": "10 m/s",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1117,
+        "question": "A 1000 lb block is pulled up a 2-degree incline by a constant force of 600 lbs. If friction is 0.5, how fast will the block move 10 seconds after pull is applied?",
+        "options": {
+            "a": "12.4 mph",
+            "b": "17.3 mph",
+            "c": "10.2 mph",
+            "d": "14.3 mph"
+        },
+        "answer": "d",
+        "correct_answer_text": "14.3 mph",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1118,
+        "question": "If the sun radiates energy at the rate of 4x10^26 J/s, what is the rate at which its mass is decreasing?",
+        "options": {
+            "a": "5.54 x 10^9 kg/s",
+            "b": "4.44 x 10^9 kg/s",
+            "c": "3.44 x 10^9 kg/s",
+            "d": "2.44 x 10^9 kg/s"
+        },
+        "answer": "b",
+        "correct_answer_text": "4.44 x 10^9 kg/s",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1119,
+        "question": "A man who weighs 60 kg on earth weighs 61 kg on a rocket as measured by an observer on earth. What is the speed of the rocket?",
+        "options": {
+            "a": "2.5 x 10^8 m/s",
+            "b": "2.5 x 10^7 m/s",
+            "c": "5.5 x 10^7 m/s",
+            "d": "5.5 x 10^8 m/s"
+        },
+        "answer": "c",
+        "correct_answer_text": "5.5 x 10^7 m/s",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1120,
+        "question": "A 10-kg block is set moving at 6 m/s on a rough surface. If the force of friction is 20 N, how far does it travel before stopping?",
+        "options": {
+            "a": "1.5 m",
+            "b": "6 m",
+            "c": "18 m",
+            "d": "9 m"
+        },
+        "answer": "d",
+        "correct_answer_text": "9 m",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1121,
+        "question": "A 2.0-N force acts horizontally on a 10-N block initially at rest. If static friction is 0.50, what is the magnitude of the frictional force acting on the block?",
+        "options": {
+            "a": "0 N",
+            "b": "5 N",
+            "c": "2 N",
+            "d": "8 N"
+        },
+        "answer": "c",
+        "correct_answer_text": "2 N",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1122,
+        "question": "An automobile locks brakes 50 m from a barrier while traveling at 20 m/s. What minimum coefficient of kinetic friction is required to stop before hitting the barrier?",
+        "options": {
+            "a": "0.4",
+            "b": "0.6",
+            "c": "0.8",
+            "d": "0.5"
+        },
+        "answer": "a",
+        "correct_answer_text": "0.4",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1123,
+        "question": "What should the banking angle be for an indoor track with radius 24 m for a person running at 6.0 m/s?",
+        "options": {
+            "a": "8.7°",
+            "b": "14°",
+            "c": "45°",
+            "d": "11°"
+        },
+        "answer": "a",
+        "correct_answer_text": "8.7°",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1124,
+        "question": "A circular bar 40 mm diameter carries an axial tensile load of 105 kN. What is the value of shear stress on planes where normal stress is 50 MN/m2?",
+        "options": {
+            "a": "41 MPa",
+            "b": "56 MPa",
+            "c": "21 MPa",
+            "d": "89 MPa"
+        },
+        "answer": "c",
+        "correct_answer_text": "21 MPa",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1125,
+        "question": "Find the polar moment of inertia of a rectangle (base 4 cm, altitude 3 cm) with respect to its centroid.",
+        "options": {
+            "a": "9 cm^4",
+            "b": "12.5 cm^4",
+            "c": "16 cm^4",
+            "d": "25 cm^4"
+        },
+        "answer": "b",
+        "correct_answer_text": "12.5 cm^4",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1126,
+        "question": "What is the minimum diameter of a solid steel shaft that will not twist more than 3 degrees in a 6 m length under a torque of 12 kN-m? (G = 83 GPa)",
+        "options": {
+            "a": "114 mm",
+            "b": "116 mm",
+            "c": "118 mm",
+            "d": "120 mm"
+        },
+        "answer": "c",
+        "correct_answer_text": "118 mm",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1127,
+        "question": "A hole is punched in a plate with shearing strength of 40 ksi. Compressive stress in punch is limited to 50 ksi. Compute max thickness for a 2.5 inch hole.",
+        "options": {
+            "a": "0.500 in",
+            "b": "0.781 in",
+            "c": "0.102 in",
+            "d": "0.204 in"
+        },
+        "answer": "b",
+        "correct_answer_text": "0.781 in",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1128,
+        "question": "In a test, stress of 62 MPa gave deformation of 160x10^-6 m/m and stress of 150 MPa gave 600x10^-6 m/m. What is the modulus of elasticity?",
+        "options": {
+            "a": "180 GPa",
+            "b": "200 GPa",
+            "c": "190 GPa",
+            "d": "210 GPa"
+        },
+        "answer": "b",
+        "correct_answer_text": "200 GPa",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1129,
+        "question": "A gasoline tank (30 m diameter, 18 m height) is filled to 15 m (SG = 0.74). If yield point is 250 MPa and safety factor is 2.5, calculate required wall thickness.",
+        "options": {
+            "a": "16.3 mm",
+            "b": "20 mm",
+            "c": "22.5 mm",
+            "d": "24.7 mm"
+        },
+        "answer": "a",
+        "correct_answer_text": "16.3 mm",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    }
+]

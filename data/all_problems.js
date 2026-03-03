@@ -28296,7 +28296,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Physics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a69d9f74512",
+        "user": "John",
+        "chosen_option": "b",
+        "image": null
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -29569,7 +29576,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Physics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a69dc45cf5f",
+        "user": "John",
+        "chosen_option": "c",
+        "image": null
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -29607,7 +29621,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Physics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a69dd77e0a0",
+        "user": "John",
+        "chosen_option": "d",
+        "image": null
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -29835,7 +29856,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "Hard Hat",
     "category": "Engineering Sciences",
     "sub_category": "Physics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a69e3268444",
+        "user": "John",
+        "chosen_option": "a",
+        "image": null
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -30044,7 +30072,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "Capillarity",
     "category": "Engineering Sciences",
     "sub_category": "Physics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a69e4b3fe0c",
+        "user": "John",
+        "chosen_option": "c",
+        "image": null
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -30082,7 +30117,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "1083 m",
     "category": "Engineering Sciences",
     "sub_category": "Physics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a68435e8ed1",
+        "user": "Pugeria",
+        "chosen_option": "c",
+        "image": "uploads/solution_660_1772520501.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -30120,7 +30162,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "26 ft/s",
     "category": "Engineering Sciences",
     "sub_category": "Physics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a685cfc8b65",
+        "user": "Pugeria",
+        "chosen_option": "a",
+        "image": "uploads/solution_663_1772520911.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -30139,7 +30188,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "An asset",
     "category": "Engineering Sciences",
     "sub_category": "Physics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a69e5fe8da2",
+        "user": "John",
+        "chosen_option": "a",
+        "image": null
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -30595,7 +30651,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "Solar energy",
     "category": "Engineering Sciences",
     "sub_category": "Physics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a69eab29009",
+        "user": "John",
+        "chosen_option": "d",
+        "image": null
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -30614,7 +30677,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "Coal",
     "category": "Engineering Sciences",
     "sub_category": "Physics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a69eb05494c",
+        "user": "John",
+        "chosen_option": "a",
+        "image": null
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -30633,7 +30703,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "strength and hardness of steel is increased",
     "category": "Engineering Sciences",
     "sub_category": "Physics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a69ee9046ad",
+        "user": "John",
+        "chosen_option": "d",
+        "image": null
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -30690,7 +30767,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "4.5 x 10^18",
     "category": "Engineering Sciences",
     "sub_category": "Physics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a684a24a9ee",
+        "user": "John",
+        "chosen_option": "b",
+        "image": "uploads/solution_703_1772520610.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -30747,7 +30831,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "5.55 x 10^5",
     "category": "Engineering Sciences",
     "sub_category": "Physics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a685b2c2b34",
+        "user": "John",
+        "chosen_option": "d",
+        "image": "uploads/solution_707_1772520882.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -31146,7 +31237,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Physics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a6870acc07d",
+        "user": "John",
+        "chosen_option": "c",
+        "image": "uploads/solution_731_1772521226.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -31260,7 +31358,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Physics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a68804a87e5",
+        "user": "John",
+        "chosen_option": "c",
+        "image": "uploads/solution_738_1772521476.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -31393,7 +31498,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Strength of Materials",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a68393b6e0a",
+        "user": "Keypee",
+        "chosen_option": "c",
+        "image": "uploads/solution_745_1772520339.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -31564,7 +31676,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Physics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a689d48f882",
+        "user": "John",
+        "chosen_option": "d",
+        "image": "uploads/solution_754_1772521940.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -31575,7 +31694,7 @@ window.ALL_PROBLEMS = [
     "id": 755,
     "question": "With no machinery operating, the background noise in a room has a sound pressure level of 43 dB. With the machinery operating, the sound pressure level is 45 dB. The sound pressure level due to the machinery alone is:",
     "options": {
-      "a": "41 dB",
+      "a": "$42 dB$",
       "b": "47 dB",
       "c": "49 dB",
       "d": "32 dB"
@@ -31583,7 +31702,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Physics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a68c610f4fd",
+        "user": "John",
+        "chosen_option": "a",
+        "image": "uploads/solution_755_1772522593.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -31602,7 +31728,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Physics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a68d08bf0d5",
+        "user": "John",
+        "chosen_option": "b",
+        "image": "uploads/solution_756_1772522760.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -31621,7 +31754,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Physics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a68df5ebadd",
+        "user": "John",
+        "chosen_option": "c",
+        "image": "uploads/solution_757_1772522997.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -31640,7 +31780,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Physics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a6892b8cab9",
+        "user": "Pugeria",
+        "chosen_option": "c",
+        "image": "uploads/solution_758_1772521771.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -31678,7 +31825,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Physics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a69116cf7db",
+        "user": "John",
+        "chosen_option": "b",
+        "image": "uploads/solution_760_1772523798.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -31697,7 +31851,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Physics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a69f3890acc",
+        "user": "John",
+        "chosen_option": "c",
+        "image": null
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -31716,7 +31877,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Physics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a6928a8c959",
+        "user": "John",
+        "chosen_option": "b",
+        "image": "uploads/solution_762_1772524170.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -31754,7 +31922,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Physics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a68be67fcaa",
+        "user": "Pugeria",
+        "chosen_option": "b",
+        "image": "uploads/solution_764_1772522470.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -31794,9 +31969,9 @@ window.ALL_PROBLEMS = [
     "sub_category": "Physics",
     "solutions": [],
     "locked_by": null,
-    "flagged_by": null,
-    "flag_reason": null,
-    "hidden_by": null,
+    "flagged_by": "John",
+    "flag_reason": "Others: Duplicate",
+    "hidden_by": "John",
     "source_file": "engineering_batch_012.json"
   },
   {
@@ -31849,7 +32024,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Physics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a68e6215465",
+        "user": "Pugeria",
+        "chosen_option": "c",
+        "image": "uploads/solution_769_1772523106.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -31868,7 +32050,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Physics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a6933bbaac3",
+        "user": "Pugeria",
+        "chosen_option": "c",
+        "image": "uploads/solution_770_1772524347.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -31906,7 +32095,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Physics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a695500d74a",
+        "user": "Pugeria",
+        "chosen_option": "d",
+        "image": "uploads/solution_772_1772524880.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -32096,7 +32292,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Physics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a6976367c16",
+        "user": "Pugeria",
+        "chosen_option": "c",
+        "image": "uploads/solution_784_1772525411.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -32490,12 +32693,19 @@ window.ALL_PROBLEMS = [
       "a": "274",
       "b": "248",
       "c": "316",
-      "d": "236"
+      "d": "265"
     },
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Strength of Materials",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a684ba61e94",
+        "user": "Keypee",
+        "chosen_option": "d",
+        "image": "uploads/solution_807_1772520634.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -32514,7 +32724,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Strength of Materials",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a6870c5a4cc",
+        "user": "Keypee",
+        "chosen_option": "a",
+        "image": "uploads/solution_808_1772521228.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -32533,7 +32750,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Strength of Materials",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a687e5ef8ab",
+        "user": "Keypee",
+        "chosen_option": "a",
+        "image": "uploads/solution_809_1772521445.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -32552,7 +32776,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Strength of Materials",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a6889721c05",
+        "user": "Keypee",
+        "chosen_option": "a",
+        "image": "uploads/solution_812_1772521623.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -32571,7 +32802,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Strength of Materials",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a6895962680",
+        "user": "Keypee",
+        "chosen_option": "b",
+        "image": "uploads/solution_813_1772521817.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -32590,7 +32828,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Strength of Materials",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a68a3e65d92",
+        "user": "Keypee",
+        "chosen_option": "d",
+        "image": "uploads/solution_814_1772522046.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -32609,7 +32854,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Strength of Materials",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a68b29a27f7",
+        "user": "Keypee",
+        "chosen_option": "c",
+        "image": "uploads/solution_815_1772522281.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -32628,7 +32880,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Strength of Materials",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a68d7b00536",
+        "user": "Keypee",
+        "chosen_option": "a",
+        "image": "uploads/solution_816_1772522875.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -32647,7 +32906,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Strength of Materials",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a68e9b00863",
+        "user": "Keypee",
+        "chosen_option": "a",
+        "image": "uploads/solution_817_1772523163.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -32685,7 +32951,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Strength of Materials",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a693850d63d",
+        "user": "Keypee",
+        "chosen_option": "b",
+        "image": "uploads/solution_819_1772524421.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -32704,7 +32977,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Strength of Materials",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a694c71dbed",
+        "user": "Keypee",
+        "chosen_option": "b",
+        "image": "uploads/solution_820_1772524743.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -32723,7 +33003,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Strength of Materials",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a69621d883d",
+        "user": "Keypee",
+        "chosen_option": "c",
+        "image": "uploads/solution_823_1772525089.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -32742,7 +33029,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Strength of Materials",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a697215cf34",
+        "user": "Keypee",
+        "chosen_option": "d",
+        "image": "uploads/solution_824_1772525345.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -33489,6 +33783,9932 @@ window.ALL_PROBLEMS = [
     "flag_reason": null,
     "hidden_by": null,
     "source_file": "engineering_batch_017.json"
+  },
+  {
+    "id": 870,
+    "question": "What is the nominal rate compounded monthly which is equivalent 10% compounded semi-annually?",
+    "options": {
+      "a": "8.7%",
+      "b": "9.8%",
+      "c": "9.7%",
+      "d": "7.7 %"
+    },
+    "answer": "b",
+    "correct_answer_text": "9.8%",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_018.json"
+  },
+  {
+    "id": 871,
+    "question": "Brutus purchased an electric violin that cost 10,000php. It is expected to have a value of 3000php at the end of 4 years. Calculate depreciation expense on the musical instrument using straight line method.",
+    "options": {
+      "a": "1650.87 php",
+      "b": "1750.00 php",
+      "c": "1675.72 php",
+      "d": "1625.45 php"
+    },
+    "answer": "b",
+    "correct_answer_text": "1750.00 php",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_018.json"
+  },
+  {
+    "id": 872,
+    "question": "A $180,000 was spent on the lighting project in CALABARZON that yields annual benefit of $60,000 for a period of 8 years without any salvage value. Determine the benefit-to-cost ratio considering the cost of money to be 7%.",
+    "options": {
+      "a": "1.99",
+      "b": "1.57",
+      "c": "2.21",
+      "d": "2.63"
+    },
+    "answer": "a",
+    "correct_answer_text": "1.99",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_018.json"
+  },
+  {
+    "id": 873,
+    "question": "Compute the effective annual interest rate equivalent to 5% nominal annual rate interest compounded continuously.",
+    "options": {
+      "a": "5.1271 %",
+      "b": "6.1234 %",
+      "c": "7.9696 %",
+      "d": "4.8888 %"
+    },
+    "answer": "a",
+    "correct_answer_text": "5.1271 %",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_018.json"
+  },
+  {
+    "id": 874,
+    "question": "In a certain bank, Php 1,000.00 became Php 30,000 in 30 years. Calculate the interest rate of the bank.",
+    "options": {
+      "a": "10 %",
+      "b": "15 %",
+      "c": "8.5 %",
+      "d": "12 %"
+    },
+    "answer": "d",
+    "correct_answer_text": "12 %",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_018.json"
+  },
+  {
+    "id": 875,
+    "question": "A lathe machine costs Php 10,000.00 with a scrap value of Php 500.00 at the end of its life of 10 years. What is the annual depreciation cost by straight line method?",
+    "options": {
+      "a": "Php 700.00",
+      "b": "Php 650.00",
+      "c": "Php 950.00",
+      "d": "Php 1500.00"
+    },
+    "answer": "c",
+    "correct_answer_text": "Php 950.00",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_018.json"
+  },
+  {
+    "id": 876,
+    "question": "Income from a certain operation is expected to be zero in years one through five, after which it will be $50,000 per year forever. The capitalized cost of the income at 10% per year is nearest to:",
+    "options": {
+      "a": "$252,300",
+      "b": "$282,250",
+      "c": "$310,450",
+      "d": "$296,710"
+    },
+    "answer": "c",
+    "correct_answer_text": "$310,450",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_018.json"
+  },
+  {
+    "id": 877,
+    "question": "A small company wants to have enough money saved to purchase a new $200,000 warehouse in five years. If the company can invest money at 18% per year, the amount that must be invested each year is closest to:",
+    "options": {
+      "a": "$27,960",
+      "b": "$46,920",
+      "c": "$59,650",
+      "d": "$63,960"
+    },
+    "answer": "a",
+    "correct_answer_text": "$27,960",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_018.json"
+  },
+  {
+    "id": 878,
+    "question": "Fifteen years ago P1,000.00 was deposited in a bank account and today it is worth P2,370.00. The bank pays interest semi-annually. What was the interest rate paid on this account?",
+    "options": {
+      "a": "4.9%",
+      "b": "5.6%",
+      "c": "5.0%",
+      "d": "3.8%"
+    },
+    "answer": "b",
+    "correct_answer_text": "5.6%",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_018.json"
+  },
+  {
+    "id": 879,
+    "question": "An amount of P1000 becomes P1608.44 after 4 years compounded bimonthly. Find the nominal interest.",
+    "options": {
+      "a": "12.96%",
+      "b": "12.0%",
+      "c": "14.64%",
+      "d": "15.0%"
+    },
+    "answer": "b",
+    "correct_answer_text": "12.0%",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_018.json"
+  },
+  {
+    "id": 880,
+    "question": "A person deposits $5,000 into a money market account which pays interest at a rate of 8% per year. The amount that would be in the account at the end of ten years is most nearly:",
+    "options": {
+      "a": "$2,792",
+      "b": "$9,000",
+      "c": "$10,795",
+      "d": "$12,165"
+    },
+    "answer": "c",
+    "correct_answer_text": "$10,795",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_018.json"
+  },
+  {
+    "id": 881,
+    "question": "A small company wants to deposit a single amount of money now so that it will have enough to purchase a new truck costing $50,000 five years from now. If the money can be deposited into an account which earns interest at 10% per year, the amount that must be deposited is most nearly:",
+    "options": {
+      "a": "$10,000",
+      "b": "$31,050",
+      "c": "$33,250",
+      "d": "$319,160"
+    },
+    "answer": "b",
+    "correct_answer_text": "$31,050",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_018.json"
+  },
+  {
+    "id": 882,
+    "question": "If James Garin deposited P1000 in a savings account that pays 6% annual interest and all the interest is left in the account, what is the account balance after three years?",
+    "options": {
+      "a": "666",
+      "b": "999",
+      "c": "1010",
+      "d": "1191"
+    },
+    "answer": "d",
+    "correct_answer_text": "1191",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_018.json"
+  },
+  {
+    "id": 883,
+    "question": "Your perfectly reliable friend, Zack Tabulong, asks for a loan and promises to pay back P150 two years from now. If the minimum interest rate you will accept is 8%, what is the maximum amount that you will loan?",
+    "options": {
+      "a": "111",
+      "b": "112",
+      "c": "113",
+      "d": "129"
+    },
+    "answer": "d",
+    "correct_answer_text": "129",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_018.json"
+  },
+  {
+    "id": 884,
+    "question": "If the money invested will earn P200,000 after 10 years at 16% compounded annually, what is the principal amount?",
+    "options": {
+      "a": "P50,000.00",
+      "b": "P123,000.00",
+      "c": "P69,000.00",
+      "d": "P58,626.36"
+    },
+    "answer": "d",
+    "correct_answer_text": "P58,626.36",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_018.json"
+  },
+  {
+    "id": 885,
+    "question": "If money will triple itself after 8 years, determine the nominal interest rate.",
+    "options": {
+      "a": "14.72%",
+      "b": "6%",
+      "c": "69%",
+      "d": "9%"
+    },
+    "answer": "a",
+    "correct_answer_text": "14.72%",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_018.json"
+  },
+  {
+    "id": 886,
+    "question": "A company purchased an equipment for P110,000. It is estimated that it will have a useful life of 10 years, production of 100,000 units and working hours of 100,000. The scrap value of the equipment is P10,000, compute the book value of the equipment at the end of second year using Declining-balance method.",
+    "options": {
+      "a": "P 68,096",
+      "b": "P70,400",
+      "c": "P94,371",
+      "d": "P 95,000"
+    },
+    "answer": "b",
+    "correct_answer_text": "P70,400",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_018.json"
+  },
+  {
+    "id": 887,
+    "question": "A telephone company purchased a microwave radio equipment for P6,000,000.00. Freight and installation charges amounted to 3% of the purchased price. If the equipment shall be depreciated over a period of 8 years with a salvage value of 5% of the total initial cost, determine the depreciation charge during the 5th year using the sum-of-the year's digits method.",
+    "options": {
+      "a": "652,333",
+      "b": "723,451",
+      "c": "578,242",
+      "d": "822,343"
+    },
+    "answer": "c",
+    "correct_answer_text": "578,242",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_018.json"
+  },
+  {
+    "id": 888,
+    "question": "An asset for drilling was purchased for P6M and has an estimated book value of P1.2 M at the end of an estimated useful life of 14 years. Compute the depreciation amount in the third year by SOYD method.",
+    "options": {
+      "a": "P3.26M",
+      "b": "P2.33M",
+      "c": "P3.11M",
+      "d": "P2.78M"
+    },
+    "answer": "b",
+    "correct_answer_text": "P2.33M",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_018.json"
+  },
+  {
+    "id": 889,
+    "question": "Mr. Grey cleaning equipment was purchased in 2009 for P 8,500 and is depreciated by the double declining balance (DDB) method for an expected life of 12 years. What is the total depreciation at the end of 2014? Original salvage value was estimated to be P2,500.",
+    "options": {
+      "a": "P4,329.22",
+      "b": "P5,423.63",
+      "c": "P4,432.83",
+      "d": "P5,653.37"
+    },
+    "answer": "d",
+    "correct_answer_text": "P5,653.37",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_018.json"
+  },
+  {
+    "id": 890,
+    "question": "For an inflation of 2.33%, an investment of 1 million (at 3%, compounded semi-monthly) will grow by how much after 10 years?",
+    "options": {
+      "a": "P72,000",
+      "b": "P45,755",
+      "c": "P126,965",
+      "d": "P 200,000"
+    },
+    "answer": "a",
+    "correct_answer_text": "P72,000",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_019.json"
+  },
+  {
+    "id": 891,
+    "question": "The cash flow associated with a strip mining operation is expected to be $200,000 in year 1, $180,000 in year 2, and amounts decreasing by $20,000 per year through 8. At an interest rate of 12% per year, the equivalent annual cash flow is nearest to:",
+    "options": {
+      "a": "$61,970",
+      "b": "$142,738",
+      "c": "$185,070",
+      "d": "$261,970"
+    },
+    "answer": "b",
+    "correct_answer_text": "$142,738",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_019.json"
+  },
+  {
+    "id": 892,
+    "question": "Engr. Danilo Conde borrowed money from a bank. He received from the bank P1,340.00 and promised to pay P1,500.00 at the end of 9 months. Determine rate of simple interest.",
+    "options": {
+      "a": "15.92%",
+      "b": "15.75%",
+      "c": "15.45%",
+      "d": "15.08%"
+    },
+    "answer": "a",
+    "correct_answer_text": "15.92%",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_019.json"
+  },
+  {
+    "id": 893,
+    "question": "Suppose that the maintenance for a piece of equipment costs P300 and increases by 15% every year for 5 years. The value of money is 9%. What is the equivalent present cost over the time horizon?",
+    "options": {
+      "a": "P2022.71",
+      "b": "P1175.16",
+      "c": "P1536.22",
+      "d": "P1166.90"
+    },
+    "answer": "c",
+    "correct_answer_text": "P1536.22",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_019.json"
+  },
+  {
+    "id": 894,
+    "question": "Annie Batumbaycal buys a television set from a merchant who asks P1,250.00 at the end of 60 days. Annie wishes to pay immediately and the merchant offers to compute the cash price on the assumption that money is worth 8% simple interest. What is the cash price?",
+    "options": {
+      "a": "P1,124.67",
+      "b": "P1,233.55",
+      "c": "P1,289.08",
+      "d": "P1, 302.67"
+    },
+    "answer": "b",
+    "correct_answer_text": "P1,233.55",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_019.json"
+  },
+  {
+    "id": 895,
+    "question": "Miss Calledo deposited P 1,000, P 1,500 and P 2,000 at the end of the 2nd year, 3rd year and 4th year, respectively in a savings account which earned 10% per annum. How much is in the account at the end of the 4th year?",
+    "options": {
+      "a": "P 4,880.00",
+      "b": "P 4,820.00",
+      "c": "P 4,860.00",
+      "d": "P 4,840.00"
+    },
+    "answer": "c",
+    "correct_answer_text": "P 4,860.00",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_019.json"
+  },
+  {
+    "id": 896,
+    "question": "The cost of equipment for the sales of mahogany chairs is 43,500. The fixed charges per month amounts to 18,570 pesos and the labor cost is 290 pesos per unit. If the material cost is 424 pesos per unit and a chair costs 1300 apiece, what is the break-even production per month?",
+    "options": {
+      "a": "88",
+      "b": "143",
+      "c": "56",
+      "d": "106"
+    },
+    "answer": "c",
+    "correct_answer_text": "56",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_019.json"
+  },
+  {
+    "id": 897,
+    "question": "You invest $10,000 into a mutual fund. If the fund averages a 70% annual return, what is the worth of your investment after 20 years?",
+    "options": {
+      "a": "$23,300,000",
+      "b": "$406,423,140",
+      "c": "$500,300,000",
+      "d": "$344,500,000"
+    },
+    "answer": "b",
+    "correct_answer_text": "$406,423,140",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_019.json"
+  },
+  {
+    "id": 898,
+    "question": "A downpayment of P240,200 is made in order to acquire a lot that is worth P2,100,000. What will the bi-monthly payments be if the lease payment begins after 1 year from downpayment for 10 bi-monthly periods? Assume i = 3%.",
+    "options": {
+      "a": "133,670",
+      "b": "231,689",
+      "c": "123,893",
+      "d": "195,959"
+    },
+    "answer": "b",
+    "correct_answer_text": "231,689",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_019.json"
+  },
+  {
+    "id": 899,
+    "question": "A diesel engine has an initial cost of 560,700 pesos and a scrap value of 76,554 for 15 years of service. What is the value of the total depreciation at the end of 4th year using SOYD?",
+    "options": {
+      "a": "217,866",
+      "b": "324,895",
+      "c": "189,438",
+      "d": "111,689"
+    },
+    "answer": "c",
+    "correct_answer_text": "189,438",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_019.json"
+  },
+  {
+    "id": 900,
+    "question": "If a machine is purchased on installment and the buyer makes an P80,000.00 down payment and owes a balance of P150,000 in 2 years. Determine the machine cash value if money is worth 14% compounded quarterly.",
+    "options": {
+      "a": "P199,312.00",
+      "b": "P183,912.00",
+      "c": "P193,912.00",
+      "d": "P139,912.00"
+    },
+    "answer": "c",
+    "correct_answer_text": "P193,912.00",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_019.json"
+  },
+  {
+    "id": 901,
+    "question": "Pedro borrowed P2,000.00 from a bank and agreed to pay the loan at the end of one year. The bank discounted the loan and gave him P1950 in cash. Determine the rate of discount.",
+    "options": {
+      "a": "3.75 %",
+      "b": "3.12 %",
+      "c": "2.5%",
+      "d": "1.2 %"
+    },
+    "answer": "c",
+    "correct_answer_text": "2.5%",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_019.json"
+  },
+  {
+    "id": 902,
+    "question": "An Electrical Engineer obtained a loan of P50,000.00 at the rate of 6% compounded annually. How much must he pay monthly to amortize the loan within a period of ten years?",
+    "options": {
+      "a": "P605.20",
+      "b": "P550.90",
+      "c": "P505.90",
+      "d": "P508.90"
+    },
+    "answer": "c",
+    "correct_answer_text": "P505.90",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_019.json"
+  },
+  {
+    "id": 903,
+    "question": "If P1,000 becomes P1,126.49 after 4 years when invested at a certain nominal rate of interest compounded semi-annually, determine the nominal rate and the corresponding effective rate.",
+    "options": {
+      "a": "3.00% and 3.02%",
+      "b": "2.30% and 2.76%",
+      "c": "4.29% and 4.32%",
+      "d": "3.97% and 3.95%"
+    },
+    "answer": "a",
+    "correct_answer_text": "3.00% and 3.02%",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_019.json"
+  },
+  {
+    "id": 904,
+    "question": "A printing equipment costs P73,500 has a life expectancy of 8 years and has a salvage value of P3,500 at the end of its life. The book value at the end of x years is equal to P38,500. Using straight line method of depreciation, solve for the value of x.",
+    "options": {
+      "a": "5 years",
+      "b": "6 years",
+      "c": "4 years",
+      "d": "3 years"
+    },
+    "answer": "c",
+    "correct_answer_text": "4 years",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_019.json"
+  },
+  {
+    "id": 905,
+    "question": "The first cost of a machine is P1,800,000 with a salvage value of P300,000 at the end of its life of 5 years. Determine the total depreciation after 3 years using declining balance method.",
+    "options": {
+      "a": "P1,355,024.24",
+      "b": "P1,246,422.53",
+      "c": "P1,185,769.76",
+      "d": "P1,432,624.84"
+    },
+    "answer": "b",
+    "correct_answer_text": "P1,246,422.53",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_019.json"
+  },
+  {
+    "id": 906,
+    "question": "An asset is purchased for P90,000.00. Its estimated life is 10 years after which it will be sold for P1,000.00. Find the book value during the first year if Sum of the Years Digits (SYD) depreciation is used.",
+    "options": {
+      "a": "P7,545.45",
+      "b": "P5,245.92",
+      "c": "P2,980.24",
+      "d": "P6,259.98"
+    },
+    "answer": "a",
+    "correct_answer_text": "P7,545.45",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_019.json"
+  },
+  {
+    "id": 907,
+    "question": "A roller mill that cost P90,000 will have an estimated salvage value of P18,000 at the end of 8 years. Using double-declining balance method, compute the book value and the total depreciation at the end of the 5th year.",
+    "options": {
+      "a": "P21,357.42 and P68,642.58",
+      "b": "P15,830.34 and P74,169.66",
+      "c": "P24,362.48 and P65,637.52",
+      "d": "P19,442.78 and P70,557.22"
+    },
+    "answer": "a",
+    "correct_answer_text": "P21,357.42 and P68,642.58",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_019.json"
+  },
+  {
+    "id": 908,
+    "question": "A machine purchased for P45,000 had a depreciable life of 4 years. It will have an expected salvage value of P5,000. The book value at the end of year 2 using straight line method and sum of years digits are:",
+    "options": {
+      "a": "25,000 and 17,000",
+      "b": "25,000 and 19,000",
+      "c": "19,000 and 25,000",
+      "d": "25,000 and 18,000"
+    },
+    "answer": "a",
+    "correct_answer_text": "25,000 and 17,000",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_019.json"
+  },
+  {
+    "id": 909,
+    "question": "The annual fixed cost for the operation of a company is P70,000. The cost for manufacturing the product is P56.00. The product is sold at a price of P125.00 per unit. Find the number of units to be manufactured to break even.",
+    "options": {
+      "a": "2190",
+      "b": "1015",
+      "c": "1549",
+      "d": "766"
+    },
+    "answer": "b",
+    "correct_answer_text": "1015",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_019.json"
+  },
+  {
+    "id": 910,
+    "question": "You obtained a loan of P20,000 to finance the purchase of an automobile. Based on monthly compounding for 24 months, the equal payment was P922.90. Immediately after making the 12th payment, you decide to pay off the loan in lump sum. The size of this lump sum amount is nearest to:",
+    "options": {
+      "a": "P10,498",
+      "b": "P12,044",
+      "c": "P11,075",
+      "d": "P12,546"
+    },
+    "answer": "a",
+    "correct_answer_text": "P10,498",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_020.json"
+  },
+  {
+    "id": 911,
+    "question": "The GX-006 Alternator set was bought at 95,000 pesos with an annual maintenance cost of 16,800 pesos. The scrap value at the end of its 5-year life is 15,400 pesos at a rate of 9% annually. Determine the equivalent uniform annual cost of the alternator:",
+    "options": {
+      "a": "67,893",
+      "b": "38,650",
+      "c": "45,890",
+      "d": "31,780"
+    },
+    "answer": "b",
+    "correct_answer_text": "38,650",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_020.json"
+  },
+  {
+    "id": 912,
+    "question": "The amount of P 12,800 in 4 years at 5% compounded quarterly is:",
+    "options": {
+      "a": "P 14,785.34",
+      "b": "P 16,311.26",
+      "c": "P 15,614.59",
+      "d": "P 15,847.33"
+    },
+    "answer": "c",
+    "correct_answer_text": "P 15,614.59",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_020.json"
+  },
+  {
+    "id": 913,
+    "question": "A machine has been purchased and is to be paid in an annual series of payments at the end of each of the next five years at $1000. What is the present worth of the payments at 6% interest compounded annually?",
+    "options": {
+      "a": "$4212",
+      "b": "$4333",
+      "c": "$4122",
+      "d": "$4112"
+    },
+    "answer": "a",
+    "correct_answer_text": "$4212",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_020.json"
+  },
+  {
+    "id": 914,
+    "question": "A loan of P5,000 is made for a period of 15 months, at a simple interest rate of 15%, what future amount is due at the end of the loan period?",
+    "options": {
+      "a": "5,937.50",
+      "b": "5,712.40",
+      "c": "5,873.20",
+      "d": "5,690.12"
+    },
+    "answer": "a",
+    "correct_answer_text": "5,937.50",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_020.json"
+  },
+  {
+    "id": 915,
+    "question": "Mr. Bacani borrowed money from the bank. He received from the bank P1,842 and promised to repay P2,000 at the end of 10 months. Determine the rate of simple interest.",
+    "options": {
+      "a": "12.19%",
+      "b": "11.54%",
+      "c": "12.03%",
+      "d": "10.29%"
+    },
+    "answer": "d",
+    "correct_answer_text": "10.29%",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_020.json"
+  },
+  {
+    "id": 916,
+    "question": "The exact simple interest of P5,000 invested from June 21, 1995 to December 25, 1995 is P100. What is the rate of interest?",
+    "options": {
+      "a": "3.90%",
+      "b": "3.95%",
+      "c": "3.92%",
+      "d": "3.98%"
+    },
+    "answer": "c",
+    "correct_answer_text": "3.92%",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_020.json"
+  },
+  {
+    "id": 917,
+    "question": "What is the ordinary interest on P1,500.50 for 182 days at 5.2%?",
+    "options": {
+      "a": "P39.01",
+      "b": "P39.45",
+      "c": "P39.82",
+      "d": "P39.99"
+    },
+    "answer": "b",
+    "correct_answer_text": "P39.45",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_020.json"
+  },
+  {
+    "id": 918,
+    "question": "What is the interest due on a P 1500 note for 4 years and 3 months, if it bears 12% ordinary simple interest?",
+    "options": {
+      "a": "P 756",
+      "b": "P 675",
+      "c": "P 765",
+      "d": "P 576"
+    },
+    "answer": "c",
+    "correct_answer_text": "P 765",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_020.json"
+  },
+  {
+    "id": 919,
+    "question": "P4000 is borrowed for 75 days at 16% per annum simple interest. How much will be due at the end of 75 days?",
+    "options": {
+      "a": "P4186.43",
+      "b": "P5124.54",
+      "c": "P4133.33",
+      "d": "P5625.43"
+    },
+    "answer": "c",
+    "correct_answer_text": "P4133.33",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_020.json"
+  },
+  {
+    "id": 920,
+    "question": "A college freshman borrowed P2,000 from a bank for his tuition fee and promised to pay the amount for one year. He received only the amount of P1,920 after the bank collected the advance Interest of P80.00. What was the rate of discount?",
+    "options": {
+      "a": "3.67%",
+      "b": "4.15%",
+      "c": "4.00%",
+      "d": "4.25%"
+    },
+    "answer": "c",
+    "correct_answer_text": "4.00%",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_020.json"
+  },
+  {
+    "id": 921,
+    "question": "A bank grants a loan of P80,000 at 14% interest for one year, but the interest (P11,200) is automatically deducted up front. The borrower receives P68,800 and must pay P80,000 after one year. What is the effective interest rate?",
+    "options": {
+      "a": "16.02%",
+      "b": "16.32%",
+      "c": "16.28%",
+      "d": "16.47%"
+    },
+    "answer": "c",
+    "correct_answer_text": "16.28%",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_020.json"
+  },
+  {
+    "id": 922,
+    "question": "Mr. J. Dela Cruz borrowed money from the bank. He received from the bank P1,340.00 and promised to pay P1,500.00 at the end of 9 months. Determine the simple interest rate and the corresponding discount rate (Banker's Discount).",
+    "options": {
+      "a": "15.92%; 13.73%",
+      "b": "18.28%; 13.12%",
+      "c": "12.95%; 17.33%",
+      "d": "19.25%; 13.33%"
+    },
+    "answer": "a",
+    "correct_answer_text": "15.92%; 13.73%",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_020.json"
+  },
+  {
+    "id": 923,
+    "question": "What is the effective rate corresponding to 18% compounded daily? Take 1 year is equal to 360 days.",
+    "options": {
+      "a": "19.61%",
+      "b": "19.31%",
+      "c": "19.44%",
+      "d": "19.72%"
+    },
+    "answer": "d",
+    "correct_answer_text": "19.72%",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_020.json"
+  },
+  {
+    "id": 924,
+    "question": "What rate of interest compounded annually is the same as the rate of interest of 8% compounded quarterly?",
+    "options": {
+      "a": "8.07%",
+      "b": "8.16%",
+      "c": "8.12%",
+      "d": "8.24%"
+    },
+    "answer": "d",
+    "correct_answer_text": "8.24%",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_020.json"
+  },
+  {
+    "id": 925,
+    "question": "Which of these gives the lowest effective rate of interest?",
+    "options": {
+      "a": "12.35% compounded annually",
+      "b": "11.90% compounded annually",
+      "c": "12.20% compounded annually",
+      "d": "11.60% compounded annually"
+    },
+    "answer": "d",
+    "correct_answer_text": "11.60% compounded annually",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_020.json"
+  },
+  {
+    "id": 926,
+    "question": "An amount of P1,000 becomes P1,608.44 after 4 years compounded bimonthly. Find the nominal interest.",
+    "options": {
+      "a": "11.89%",
+      "b": "12.08%",
+      "c": "12.00%",
+      "d": "12.32%"
+    },
+    "answer": "c",
+    "correct_answer_text": "12.00%",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_020.json"
+  },
+  {
+    "id": 927,
+    "question": "How long will it take money to double itself if invested at 5% compounded annually?",
+    "options": {
+      "a": "13.7 years",
+      "b": "14.2 years",
+      "c": "14.7 years",
+      "d": "15.3 years"
+    },
+    "answer": "b",
+    "correct_answer_text": "14.2 years",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_020.json"
+  },
+  {
+    "id": 928,
+    "question": "By the condition of a will, the sum of P20,000 is left to a girl until it amounts to P50,000. When will she receive the money if the fund is invested at 8% compounded quarterly?",
+    "options": {
+      "a": "11.23 years",
+      "b": "11.57 years",
+      "c": "11.46 years",
+      "d": "11.87 years"
+    },
+    "answer": "b",
+    "correct_answer_text": "11.57 years",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_020.json"
+  },
+  {
+    "id": 929,
+    "question": "Mandarin Bank advertises a 9.5% account that yields 9.84% annually. Find how often the interest is compounded.",
+    "options": {
+      "a": "Monthly",
+      "b": "Quarterly",
+      "c": "Bimonthly",
+      "d": "Annually"
+    },
+    "answer": "a",
+    "correct_answer_text": "Monthly",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_020.json"
+  },
+  {
+    "id": 930,
+    "question": "A student deposits P1,500 now and another P3,000 for the next 2 years. If he withdraws P5,000 three years after his last deposit, what will be the amount left in the bank one year after his withdrawal? Effective annual interest rate is 10%.",
+    "options": {
+      "a": "P1,549.64",
+      "b": "P1,345.98",
+      "c": "P1,459.64",
+      "d": "P1,945.64"
+    },
+    "answer": "c",
+    "correct_answer_text": "P1,459.64",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_021.json"
+  },
+  {
+    "id": 931,
+    "question": "The amount of P12,800 in 4 years at 5% compounded quarterly is:",
+    "options": {
+      "a": "P14,785.34",
+      "b": "P15,614.59",
+      "c": "P16,311.26",
+      "d": "P15,847.33"
+    },
+    "answer": "b",
+    "correct_answer_text": "P15,614.59",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_021.json"
+  },
+  {
+    "id": 932,
+    "question": "A sum of P1,000 is invested now and left for 8 years, at which time the principal is withdrawn. The interest accrued is left for another 8 years. If the effective annual interest is 5%, what is the withdrawn amount at the end of the 16th year?",
+    "options": {
+      "a": "P507.42",
+      "b": "P705.42",
+      "c": "P750.42",
+      "d": "P425.07"
+    },
+    "answer": "b",
+    "correct_answer_text": "P705.42",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_021.json"
+  },
+  {
+    "id": 933,
+    "question": "How long would it take your money to double itself if it is invested at 6% simple interest, compounded semi-quarterly, and compounded continuously?",
+    "options": {
+      "a": "12.67 yrs; 11.2 yrs; 15.05 yrs",
+      "b": "18.67 yrs; 11.6 yrs; 11.24 yrs",
+      "c": "16.67 yrs; 11.6 yrs; 11.55 yrs",
+      "d": "17.67 yrs; 10.2 yrs; 11.45 yrs"
+    },
+    "answer": "c",
+    "correct_answer_text": "16.67 yrs; 11.6 yrs; 11.55 yrs",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_021.json"
+  },
+  {
+    "id": 934,
+    "question": "P1000 is deposited in a bank at 7% interest. What is the value of the money after 25 years, assuming nothing else was deposited?",
+    "options": {
+      "a": "P 5, 247.63",
+      "b": "P 5, 427.43",
+      "c": "P 5, 437.34",
+      "d": "P 5, 720.51"
+    },
+    "answer": "b",
+    "correct_answer_text": "P 5, 427.43",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_021.json"
+  },
+  {
+    "id": 935,
+    "question": "A certain amount was deposited 5 years and 9 months ago at an interest of 8% compounded quarterly. If the sum now is P315,379.85, how much was the amount deposited?",
+    "options": {
+      "a": "P200,000",
+      "b": "P180,000",
+      "c": "P240,000",
+      "d": "P260,000"
+    },
+    "answer": "a",
+    "correct_answer_text": "P200,000",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_021.json"
+  },
+  {
+    "id": 936,
+    "question": "Find the time required for a sum of money to triple itself at 5% per annum compounded continuously.",
+    "options": {
+      "a": "21.97 years",
+      "b": "25.34 years",
+      "c": "18.23 years",
+      "d": "23.36 years"
+    },
+    "answer": "a",
+    "correct_answer_text": "21.97 years",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_021.json"
+  },
+  {
+    "id": 937,
+    "question": "A man wishes to have P40,000 in a certain fund at the end of 8 years. How much should he invest in a fund that pays 6% compounded continuously?",
+    "options": {
+      "a": "P24,751.34",
+      "b": "P36,421.44",
+      "c": "P24,751.34",
+      "d": "P30,468.42"
+    },
+    "answer": "a",
+    "correct_answer_text": "P24,751.34",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_021.json"
+  },
+  {
+    "id": 938,
+    "question": "American Express Corp. charges 1.5% interest per month, compounded continuously. Compute the effective rate of interest.",
+    "options": {
+      "a": "19.72%",
+      "b": "20.25%",
+      "c": "21.20%",
+      "d": "19.90%"
+    },
+    "answer": "a",
+    "correct_answer_text": "19.72%",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_021.json"
+  },
+  {
+    "id": 939,
+    "question": "Compute the difference in the future amount of P500 compounded annually at nominal rate of 5% and if it is compounded continuously for 5 years at the same rate.",
+    "options": {
+      "a": "P3.87",
+      "b": "P4.21",
+      "c": "P5.48",
+      "d": "P6.25"
+    },
+    "answer": "a",
+    "correct_answer_text": "P3.87",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_021.json"
+  },
+  {
+    "id": 940,
+    "question": "If the nominal interest rate is 3%, how much is P5000 worth in 10 years in a continuously compounded account?",
+    "options": {
+      "a": "P5750",
+      "b": "P6750",
+      "c": "P7500",
+      "d": "P6350"
+    },
+    "answer": "b",
+    "correct_answer_text": "P6750",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_021.json"
+  },
+  {
+    "id": 941,
+    "question": "What is the present worth of two P100 payments at the end of the third year and fourth year if the annual interest rate is 8%?",
+    "options": {
+      "a": "P 150.56",
+      "b": "P 153.89",
+      "c": "P 152.88",
+      "d": "P 151.09"
+    },
+    "answer": "c",
+    "correct_answer_text": "P 152.88",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_021.json"
+  },
+  {
+    "id": 942,
+    "question": "What is the present worth of a P500 annuity starting at the end of the third year and continuing to the end of the fourth year, if the annual interest rate is 10%?",
+    "options": {
+      "a": "P 727.17",
+      "b": "P 714.71",
+      "c": "P 717.17",
+      "d": "P 731.17"
+    },
+    "answer": "c",
+    "correct_answer_text": "P 717.17",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_021.json"
+  },
+  {
+    "id": 943,
+    "question": "What annuity is required over 12 years to equate with a future amount of P 20,000? Assume i = 6% annually.",
+    "options": {
+      "a": "P 1,290.34",
+      "b": "P 1,107.34",
+      "c": "P 1,185.54",
+      "d": "P 1,205.74"
+    },
+    "answer": "c",
+    "correct_answer_text": "P 1,185.54",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_021.json"
+  },
+  {
+    "id": 944,
+    "question": "A factory operator bought a set for P 10,000.00 and agreed to pay uniform sums at the end of each year for 5 years at 8% interest. What is the annual payment?",
+    "options": {
+      "a": "P 2,500.57",
+      "b": "P 2,540.56",
+      "c": "P 2,544.45",
+      "d": "P 2,504.57"
+    },
+    "answer": "d",
+    "correct_answer_text": "P 2,504.57",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_021.json"
+  },
+  {
+    "id": 945,
+    "question": "What is the present worth of a 3 year annuity paying P 3,000.00 at the end of each year, with interest at 8% compounded annually?",
+    "options": {
+      "a": "P 7,654.04",
+      "b": "P 7,420.89",
+      "c": "P 7,731.29",
+      "d": "P 7,590.12"
+    },
+    "answer": "c",
+    "correct_answer_text": "P 7,731.29",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_021.json"
+  },
+  {
+    "id": 946,
+    "question": "A man loans P 187,400 with interest at 5%. He agrees to pay 8 equal annual payments, the first due at the end of 10 years. Find the annual payments.",
+    "options": {
+      "a": "P 43,600.10",
+      "b": "P 43,263.91",
+      "c": "P 43,489.47",
+      "d": "P 43,763.20"
+    },
+    "answer": "c",
+    "correct_answer_text": "P 43,489.47",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_021.json"
+  },
+  {
+    "id": 947,
+    "question": "A person buys a lot for P 100,000 downpayment and 10 deferred semi-annual payments of P 8,000 each, starting three years from now. What is the present value if interest is 12% compounded semi-annually?",
+    "options": {
+      "a": "P 142,999.08",
+      "b": "P 142,189.67",
+      "c": "P 143,104.89",
+      "d": "P 143,999.08"
+    },
+    "answer": "d",
+    "correct_answer_text": "P 143,999.08",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_021.json"
+  },
+  {
+    "id": 948,
+    "question": "A young engineer borrowed P 10,000 at 12% interest and paid P 2,000 per annum for the last 4 years. What must he pay at the end of the fifth year to pay off his loan?",
+    "options": {
+      "a": "P 6,999.39",
+      "b": "P 6,222.39",
+      "c": "P 6,292.93",
+      "d": "P 6,922.93"
+    },
+    "answer": "d",
+    "correct_answer_text": "P 6,922.93",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_021.json"
+  },
+  {
+    "id": 949,
+    "question": "Miss Calledo deposited P 1,000, P 1,500 and P 2,000 at the end of the 2nd, 3rd and 4th year respectively in an account earning 10%. How much is in the account at the end of the 4th year?",
+    "options": {
+      "a": "P 4,880.00",
+      "b": "P 4,860.00",
+      "c": "P 4,820.00",
+      "d": "P 4,840.00"
+    },
+    "answer": "b",
+    "correct_answer_text": "P 4,860.00",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_021.json"
+  },
+  {
+    "id": 950,
+    "question": "Annuity required over 10 years to equate to a future amount of P 15,000 with i=5%:",
+    "options": {
+      "a": "P 1, 192.57",
+      "b": "P 1, 219.60",
+      "c": "P 1, 912.75",
+      "d": "P 1, 921.65"
+    },
+    "answer": "a",
+    "correct_answer_text": "P 1, 192.57",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_022.json"
+  },
+  {
+    "id": 951,
+    "question": "A debt of P 1,000 is to be paid in 5 equal yearly payments at 4%. What should be the amount of each payment?",
+    "options": {
+      "a": "P 220.50",
+      "b": "P 242.61",
+      "c": "P 224.62",
+      "d": "P 222.50"
+    },
+    "answer": "c",
+    "correct_answer_text": "P 224.62",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_022.json"
+  },
+  {
+    "id": 952,
+    "question": "A company sets aside P 300,000 each year. If the fund earns 9%, how long will it take to build a building costing P 3,000,000?",
+    "options": {
+      "a": "7.34 years",
+      "b": "7.20 years",
+      "c": "7.44 years",
+      "d": "7.54 years"
+    },
+    "answer": "d",
+    "correct_answer_text": "7.54 years",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_022.json"
+  },
+  {
+    "id": 953,
+    "question": "Maintenance for equipment is $5,000 in year 1, increasing by $500 annually through year 10. At 10% interest, the present worth is nearest to:",
+    "options": {
+      "a": "$38,220",
+      "b": "$46,660",
+      "c": "$42,170",
+      "d": "$51,790"
+    },
+    "answer": "a",
+    "correct_answer_text": "$38,220",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_022.json"
+  },
+  {
+    "id": 954,
+    "question": "A strip mining operation cash flow is $200,000 in year 1, decreasing by $20,000 per year through 8. At 12% interest, the equivalent annual cash flow is nearest to:",
+    "options": {
+      "a": "$61,970",
+      "b": "$185,070",
+      "c": "$142,738",
+      "d": "$261,970"
+    },
+    "answer": "c",
+    "correct_answer_text": "$142,738",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_022.json"
+  },
+  {
+    "id": 955,
+    "question": "A contractor has 4 employees with combined salaries of $150,000. If he gives 5% raises each year, what is the present worth of salaries over 5 years at 12% interest?",
+    "options": {
+      "a": "$591,000",
+      "b": "$702,900",
+      "c": "$816,100",
+      "d": "$429,300"
+    },
+    "answer": "a",
+    "correct_answer_text": "$591,000",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_022.json"
+  },
+  {
+    "id": 956,
+    "question": "A machine costs P 8,000 with a life of 10 years and salvage of P 500. What is its book value after 8 years using straight line method?",
+    "options": {
+      "a": "P 2,000.00",
+      "b": "P 2,200.00",
+      "c": "P 2,100.00",
+      "d": "P 2,300.00"
+    },
+    "answer": "a",
+    "correct_answer_text": "P 2,000.00",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_022.json"
+  },
+  {
+    "id": 957,
+    "question": "Cost of equipment = $5000, Salvage = $500, Life = 10 years. Using straight line method, the yearly depreciation charge is:",
+    "options": {
+      "a": "$500",
+      "b": "$50",
+      "c": "$550",
+      "d": "$450"
+    },
+    "answer": "d",
+    "correct_answer_text": "$450",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_022.json"
+  },
+  {
+    "id": 958,
+    "question": "Annual depreciation is 40,000, cost is 500,000. Rate of depreciation according to straight-line method is:",
+    "options": {
+      "a": "9%",
+      "b": "16%",
+      "c": "18%",
+      "d": "8%"
+    },
+    "answer": "d",
+    "correct_answer_text": "8%",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_022.json"
+  },
+  {
+    "id": 959,
+    "question": "Equipment bought for Php 450,000 has a life of 5 years and salvage of Php 50,000. Compute first year depreciation using Declining Balance Method.",
+    "options": {
+      "a": "174,300",
+      "b": "160,200",
+      "c": "143,800",
+      "d": "120,500"
+    },
+    "answer": "b",
+    "correct_answer_text": "160,200",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_022.json"
+  },
+  {
+    "id": 960,
+    "question": "A machine costs Php 300,000 with salvage of Php 50,000 after 10 years. If money is worth 6%, use Sinking Fund Method to determine depreciation at the 6th year.",
+    "options": {
+      "a": "12687",
+      "b": "15385",
+      "c": "18967",
+      "d": "23587"
+    },
+    "answer": "c",
+    "correct_answer_text": "18967",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_022.json"
+  },
+  {
+    "id": 961,
+    "question": "Manufacturer costs: labor P115, material P76, variable P2.32. If unit price is P600, how many units to break even if monthly overhead is P428,000?",
+    "options": {
+      "a": "1,033",
+      "b": "1,043",
+      "c": "1,037",
+      "d": "1,053"
+    },
+    "answer": "b",
+    "correct_answer_text": "1,043",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_022.json"
+  },
+  {
+    "id": 962,
+    "question": "Shoe manufacturer: labor P900, material P800, royalty P1000, variable P400 per pair. Fixed charges P5,000,000/month. If price is P5,000, how many pairs to break-even?",
+    "options": {
+      "a": "2,590",
+      "b": "2,712",
+      "c": "2,632",
+      "d": "2,890"
+    },
+    "answer": "c",
+    "correct_answer_text": "2,632",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_022.json"
+  },
+  {
+    "id": 963,
+    "question": "A runner maintains constant acceleration after starting from rest as she runs a distance of 60.0 m. The runner's speed at the end of the 60.0 m is 9.00 m/s. How much time did it take the runner to complete the 60.0 m distance?",
+    "options": {
+      "a": "6.67 s",
+      "b": "15.0 s",
+      "c": "13.33 s",
+      "d": "10.2 s"
+    },
+    "answer": "c",
+    "correct_answer_text": "13.33 s",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_022.json"
+  },
+  {
+    "id": 964,
+    "question": "A hobby rocket reaches a height of 72.3 m and lands 111 m from the launch point with no air resistance. What was the angle of launch?",
+    "options": {
+      "a": "69.0°",
+      "b": "67.4°",
+      "c": "22.6°",
+      "d": "44.8°"
+    },
+    "answer": "a",
+    "correct_answer_text": "69.0°",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_022.json"
+  },
+  {
+    "id": 965,
+    "question": "A driver in a 1000 kg car traveling at 20 m/s slams on the brakes and skids to a stop. If the coefficient of friction between the tires and the horizontal road is 0.80, how long will the skid marks be?",
+    "options": {
+      "a": "26 m",
+      "b": "21 m",
+      "c": "33 m",
+      "d": "24 m"
+    },
+    "answer": "a",
+    "correct_answer_text": "26 m",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_022.json"
+  },
+  {
+    "id": 966,
+    "question": "A 200 g hockey puck is launched up a metal ramp that is inclined at a 30° angle. The coefficients of static and kinetic friction between the hockey puck and the metal ramp are μs = 0.40 and μk = 0.30, respectively. The puck's initial speed is 63 m/s. What vertical height does the puck reach above its starting point?",
+    "options": {
+      "a": "130 m",
+      "b": "270 m",
+      "c": "200 m",
+      "d": "66 m"
+    },
+    "answer": "a",
+    "correct_answer_text": "130 m",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_022.json"
+  },
+  {
+    "id": 967,
+    "question": "A 250-kg crate is on a rough ramp, inclined at 30° above the horizontal. The coefficient of kinetic friction between the crate and ramp is 0.22. A horizontal force of 5000 N is applied to the crate, pushing it up the ramp. What is the acceleration of the crate?",
+    "options": {
+      "a": "8.4 m/s²",
+      "b": "10 m/s²",
+      "c": "12 m/s²",
+      "d": "13 m/s²"
+    },
+    "answer": "a",
+    "correct_answer_text": "8.4 m/s²",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_022.json"
+  },
+  {
+    "id": 968,
+    "question": "A car travels at a steady 40.0 m/s around a horizontal curve of radius 200 m. What is the minimum coefficient of static friction between the road and the car's tires that will allow the car to travel at this speed without sliding?",
+    "options": {
+      "a": "1.23",
+      "b": "0.816",
+      "c": "0.736",
+      "d": "0.952"
+    },
+    "answer": "b",
+    "correct_answer_text": "0.816",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_022.json"
+  },
+  {
+    "id": 969,
+    "question": "A car enters a 300-m radius horizontal curve on a rainy day when the coefficient of static friction between its tires and the road is 0.600. What is the maximum speed at which the car can travel around this curve without sliding?",
+    "options": {
+      "a": "29.6 m/s",
+      "b": "33.1 m/s",
+      "c": "24.8 m/s",
+      "d": "42.0 m/s"
+    },
+    "answer": "d",
+    "correct_answer_text": "42.0 m/s",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_022.json"
+  },
+  {
+    "id": 970,
+    "question": "A 600-kg car is going around a banked curve with a radius of 110 m at a speed of 24.5 m/s. What is the appropriate banking angle so that the car stays on its path without the assistance of friction?",
+    "options": {
+      "a": "29.1°",
+      "b": "13.5°",
+      "c": "33.8°",
+      "d": "56.2°"
+    },
+    "answer": "a",
+    "correct_answer_text": "29.1°",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_023.json"
+  },
+  {
+    "id": 971,
+    "question": "A roadway for stunt drivers is designed for racecars moving at a speed of 40 m/s. A curved section of the roadway is a circular arc of 230 m radius. The roadway is banked so that a vehicle can go around the curve with the friction force from the road equal to zero. At what angle is the roadway banked?",
+    "options": {
+      "a": "35°",
+      "b": "37°",
+      "c": "33°",
+      "d": "31°"
+    },
+    "answer": "a",
+    "correct_answer_text": "35°",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_023.json"
+  },
+  {
+    "id": 972,
+    "question": "A block of mass m is moving along the horizontal frictionless surface with a speed of 5.70 m/s. If the slope is 11.0° and the coefficient of kinetic friction between the block and the incline is 0.260, how far does the block travel up the incline?",
+    "options": {
+      "a": "3.72 m",
+      "b": "2.31 m",
+      "c": "4.56 m",
+      "d": "4.02 m"
+    },
+    "answer": "a",
+    "correct_answer_text": "3.72 m",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_023.json"
+  },
+  {
+    "id": 973,
+    "question": "A certain spherical asteroid has a mass of 3.5 x 10^16 kg and a radius of 8.8 km. What is the minimum speed needed to escape from the surface of this asteroid?",
+    "options": {
+      "a": "23 m/s",
+      "b": "16 m/s",
+      "c": "520 m/s",
+      "d": "730 m/s"
+    },
+    "answer": "a",
+    "correct_answer_text": "23 m/s",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_023.json"
+  },
+  {
+    "id": 974,
+    "question": "What is the period (in hours) of a satellite circling Mars 100 km above the planet's surface? The mass of Mars is 6.42 x 10^23 kg, its radius is 3.40 x 10^6 m.",
+    "options": {
+      "a": "1.75 h",
+      "b": "1.25 h",
+      "c": "1.15 h",
+      "d": "1.00 h"
+    },
+    "answer": "a",
+    "correct_answer_text": "1.75 h",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_023.json"
+  },
+  {
+    "id": 975,
+    "question": "A 5.0-m long, 12-kg uniform ladder rests against a smooth vertical wall with the bottom of the ladder 3.0 m from the wall. The coefficient of static friction between the floor and the ladder is 0.28. What distance, measured along the ladder from the bottom, can a 60-kg person climb before the ladder starts to slip?",
+    "options": {
+      "a": "4.0 m",
+      "b": "3.7 m",
+      "c": "1.7 m",
+      "d": "1.3 m"
+    },
+    "answer": "c",
+    "correct_answer_text": "1.7 m",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_023.json"
+  },
+  {
+    "id": 976,
+    "question": "A solid uniform brick of width w and height 8 cm is placed on a sheet of wood. When one end of the sheet is raised you observe that the maximum that the angle can be without tipping over the brick is 49.6°. What is the width of the brick?",
+    "options": {
+      "a": "5.18 cm",
+      "b": "6.09 cm",
+      "c": "6.81 cm",
+      "d": "9.40 cm"
+    },
+    "answer": "d",
+    "correct_answer_text": "9.40 cm",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_023.json"
+  },
+  {
+    "id": 977,
+    "question": "Determine the single force that will replace the following coplanar forces: 120 N, 30°; 200 N, 110°; 340 N, 180°; 170 N, 240° and 80 N, 300°.",
+    "options": {
+      "a": "351 N, 175°",
+      "b": "351 N, 165°",
+      "c": "372 N, 175°",
+      "d": "372 N, 165°"
+    },
+    "answer": "a",
+    "correct_answer_text": "351 N, 175°",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_023.json"
+  },
+  {
+    "id": 978,
+    "question": "Given the set concurrent through the origin and the point A, B and C. 300 N through (3, -4, 6); 400 N through (-2, 4, 5); and 200 N through (-4, 5, 3). Determine the magnitude of the resultant force.",
+    "options": {
+      "a": "117.2 N",
+      "b": "226.3 N",
+      "c": "152.5 N",
+      "d": "297.0 N"
+    },
+    "answer": "d",
+    "correct_answer_text": "297.0 N",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_023.json"
+  },
+  {
+    "id": 979,
+    "question": "What is the resultant of the three couples: +16 Nm, -45 Nm, and 120 Nm?",
+    "options": {
+      "a": "-129",
+      "b": "+132",
+      "c": "+129",
+      "d": "-132"
+    },
+    "answer": "c",
+    "correct_answer_text": "+129",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_023.json"
+  },
+  {
+    "id": 980,
+    "question": "What is the resultant of the forces originating from point (3, 3) and passing through the points indicated: 126N through (8, 6), 183 N through (2, -5) and 269 N through (-6, 3)?",
+    "options": {
+      "a": "263 N",
+      "b": "145 N",
+      "c": "452 N",
+      "d": "323 N"
+    },
+    "answer": "a",
+    "correct_answer_text": "263 N",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_023.json"
+  },
+  {
+    "id": 981,
+    "question": "Determine the resultant of the following forces: A = 600 N at 40 degrees, B = 800 N at 160 degrees and C = 200 N at 300 degrees.",
+    "options": {
+      "a": "532.78 N, 55.32 degrees",
+      "b": "435.94 N, 235.12 degrees",
+      "c": "522.68 N, 111.57 degrees",
+      "d": "627.89 N, 225.81 degrees"
+    },
+    "answer": "c",
+    "correct_answer_text": "522.68 N, 111.57 degrees",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_023.json"
+  },
+  {
+    "id": 982,
+    "question": "A simply supported beam is five meters in length. It carries a uniformly distributed load including its own weight of 300 N/m and a concentrated load of 100 N, 2 meters from the left end. Find the reactions if reaction A at the left end and reaction B at the right end.",
+    "options": {
+      "a": "RA = 810 N, RB = 700 N",
+      "b": "RA = 820 N, RB = 690 N",
+      "c": "RA = 830 N, RB = 680 N",
+      "d": "RA = 840 N, RB = 670 N"
+    },
+    "answer": "a",
+    "correct_answer_text": "RA = 810 N, RB = 700 N",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_023.json"
+  },
+  {
+    "id": 983,
+    "question": "What is a concurrent force system?",
+    "options": {
+      "a": "All forces act at the same point.",
+      "b": "All forces have the same line of action.",
+      "c": "All forces are parallel with one another.",
+      "d": "All forces are in the same plane."
+    },
+    "answer": "a",
+    "correct_answer_text": "All forces act at the same point.",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_023.json"
+  },
+  {
+    "id": 984,
+    "question": "A 250 kg block rests on a 30 degrees plane. If the coefficient of kinetic friction is 0.20, determine the horizontal force P applied on the block to start the block moving up the plane.",
+    "options": {
+      "a": "59.30 kg",
+      "b": "58.10 kg",
+      "c": "219.71 kg",
+      "d": "265.29 kg"
+    },
+    "answer": "c",
+    "correct_answer_text": "219.71 kg",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_023.json"
+  },
+  {
+    "id": 985,
+    "question": "A block weighing 500 N is held by a rope that passes over a horizontal drum. The coefficient of friction between the rope and the drum is 0.15. If the angle of contact is 150 degrees, compute the force that will raise the object.",
+    "options": {
+      "a": "740.7 N",
+      "b": "760.6 N",
+      "c": "770.5 N",
+      "d": "780.8 N"
+    },
+    "answer": "a",
+    "correct_answer_text": "740.7 N",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_023.json"
+  },
+  {
+    "id": 986,
+    "question": "\"The sum of individual moments about a point caused by multiple concurrent forces is equal to the moment of the resultant force about the same point\". This statement is known as",
+    "options": {
+      "a": "Pappus proposition",
+      "b": "D' Alembert's principle",
+      "c": "Varignon's theorem",
+      "d": "Newton's method"
+    },
+    "answer": "c",
+    "correct_answer_text": "Varignon's theorem",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_023.json"
+  },
+  {
+    "id": 987,
+    "question": "A circle has a diameter of 20 cm. Determine the moment of inertia of the circular area relative to the axis perpendicular to the area though the center of the circle in cm4.",
+    "options": {
+      "a": "14,280",
+      "b": "15,708",
+      "c": "17,279",
+      "d": "19,007"
+    },
+    "answer": "b",
+    "correct_answer_text": "15,708",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_023.json"
+  },
+  {
+    "id": 988,
+    "question": "A block is slides from rest on an incline that is tilting at 40 degrees. The coefficient of friction is 0.2. The acceleration of the box is most nearly:",
+    "options": {
+      "a": "13.8 ft/s2",
+      "b": "15.8 ft/s2",
+      "c": "11.4 ft/s2",
+      "d": "8.5 ft/s2"
+    },
+    "answer": "b",
+    "correct_answer_text": "15.8 ft/s2",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_023.json"
+  },
+  {
+    "id": 989,
+    "question": "A baseball is thrown a horizontal plane following a parabolic path with an initial velocity of 100 m/s at an angle of 30° above the horizontal. Solve the distance from the throwing point that the ball attains its original level.",
+    "options": {
+      "a": "890 m",
+      "b": "883 m",
+      "c": "858 m",
+      "d": "820 m"
+    },
+    "answer": "b",
+    "correct_answer_text": "883 m",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_023.json"
+  },
+  {
+    "id": 990,
+    "question": "A 100-lb block of silicon mold is pulled along a pavement with u = 0.3. The force of 50 lb is applied at 70 degrees with the horizontal. If the block started from rest, what distance can it reach in 5 seconds?",
+    "options": {
+      "a": "2.5 ft",
+      "b": "6.8 ft",
+      "c": "4.8 ft",
+      "d": "1.8 ft"
+    },
+    "answer": "a",
+    "correct_answer_text": "2.5 ft",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_024.json"
+  },
+  {
+    "id": 991,
+    "question": "Compute the minimum distance that a truck slides on a horizontal asphalt road if it is traveling at 20 m/s? The coefficient to sliding friction between asphalt and rubber tire is at 0.50. The weight of the truck is 8000 kg.",
+    "options": {
+      "a": "40.8",
+      "b": "48.5",
+      "c": "35.3",
+      "d": "31.4"
+    },
+    "answer": "a",
+    "correct_answer_text": "40.8",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_024.json"
+  },
+  {
+    "id": 992,
+    "question": "A projectile is fired from a cliff 300 m high with an initial velocity of 400 m/s. If the firing angle is 30° from the horizontal, compute the horizontal range of the projectile.",
+    "options": {
+      "a": "15.74 km",
+      "b": "14.54 km",
+      "c": "12.31 km",
+      "d": "20.43 km"
+    },
+    "answer": "a",
+    "correct_answer_text": "15.74 km",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_024.json"
+  },
+  {
+    "id": 993,
+    "question": "Which of the following is an example of contact force?",
+    "options": {
+      "a": "gravitational force",
+      "b": "magnetic force",
+      "c": "air resistance force",
+      "d": "electric force"
+    },
+    "answer": "c",
+    "correct_answer_text": "air resistance force",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_024.json"
+  },
+  {
+    "id": 994,
+    "question": "A body which is 16.1 lb rests on a horizontal plane and acted upon by a 10-lb force. Find the acceleration of the body if the coefficient of friction between the plane and the body is 0.2. Note: 1 lbf = 32.2 lbm-ft/s2.",
+    "options": {
+      "a": "12.34 ft/s2",
+      "b": "11.57 ft/s2",
+      "c": "15.57 ft/s2",
+      "d": "13.56 ft/s2"
+    },
+    "answer": "d",
+    "correct_answer_text": "13.56 ft/s2",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_024.json"
+  },
+  {
+    "id": 995,
+    "question": "A 400 lb ice is pushed up an incline that has a slope of 40 degrees. If the coefficient of friction is 0.3, determine the amount of horizontal force required in order to impend the motion of the ice?",
+    "options": {
+      "a": "360 lb",
+      "b": "1290 lb",
+      "c": "609 lb",
+      "d": "430 lb"
+    },
+    "answer": "c",
+    "correct_answer_text": "609 lb",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_024.json"
+  },
+  {
+    "id": 996,
+    "question": "The frictional forces that can result when two surfaces are sliding to each other is proportional to the normal force applied on the surface.",
+    "options": {
+      "a": "friction force",
+      "b": "kinetic friction",
+      "c": "static friction",
+      "d": "pending motion"
+    },
+    "answer": "b",
+    "correct_answer_text": "kinetic friction",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_024.json"
+  },
+  {
+    "id": 997,
+    "question": "A 200 lb sled is situated on an inline that is 30 degrees with the horizontal. What amount of force parallel to the incline is necessary to accelerate the sled at 20 feet in 10 seconds down the incline? Assume u = 0.1",
+    "options": {
+      "a": "34 lb",
+      "b": "93 lb",
+      "c": "145 lb",
+      "d": "55 lb"
+    },
+    "answer": "b",
+    "correct_answer_text": "93 lb",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_024.json"
+  },
+  {
+    "id": 998,
+    "question": "A ladder can lean on a wall and the floor at a maximum angle of 60 degrees. If the coefficient of friction for both surfaces are the same and the ladder is uniform, what is the coefficient of friction?",
+    "options": {
+      "a": "0.27",
+      "b": "0.33",
+      "c": "0.42",
+      "d": "0.11"
+    },
+    "answer": "a",
+    "correct_answer_text": "0.27",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_024.json"
+  },
+  {
+    "id": 999,
+    "question": "A gun is shot into a 0.50 kN block which is hanging from a rope of 1.8 m long. The weight of the bullet is equal to 5 N with a muzzle velocity of 320 m/s. How high will the block swing after it was hit by the bullet?",
+    "options": {
+      "a": "0.51 m",
+      "b": "0.53 m",
+      "c": "0.32 m",
+      "d": "0.12 m"
+    },
+    "answer": "a",
+    "correct_answer_text": "0.51 m",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_024.json"
+  },
+  {
+    "id": 1000,
+    "question": "A 300-kg block on a 20-degree incline is pushed by force parallel to the incline surface. The coefficient of friction is 0.3. What force is required in order to start the block moving up the incline?",
+    "options": {
+      "a": "1250 N",
+      "b": "1540 N",
+      "c": "1840 N",
+      "d": "1990 N"
+    },
+    "answer": "c",
+    "correct_answer_text": "1840 N",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_024.json"
+  },
+  {
+    "id": 1001,
+    "question": "A body weighing 28 rests on a horizontal surface. The force required to keep it motion along the surface is 7 lbs. Find the coefficient of friction.",
+    "options": {
+      "a": "0.12",
+      "b": "0.45",
+      "c": "0.25",
+      "d": "0.85"
+    },
+    "answer": "c",
+    "correct_answer_text": "0.25",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_024.json"
+  },
+  {
+    "id": 1002,
+    "question": "RA 9136 is also known as?",
+    "options": {
+      "a": "Electric Power Installation Reform Act",
+      "b": "Energy Power Installation Reform Act",
+      "c": "Electric Power Industry Reform Act",
+      "d": "Energy Power Institution Reliability Act"
+    },
+    "answer": "c",
+    "correct_answer_text": "Electric Power Industry Reform Act",
+    "category": "Engineering Sciences",
+    "sub_category": "Engineering Sciences",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_024.json"
+  },
+  {
+    "id": 1003,
+    "question": "Determine the speed of sound in alcohol (density 750 kg/m3) such that a gage pressure of 6 x 10^5 Pa causes a change in liquid volume of 0.0189",
+    "options": {
+      "a": "1380 m/s",
+      "b": "2100 m/s",
+      "c": "5000 m/s",
+      "d": "3600 m/s"
+    },
+    "answer": "a",
+    "correct_answer_text": "1380 m/s",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_024.json"
+  },
+  {
+    "id": 1004,
+    "question": "Also known as PRC Modernization Law",
+    "options": {
+      "a": "RA 8189",
+      "b": "RA 8981",
+      "c": "RA 7920",
+      "d": "RA 184"
+    },
+    "answer": "b",
+    "correct_answer_text": "RA 8981",
+    "category": "Engineering Sciences",
+    "sub_category": "Engineering Sciences",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_024.json"
+  },
+  {
+    "id": 1005,
+    "question": "A 250 kg block rests on a 30 degrees plane. If the coefficient of kinetic friction is 0.20, determine the horizontal force P applied on the block to start the block moving up the plane.",
+    "options": {
+      "a": "59.30 kg",
+      "b": "58.10 kg",
+      "c": "219.71 kg",
+      "d": "265.29 kg"
+    },
+    "answer": "c",
+    "correct_answer_text": "219.71 kg",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_024.json"
+  },
+  {
+    "id": 1006,
+    "question": "What is the metal used to recover copper from a solution of copper sulphate?",
+    "options": {
+      "a": "Na",
+      "b": "Ag",
+      "c": "Hg",
+      "d": "Fe"
+    },
+    "answer": "d",
+    "correct_answer_text": "Fe",
+    "category": "Engineering Sciences",
+    "sub_category": "Chemistry",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_024.json"
+  },
+  {
+    "id": 1007,
+    "question": "What is the discharge coefficient for a 50 mm diameter orifice installed at the base of a tank such that the head maintained at 3 meters and flowrate of 9.2 Li/sec?",
+    "options": {
+      "a": "0.662",
+      "b": "0.603",
+      "c": "0.683",
+      "d": "0.610"
+    },
+    "answer": "d",
+    "correct_answer_text": "0.610",
+    "category": "Engineering Sciences",
+    "sub_category": "Fluid Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_024.json"
+  },
+  {
+    "id": 1008,
+    "question": "A tractor pushes a slab or rock weighing 10,000 lbs up a miner's camp inclined at 15 degrees with u=0.20. If the traction force is horizontal at 6,000 lbs, what is the acceleration of the weight?",
+    "options": {
+      "a": "8 ft/s2",
+      "b": "3.1 ft/s2",
+      "c": "7.5 ft/s2",
+      "d": "1.3 ft/s2"
+    },
+    "answer": "c",
+    "correct_answer_text": "7.5 ft/s2",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_024.json"
+  },
+  {
+    "id": 1009,
+    "question": "What does the acronym PERT stand for in project management?",
+    "options": {
+      "a": "Project Evaluation and Review Technique",
+      "b": "Program Evaluation and Review Technique",
+      "c": "Project Execution and Resource Tracking",
+      "d": "Program Estimation and Resource Tool"
+    },
+    "answer": "b",
+    "correct_answer_text": "Program Evaluation and Review Technique",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_024.json"
+  },
+  {
+    "id": 1010,
+    "question": "What technical standard is stipulated in the IEEE 802.11?",
+    "options": {
+      "a": "5G",
+      "b": "FTTH",
+      "c": "AR/VR",
+      "d": "Wi-Fi"
+    },
+    "answer": "d",
+    "correct_answer_text": "Wi-Fi",
+    "category": "Engineering Sciences",
+    "sub_category": "Engineering Sciences",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_025.json"
+  },
+  {
+    "id": 1011,
+    "question": "In molecules of the same composition, what are the variations of atomic arrangements known as?",
+    "options": {
+      "a": "Polymers",
+      "b": "Monomers",
+      "c": "Isomers",
+      "d": "Crystal Systems"
+    },
+    "answer": "c",
+    "correct_answer_text": "Isomers",
+    "category": "Engineering Sciences",
+    "sub_category": "Chemistry",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_025.json"
+  },
+  {
+    "id": 1012,
+    "question": "A conduit experiences an expansion from a diameter of 50 cm to 70 cm. If the water enters at 80 m/s, determine the exit velocity:",
+    "options": {
+      "a": "31.5 m/s",
+      "b": "23.2 m/s",
+      "c": "40.8 m/s",
+      "d": "56.7 m/s"
+    },
+    "answer": "c",
+    "correct_answer_text": "40.8 m/s",
+    "category": "Engineering Sciences",
+    "sub_category": "Fluid Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_025.json"
+  },
+  {
+    "id": 1013,
+    "question": "What does BASIC stand for?",
+    "options": {
+      "a": "Basic All-Purpose Symbolic Instruction Code",
+      "b": "Basic All-Purpose System Instruction Code",
+      "c": "Beginner's All-Purpose Symbolic Instruction Code",
+      "d": "Beginner's All-Purpose System Instruction Code"
+    },
+    "answer": "c",
+    "correct_answer_text": "Beginner's All-Purpose Symbolic Instruction Code",
+    "category": "Engineering Sciences",
+    "sub_category": "Engineering Sciences",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_025.json"
+  },
+  {
+    "id": 1014,
+    "question": "Determine the velocity of a 11.4 gram bullet if on a ballistics test, the bob of the 2 kg wood pendulum displaced an angle of 60 degrees with the vertical. The length of the bob is 1.0 meters.",
+    "options": {
+      "a": "454 m/s",
+      "b": "785 m/s",
+      "c": "594 m/s",
+      "d": "552 m/s"
+    },
+    "answer": "d",
+    "correct_answer_text": "552 m/s",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_025.json"
+  },
+  {
+    "id": 1015,
+    "question": "Determine the maximum speed at which a car traverse a 800 feet radius road that is banked at 15 degrees and the friction coefficient 0.3 in mi/hr",
+    "options": {
+      "a": "60",
+      "b": "23",
+      "c": "99",
+      "d": "78"
+    },
+    "answer": "a",
+    "correct_answer_text": "60",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_025.json"
+  },
+  {
+    "id": 1016,
+    "question": "An essential part of a large dam that provides an efficient and safe means of releasing flow of water that exceeds the design capacity of the reservoir.",
+    "options": {
+      "a": "Spillway",
+      "b": "Weir",
+      "c": "Culverts",
+      "d": "Standpipe"
+    },
+    "answer": "a",
+    "correct_answer_text": "Spillway",
+    "category": "Engineering Sciences",
+    "sub_category": "Fluid Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_025.json"
+  },
+  {
+    "id": 1017,
+    "question": "Gasoline is flowing on a 4 inch-diameter pipeline at 250 GPM. What is the speed inside the pipeline?",
+    "options": {
+      "a": "2.7 ft/s",
+      "b": "6.4 ft/s",
+      "c": "1.4 ft/s",
+      "d": "0.66 ft/s"
+    },
+    "answer": "b",
+    "correct_answer_text": "6.4 ft/s",
+    "category": "Engineering Sciences",
+    "sub_category": "Fluid Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_025.json"
+  },
+  {
+    "id": 1018,
+    "question": "The ideal, reversible Carnot cycle involves four basic processes. What type of processes are they?",
+    "options": {
+      "a": "All isothermal",
+      "b": "Two adiabatic and two isentropic",
+      "c": "All adiabatic",
+      "d": "Two isothermal and two isentropic"
+    },
+    "answer": "d",
+    "correct_answer_text": "Two isothermal and two isentropic",
+    "category": "Engineering Sciences",
+    "sub_category": "Thermodynamics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_025.json"
+  },
+  {
+    "id": 1019,
+    "question": "A 250 kg block rests on a 50 degrees plane. If the coefficient of kinetic friction is 0.20, determine the horizontal force P applied on the block to start the block moving up the plane.",
+    "options": {
+      "a": "259 kg",
+      "b": "158 kg",
+      "c": "223 kg",
+      "d": "285 kg"
+    },
+    "answer": "c",
+    "correct_answer_text": "223 kg",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_025.json"
+  },
+  {
+    "id": 1020,
+    "question": "A software that is commonly known as firmware.",
+    "options": {
+      "a": "OS",
+      "b": "Cache Memory",
+      "c": "BIOS",
+      "d": "IO"
+    },
+    "answer": "c",
+    "correct_answer_text": "BIOS",
+    "category": "Engineering Sciences",
+    "sub_category": "Engineering Sciences",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_025.json"
+  },
+  {
+    "id": 1021,
+    "question": "A baseball is thrown on a horizontal plane following a parabolic path with an initial velocity of 120 ft/s at an angle of 70 degrees above the horizontal. Solve the range from the throwing point that the ball attains its original level.",
+    "options": {
+      "a": "287 m",
+      "b": "354 m",
+      "c": "219 m",
+      "d": "176 m"
+    },
+    "answer": "a",
+    "correct_answer_text": "287 m",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_025.json"
+  },
+  {
+    "id": 1022,
+    "question": "What does the NGCP Color Alert System 'Red Alert' status signify?",
+    "options": {
+      "a": "There is an excess of electricity supply over demand",
+      "b": "The grid is under preventive maintenance and several brownouts on selected areas are expected.",
+      "c": "The power supply is insufficient, and rotating brownouts are possible",
+      "d": "All transmission lines are operating normally"
+    },
+    "answer": "c",
+    "correct_answer_text": "The power supply is insufficient, and rotating brownouts are possible",
+    "category": "Engineering Sciences",
+    "sub_category": "Engineering Sciences",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_025.json"
+  },
+  {
+    "id": 1023,
+    "question": "In cold working of metals:",
+    "options": {
+      "a": "close dimensional tolerance cannot be maintained",
+      "b": "poor surface finish is obtained",
+      "c": "recrystallization temperature for steel is reduced",
+      "d": "strength and hardness of steel is increased"
+    },
+    "answer": "d",
+    "correct_answer_text": "strength and hardness of steel is increased",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_025.json"
+  },
+  {
+    "id": 1024,
+    "question": "What is the escape velocity on Jupiter given the mean radius of approximately 69,911 kilometers and a mass of about 1.898 x 10^27 kg.",
+    "options": {
+      "a": "1300 m/s",
+      "b": "12,000 m/s",
+      "c": "60,200 m/s",
+      "d": "900,000 m/s"
+    },
+    "answer": "c",
+    "correct_answer_text": "60,200 m/s",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_025.json"
+  },
+  {
+    "id": 1025,
+    "question": "Which of the following are NOT examples of nonvolatile memory in the computer system?",
+    "options": {
+      "a": "Flash drives",
+      "b": "RAM",
+      "c": "Optical disk",
+      "d": "Hard drives"
+    },
+    "answer": "b",
+    "correct_answer_text": "RAM",
+    "category": "Engineering Sciences",
+    "sub_category": "Engineering Sciences",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_025.json"
+  },
+  {
+    "id": 1026,
+    "question": "A 0.6 kg ball is tied on a 1 meter string and whirled around a circular motion at 12 m/s. What is the tension on the string?",
+    "options": {
+      "a": "53.6 N",
+      "b": "86.4 N",
+      "c": "12.5 N",
+      "d": "73.5 N"
+    },
+    "answer": "b",
+    "correct_answer_text": "86.4 N",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_025.json"
+  },
+  {
+    "id": 1027,
+    "question": "What is a protective device designed to protect an individual against electric shock?",
+    "options": {
+      "a": "Circuit breaker",
+      "b": "Differential relay",
+      "c": "AFCI",
+      "d": "GFCI"
+    },
+    "answer": "d",
+    "correct_answer_text": "GFCI",
+    "category": "Engineering Sciences",
+    "sub_category": "Engineering Sciences",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_025.json"
+  },
+  {
+    "id": 1028,
+    "question": "A projectile is fired from a cliff 100 m high with an initial velocity of 400 m/s. If the firing angle is 30 degrees from the horizontal, compute the horizontal range of the projectile.",
+    "options": {
+      "a": "15.74 km",
+      "b": "14.54 km",
+      "c": "12.31 km",
+      "d": "20.43 km"
+    },
+    "answer": "a",
+    "correct_answer_text": "15.74 km",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_025.json"
+  },
+  {
+    "id": 1029,
+    "question": "A motor shall be marked with the following information: manufacturer's name, rated volts, full-load current, rated frequency, and number of phases. This is a rule in the Philippine Electrical Code Part I.",
+    "options": {
+      "a": "construction",
+      "b": "installation",
+      "c": "wiring design",
+      "d": "manufacturing"
+    },
+    "answer": "d",
+    "correct_answer_text": "manufacturing",
+    "category": "Engineering Sciences",
+    "sub_category": "Engineering Sciences",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_025.json"
+  },
+  {
+    "id": 1030,
+    "question": "Determine the gage pressure at the bottom of a dam with a water level of 25 meters:",
+    "options": {
+      "a": "125 kPa",
+      "b": "550 kPa",
+      "c": "245 kPa",
+      "d": "300 kPa"
+    },
+    "answer": "c",
+    "correct_answer_text": "245 kPa",
+    "category": "Engineering Sciences",
+    "sub_category": "Fluid Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_026.json"
+  },
+  {
+    "id": 1031,
+    "question": "When using the net present worth calculations to compare two projects, which of the following could invalidate the calculation?",
+    "options": {
+      "a": "evaluating over different time periods",
+      "b": "mutually exclusive projects",
+      "c": "non-conventional cash flows",
+      "d": "difference in the magnitude of the project"
+    },
+    "answer": "a",
+    "correct_answer_text": "evaluating over different time periods",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_026.json"
+  },
+  {
+    "id": 1032,
+    "question": "What horizontal force P can be applied to a 10 kg block on a level surface with a coefficient of friction of 0.20 that will cause an acceleration of 2.50 m/s^2?",
+    "options": {
+      "a": "44.62 N",
+      "b": "224.5 N",
+      "c": "53.8 N",
+      "d": "343.5 N"
+    },
+    "answer": "a",
+    "correct_answer_text": "44.62 N",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_026.json"
+  },
+  {
+    "id": 1033,
+    "question": "The loss resulted from which poor estimate of the life of the equipment.",
+    "options": {
+      "a": "sunk cost",
+      "b": "in-place value",
+      "c": "economic life",
+      "d": "annuity"
+    },
+    "answer": "a",
+    "correct_answer_text": "sunk cost",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_026.json"
+  },
+  {
+    "id": 1034,
+    "question": "It is responsible for the procurement and administration of funds with the view of achieving the objective of business.",
+    "options": {
+      "a": "finance",
+      "b": "capital",
+      "c": "budget",
+      "d": "funds"
+    },
+    "answer": "a",
+    "correct_answer_text": "finance",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_026.json"
+  },
+  {
+    "id": 1035,
+    "question": "A car travels at a steady 40.0 m/s around a horizontal curve of radius 200 m. What is the minimum coefficient of static friction between the road and the car's tires that will allow the car to travel at this speed without sliding?",
+    "options": {
+      "a": "1.23",
+      "b": "0.816",
+      "c": "0.706",
+      "d": "0.952"
+    },
+    "answer": "b",
+    "correct_answer_text": "0.816",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_026.json"
+  },
+  {
+    "id": 1036,
+    "question": "A market situation with only one buyer of an item and no good substitute.",
+    "options": {
+      "a": "monopsony",
+      "b": "monopoly",
+      "c": "oligopoly",
+      "d": "duopsony"
+    },
+    "answer": "a",
+    "correct_answer_text": "monopsony",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_026.json"
+  },
+  {
+    "id": 1037,
+    "question": "A tank consists of three layers of liquids: 0.75 m of seawater (s.g.=1.03), 0.50 m of kerosene (s.g. 0.80), and 0.25 m of acetone (s.g. 0.65). Determine the pressure at the bottom of the tank:",
+    "options": {
+      "a": "10 kPa",
+      "b": "17 kPa",
+      "c": "13 kPa",
+      "d": "6 kPa"
+    },
+    "answer": "c",
+    "correct_answer_text": "13 kPa",
+    "category": "Engineering Sciences",
+    "sub_category": "Fluid Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_026.json"
+  },
+  {
+    "id": 1038,
+    "question": "It is a method of paying debt including the principal and interest which is usually done in a series of equal payments occurring at equal intervals of time.",
+    "options": {
+      "a": "amortization",
+      "b": "depreciation",
+      "c": "depletion",
+      "d": "annuity"
+    },
+    "answer": "a",
+    "correct_answer_text": "amortization",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_026.json"
+  },
+  {
+    "id": 1039,
+    "question": "A car enters a 300-m radius horizontal curve on a rainy day when the coefficient of static friction between its tires and the road is 0.600. What is the maximum speed at which the car can travel around this curve without sliding?",
+    "options": {
+      "a": "29.6 m/s",
+      "b": "33.1 m/s",
+      "c": "24.8 m/s",
+      "d": "42.0 m/s"
+    },
+    "answer": "d",
+    "correct_answer_text": "42.0 m/s",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_026.json"
+  },
+  {
+    "id": 1040,
+    "question": "A 6.0-m long, 18-kg uniform ladder rests against a smooth vertical wall with the bottom leaning at 80 degrees with the wall. The coefficient of static friction between the floor and the ladder is 0.28. What distance, measured along the ladder from the bottom, can a 50-kg person climb before the ladder starts to slip?",
+    "options": {
+      "a": "5.82 m",
+      "b": "2.78 m",
+      "c": "1.64 m",
+      "d": "1.25 m"
+    },
+    "answer": "c",
+    "correct_answer_text": "1.64 m",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_026.json"
+  },
+  {
+    "id": 1041,
+    "question": "It is the sum of the first cost and the present worth of annual costs of repair and maintenance and operational costs, and the renewal costs.",
+    "options": {
+      "a": "capitalized cost",
+      "b": "marginal cost",
+      "c": "annual cost",
+      "d": "future worth cost"
+    },
+    "answer": "a",
+    "correct_answer_text": "capitalized cost",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_026.json"
+  },
+  {
+    "id": 1042,
+    "question": "The motion of a particle is defined by the relation x = (1/3)t^3 - 3t^2 + 8t + 2 where x is the distance in meters and t is the time in seconds. What is the time when the velocity is zero?",
+    "options": {
+      "a": "2 seconds",
+      "b": "3 seconds",
+      "c": "5 seconds",
+      "d": "7 seconds"
+    },
+    "answer": "a",
+    "correct_answer_text": "2 seconds",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_026.json"
+  },
+  {
+    "id": 1043,
+    "question": "When the net torque acting on the body is zero, the body is in:",
+    "options": {
+      "a": "rotational equilibrium",
+      "b": "stable equilibrium",
+      "c": "unstable equilibrium",
+      "d": "translational equilibrium"
+    },
+    "answer": "a",
+    "correct_answer_text": "rotational equilibrium",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_026.json"
+  },
+  {
+    "id": 1044,
+    "question": "A 300-lb block is resting on a horizontal pavement with coefficient of friction of 0.3. What force that is 40 degrees with the horizontal is required in order to impend the motion?",
+    "options": {
+      "a": "67.3 lb",
+      "b": "133.4 lb",
+      "c": "93 lb",
+      "d": "210.7 lb"
+    },
+    "answer": "c",
+    "correct_answer_text": "93 lb",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_026.json"
+  },
+  {
+    "id": 1045,
+    "question": "A bicyclist negotiates a curved road with radius of 70 meters. The coefficient of friction between the wheel and the road is 0.4 and the banking is 5 degrees, what is the maximum velocity before skidding?",
+    "options": {
+      "a": "18.6 m/s",
+      "b": "25.7 m/s",
+      "c": "14 m/s",
+      "d": "9.7 m/s"
+    },
+    "answer": "a",
+    "correct_answer_text": "18.6 m/s",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_026.json"
+  },
+  {
+    "id": 1046,
+    "question": "A 50 kg sled is on an incline that is 20 degrees with the horizontal. What minimum horizontal force P is required in order to prevent the sled from sliding down? Assume u = 0.2:",
+    "options": {
+      "a": "45 N",
+      "b": "80 N",
+      "c": "75 N",
+      "d": "60 N"
+    },
+    "answer": "c",
+    "correct_answer_text": "75 N",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_026.json"
+  },
+  {
+    "id": 1047,
+    "question": "A wooden block rests on a frictionless adjustable ramp. The block is 5 cm on the base and 8 cm tall. At what minimum angle should the ramp be tilted to topple the block?",
+    "options": {
+      "a": "42 degrees",
+      "b": "32 degrees",
+      "c": "56 degrees",
+      "d": "15 degrees"
+    },
+    "answer": "b",
+    "correct_answer_text": "32 degrees",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_026.json"
+  },
+  {
+    "id": 1048,
+    "question": "A body of weight 100 Newtons is placed on a rough horizontal plane. Determine the coefficient of friction if a horizontal force of 50 Newtons just causes the body to slide over the horizontal plane.",
+    "options": {
+      "a": "0.6",
+      "b": "0.5",
+      "c": "0.7",
+      "d": "0.3"
+    },
+    "answer": "b",
+    "correct_answer_text": "0.5",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_026.json"
+  },
+  {
+    "id": 1049,
+    "question": "The first Philippine satellite, 'Diwata', was installed at geosynchronous orbit that is 20,000 km from the sea-level. The radius of the earth is 6.4 x 10^6 m and the mass is 6 x 10^24 kg. What is the velocity of 'Diwata'?",
+    "options": {
+      "a": "2400 m/s",
+      "b": "6900 m/s",
+      "c": "1000 m/s",
+      "d": "3900 m/s"
+    },
+    "answer": "d",
+    "correct_answer_text": "3900 m/s",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_026.json"
+  },
+  {
+    "id": 1050,
+    "question": "A bulldozer pulls a log weighing 500 N (51 kg) along a rough surface. The cable attached to the log makes an angle of 30.0 deg with the horizontal. The coefficient of static friction between the log and the ground is 0.500. What minimum tension is required in the cable in order for the log to begin to move?",
+    "options": {
+      "a": "224 N",
+      "b": "268 N",
+      "c": "289 N",
+      "d": "500 N"
+    },
+    "answer": "b",
+    "correct_answer_text": "268 N",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_027.json"
+  },
+  {
+    "id": 1051,
+    "question": "What is the critical angle for light traveling from crown glass (n=1.52) into water (n=1.33)?",
+    "options": {
+      "a": "42°",
+      "b": "48°",
+      "c": "53°",
+      "d": "57°"
+    },
+    "answer": "b",
+    "correct_answer_text": "48°",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_027.json"
+  },
+  {
+    "id": 1052,
+    "question": "A convex spherical mirror with a focal length of magnitude 25 cm has a 4.0-cm tall flower placed 100 cm in front of it. What is the height of the image of the flower?",
+    "options": {
+      "a": "0.80 cm",
+      "b": "20 cm",
+      "c": "4.0 cm",
+      "d": "1.6 cm"
+    },
+    "answer": "a",
+    "correct_answer_text": "0.80 cm",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_027.json"
+  },
+  {
+    "id": 1053,
+    "question": "An object that weighs 2.450 N is attached to an ideal massless spring and undergoes simple harmonic oscillations with a period of 0.640 s. What is the spring constant of the spring?",
+    "options": {
+      "a": "2.45 N/m",
+      "b": "12.1 N/m",
+      "c": "24.1 N/m",
+      "d": "1.0 x 10^2 N/m"
+    },
+    "answer": "c",
+    "correct_answer_text": "24.1 N/m",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_027.json"
+  },
+  {
+    "id": 1054,
+    "question": "A 0.25 kg ideal harmonic oscillator has a total mechanical energy. If the oscillation amplitude is given, what is the oscillation frequency?",
+    "options": {
+      "a": "4.5 Hz",
+      "b": "1.4 Hz",
+      "c": "2.3 Hz",
+      "d": "3.2 Hz"
+    },
+    "answer": "b",
+    "correct_answer_text": "1.4 Hz",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_027.json"
+  },
+  {
+    "id": 1055,
+    "question": "A 6.00-m long rope is under a tension of 600 N. Waves travel along this rope at 40.0 m/s. What is the mass of the rope?",
+    "options": {
+      "a": "1.00 kg",
+      "b": "1.25 kg",
+      "c": "2.25 kg",
+      "d": "2.50 kg"
+    },
+    "answer": "c",
+    "correct_answer_text": "2.25 kg",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_027.json"
+  },
+  {
+    "id": 1056,
+    "question": "A 1.0-g string that is 0.64 m long is fixed at both ends and is under tension. This string produces a 100-Hz tone when it vibrates in the third harmonic. The tension in the string is closest to:",
+    "options": {
+      "a": "2.8 N",
+      "b": "2.3 N",
+      "c": "1.8 N",
+      "d": "3.4 N"
+    },
+    "answer": "a",
+    "correct_answer_text": "2.8 N",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_027.json"
+  },
+  {
+    "id": 1057,
+    "question": "A platinum wire that is 1.20 m long has a radius of 0.500 mm and is fixed at both ends. In its third harmonic it vibrates at 512 Hz. The density of platinum is 21.4 x 10^3 kg/m3. What is the tension in the wire?",
+    "options": {
+      "a": "4.00 kN",
+      "b": "2.00 kN",
+      "c": "2.82 kN",
+      "d": "1.41 kN"
+    },
+    "answer": "c",
+    "correct_answer_text": "2.82 kN",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_027.json"
+  },
+  {
+    "id": 1058,
+    "question": "A certain crying baby emits sound with an intensity of 8.0 x 10^-8 W/m2. What is the intensity level due to a set of five such crying babies, all crying with the same intensity? (Reference I0 = 1.0 x 10^-12 W/m2)",
+    "options": {
+      "a": "79 dB",
+      "b": "69 dB",
+      "c": "56 dB",
+      "d": "49 dB"
+    },
+    "answer": "c",
+    "correct_answer_text": "56 dB",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_027.json"
+  },
+  {
+    "id": 1059,
+    "question": "If the intensity level at distance d of one trombone is 70 dB, what is the intensity level of 76 identical trombones, all at distance d?",
+    "options": {
+      "a": "146 dB",
+      "b": "89 dB",
+      "c": "5320 dB",
+      "d": "76 dB"
+    },
+    "answer": "b",
+    "correct_answer_text": "89 dB",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_027.json"
+  },
+  {
+    "id": 1060,
+    "question": "One of the harmonics of a column of air open at one end and closed at the other has a frequency of 448 Hz and the next higher harmonic has a frequency of 576 Hz. What is the fundamental frequency of the air column?",
+    "options": {
+      "a": "32 Hz",
+      "b": "64 Hz",
+      "c": "88 Hz",
+      "d": "128 Hz"
+    },
+    "answer": "b",
+    "correct_answer_text": "64 Hz",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_027.json"
+  },
+  {
+    "id": 1061,
+    "question": "A pipe is 0.90 m long and is open at one end but closed at the other end. If it resonates with a tone whose wavelength is 0.72 m, what is the wavelength of the next higher overtone in this pipe?",
+    "options": {
+      "a": "0.36 m",
+      "b": "0.40 m",
+      "c": "0.45 m",
+      "d": "0.51 m"
+    },
+    "answer": "b",
+    "correct_answer_text": "0.40 m",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_027.json"
+  },
+  {
+    "id": 1062,
+    "question": "An organ pipe open at both ends has two successive harmonics with frequencies of 210 Hz and 240 Hz. What is the length of the pipe?",
+    "options": {
+      "a": "5.25 m",
+      "b": "5.73 m",
+      "c": "2.76 m",
+      "d": "4.90 m"
+    },
+    "answer": "b",
+    "correct_answer_text": "5.73 m",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_027.json"
+  },
+  {
+    "id": 1063,
+    "question": "As you stand by the side of the road, a car approaches you at a constant speed, sounding its horn, and you hear a frequency of 80.0 Hz. After the car goes by, you hear a frequency of 60.0 Hz. What is the speed of the car? (Speed of sound = 343 m/s)",
+    "options": {
+      "a": "64.0 m/s",
+      "b": "49.0 m/s",
+      "c": "16.0 m/s",
+      "d": "36.0 m/s"
+    },
+    "answer": "b",
+    "correct_answer_text": "49.0 m/s",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_027.json"
+  },
+  {
+    "id": 1064,
+    "question": "A boy on a bicycle approaches a brick wall as he sounds his horn at a frequency 400.00 Hz. The sound he hears reflected back from the wall is at a frequency 408.00 Hz. At what speed is the boy riding his bicycle toward the wall? (Speed of sound = 340 m/s)",
+    "options": {
+      "a": "3.68 m/s",
+      "b": "3.33 m/s",
+      "c": "6.67 m/s",
+      "d": "3.37 m/s"
+    },
+    "answer": "b",
+    "correct_answer_text": "3.33 m/s",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_027.json"
+  },
+  {
+    "id": 1065,
+    "question": "An airplane flying faster than the speed of sound of 340 m/s produces a shock wave that makes an angle of 50° with the direction the plane is flying. What is the speed of the plane?",
+    "options": {
+      "a": "490 m/s",
+      "b": "530 m/s",
+      "c": "390 m/s",
+      "d": "440 m/s"
+    },
+    "answer": "d",
+    "correct_answer_text": "440 m/s",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_027.json"
+  },
+  {
+    "id": 1066,
+    "question": "What is the minimum magnitude of an electric field that balances the weight of a plastic sphere of mass 6.4 g that has been charged to -3.0 nC?",
+    "options": {
+      "a": "2.1 x 10^7 N/C",
+      "b": "4.5 x 10^6 N/C",
+      "c": "2.4 x 10^6 N/C",
+      "d": "6.4 x 10^6 N/C"
+    },
+    "answer": "a",
+    "correct_answer_text": "2.1 x 10^7 N/C",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_027.json"
+  },
+  {
+    "id": 1067,
+    "question": "Two thin-walled concentric conducting spheres of radii 5.0 cm and 10 cm have a potential difference of 100 V between them. What is the capacitance of this combination?",
+    "options": {
+      "a": "11 pF",
+      "b": "14 pF",
+      "c": "7 pF",
+      "d": "19 pF"
+    },
+    "answer": "a",
+    "correct_answer_text": "11 pF",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_027.json"
+  },
+  {
+    "id": 1068,
+    "question": "The heater element of a particular 120-V toaster is a 8.9-m length of nichrome wire, whose diameter is 0.86 mm. The resistivity of nichrome is 1.3 x 10^-6 Ω·m. How much power does it draw?",
+    "options": {
+      "a": "720 W",
+      "b": "700 W",
+      "c": "750 W",
+      "d": "770 W"
+    },
+    "answer": "a",
+    "correct_answer_text": "720 W",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_027.json"
+  },
+  {
+    "id": 1069,
+    "question": "When a 20.0-ohm resistor is connected across the terminals of a 12.0-V battery, the voltage across the terminals falls by 0.300 V. What is the internal resistance of this battery?",
+    "options": {
+      "a": "3.60 Ω",
+      "b": "1.56 Ω",
+      "c": "0.98 Ω",
+      "d": "0.51 Ω"
+    },
+    "answer": "d",
+    "correct_answer_text": "0.51 Ω",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_027.json"
+  },
+  {
+    "id": 1070,
+    "question": "An electron, moving toward the west, enters a uniform magnetic field. Because of this field the electron curves upward. The direction of the magnetic field is:",
+    "options": {
+      "a": "towards the north",
+      "b": "towards the west",
+      "c": "towards the south",
+      "d": "upward"
+    },
+    "answer": "c",
+    "correct_answer_text": "towards the south",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_028.json"
+  },
+  {
+    "id": 1071,
+    "question": "A proton starting from rest travels through a potential of 1.0 kV and then moves into a uniform 0.040-T magnetic field. What is the radius of the proton's resulting orbit?",
+    "options": {
+      "a": "0.080 m",
+      "b": "0.11 m",
+      "c": "0.14 m",
+      "d": "0.17 m"
+    },
+    "answer": "b",
+    "correct_answer_text": "0.11 m",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_028.json"
+  },
+  {
+    "id": 1072,
+    "question": "The coil in a 60-Hz ac generator has 125 turns, each having an area of 3.0 x 10^-2 m2 and is rotated in a uniform 0.12-T magnetic field. What is the peak output voltage of this generator?",
+    "options": {
+      "a": "170 V",
+      "b": "120 V",
+      "c": "200 V",
+      "d": "110 V"
+    },
+    "answer": "a",
+    "correct_answer_text": "170 V",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_028.json"
+  },
+  {
+    "id": 1073,
+    "question": "A rectangular coil having N turns and measuring 15 cm by 25 cm is rotating in a uniform 1.6-T magnetic field with a frequency of 75 Hz. If the coil develops a sinusoidal emf of maximum value 56.9 V, what is the value of N?",
+    "options": {
+      "a": "2",
+      "b": "4",
+      "c": "6",
+      "d": "8"
+    },
+    "answer": "a",
+    "correct_answer_text": "2",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_028.json"
+  },
+  {
+    "id": 1074,
+    "question": "An LRC series circuit has R=15.0 Ω, L=25.0 mH, and C=30.0 μF. The circuit is connected to a 120-V (rms) ac source with frequency 200 Hz. What is the rms current in the circuit?",
+    "options": {
+      "a": "7.61 A",
+      "b": "8.45 A",
+      "c": "2.56 A",
+      "d": "9.32 A"
+    },
+    "answer": "a",
+    "correct_answer_text": "7.61 A",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_028.json"
+  },
+  {
+    "id": 1075,
+    "question": "An oil layer (n=1.15) spread over water (n=1.33). What is the angle of refraction in the water for a ray of light that has an angle of incidence of 45° as it enters the oil from the air?",
+    "options": {
+      "a": "27°",
+      "b": "32°",
+      "c": "36°",
+      "d": "39°"
+    },
+    "answer": "b",
+    "correct_answer_text": "32°",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_028.json"
+  },
+  {
+    "id": 1076,
+    "question": "An optical fiber made of glass (n=1.50) is coated with a plastic (n=1.30). What is the critical angle of this fiber at the glass-plastic interface?",
+    "options": {
+      "a": "90.0°",
+      "b": "41.8°",
+      "c": "60.1°",
+      "d": "50.2°"
+    },
+    "answer": "c",
+    "correct_answer_text": "60.1°",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_028.json"
+  },
+  {
+    "id": 1077,
+    "question": "A man's face is 30 cm in front of a concave spherical shaving mirror. If the image is erect and 1.5 times as large as his face, what is the radius of curvature of the mirror?",
+    "options": {
+      "a": "40 cm",
+      "b": "60 cm",
+      "c": "100 cm",
+      "d": "180 cm"
+    },
+    "answer": "d",
+    "correct_answer_text": "180 cm",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_028.json"
+  },
+  {
+    "id": 1078,
+    "question": "A convex spherical mirror with a radius of 50 cm has a 4.0 cm tall object placed 100 cm in front of it. What is the position of the image relative to the mirror?",
+    "options": {
+      "a": "20 cm behind the mirror",
+      "b": "25 cm behind the mirror",
+      "c": "100 cm in front of the mirror",
+      "d": "25 cm in front of the mirror"
+    },
+    "answer": "a",
+    "correct_answer_text": "20 cm behind the mirror",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_028.json"
+  },
+  {
+    "id": 1079,
+    "question": "It is desired to project the image of an object four times its actual size using a lens of focal length 20 cm. How far from the lens should the object be placed?",
+    "options": {
+      "a": "100 cm",
+      "b": "80 cm",
+      "c": "4.0 cm",
+      "d": "25 cm"
+    },
+    "answer": "d",
+    "correct_answer_text": "25 cm",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_028.json"
+  },
+  {
+    "id": 1080,
+    "question": "An object is placed 100 cm in front of a lens of focal length 20 cm. A second lens is placed 35 cm beyond the first, this second lens having a focal length of 8.0 cm. If the height of the object is 6.0 cm, what is the height of the final image?",
+    "options": {
+      "a": "1.5 cm",
+      "b": "12 cm",
+      "c": "9.0 cm",
+      "d": "3.0 cm"
+    },
+    "answer": "d",
+    "correct_answer_text": "3.0 cm",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_028.json"
+  },
+  {
+    "id": 1081,
+    "question": "A convex-concave thin lens is made with the radius of curvature of the convex surface being 25.0 cm and the concave surface 45.0 cm. If the glass used has index of refraction 1.50, what is the focal length?",
+    "options": {
+      "a": "-32.0 cm",
+      "b": "32.0 cm",
+      "c": "113 cm",
+      "d": "67.5 cm"
+    },
+    "answer": "c",
+    "correct_answer_text": "113 cm",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_028.json"
+  },
+  {
+    "id": 1082,
+    "question": "A double-concave lens has equal radii of curvature of 15.1 cm. An object placed 14.2 cm from the lens forms a virtual image 5.29 cm from the lens. What is the index of refraction of the lens material?",
+    "options": {
+      "a": "1.90",
+      "b": "1.98",
+      "c": "1.82",
+      "d": "1.77"
+    },
+    "answer": "c",
+    "correct_answer_text": "1.82",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_028.json"
+  },
+  {
+    "id": 1083,
+    "question": "A solid cylinder of radius 0.35 m is released from rest from a height of 1.8 m and rolls down the incline. What is the angular speed of the cylinder when it reaches the horizontal surface?",
+    "options": {
+      "a": "3.2 rad/s",
+      "b": "34 rad/s",
+      "c": "14 rad/s",
+      "d": "67 rad/s"
+    },
+    "answer": "c",
+    "correct_answer_text": "14 rad/s",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_028.json"
+  },
+  {
+    "id": 1084,
+    "question": "Planets A and B are uniform solid spheres. B has twice the mass and three times the radius of A, but each planet has the same rotational kinetic energy. What is the ratio of their angular speeds?",
+    "options": {
+      "a": "0.055",
+      "b": "0.165",
+      "c": "0.236",
+      "d": "0.093"
+    },
+    "answer": "c",
+    "correct_answer_text": "0.236",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_028.json"
+  },
+  {
+    "id": 1085,
+    "question": "A vertical block-spring system on earth has a period of 6.0 s. What is the period of this same system on the moon where gravity is 1/6 that of earth?",
+    "options": {
+      "a": "1.0 s",
+      "b": "6.0 s",
+      "c": "36 s",
+      "d": "2.4 s"
+    },
+    "answer": "b",
+    "correct_answer_text": "6.0 s",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_028.json"
+  },
+  {
+    "id": 1086,
+    "question": "An open ended organ pipe is 3.6m long. What note could be played as the third harmonic on that pipe? (Speed of sound = 346 m/s)",
+    "options": {
+      "a": "144 Hz",
+      "b": "162 Hz",
+      "c": "200 Hz",
+      "d": "90 Hz"
+    },
+    "answer": "a",
+    "correct_answer_text": "144 Hz",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_028.json"
+  },
+  {
+    "id": 1087,
+    "question": "If the pulley shown is free to move through the guide wire, what force P is required in order to hold the 10-lb weight in position?",
+    "options": {
+      "a": "3.25 lb",
+      "b": "6.78 lb",
+      "c": "2.05 lb",
+      "d": "4.56 lb"
+    },
+    "answer": "d",
+    "correct_answer_text": "4.56 lb",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_028.json"
+  },
+  {
+    "id": 1088,
+    "question": "Given the vector P = i + yj - 3k and Q = 4i + 3j, what is the value of y such that the cross product between P and Q is 9i - 12j?",
+    "options": {
+      "a": "2/3",
+      "b": "1/2",
+      "c": "3/4",
+      "d": "7/4"
+    },
+    "answer": "c",
+    "correct_answer_text": "3/4",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_028.json"
+  },
+  {
+    "id": 1089,
+    "question": "Given the force P = 32.4i - 29.3j + 9.9k lb. Find the moment of P about a line through the points (0, -1, 3) and (3, 1, 1) units in feet.",
+    "options": {
+      "a": "-45.3",
+      "b": "+76.2",
+      "c": "-88.2",
+      "d": "+43.9"
+    },
+    "answer": "d",
+    "correct_answer_text": "+43.9",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_028.json"
+  },
+  {
+    "id": 1090,
+    "question": "What is the resultant of the three couples: +16 Nm, -45 Nm, and +120 Nm?",
+    "options": {
+      "a": "-129",
+      "b": "+1.32",
+      "c": "+129",
+      "d": "-13"
+    },
+    "answer": "c",
+    "correct_answer_text": "+129",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_029.json"
+  },
+  {
+    "id": 1091,
+    "question": "What is the resultant of the forces originating from point (3, -3) and passing through the points indicated: 126N through (8, 6), 183 N through (2, -5) and 269 N through (-6, 3)?",
+    "options": {
+      "a": "263 N",
+      "b": "145 N",
+      "c": "452 N",
+      "d": "323 N"
+    },
+    "answer": "a",
+    "correct_answer_text": "263 N",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_029.json"
+  },
+  {
+    "id": 1092,
+    "question": "Six weights, 30, 20, 40, 25, 10 and 35 N hang on one horizontal support at distances 2, 3, 7, 10 and 12 m, respectively from a wall. What is the distance from the wall of the single force that can replace these six?",
+    "options": {
+      "a": "5.78 m",
+      "b": "4.62 m",
+      "c": "6.34 m",
+      "d": "5.23 m"
+    },
+    "answer": "c",
+    "correct_answer_text": "6.34 m",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_029.json"
+  },
+  {
+    "id": 1093,
+    "question": "Three concurrent forces have magnitudes 40, 60 and 50 N. Determine the largest angle between the forces in order to establish equilibrium.",
+    "options": {
+      "a": "97°",
+      "b": "156°",
+      "c": "135°",
+      "d": "104°"
+    },
+    "answer": "c",
+    "correct_answer_text": "135°",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_029.json"
+  },
+  {
+    "id": 1094,
+    "question": "Supposing that three spheres each 2-kg mass and 350 mm diameter rests on a box 760 mm wide. What is the reaction of the wall on C?",
+    "options": {
+      "a": "10 N",
+      "b": "7 N",
+      "c": "8 N",
+      "d": "5 N"
+    },
+    "answer": "c",
+    "correct_answer_text": "8 N",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_029.json"
+  },
+  {
+    "id": 1095,
+    "question": "For the system with a 160 lb weight, determine the tension on the wire.",
+    "options": {
+      "a": "160 lb",
+      "b": "140 lb",
+      "c": "240 lb",
+      "d": "190 lb"
+    },
+    "answer": "c",
+    "correct_answer_text": "240 lb",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_029.json"
+  },
+  {
+    "id": 1096,
+    "question": "What horizontal force is necessary to start a 20-kg wheel of 1-m diameter over a block 150 mm high?",
+    "options": {
+      "a": "200 N",
+      "b": "300 N",
+      "c": "400 N",
+      "d": "500 N"
+    },
+    "answer": "c",
+    "correct_answer_text": "400 N",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_029.json"
+  },
+  {
+    "id": 1097,
+    "question": "A 12-ft beam is simply supported at its ends. The beam supports a uniform load of 200 lb/ft throughout its length and an applied clockwise couple of 2000 lb-ft at its center. Determine the reaction in one of the beam ends.",
+    "options": {
+      "a": "1782 lb",
+      "b": "1367 lb",
+      "c": "1983 lb",
+      "d": "2313 lb"
+    },
+    "answer": "b",
+    "correct_answer_text": "1367 lb",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_029.json"
+  },
+  {
+    "id": 1098,
+    "question": "For the Howe truss shown, what is the force on member AB?",
+    "options": {
+      "a": "25 kN",
+      "b": "70 kN",
+      "c": "30 kN",
+      "d": "20 kN"
+    },
+    "answer": "a",
+    "correct_answer_text": "25 kN",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_029.json"
+  },
+  {
+    "id": 1099,
+    "question": "For the Howe truss shown, what is the force on member CD?",
+    "options": {
+      "a": "12.5 kN",
+      "b": "13.5 kN",
+      "c": "12 kN",
+      "d": "11 kN"
+    },
+    "answer": "a",
+    "correct_answer_text": "12.5 kN",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_029.json"
+  },
+  {
+    "id": 1100,
+    "question": "For the Howe truss shown, what is the force on member EF?",
+    "options": {
+      "a": "24 kN",
+      "b": "30 kN",
+      "c": "22.5 kN",
+      "d": "35 kN"
+    },
+    "answer": "c",
+    "correct_answer_text": "22.5 kN",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_029.json"
+  },
+  {
+    "id": 1101,
+    "question": "A stone is thrown vertically upward and returns to earth in 10 sec. What was its initial velocity?",
+    "options": {
+      "a": "161 ft/s",
+      "b": "180 ft/s",
+      "c": "132 ft/s",
+      "d": "104 ft/s"
+    },
+    "answer": "a",
+    "correct_answer_text": "161 ft/s",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_029.json"
+  },
+  {
+    "id": 1102,
+    "question": "A coin is dropped down a well and 5 sec later, the sound of the splash is heard. If the velocity of sound is 1120 ft/sec, what is the depth of the well?",
+    "options": {
+      "a": "353 ft",
+      "b": "249 ft",
+      "c": "450 ft",
+      "d": "408 ft"
+    },
+    "answer": "a",
+    "correct_answer_text": "353 ft",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_029.json"
+  },
+  {
+    "id": 1103,
+    "question": "A ball is shot vertically into the air at a velocity of 193.2 ft per sec. After 4 sec, another ball is shot vertically into the air. What initial velocity must the second ball have in order to meet the first ball 386.4 ft from the ground?",
+    "options": {
+      "a": "158.7",
+      "b": "167.8",
+      "c": "132.0",
+      "d": "123.5"
+    },
+    "answer": "b",
+    "correct_answer_text": "167.8",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_029.json"
+  },
+  {
+    "id": 1104,
+    "question": "A ball is fired up an inclined plane (30° from horizontal) at 15 m/s. If the ball was fired at 30° from the incline, compute the maximum height z measured perpendicular to the incline.",
+    "options": {
+      "a": "3.31 m",
+      "b": "1.34 m",
+      "c": "4.56 m",
+      "d": "2.56 m"
+    },
+    "answer": "d",
+    "correct_answer_text": "2.56 m",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_029.json"
+  },
+  {
+    "id": 1105,
+    "question": "A bullet is fired at 150 m/s and 56° at the top of a 120 m tall building. Neglecting air resistance, determine the velocity with which the bullet will hit the ground.",
+    "options": {
+      "a": "158 m/s",
+      "b": "123 m/s",
+      "c": "210 m/s",
+      "d": "95 m/s"
+    },
+    "answer": "a",
+    "correct_answer_text": "158 m/s",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_029.json"
+  },
+  {
+    "id": 1106,
+    "question": "The 5000 kg final stage of a spaceship ejects the 10000 kg second stage. Before ejection, they travel at 200 m/s. If the second stage travels at 50 m/s opposite its initial motion after ejection, what is the velocity of the final stage?",
+    "options": {
+      "a": "600 m/s",
+      "b": "800 m/s",
+      "c": "700 m/s",
+      "d": "900 m/s"
+    },
+    "answer": "c",
+    "correct_answer_text": "700 m/s",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_029.json"
+  },
+  {
+    "id": 1107,
+    "question": "A car can safely make a turn at 50 kph on a dry day (friction = 1.0). What is the maximum velocity on a rainy day when the coefficient of friction is 0.7?",
+    "options": {
+      "a": "35 kph",
+      "b": "37.5 kph",
+      "c": "40 kph",
+      "d": "42 kph"
+    },
+    "answer": "d",
+    "correct_answer_text": "42 kph",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_029.json"
+  },
+  {
+    "id": 1108,
+    "question": "A truck traveling at constant velocity passes a parked police car. The police car chases immediately, accelerating to 80 kph in 10 seconds, then maintaining that speed. If the police car overtakes the truck in 0.5 km, what is the constant speed of the truck?",
+    "options": {
+      "a": "50 kph",
+      "b": "55.4 kph",
+      "c": "60 kph",
+      "d": "65.4 kph"
+    },
+    "answer": "d",
+    "correct_answer_text": "65.4 kph",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_029.json"
+  },
+  {
+    "id": 1109,
+    "question": "The motion of a particle is defined by s = t^4 - 3t^3 + 2t^2 - 8. Determine the acceleration when t = 2 seconds.",
+    "options": {
+      "a": "12 m/s^2",
+      "b": "14 m/s^2",
+      "c": "16 m/s^2",
+      "d": "18 m/s^2"
+    },
+    "answer": "d",
+    "correct_answer_text": "18 m/s^2",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_029.json"
+  },
+  {
+    "id": 1110,
+    "question": "A stone is dropped from a balloon at 1000 ft. Two seconds later, another stone is thrown upward from the ground at 248 ft/s. When will the stones pass each other?",
+    "options": {
+      "a": "3 sec",
+      "b": "5 sec",
+      "c": "6 sec",
+      "d": "8 sec"
+    },
+    "answer": "b",
+    "correct_answer_text": "5 sec",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_030.json"
+  },
+  {
+    "id": 1111,
+    "question": "A ball is dropped from an 80 ft tower at the same instant a second ball is thrown upward from the ground at 40 ft/sec. When do they pass each other?",
+    "options": {
+      "a": "1 s",
+      "b": "2 s",
+      "c": "3 s",
+      "d": "4 s"
+    },
+    "answer": "b",
+    "correct_answer_text": "2 s",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_030.json"
+  },
+  {
+    "id": 1112,
+    "question": "The wheels of an automobile are locked as it slides to a stop from 30.0 m/s. If the coefficient of kinetic friction is 0.200, approximately how long does it take the car to stop?",
+    "options": {
+      "a": "6.00 s",
+      "b": "15.3 s",
+      "c": "30.0 s",
+      "d": "7.57 s"
+    },
+    "answer": "b",
+    "correct_answer_text": "15.3 s",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_030.json"
+  },
+  {
+    "id": 1113,
+    "question": "A boy pulls a sled (5.0 kg) with a rope at 60.0° from horizontal with a force of 10.0 N. If the sled moves with constant velocity, what is the coefficient of friction?",
+    "options": {
+      "a": "0.10",
+      "b": "0.18",
+      "c": "1.0",
+      "d": "0.12"
+    },
+    "answer": "d",
+    "correct_answer_text": "0.12",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_030.json"
+  },
+  {
+    "id": 1114,
+    "question": "Two boxes are connected by a pulley. Box A is on a frictionless table (3 kg), box B is hanging (1 kg). If released from rest and box B falls 1.00 m, what is the kinetic energy of box B just before it hits the floor?",
+    "options": {
+      "a": "2.45 J",
+      "b": "29.4 J",
+      "c": "4.90 J",
+      "d": "39.2 J"
+    },
+    "answer": "a",
+    "correct_answer_text": "2.45 J",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_030.json"
+  },
+  {
+    "id": 1115,
+    "question": "A 0.25-kg ball on a string rotates in a horizontal circle of radius 0.5 m. If it revolves twice every second, what is the tension in the string?",
+    "options": {
+      "a": "2 N",
+      "b": "7 N",
+      "c": "20 N",
+      "d": "10 N"
+    },
+    "answer": "c",
+    "correct_answer_text": "20 N",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_030.json"
+  },
+  {
+    "id": 1116,
+    "question": "A car enters a curved unbanked roadbed of radius 50 m. If the coefficient of static friction is 0.20, what is the maximum safe speed?",
+    "options": {
+      "a": "5 m/s",
+      "b": "20 m/s",
+      "c": "100 m/s",
+      "d": "10 m/s"
+    },
+    "answer": "d",
+    "correct_answer_text": "10 m/s",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_030.json"
+  },
+  {
+    "id": 1117,
+    "question": "A 1000 lb block is pulled up a 2-degree incline by a constant force of 600 lbs. If friction is 0.5, how fast will the block move 10 seconds after pull is applied?",
+    "options": {
+      "a": "12.4 mph",
+      "b": "17.3 mph",
+      "c": "10.2 mph",
+      "d": "14.3 mph"
+    },
+    "answer": "d",
+    "correct_answer_text": "14.3 mph",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_030.json"
+  },
+  {
+    "id": 1118,
+    "question": "If the sun radiates energy at the rate of 4x10^26 J/s, what is the rate at which its mass is decreasing?",
+    "options": {
+      "a": "5.54 x 10^9 kg/s",
+      "b": "4.44 x 10^9 kg/s",
+      "c": "3.44 x 10^9 kg/s",
+      "d": "2.44 x 10^9 kg/s"
+    },
+    "answer": "b",
+    "correct_answer_text": "4.44 x 10^9 kg/s",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_030.json"
+  },
+  {
+    "id": 1119,
+    "question": "A man who weighs 60 kg on earth weighs 61 kg on a rocket as measured by an observer on earth. What is the speed of the rocket?",
+    "options": {
+      "a": "2.5 x 10^8 m/s",
+      "b": "2.5 x 10^7 m/s",
+      "c": "5.5 x 10^7 m/s",
+      "d": "5.5 x 10^8 m/s"
+    },
+    "answer": "c",
+    "correct_answer_text": "5.5 x 10^7 m/s",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_030.json"
+  },
+  {
+    "id": 1120,
+    "question": "A 10-kg block is set moving at 6 m/s on a rough surface. If the force of friction is 20 N, how far does it travel before stopping?",
+    "options": {
+      "a": "1.5 m",
+      "b": "6 m",
+      "c": "18 m",
+      "d": "9 m"
+    },
+    "answer": "d",
+    "correct_answer_text": "9 m",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_030.json"
+  },
+  {
+    "id": 1121,
+    "question": "A 2.0-N force acts horizontally on a 10-N block initially at rest. If static friction is 0.50, what is the magnitude of the frictional force acting on the block?",
+    "options": {
+      "a": "0 N",
+      "b": "5 N",
+      "c": "2 N",
+      "d": "8 N"
+    },
+    "answer": "c",
+    "correct_answer_text": "2 N",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_030.json"
+  },
+  {
+    "id": 1122,
+    "question": "An automobile locks brakes 50 m from a barrier while traveling at 20 m/s. What minimum coefficient of kinetic friction is required to stop before hitting the barrier?",
+    "options": {
+      "a": "0.4",
+      "b": "0.6",
+      "c": "0.8",
+      "d": "0.5"
+    },
+    "answer": "a",
+    "correct_answer_text": "0.4",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_030.json"
+  },
+  {
+    "id": 1123,
+    "question": "What should the banking angle be for an indoor track with radius 24 m for a person running at 6.0 m/s?",
+    "options": {
+      "a": "8.7°",
+      "b": "14°",
+      "c": "45°",
+      "d": "11°"
+    },
+    "answer": "a",
+    "correct_answer_text": "8.7°",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_030.json"
+  },
+  {
+    "id": 1124,
+    "question": "A circular bar 40 mm diameter carries an axial tensile load of 105 kN. What is the value of shear stress on planes where normal stress is 50 MN/m2?",
+    "options": {
+      "a": "41 MPa",
+      "b": "56 MPa",
+      "c": "21 MPa",
+      "d": "89 MPa"
+    },
+    "answer": "c",
+    "correct_answer_text": "21 MPa",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_030.json"
+  },
+  {
+    "id": 1125,
+    "question": "Find the polar moment of inertia of a rectangle (base 4 cm, altitude 3 cm) with respect to its centroid.",
+    "options": {
+      "a": "9 cm^4",
+      "b": "12.5 cm^4",
+      "c": "16 cm^4",
+      "d": "25 cm^4"
+    },
+    "answer": "b",
+    "correct_answer_text": "12.5 cm^4",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_030.json"
+  },
+  {
+    "id": 1126,
+    "question": "What is the minimum diameter of a solid steel shaft that will not twist more than 3 degrees in a 6 m length under a torque of 12 kN-m? (G = 83 GPa)",
+    "options": {
+      "a": "114 mm",
+      "b": "116 mm",
+      "c": "118 mm",
+      "d": "120 mm"
+    },
+    "answer": "c",
+    "correct_answer_text": "118 mm",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_030.json"
+  },
+  {
+    "id": 1127,
+    "question": "A hole is punched in a plate with shearing strength of 40 ksi. Compressive stress in punch is limited to 50 ksi. Compute max thickness for a 2.5 inch hole.",
+    "options": {
+      "a": "0.500 in",
+      "b": "0.781 in",
+      "c": "0.102 in",
+      "d": "0.204 in"
+    },
+    "answer": "b",
+    "correct_answer_text": "0.781 in",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_030.json"
+  },
+  {
+    "id": 1128,
+    "question": "In a test, stress of 62 MPa gave deformation of 160x10^-6 m/m and stress of 150 MPa gave 600x10^-6 m/m. What is the modulus of elasticity?",
+    "options": {
+      "a": "180 GPa",
+      "b": "200 GPa",
+      "c": "190 GPa",
+      "d": "210 GPa"
+    },
+    "answer": "b",
+    "correct_answer_text": "200 GPa",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_030.json"
+  },
+  {
+    "id": 1129,
+    "question": "A gasoline tank (30 m diameter, 18 m height) is filled to 15 m (SG = 0.74). If yield point is 250 MPa and safety factor is 2.5, calculate required wall thickness.",
+    "options": {
+      "a": "16.3 mm",
+      "b": "20 mm",
+      "c": "22.5 mm",
+      "d": "24.7 mm"
+    },
+    "answer": "a",
+    "correct_answer_text": "16.3 mm",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_030.json"
+  },
+  {
+    "id": 1130,
+    "question": "A coupling has 6x20mm bolts on a 400mm circle and 4x16mm bolts on a 300mm circle. Determine torque capacity if allowable shear stress is 40 MPa.",
+    "options": {
+      "a": "13.8 kN-m",
+      "b": "15.5 kN-m",
+      "c": "16.2 kN-m",
+      "d": "18.7 kN-m"
+    },
+    "answer": "b",
+    "correct_answer_text": "15.5 kN-m",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_031.json"
+  },
+  {
+    "id": 1131,
+    "question": "A 3 m cantilever beam carries 35 kN at its free end. Max bending stress is 125 MPa. Determine required diameter for a circular bar.",
+    "options": {
+      "a": "125 mm",
+      "b": "165 mm",
+      "c": "205 mm",
+      "d": "245 mm"
+    },
+    "answer": "c",
+    "correct_answer_text": "205 mm",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_031.json"
+  },
+  {
+    "id": 1132,
+    "question": "A 3 m simply supported beam carries 10 kN/m throughout. Cross-section is 75 mm x 150 mm. Determine max bending stress.",
+    "options": {
+      "a": "30 MPa",
+      "b": "40 MPa",
+      "c": "50 MPa",
+      "d": "60 MPa"
+    },
+    "answer": "b",
+    "correct_answer_text": "40 MPa",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_031.json"
+  },
+  {
+    "id": 1133,
+    "question": "A 5m reinforced concrete column (400x400 mm) has 4x20mm steel bars and carries 1000 kN. What is the deformation? (E steel = 200 GPa, E concrete = 15 GPa)",
+    "options": {
+      "a": "1.9 mm",
+      "b": "2.2 mm",
+      "c": "2.5 mm",
+      "d": "2.8 mm"
+    },
+    "answer": "c",
+    "correct_answer_text": "2.5 mm",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_031.json"
+  },
+  {
+    "id": 1134,
+    "question": "What power would a spindle 55 mm in diameter transmit at 480 rpm if allowable stress is 59 MPa?",
+    "options": {
+      "a": "39.21 kW",
+      "b": "42.12 kW",
+      "c": "50.61 kW",
+      "d": "96.88 kW"
+    },
+    "answer": "c",
+    "correct_answer_text": "50.61 kW",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_031.json"
+  },
+  {
+    "id": 1135,
+    "question": "A circular shaft transmits 200 kW at 1.5 rps. Allowable shear stress is 42 MPa. Find required diameter.",
+    "options": {
+      "a": "137 mm",
+      "b": "150 mm",
+      "c": "173 mm",
+      "d": "200 mm"
+    },
+    "answer": "a",
+    "correct_answer_text": "137 mm",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_031.json"
+  },
+  {
+    "id": 1136,
+    "question": "Three equal wheel loads of 30 kN each, separated by 2 m, roll as a unit across a 12 m span. Determine maximum shear.",
+    "options": {
+      "a": "45 kN",
+      "b": "55 kN",
+      "c": "65 kN",
+      "d": "75 kN"
+    },
+    "answer": "d",
+    "correct_answer_text": "75 kN",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_031.json"
+  },
+  {
+    "id": 1137,
+    "question": "A 5 m simply supported beam carries 40 kN/m and a concentrated 50 kN load at midspan. What is the maximum moment?",
+    "options": {
+      "a": "187.5 kN-m",
+      "b": "218.75 kN-m",
+      "c": "312.5 kN-m",
+      "d": "375 kN-m"
+    },
+    "answer": "a",
+    "correct_answer_text": "187.5 kN-m",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_031.json"
+  },
+  {
+    "id": 1138,
+    "question": "Determine max torque for a hollow circular shaft (80mm OD, 50mm ID) without exceeding 70 MPa shear stress or 1 degree/m twist. (G = 83 GPa)",
+    "options": {
+      "a": "2982 N-m",
+      "b": "3964 N-m",
+      "c": "4936 N-m",
+      "d": "5963 N-m"
+    },
+    "answer": "b",
+    "correct_answer_text": "3964 N-m",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_031.json"
+  },
+  {
+    "id": 1139,
+    "question": "A helical spring (25mm wire, index 8) has 40mm elongation limit. Find required turns and max load if allowable shear is 100 MPa. (G = 80 GPa)",
+    "options": {
+      "a": "7 turns",
+      "b": "4 turns",
+      "c": "8 turns",
+      "d": "10 turns"
+    },
+    "answer": "c",
+    "correct_answer_text": "8 turns",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_031.json"
+  },
+  {
+    "id": 1140,
+    "question": "A 50 kN wagon at 8 kph must be stopped with 180mm compression. Springs use 25mm wire, 250mm mean diameter, and 24 turns. How many are required? (G = 84 GPa)",
+    "options": {
+      "a": "57",
+      "b": "70",
+      "c": "40",
+      "d": "89"
+    },
+    "answer": "b",
+    "correct_answer_text": "70",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_031.json"
+  },
+  {
+    "id": 1141,
+    "question": "A 6 m simply supported beam carries 5000 N at center and a triangular load (0 to 7500 N/m). Find reaction at right support.",
+    "options": {
+      "a": "10,000 N",
+      "b": "12,500 N",
+      "c": "17,500 N",
+      "d": "25,000 N"
+    },
+    "answer": "a",
+    "correct_answer_text": "10,000 N",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_031.json"
+  },
+  {
+    "id": 1142,
+    "question": "Based on a tension test (dia 0.505in, gage 2.0in), find Modulus of Elasticity from provided load/elongation data.",
+    "options": {
+      "a": "10,529.86 ksi",
+      "b": "8,784.43 ksi",
+      "c": "14,567.43 ksi",
+      "d": "34,621.85 ksi"
+    },
+    "answer": "a",
+    "correct_answer_text": "10,529.86 ksi",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_031.json"
+  },
+  {
+    "id": 1143,
+    "question": "Based on the tension test data, find yield strength at 0.2% offset.",
+    "options": {
+      "a": "64,711.69 psi",
+      "b": "51,678.75 psi",
+      "c": "73,890.58 psi",
+      "d": "94,392.75 psi"
+    },
+    "answer": "a",
+    "correct_answer_text": "64,711.69 psi",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_031.json"
+  },
+  {
+    "id": 1144,
+    "question": "Based on the tension test data, find ultimate strength.",
+    "options": {
+      "a": "64,711.69 psi",
+      "b": "51,678.75 psi",
+      "c": "73,890.58 psi",
+      "d": "94,392.75 psi"
+    },
+    "answer": "c",
+    "correct_answer_text": "73,890.58 psi",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_031.json"
+  },
+  {
+    "id": 1145,
+    "question": "A 10-m cantilever beam has a uniform load of 2.5 kN/m. Find max deflection. (EI = 11,000 kN-m2)",
+    "options": {
+      "a": "423.45 mm",
+      "b": "323.45 mm",
+      "c": "198.23 mm",
+      "d": "284.10 mm"
+    },
+    "answer": "d",
+    "correct_answer_text": "284.10 mm",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_031.json"
+  },
+  {
+    "id": 1146,
+    "question": "A steel cylinder (1m diameter) carries fluid at 10 N/mm2. Calculate wall thickness if tensile stress cannot exceed 100 MPa.",
+    "options": {
+      "a": "50 mm",
+      "b": "60 mm",
+      "c": "20 mm",
+      "d": "30 mm"
+    },
+    "answer": "a",
+    "correct_answer_text": "50 mm",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_031.json"
+  },
+  {
+    "id": 1147,
+    "question": "A steam boiler (1.2m diameter) operates at 0.7 N/mm2. Riveted joint efficiency is 75%. Find shell thickness if UTS = 385 MPa and FS = 5.",
+    "options": {
+      "a": "7.3 mm",
+      "b": "5.6 mm",
+      "c": "8.6 mm",
+      "d": "10.4 mm"
+    },
+    "answer": "a",
+    "correct_answer_text": "7.3 mm",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_031.json"
+  },
+  {
+    "id": 1148,
+    "question": "A 10m simply supported beam with uniform load of 3 kN/m has a maximum deflection of? (EI = 12,000 kN-m2)",
+    "options": {
+      "a": "43.23 mm",
+      "b": "54.23 mm",
+      "c": "32.55 mm",
+      "d": "36.45 mm"
+    },
+    "answer": "b",
+    "correct_answer_text": "54.23 mm",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_031.json"
+  },
+  {
+    "id": 1149,
+    "question": "A thin cylinder (1m internal diameter) is at 2.75 N/mm2. Joint efficiency is 79%. Calculate plate thickness if tensile stress cannot exceed 88 MPa.",
+    "options": {
+      "a": "20 mm",
+      "b": "30 mm",
+      "c": "10 mm",
+      "d": "50 mm"
+    },
+    "answer": "a",
+    "correct_answer_text": "20 mm",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_031.json"
+  },
+  {
+    "id": 1150,
+    "question": "A spherical shell (800 mm diameter) is at 2 N/mm2. Find required thickness if safe stress cannot exceed 100 MPa.",
+    "options": {
+      "a": "4 mm",
+      "b": "3 mm",
+      "c": "2 mm",
+      "d": "5 mm"
+    },
+    "answer": "a",
+    "correct_answer_text": "4 mm",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_032.json"
+  },
+  {
+    "id": 1151,
+    "question": "A simple pendulum has a period of 2.0 s. What is the pendulum length? (g = 9.8 m/s^2)",
+    "options": {
+      "a": "0.36 m",
+      "b": "0.78 m",
+      "c": "0.99 m",
+      "d": "2.4 m"
+    },
+    "answer": "c",
+    "correct_answer_text": "0.99 m",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_032.json"
+  },
+  {
+    "id": 1152,
+    "question": "A 2.0-m long piano string of mass 10 g is under a tension of 338 N. Find the speed with which a wave travels on this string.",
+    "options": {
+      "a": "130 m/s",
+      "b": "260 m/s",
+      "c": "520 m/s",
+      "d": "1040 m/s"
+    },
+    "answer": "b",
+    "correct_answer_text": "260 m/s",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_032.json"
+  },
+  {
+    "id": 1153,
+    "question": "The frequency separating audible waves and ultrasonic waves is considered to be 20 kHz. What wavelength in air at room temperature is associated with this frequency?",
+    "options": {
+      "a": "1.7 cm",
+      "b": "5.2 cm",
+      "c": "34 cm",
+      "d": "55 cm"
+    },
+    "answer": "a",
+    "correct_answer_text": "1.7 cm",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_032.json"
+  },
+  {
+    "id": 1154,
+    "question": "Tripling the power output from a speaker emitting a single frequency will result in what increase in loudness?",
+    "options": {
+      "a": "0.33 dB",
+      "b": "3.0 dB",
+      "c": "4.8 dB",
+      "d": "9.0 dB"
+    },
+    "answer": "c",
+    "correct_answer_text": "4.8 dB",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_032.json"
+  },
+  {
+    "id": 1155,
+    "question": "In the afternoon, the decibel level of a busy freeway is 80 dB with 100 cars passing a given point every minute. Late at night, the traffic flow is only 5 cars per minute. What is the late-night decibel level?",
+    "options": {
+      "a": "77 dB",
+      "b": "74 dB",
+      "c": "70 dB",
+      "d": "68 dB"
+    },
+    "answer": "d",
+    "correct_answer_text": "68 dB",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_032.json"
+  },
+  {
+    "id": 1156,
+    "question": "A sound source of frequency 1000 Hz moves at 50.0 m/s toward a listener who is at rest. What is the apparent frequency heard by the listener?",
+    "options": {
+      "a": "853 Hz",
+      "b": "872 Hz",
+      "c": "1150 Hz",
+      "d": "1170 Hz"
+    },
+    "answer": "d",
+    "correct_answer_text": "1170 Hz",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_032.json"
+  },
+  {
+    "id": 1157,
+    "question": "If a guitar string has a fundamental frequency of 500 Hz, what is the frequency of its second overtone?",
+    "options": {
+      "a": "250 Hz",
+      "b": "750 Hz",
+      "c": "1000 Hz",
+      "d": "1500 Hz"
+    },
+    "answer": "d",
+    "correct_answer_text": "1500 Hz",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_032.json"
+  },
+  {
+    "id": 1158,
+    "question": "If two adjacent frequencies of an organ pipe closed at one end are 550 Hz and 650 Hz, what is the length of the organ pipe?",
+    "options": {
+      "a": "0.85 m",
+      "b": "1.25 m",
+      "c": "1.50 m",
+      "d": "1.70 m"
+    },
+    "answer": "d",
+    "correct_answer_text": "1.70 m",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_032.json"
+  },
+  {
+    "id": 1159,
+    "question": "Leandro Conti pours carbon tetrachloride (n=1.46) into a container made of crown glass (n=1.52). The light ray in glass incident on the glass-to-liquid boundary makes an angle of 30° with the normal. Find the angle of the corresponding refracted ray.",
+    "options": {
+      "a": "55.5°",
+      "b": "29.4°",
+      "c": "31.4°",
+      "d": "19.2°"
+    },
+    "answer": "c",
+    "correct_answer_text": "31.4°",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_032.json"
+  },
+  {
+    "id": 1160,
+    "question": "A ray of light travels across a liquid-to-glass interface. If the indices of refraction for the liquid and glass are, respectively, 1.75 and 1.52, what is the critical angle at this interface?",
+    "options": {
+      "a": "30.0°",
+      "b": "52.2°",
+      "c": "60.3°",
+      "d": "Critical angle does not exist."
+    },
+    "answer": "c",
+    "correct_answer_text": "60.3°",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_032.json"
+  },
+  {
+    "id": 1161,
+    "question": "A convex mirror with focal length of 20 cm forms an image 12 cm behind the surface. Where is the object located as measured from the surface?",
+    "options": {
+      "a": "7.5 cm",
+      "b": "15 cm",
+      "c": "22 cm",
+      "d": "30 cm"
+    },
+    "answer": "d",
+    "correct_answer_text": "30 cm",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_032.json"
+  },
+  {
+    "id": 1162,
+    "question": "An object placed 12 cm from a concave mirror produces a real image 8.0 cm from the mirror. If the object is now moved to a new position 18.0 cm from the mirror, where is the new image located as measured from the mirror?",
+    "options": {
+      "a": "3.0 cm",
+      "b": "6.5 cm",
+      "c": "9.2 cm",
+      "d": "14.6 cm"
+    },
+    "answer": "b",
+    "correct_answer_text": "6.5 cm",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_032.json"
+  },
+  {
+    "id": 1163,
+    "question": "An object is placed at a distance of 30 cm from a thin convex lens along its axis. The lens has a focal length of 10 cm. What are the values, respectively, of the image distance and magnification?",
+    "options": {
+      "a": "60 cm and 2.0",
+      "b": "15 cm and 2.0",
+      "c": "60 cm and -0.50",
+      "d": "15 cm and -0.50"
+    },
+    "answer": "d",
+    "correct_answer_text": "15 cm and -0.50",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_032.json"
+  },
+  {
+    "id": 1164,
+    "question": "A converging lens with two convex surfaces has a front surface with radius of curvature of 10.0 cm, the back surface has radius of curvature of 20.0 cm, and it is made from material with an index of refraction of 2.50. What is the focal length of the lens?",
+    "options": {
+      "a": "4.44 cm",
+      "b": "13.3 cm",
+      "c": "-13.3 cm",
+      "d": "0.250 cm"
+    },
+    "answer": "a",
+    "correct_answer_text": "4.44 cm",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_032.json"
+  },
+  {
+    "id": 1165,
+    "question": "For a converging lens with two curved surfaces, the radius of curvature for both surfaces is 10 cm. If the focal length is 10 cm, what must the index of refraction be?",
+    "options": {
+      "a": "1.5",
+      "b": "2.0",
+      "c": "2.5",
+      "d": "3.0"
+    },
+    "answer": "a",
+    "correct_answer_text": "1.5",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_032.json"
+  },
+  {
+    "id": 1166,
+    "question": "A convex mirror in an amusement park has a radius of curvature of 3.00 m. A man stands in front of the mirror so that his image is half as tall as his actual height. At what distance must the man focus his eyes in order to see his image?",
+    "options": {
+      "a": "2.25 m",
+      "b": "4.50 m",
+      "c": "6.75 m",
+      "d": "3.00 m",
+      "e": "5.00 m"
+    },
+    "answer": "a",
+    "correct_answer_text": "2.25 m",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_032.json"
+  },
+  {
+    "id": 1167,
+    "question": "A spherical concave mirror has a radius of curvature of 6.0 cm. At what distance from the mirror should a 6.0-cm object be placed to obtain an image that is 48 cm tall?",
+    "options": {
+      "a": "1.3 cm",
+      "b": "4.2 cm",
+      "c": "6.8 cm",
+      "d": "3.6 cm",
+      "e": "5.3 cm"
+    },
+    "answer": "d",
+    "correct_answer_text": "3.6 cm",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_032.json"
+  },
+  {
+    "id": 1168,
+    "question": "A scuba diver shines a flashlight from beneath the surface of water (n=1.33) such that the light strikes the water-air boundary with an angle of incidence of 43°. At what angle is the beam refracted?",
+    "options": {
+      "a": "31°",
+      "b": "48°",
+      "c": "90°",
+      "d": "43°",
+      "e": "65°"
+    },
+    "answer": "e",
+    "correct_answer_text": "65°",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_032.json"
+  },
+  {
+    "id": 1169,
+    "question": "A 2.00-cm tall object is placed 40.0 cm from a lens. The resulting image is 8.00-cm tall and upright relative to the object. Determine the focal length of the lens.",
+    "options": {
+      "a": "26.6 cm",
+      "b": "53.3 cm",
+      "c": "80.0 cm",
+      "d": "32.0 cm",
+      "e": "64.0 cm"
+    },
+    "answer": "b",
+    "correct_answer_text": "53.3 cm",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_032.json"
+  },
+  {
+    "id": 1170,
+    "question": "A diverging lens has a focal length of 10 cm. A 3-cm object is placed 25 cm from the lens. Which pair of terms most accurately describes the image?",
+    "options": {
+      "a": "real, upright",
+      "b": "real, inverted",
+      "c": "real, reduced",
+      "d": "virtual, upright",
+      "e": "virtual, inverted"
+    },
+    "answer": "d",
+    "correct_answer_text": "virtual, upright",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_033.json"
+  },
+  {
+    "id": 1171,
+    "question": "Ansel places an object 30 cm from a thin convex lens along the axis. If a real image forms at a distance of 10 cm from the lens, what is the focal length of the lens?",
+    "options": {
+      "a": "30 cm",
+      "b": "15 cm",
+      "c": "10 cm",
+      "d": "7.5 cm"
+    },
+    "answer": "d",
+    "correct_answer_text": "7.5 cm",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_033.json"
+  },
+  {
+    "id": 1172,
+    "question": "Two thin lenses, with focal lengths of 25.0 cm and -30.0 cm are placed in contact in an orientation so that their optic axes coincide. What is the focal length of the two in combination?",
+    "options": {
+      "a": "5.0 cm",
+      "b": "13.6 cm",
+      "c": "55.5 cm",
+      "d": "150 cm"
+    },
+    "answer": "d",
+    "correct_answer_text": "150 cm",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_033.json"
+  },
+  {
+    "id": 1173,
+    "question": "For a diverging lens with one flat surface, the radius of curvature for the curved surface is 20.0 cm. What must the index of refraction be so that the focal length is -15.0 cm?",
+    "options": {
+      "a": "0.333",
+      "b": "1.33",
+      "c": "2.33",
+      "d": "5.00"
+    },
+    "answer": "c",
+    "correct_answer_text": "2.33",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_033.json"
+  },
+  {
+    "id": 1174,
+    "question": "Calculate the change in internal energy (ΔE) for a system that is giving off 45.0 kJ of heat and is performing 855 J of work on the surroundings.",
+    "options": {
+      "a": "44.1 kJ",
+      "b": "-44.1 kJ",
+      "c": "-45.9 kJ",
+      "d": "9.00 x 10^2 kJ",
+      "e": "-9.00 x 10^2 kJ"
+    },
+    "answer": "c",
+    "correct_answer_text": "-45.9 kJ",
+    "category": "Engineering Sciences",
+    "sub_category": "Thermodynamics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_033.json"
+  },
+  {
+    "id": 1175,
+    "question": "Calculate the change in internal energy (ΔU) for an isobaric system that is giving off 25.0 kJ of heat and is changing from 12.00 L to 6.00 L in volume at 1.50 atm pressure.",
+    "options": {
+      "a": "+25.9 kJ",
+      "b": "-16.0 kJ",
+      "c": "-25.9 kJ",
+      "d": "-24.1 kJ"
+    },
+    "answer": "d",
+    "correct_answer_text": "-24.1 kJ",
+    "category": "Engineering Sciences",
+    "sub_category": "Thermodynamics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_033.json"
+  },
+  {
+    "id": 1176,
+    "question": "\"The enthalpy change for any chemical reaction is independent of the intermediate stages, provided the initial and final conditions are the same for each route.\" This statement is known as:",
+    "options": {
+      "a": "Dulong's Law",
+      "b": "Dalton's Law",
+      "c": "Hess's Law",
+      "d": "Petit Law"
+    },
+    "answer": "c",
+    "correct_answer_text": "Hess's Law",
+    "category": "Engineering Sciences",
+    "sub_category": "Thermodynamics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_033.json"
+  },
+  {
+    "id": 1177,
+    "question": "Calculate the change in internal energy (ΔE) for a system that is absorbing 35.8 kJ of heat and is expanding from 8.00 to 24.0 L in volume at 1.00 atm.",
+    "options": {
+      "a": "+51.8 kJ",
+      "b": "-15.8 kJ",
+      "c": "-16.6 kJ",
+      "d": "+34.2 kJ"
+    },
+    "answer": "d",
+    "correct_answer_text": "+34.2 kJ",
+    "category": "Engineering Sciences",
+    "sub_category": "Thermodynamics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_033.json"
+  },
+  {
+    "id": 1178,
+    "question": "Calculate the amount of heat (in kJ) required to raise the temperature of a 79.0 g sample of ethanol from 298.0 K to 385.0 K. The specific heat capacity of ethanol is 2.42 J/g°C.",
+    "options": {
+      "a": "57.0 kJ",
+      "b": "16.6 kJ",
+      "c": "73.6 kJ",
+      "d": "28.4 kJ",
+      "e": "12.9 kJ"
+    },
+    "answer": "b",
+    "correct_answer_text": "16.6 kJ",
+    "category": "Engineering Sciences",
+    "sub_category": "Thermodynamics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_033.json"
+  },
+  {
+    "id": 1179,
+    "question": "What states that if two bodies are in thermal equilibrium with a third body, they are also in equilibrium with each other?",
+    "options": {
+      "a": "Zeroth law of thermodynamics",
+      "b": "First law of thermodynamics",
+      "c": "Second law of thermodynamics",
+      "d": "Third law of thermodynamics"
+    },
+    "answer": "a",
+    "correct_answer_text": "Zeroth law of thermodynamics",
+    "category": "Engineering Sciences",
+    "sub_category": "Thermodynamics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_033.json"
+  },
+  {
+    "id": 1180,
+    "question": "Determine the specific heat capacity of an alloy that requires 59.3 kJ to raise the temperature of 150.0 g alloy from 298 K to 398 K.",
+    "options": {
+      "a": "4.38 J/g°C",
+      "b": "2.29 J/g°C",
+      "c": "3.95 J/g°C",
+      "d": "2.53 J/g°C",
+      "e": "1.87 J/g°C"
+    },
+    "answer": "c",
+    "correct_answer_text": "3.95 J/g°C",
+    "category": "Engineering Sciences",
+    "sub_category": "Thermodynamics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_033.json"
+  },
+  {
+    "id": 1181,
+    "question": "Determine the final temperature of a gold nugget (mass 376 g) that starts at 390 K and loses 4.85 kJ of heat to a snowbank when it is lost. The specific heat capacity of gold is 0.128 J/g°C.",
+    "options": {
+      "a": "133 K",
+      "b": "398 K",
+      "c": "187 K",
+      "d": "297 K",
+      "e": "377 K"
+    },
+    "answer": "d",
+    "correct_answer_text": "297 K",
+    "category": "Engineering Sciences",
+    "sub_category": "Thermodynamics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_033.json"
+  },
+  {
+    "id": 1182,
+    "question": "What horsepower is required to isothermally compress 800 ft^3 of Air per minute from 14.7 psia to 120 psia? (1 hp = 550 ft-lbf/sec)",
+    "options": {
+      "a": "28 hp",
+      "b": "108 hp",
+      "c": "256 hp",
+      "d": "13900 hp"
+    },
+    "answer": "b",
+    "correct_answer_text": "108 hp",
+    "category": "Engineering Sciences",
+    "sub_category": "Thermodynamics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_033.json"
+  },
+  {
+    "id": 1183,
+    "question": "Helium (R = 0.4961 BTU/lbm-°R) is compressed isothermally from 14.7 psia and 68°F. The compression ratio is 1:4. Calculate the work done by the gas.",
+    "options": {
+      "a": "1454 BTU/lbm",
+      "b": "-364 BTU/lbm",
+      "c": "-187 BTU/lbm",
+      "d": "46.7 BTU/lbm"
+    },
+    "answer": "b",
+    "correct_answer_text": "-364 BTU/lbm",
+    "category": "Engineering Sciences",
+    "sub_category": "Thermodynamics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_033.json"
+  },
+  {
+    "id": 1184,
+    "question": "Twenty grams of ice at 0°C melts to water at 0°C. How much does the entropy of the 20g change in this process?",
+    "options": {
+      "a": "30.5 J/K",
+      "b": "24.6 J/K",
+      "c": "21.3 J/K",
+      "d": "15.7 J/K"
+    },
+    "answer": "b",
+    "correct_answer_text": "24.6 J/K",
+    "category": "Engineering Sciences",
+    "sub_category": "Thermodynamics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_033.json"
+  },
+  {
+    "id": 1185,
+    "question": "A gas is enclosed in a cylinder with a weighted piston as the top boundary. The gas is heated and expands from a volume of 0.04 m^3 to 0.10 m^3 at a constant pressure of 200 kPa. Find the work done on the system.",
+    "options": {
+      "a": "5 kJ",
+      "b": "15 kJ",
+      "c": "10 kJ",
+      "d": "12 kJ"
+    },
+    "answer": "d",
+    "correct_answer_text": "12 kJ",
+    "category": "Engineering Sciences",
+    "sub_category": "Thermodynamics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_033.json"
+  },
+  {
+    "id": 1186,
+    "question": "A simple steam engine receives steam from the boiler at 180°C and exhausts directly into the air at 100°C. What is the upper limit of its efficiency?",
+    "options": {
+      "a": "11.28 %",
+      "b": "36.77 %",
+      "c": "20.36 %",
+      "d": "17.66 %"
+    },
+    "answer": "d",
+    "correct_answer_text": "17.66 %",
+    "category": "Engineering Sciences",
+    "sub_category": "Thermodynamics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_033.json"
+  },
+  {
+    "id": 1187,
+    "question": "The flow energy of 150 L of a fluid passing a boundary to a system is 110 kJ. Determine the pressure at this point.",
+    "options": {
+      "a": "733.33 kPa",
+      "b": "833.33 kPa",
+      "c": "933.33 kPa",
+      "d": "633.33 kPa"
+    },
+    "answer": "a",
+    "correct_answer_text": "733.33 kPa",
+    "category": "Engineering Sciences",
+    "sub_category": "Thermodynamics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_033.json"
+  },
+  {
+    "id": 1188,
+    "question": "Steam at 1000 lbf/ft^2 pressure and 300°R has specific volume of 6.5 ft^3/lbm and a specific enthalpy of 9800 lbf-ft/lbm. Find the internal energy per pound mass of steam.",
+    "options": {
+      "a": "2500 lbf-ft/lbm",
+      "b": "3300 lbf-ft/lbm",
+      "c": "5400 lbf-ft/lbm",
+      "d": "6900 lbf-ft/lbm"
+    },
+    "answer": "b",
+    "correct_answer_text": "3300 lbf-ft/lbm",
+    "category": "Engineering Sciences",
+    "sub_category": "Thermodynamics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_033.json"
+  },
+  {
+    "id": 1189,
+    "question": "Water (specific heat Cp 4.2 kJ/kg K) is being heated by a 1500 W heater. What is the rate of change in temperature of 1kg of the water?",
+    "options": {
+      "a": "0.043 K/s",
+      "b": "0.179 K/s",
+      "c": "0.357 K/s",
+      "d": "1.50 K/s"
+    },
+    "answer": "c",
+    "correct_answer_text": "0.357 K/s",
+    "category": "Engineering Sciences",
+    "sub_category": "Thermodynamics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_033.json"
+  },
+  {
+    "id": 1190,
+    "question": "An ideal gas at 45 psig and 80°F is heated in the closed container to 130°F. What is the final pressure?",
+    "options": {
+      "a": "65.10 psi",
+      "b": "65.11 psi",
+      "c": "65.23 psi",
+      "d": "61.16 psi"
+    },
+    "answer": "c",
+    "correct_answer_text": "65.23 psi",
+    "category": "Engineering Sciences",
+    "sub_category": "Thermodynamics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_034.json"
+  },
+  {
+    "id": 1191,
+    "question": "An ideal gas of volume 1 liter and pressure 10 bar undergoes a quasistatic adiabatic expansion until the pressure drops to 1 bar. Assume γ to be 1.4. What is the final volume?",
+    "options": {
+      "a": "3.18 l",
+      "b": "4.18 l",
+      "c": "5.18 l",
+      "d": "6.18 l"
+    },
+    "answer": "c",
+    "correct_answer_text": "5.18 l",
+    "category": "Engineering Sciences",
+    "sub_category": "Thermodynamics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_034.json"
+  },
+  {
+    "id": 1192,
+    "question": "A perfect gas has a value of R = 319.2 J/kg.K and k = 1.26. If 120 kJ are added to 2.27 kg of this gas at constant pressure when the initial temp is 32.2°C, find T2.",
+    "options": {
+      "a": "339.4 K",
+      "b": "449.4 K",
+      "c": "559.4 K",
+      "d": "669.4 K"
+    },
+    "answer": "a",
+    "correct_answer_text": "339.4 K",
+    "category": "Engineering Sciences",
+    "sub_category": "Thermodynamics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_034.json"
+  },
+  {
+    "id": 1193,
+    "question": "A certain gas, with cp = 0.529 Btu/lb-°R and R = 96.2 ft.lb/lb-°R, expands from 5 cu ft and 80°F to 15 cu ft while the pressure remains constant at 15.5 psia. Compute for T2.",
+    "options": {
+      "a": "1520°R",
+      "b": "1620°R",
+      "c": "1720°R",
+      "d": "1820°R"
+    },
+    "answer": "b",
+    "correct_answer_text": "1620°R",
+    "category": "Engineering Sciences",
+    "sub_category": "Thermodynamics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_034.json"
+  },
+  {
+    "id": 1194,
+    "question": "Heat is added to a 2.0 kg piece of ice at a rate of 793.0 kW. How long will it take for the ice to melt if it was initially at 0.00°C? (The latent heat of fusion for water is 334 kJ/kg)",
+    "options": {
+      "a": "0.84 s",
+      "b": "530,000 s",
+      "c": "4.7 s",
+      "d": "670 s"
+    },
+    "answer": "a",
+    "correct_answer_text": "0.84 s",
+    "category": "Engineering Sciences",
+    "sub_category": "Thermodynamics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_034.json"
+  },
+  {
+    "id": 1195,
+    "question": "An adiabatic compression is performed on an ideal gas. The final pressure is equal to 0.560 times the initial pressure and the final volume equals 1.50 times the initial volume. What is the adiabatic constant for the gas?",
+    "options": {
+      "a": "1.33",
+      "b": "1.43",
+      "c": "1.48",
+      "d": "1.52"
+    },
+    "answer": "b",
+    "correct_answer_text": "1.43",
+    "category": "Engineering Sciences",
+    "sub_category": "Thermodynamics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_034.json"
+  },
+  {
+    "id": 1196,
+    "question": "Identify the element that has an atomic number of 40.",
+    "options": {
+      "a": "neon",
+      "b": "calcium",
+      "c": "zirconium",
+      "d": "bromine"
+    },
+    "answer": "c",
+    "correct_answer_text": "zirconium",
+    "category": "Engineering Sciences",
+    "sub_category": "Chemistry",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_034.json"
+  },
+  {
+    "id": 1197,
+    "question": "The mass number is equal to",
+    "options": {
+      "a": "the sum of the sum of the electrons and protons.",
+      "b": "the sum of the sum of the neutrons and electrons.",
+      "c": "the sum of the number of protons, neutrons, and electrons.",
+      "d": "the sum of the number of protons and neutrons."
+    },
+    "answer": "d",
+    "correct_answer_text": "the sum of the number of protons and neutrons.",
+    "category": "Engineering Sciences",
+    "sub_category": "Chemistry",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_034.json"
+  },
+  {
+    "id": 1198,
+    "question": "Determine the number of protons, neutrons and electrons in the following: $^{40}_{18}X$",
+    "options": {
+      "a": "$p^+=18, n^0=18, e^-=22$",
+      "b": "$p^+=18, n^0=22, e^-=18$",
+      "c": "$p^+=22, n^0=18, e^-=18$",
+      "d": "$p^+=18, n^0=22, e^-=40$",
+      "e": "$p^+=40, n^0=22, e^-=18$"
+    },
+    "answer": "b",
+    "correct_answer_text": "$p^+=18, n^0=22, e^-=18$",
+    "category": "Engineering Sciences",
+    "sub_category": "Chemistry",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_034.json"
+  },
+  {
+    "id": 1199,
+    "question": "Calculate the energy of the orange light emitted, per photon, by a neon sign with a frequency of $4.89 \\times 10^{14}$ Hz.",
+    "options": {
+      "a": "$3.09 \\times 10^{-19}$ J",
+      "b": "$6.14 \\times 10^{-19}$ J",
+      "c": "$3.24 \\times 10^{-19}$ J",
+      "d": "$1.63 \\times 10^{-19}$ J",
+      "e": "$5.11 \\times 10^{-19}$ J"
+    },
+    "answer": "c",
+    "correct_answer_text": "$3.24 \\times 10^{-19}$ J",
+    "category": "Engineering Sciences",
+    "sub_category": "Chemistry",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_034.json"
+  },
+  {
+    "id": 1200,
+    "question": "Calculate the energy of the red light emitted by a neon atom with a wavelength of 703.2 nm.",
+    "options": {
+      "a": "$3.54 \\times 10^{-19}$ J",
+      "b": "$4.27 \\times 10^{-19}$ J",
+      "c": "$2.34 \\times 10^{-19}$ J",
+      "d": "$6.45 \\times 10^{-19}$ J",
+      "e": "$2.83 \\times 10^{-19}$ J"
+    },
+    "answer": "e",
+    "correct_answer_text": "$2.83 \\times 10^{-19}$ J",
+    "category": "Engineering Sciences",
+    "sub_category": "Chemistry",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_034.json"
+  },
+  {
+    "id": 1201,
+    "question": "Determine the energy change associated with the transition from $n=2$ to $n=5$ in the hydrogen atom.",
+    "options": {
+      "a": "$-2.18 \\times 10^{-19}$ J",
+      "b": "$+6.54 \\times 10^{-19}$ J",
+      "c": "$+4.58 \\times 10^{-19}$ J",
+      "d": "$-1.53 \\times 10^{-19}$ J",
+      "e": "$+3.76 \\times 10^{-19}$ J"
+    },
+    "answer": "c",
+    "correct_answer_text": "$+4.58 \\times 10^{-19}$ J",
+    "category": "Engineering Sciences",
+    "sub_category": "Chemistry",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_034.json"
+  },
+  {
+    "id": 1202,
+    "question": "Silver has an atomic mass of 107.868 amu. The Ag-109 isotope (108.905 amu) is 48.16%. What is the amu of the other isotope?",
+    "options": {
+      "a": "106.905 amu",
+      "b": "106.908 amu",
+      "c": "106.903 amu",
+      "d": "106.911 amu"
+    },
+    "answer": "c",
+    "correct_answer_text": "106.903 amu",
+    "category": "Engineering Sciences",
+    "sub_category": "Chemistry",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_034.json"
+  },
+  {
+    "id": 1203,
+    "question": "How many silver atoms are contained in 3.75 moles of silver?",
+    "options": {
+      "a": "$6.23 \\times 10^{24}$ silver atoms",
+      "b": "$2.26 \\times 10^{24}$ silver atoms",
+      "c": "$1.61 \\times 10^{23}$ silver atoms",
+      "d": "$2.44 \\times 10^{26}$ silver atoms",
+      "e": "$6.50 \\times 10^{25}$ silver atoms"
+    },
+    "answer": "b",
+    "correct_answer_text": "$2.26 \\times 10^{24}$ silver atoms",
+    "category": "Engineering Sciences",
+    "sub_category": "Chemistry",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_034.json"
+  },
+  {
+    "id": 1204,
+    "question": "How many $N_2O_4$ molecules are contained in 76.3 g $N_2O_4$? The molar mass of $N_2O_4$ is 92.02 g/mol.",
+    "options": {
+      "a": "$5.54 \\times 10^{25}$ $N_2O_4$ molecules",
+      "b": "$7.26 \\times 10^{23}$ $N_2O_4$ molecules",
+      "c": "$1.38 \\times 10^{24}$ $N_2O_4$ molecules",
+      "d": "$4.59 \\times 10^{25}$ $N_2O_4$ molecules",
+      "e": "$4.99 \\times 10^{23}$ $N_2O_4$ molecules"
+    },
+    "answer": "e",
+    "correct_answer_text": "$4.99 \\times 10^{23}$ $N_2O_4$ molecules",
+    "category": "Engineering Sciences",
+    "sub_category": "Chemistry",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_034.json"
+  },
+  {
+    "id": 1205,
+    "question": "Calculate the mass percent composition of sulfur in $Al_2(SO_4)_3$.",
+    "options": {
+      "a": "28.12%",
+      "b": "9.37%",
+      "c": "42.73%",
+      "d": "21.38%",
+      "e": "35.97%"
+    },
+    "answer": "a",
+    "correct_answer_text": "28.12%",
+    "category": "Engineering Sciences",
+    "sub_category": "Chemistry",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_034.json"
+  },
+  {
+    "id": 1206,
+    "question": "Determine the empirical formula for a compound that contains C, H and O. It contains 51.59% C and 35.30% O by mass.",
+    "options": {
+      "a": "$C_2H_6O$",
+      "b": "CHO",
+      "c": "$C_4H_{13}O_2$",
+      "d": "$CH_4O_3$",
+      "e": "$CH_3O$"
+    },
+    "answer": "a",
+    "correct_answer_text": "$C_2H_6O$",
+    "category": "Engineering Sciences",
+    "sub_category": "Chemistry",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_034.json"
+  },
+  {
+    "id": 1207,
+    "question": "What is the stoichiometric coefficient for oxygen when the following equation is balanced using the lowest, whole-number coefficients? $C_2H_6O(l) + O_2(g) \\rightarrow CO_2(g) + H_2O(l)$",
+    "options": {
+      "a": "9",
+      "b": "7",
+      "c": "5",
+      "d": "3"
+    },
+    "answer": "d",
+    "correct_answer_text": "3",
+    "category": "Engineering Sciences",
+    "sub_category": "Chemistry",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_034.json"
+  },
+  {
+    "id": 1208,
+    "question": "A large balloon is initially filled to a volume of 25.0 L at 353 K and a pressure of 2575 mm Hg. What volume of gas will the balloon contain at 1.35 atm and 253 K?",
+    "options": {
+      "a": "22.2 L",
+      "b": "87.5 L",
+      "c": "11.4 L",
+      "d": "45.0 L",
+      "e": "58.6 L"
+    },
+    "answer": "d",
+    "correct_answer_text": "45.0 L",
+    "category": "Engineering Sciences",
+    "sub_category": "Chemistry",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_034.json"
+  },
+  {
+    "id": 1209,
+    "question": "The rate of effusion of oxygen to an unknown gas is 0.935. What is the other gas?",
+    "options": {
+      "a": "Ne",
+      "b": "Ar",
+      "c": "$F_2$",
+      "d": "$N_2$"
+    },
+    "answer": "d",
+    "correct_answer_text": "$N_2$",
+    "category": "Engineering Sciences",
+    "sub_category": "Chemistry",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_034.json"
+  },
+  {
+    "id": 1210,
+    "question": "Determine the solubility of $CO_2$ in soda water at 25°C if the pressure of $CO_2$ is 5.2 atm. The Henry's law constant for carbon dioxide in water at this temperature is $3.4 \\times 10^{-2}$ M/atm.",
+    "options": {
+      "a": "0.15 M",
+      "b": "0.57 M",
+      "c": "0.65 M",
+      "d": "0.18 M",
+      "e": "0.29 M"
+    },
+    "answer": "d",
+    "correct_answer_text": "0.18 M",
+    "category": "Engineering Sciences",
+    "sub_category": "Chemistry",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_035.json"
+  },
+  {
+    "id": 1211,
+    "question": "The minimum size of copper equipment grounding conductor required for equipment connected to a 40 A branch circuit is:",
+    "options": {
+      "a": "3.5 sq. mm",
+      "b": "4.0 sq. mm",
+      "c": "5.5 sq. mm",
+      "d": "8.0 sq. mm"
+    },
+    "answer": "c",
+    "correct_answer_text": "5.5 sq. mm",
+    "category": "Engineering Sciences",
+    "sub_category": "Engineering Sciences",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_035.json"
+  },
+  {
+    "id": 1212,
+    "question": "The principle that states \"where the velocity is high, the pressure is low, and where the velocity is low, the pressure is high\" is known as:",
+    "options": {
+      "a": "Pascal's",
+      "b": "Bernoulli's",
+      "c": "Archimedes'",
+      "d": "Boyle's Law"
+    },
+    "answer": "b",
+    "correct_answer_text": "Bernoulli's",
+    "category": "Engineering Sciences",
+    "sub_category": "Fluid Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_035.json"
+  },
+  {
+    "id": 1213,
+    "question": "The charge of an aluminum atom in an aluminum bar is:",
+    "options": {
+      "a": "+3",
+      "b": "-3",
+      "c": "0",
+      "d": "+1"
+    },
+    "answer": "c",
+    "correct_answer_text": "0",
+    "category": "Engineering Sciences",
+    "sub_category": "Chemistry",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_035.json"
+  },
+  {
+    "id": 1214,
+    "question": "PSALM in EPIRA stands for:",
+    "options": {
+      "a": "Power Sector Assets and Liabilities Management",
+      "b": "Philippine System of Applied Load Management",
+      "c": "Power System Administration of Luzon and Mindanao",
+      "d": "Philippine Sector Allocation for Load Management"
+    },
+    "answer": "a",
+    "correct_answer_text": "Power Sector Assets and Liabilities Management",
+    "category": "Engineering Sciences",
+    "sub_category": "Engineering Sciences",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_035.json"
+  },
+  {
+    "id": 1215,
+    "question": "A boy and his sledge weigh mg on an inclined plane with angle o and coefficient of friction u. The frictional force is:",
+    "options": {
+      "a": "umg sing",
+      "b": "umg cosp",
+      "c": "mg tang",
+      "d": "uφ"
+    },
+    "answer": "b",
+    "correct_answer_text": "umg cosp",
+    "category": "Engineering Sciences",
+    "sub_category": "Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_035.json"
+  },
+  {
+    "id": 1216,
+    "question": "Under R.A. 7920 Penalty Clause, the fine shall be:",
+    "options": {
+      "a": "Not less than P5,000",
+      "b": "Not less than P10,000",
+      "c": "Not more than P10,000",
+      "d": "Not more than P20,000"
+    },
+    "answer": "b",
+    "correct_answer_text": "Not less than P10,000",
+    "category": "Engineering Sciences",
+    "sub_category": "Engineering Sciences",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_035.json"
+  },
+  {
+    "id": 1217,
+    "question": "The process of determining the value or worth of a physical property for a specific reason is called:",
+    "options": {
+      "a": "Evaluation",
+      "b": "Valuation",
+      "c": "Costing",
+      "d": "Appraisal"
+    },
+    "answer": "b",
+    "correct_answer_text": "Valuation",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_035.json"
+  },
+  {
+    "id": 1218,
+    "question": "A string of linear density 1.5 g/m is under a tension of 20 N. What should its length be if its fundamental resonance frequency is 220 Hz?",
+    "options": {
+      "a": "0.26 m",
+      "b": "0.96 m",
+      "c": "1.1 m",
+      "d": "1.2 m"
+    },
+    "answer": "a",
+    "correct_answer_text": "0.26 m",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_035.json"
+  },
+  {
+    "id": 1219,
+    "question": "According to R.A. 7920 Sec. 17(b), an applicant for Registered Electrical Engineer must be at least:",
+    "options": {
+      "a": "18 years old",
+      "b": "20 years old",
+      "c": "21 years old",
+      "d": "23 years old"
+    },
+    "answer": "c",
+    "correct_answer_text": "21 years old",
+    "category": "Engineering Sciences",
+    "sub_category": "Engineering Sciences",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_035.json"
+  },
+  {
+    "id": 1220,
+    "question": "The equipment grounding conductor of a branch circuit shall be identified by the color:",
+    "options": {
+      "a": "Black",
+      "b": "Green and yellow",
+      "c": "Red",
+      "d": "White"
+    },
+    "answer": "b",
+    "correct_answer_text": "Green and yellow",
+    "category": "Engineering Sciences",
+    "sub_category": "Engineering Sciences",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_035.json"
+  },
+  {
+    "id": 1221,
+    "question": "The most important element that controls the physical properties of steel is:",
+    "options": {
+      "a": "Nickel",
+      "b": "Chromium",
+      "c": "Carbon",
+      "d": "Manganese"
+    },
+    "answer": "c",
+    "correct_answer_text": "Carbon",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_035.json"
+  },
+  {
+    "id": 1222,
+    "question": "A Newtonian fluid is that fluid which:",
+    "options": {
+      "a": "Has zero viscosity",
+      "b": "Obeys Newton's law of viscosity",
+      "c": "Has viscosity that depends on pressure only",
+      "d": "Is compressible and non-viscous"
+    },
+    "answer": "b",
+    "correct_answer_text": "Obeys Newton's law of viscosity",
+    "category": "Engineering Sciences",
+    "sub_category": "Fluid Mechanics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_035.json"
+  },
+  {
+    "id": 1223,
+    "question": "When a sound source or listener is in motion relative to the air, the change in pitch heard by the listener is called the:",
+    "options": {
+      "a": "Resonance effect",
+      "b": "Doppler effect",
+      "c": "Beats phenomenon",
+      "d": "Echo effect"
+    },
+    "answer": "b",
+    "correct_answer_text": "Doppler effect",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_035.json"
+  },
+  {
+    "id": 1224,
+    "question": "Bronze is an alloy of:",
+    "options": {
+      "a": "Cu and Zn",
+      "b": "Cu and Sn",
+      "c": "Fe and C",
+      "d": "Al and Si"
+    },
+    "answer": "b",
+    "correct_answer_text": "Cu and Sn",
+    "category": "Engineering Sciences",
+    "sub_category": "Chemistry",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_035.json"
+  },
+  {
+    "id": 1225,
+    "question": "A concave mirror with a radius of 20 cm creates a real image 30 cm from the mirror. What is the object distance?",
+    "options": {
+      "a": "20 cm",
+      "b": "15 cm",
+      "c": "7.5 cm",
+      "d": "5.0 cm"
+    },
+    "answer": "b",
+    "correct_answer_text": "15 cm",
+    "category": "Engineering Sciences",
+    "sub_category": "Physics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_035.json"
+  },
+  {
+    "id": 1226,
+    "question": "The present worth of cost associated with an asset for an infinite period of time is called:",
+    "options": {
+      "a": "Salvage value",
+      "b": "Recurring cost",
+      "c": "Capitalized cost",
+      "d": "Present depreciation"
+    },
+    "answer": "c",
+    "correct_answer_text": "Capitalized cost",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_035.json"
+  },
+  {
+    "id": 1227,
+    "question": "Which gas law states that the total volume occupied by a mixture of gases equals the sum of their pure component volumes at constant temperature and pressure?",
+    "options": {
+      "a": "Dalton's law",
+      "b": "Boyle's law",
+      "c": "Amagat's law",
+      "d": "Charles's law"
+    },
+    "answer": "c",
+    "correct_answer_text": "Amagat's law",
+    "category": "Engineering Sciences",
+    "sub_category": "Thermodynamics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_035.json"
+  },
+  {
+    "id": 1228,
+    "question": "A claim of anyone to ownership is called:",
+    "options": {
+      "a": "Mortgage",
+      "b": "Equity",
+      "c": "Lien",
+      "d": "Title"
+    },
+    "answer": "d",
+    "correct_answer_text": "Title",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_035.json"
+  },
+  {
+    "id": 1229,
+    "question": "The heat transfer due to motion of matter caused by a change in density is called:",
+    "options": {
+      "a": "Conduction",
+      "b": "Convection",
+      "c": "Radiation",
+      "d": "Advection"
+    },
+    "answer": "b",
+    "correct_answer_text": "Convection",
+    "category": "Engineering Sciences",
+    "sub_category": "Thermodynamics",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_035.json"
+  },
+  {
+    "id": 1230,
+    "question": "What is a step-by-step drawing that represents a specific procedure or algorithm?",
+    "options": {
+      "a": "Flowchart",
+      "b": "Assembler diagram",
+      "c": "Circuit diagram",
+      "d": "Block diagram"
+    },
+    "answer": "a",
+    "correct_answer_text": "Flowchart",
+    "category": "Engineering Sciences",
+    "sub_category": "Engineering Sciences",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_036.json"
+  },
+  {
+    "id": 1231,
+    "question": "The most effective alloying ingredient in increasing hardness (as given) is:",
+    "options": {
+      "a": "Carbon",
+      "b": "Chromium",
+      "c": "Silicon",
+      "d": "Nickel"
+    },
+    "answer": "a",
+    "correct_answer_text": "Carbon",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_036.json"
+  },
+  {
+    "id": 1232,
+    "question": "The part of the computer responsible for executing programs, performing arithmetic operations, and general control is the:",
+    "options": {
+      "a": "RAM",
+      "b": "ROM",
+      "c": "CPU",
+      "d": "ALU"
+    },
+    "answer": "c",
+    "correct_answer_text": "CPU",
+    "category": "Engineering Sciences",
+    "sub_category": "Engineering Sciences",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_036.json"
+  },
+  {
+    "id": 1233,
+    "question": "From the following percent by mass compositions, determine the empirical formula of the compound. Li=18.0%, P=26.7%, O=55.3%",
+    "options": {
+      "a": "LiPO2",
+      "b": "Li3PO4",
+      "c": "LiPO3",
+      "d": "Li3PO3"
+    },
+    "answer": "b",
+    "correct_answer_text": "Li3PO4",
+    "category": "Engineering Sciences",
+    "sub_category": "Chemistry",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_036.json"
+  },
+  {
+    "id": 1234,
+    "question": "What is the shape of the s-orbital?",
+    "options": {
+      "a": "two lobes",
+      "b": "4 lobes",
+      "c": "sphere",
+      "d": "torus"
+    },
+    "answer": "c",
+    "correct_answer_text": "sphere",
+    "category": "Engineering Sciences",
+    "sub_category": "Chemistry",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_036.json"
+  },
+  {
+    "id": 1235,
+    "question": "Give the appropriate values of n and l for the orbital designation 4d.",
+    "options": {
+      "a": "n=3, l=2",
+      "b": "n=1, l=3",
+      "c": "n=4, l=4",
+      "d": "n=4, l=2"
+    },
+    "answer": "d",
+    "correct_answer_text": "n=4, l=2",
+    "category": "Engineering Sciences",
+    "sub_category": "Chemistry",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_036.json"
+  },
+  {
+    "id": 1236,
+    "question": "A 4.0 L sample of N2 (g) at 760 mmHg is compressed, at constant temperature, to 3.2 atm. What is the final gas volume?",
+    "options": {
+      "a": "950 L",
+      "b": "13 L",
+      "c": "59 L",
+      "d": "1.3 L"
+    },
+    "answer": "d",
+    "correct_answer_text": "1.3 L",
+    "category": "Engineering Sciences",
+    "sub_category": "Chemistry",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_036.json"
+  },
+  {
+    "id": 1237,
+    "question": "Determine the empirical and molecular formula for chrysotile asbestos. Chrysotile has the following percent composition: 28.03% Mg, 21.60% Si, 1.16% H, and 49.21% O. The molar mass for chrysotile is 520.8 g/mol",
+    "options": {
+      "a": "Mg6Si5H7O19",
+      "b": "Mg6Si4H6O16",
+      "c": "Mg5SiH6O10",
+      "d": "Mg6Si4H4O12"
+    },
+    "answer": "b",
+    "correct_answer_text": "Mg6Si4H6O16",
+    "category": "Engineering Sciences",
+    "sub_category": "Chemistry",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_036.json"
+  },
+  {
+    "id": 1238,
+    "question": "What is the molarity of a solution formed by mixing 500 grams of water and 10 grams of NaCl (MW=58.45 g/mol)? Density of water is 1 g/mL",
+    "options": {
+      "a": "0.736 M",
+      "b": "0.128 M",
+      "c": "0.674 M",
+      "d": "0.342 M"
+    },
+    "answer": "d",
+    "correct_answer_text": "0.342 M",
+    "category": "Engineering Sciences",
+    "sub_category": "Chemistry",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_036.json"
+  },
+  {
+    "id": 1239,
+    "question": "How many atoms of silicon are contained in 8.50 x 10^-5 grams?",
+    "options": {
+      "a": "1.44 x 10^23 atoms",
+      "b": "5.02 x 10^30 atoms",
+      "c": "1.82 x 10^18 atoms",
+      "d": "5.02 x 10^18 atoms"
+    },
+    "answer": "c",
+    "correct_answer_text": "1.82 x 10^18 atoms",
+    "category": "Engineering Sciences",
+    "sub_category": "Chemistry",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_036.json"
+  },
+  {
+    "id": 1240,
+    "question": "How many liters of gas is 23.4 grams of nitrogen at 750 mmHg and 28.0°C?",
+    "options": {
+      "a": "586 L",
+      "b": "20.9 L",
+      "c": "0.771 L",
+      "d": "20.4 L"
+    },
+    "answer": "b",
+    "correct_answer_text": "20.9 L",
+    "category": "Engineering Sciences",
+    "sub_category": "Chemistry",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_036.json"
+  },
+  {
+    "id": 1241,
+    "question": "A 4.0 L sample of N2 (g) at 760 mmHg is compressed, at constant temperature, to 3.2 atm. What is the final gas volume?",
+    "options": {
+      "a": "950 L",
+      "b": "13 L",
+      "c": "59 L",
+      "d": "1.3 L"
+    },
+    "answer": "d",
+    "correct_answer_text": "1.3 L",
+    "category": "Engineering Sciences",
+    "sub_category": "Chemistry",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_036.json"
+  },
+  {
+    "id": 1242,
+    "question": "When Fe++ changes to Fe+++ in a reaction, it",
+    "options": {
+      "a": "it gains an electron",
+      "b": "it gains a pair of electrons",
+      "c": "it loses an electron",
+      "d": "it loses two electron"
+    },
+    "answer": "c",
+    "correct_answer_text": "it loses an electron",
+    "category": "Engineering Sciences",
+    "sub_category": "Chemistry",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_036.json"
+  },
+  {
+    "id": 1243,
+    "question": "A 3000 Li-tank contains nitrogen is kept cold at -20degC and 80 kPa gage. What is the mass of hydrogen inside the tank?",
+    "options": {
+      "a": "7.24 kg",
+      "b": "4.77 kg",
+      "c": "8.64 kg",
+      "d": "6.44 kg"
+    },
+    "answer": "a",
+    "correct_answer_text": "7.24 kg",
+    "category": "Engineering Sciences",
+    "sub_category": "Chemistry",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_036.json"
+  },
+  {
+    "id": 1244,
+    "question": "A compound contains 40% C, 6.67% H and 53.33% O and has molecular mass of 180. What is the chemical formula of the compound?",
+    "options": {
+      "a": "CH2O",
+      "b": "C6H12O6",
+      "c": "C4H16O2",
+      "d": "CHO2"
+    },
+    "answer": "b",
+    "correct_answer_text": "C6H12O6",
+    "category": "Engineering Sciences",
+    "sub_category": "Chemistry",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_036.json"
+  },
+  {
+    "id": 1245,
+    "question": "How many valence electrons does an oxygen atom have?",
+    "options": {
+      "a": "2",
+      "b": "6",
+      "c": "8",
+      "d": "16"
+    },
+    "answer": "b",
+    "correct_answer_text": "6",
+    "category": "Engineering Sciences",
+    "sub_category": "Chemistry",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_036.json"
+  },
+  {
+    "id": 1246,
+    "question": "The half-life of francium-212 is 19 minutes. How many minutes will it take for 1 gram of this isotope to decay to 0.125 grams?",
+    "options": {
+      "a": "4.75 minutes",
+      "b": "9.5 minutes",
+      "c": "38 minutes",
+      "d": "57 minutes"
+    },
+    "answer": "d",
+    "correct_answer_text": "57 minutes",
+    "category": "Engineering Sciences",
+    "sub_category": "Chemistry",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_036.json"
+  },
+  {
+    "id": 1247,
+    "question": "How many moles of CO2 are present in 220 mg?",
+    "options": {
+      "a": "5 moles",
+      "b": "5000 moles",
+      "c": "0.005 mole",
+      "d": "10 moles"
+    },
+    "answer": "c",
+    "correct_answer_text": "0.005 mole",
+    "category": "Engineering Sciences",
+    "sub_category": "Chemistry",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_036.json"
+  },
+  {
+    "id": 1248,
+    "question": "When the following reaction equation is properly balanced, the number of moles of O2 will be... C3H8 + O2 -> CO2 + H2O",
+    "options": {
+      "a": "1.5 moles",
+      "b": "3 moles",
+      "c": "3.5 moles",
+      "d": "5 moles"
+    },
+    "answer": "d",
+    "correct_answer_text": "5 moles",
+    "category": "Engineering Sciences",
+    "sub_category": "Chemistry",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_036.json"
+  },
+  {
+    "id": 1249,
+    "question": "If the absolute temperature of a gas is doubled and the pressure of the gas is halved, how will the volume change?",
+    "options": {
+      "a": "It will decrease to one fourth of its original value.",
+      "b": "It will increase by two times its original value.",
+      "c": "It will stay the same as its original value.",
+      "d": "It will increase by four times its original value."
+    },
+    "answer": "d",
+    "correct_answer_text": "It will increase by four times its original value.",
+    "category": "Engineering Sciences",
+    "sub_category": "Chemistry",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_036.json"
+  },
+  {
+    "id": 1250,
+    "question": "What is the total pressure, in atmospheres, of a 10.0 L container that contains 10 moles of nitrogen gas and 10 moles of oxygen gas at 300 K?",
+    "options": {
+      "a": "24.6 atm",
+      "b": "2,460 atm",
+      "c": "49.3 atm",
+      "d": "4,930 atm"
+    },
+    "answer": "c",
+    "correct_answer_text": "49.3 atm",
+    "category": "Engineering Sciences",
+    "sub_category": "Chemistry",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_037.json"
+  },
+  {
+    "id": 1251,
+    "question": "Aspartame, C14H18N2O5, a low-calorie sweetener, is about 200 times sweeter than sugar. How many molecules of aspartame are there in a one-gram packet of sweetener containing 36 mg aspartame?",
+    "options": {
+      "a": "2.0 x 10^18 molecules of aspartame",
+      "b": "4.0 x 10^10 molecules of aspartame",
+      "c": "1.4 x 10^22 molecules of aspartame",
+      "d": "7.4 x 10^19 molecules of aspartame"
+    },
+    "answer": "d",
+    "correct_answer_text": "7.4 x 10^19 molecules of aspartame",
+    "category": "Engineering Sciences",
+    "sub_category": "Chemistry",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_037.json"
+  },
+  {
+    "id": 1252,
+    "question": "The molecular formula for a sugar molecule is C12H22O11. What is the percent of carbon in the molecule?",
+    "options": {
+      "a": "2.37%",
+      "b": "67.88%",
+      "c": "42.12%",
+      "d": "8.34%"
+    },
+    "answer": "c",
+    "correct_answer_text": "42.12%",
+    "category": "Engineering Sciences",
+    "sub_category": "Chemistry",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_037.json"
+  },
+  {
+    "id": 1253,
+    "question": "How many weeks will it take for money to double if it earns 7.2% compounded weekly?",
+    "options": {
+      "a": "500",
+      "b": "502",
+      "c": "503",
+      "d": "501"
+    },
+    "answer": "a",
+    "correct_answer_text": "500",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_037.json"
+  },
+  {
+    "id": 1254,
+    "question": "How much should a person invest in a fund that will pay 9% compounded bi-monthly if he wishes to secure P 8,000 at the end of 5 years?",
+    "options": {
+      "a": "P 6128",
+      "b": "P 5118",
+      "c": "P 6000",
+      "d": "P 4129"
+    },
+    "answer": "b",
+    "correct_answer_text": "P 5118",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_037.json"
+  },
+  {
+    "id": 1255,
+    "question": "A machine purchased for P45,000 had a depreciable life of 4 years. It will have an expected salvage value of P5000 at the end of the depreciable life. Using the straight line method, what is the book value at the end of year 2?",
+    "options": {
+      "a": "P27,500",
+      "b": "P20,000",
+      "c": "P35,000",
+      "d": "P25,000"
+    },
+    "answer": "d",
+    "correct_answer_text": "P25,000",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_037.json"
+  },
+  {
+    "id": 1256,
+    "question": "In an amortization agreement P15,000 must be paid monthly for an equipment that has a present worth of P650,000 for 3 years at 3% compounded monthly. The down-payment upon acquirement is most nearly:",
+    "options": {
+      "a": "143,600",
+      "b": "134,200",
+      "c": "231,670",
+      "d": "89,560"
+    },
+    "answer": "b",
+    "correct_answer_text": "134,200",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_037.json"
+  },
+  {
+    "id": 1257,
+    "question": "The lease of a building of an electrical firm increases by 1200 every year for 8 years at 2.5% per annum. If the base value of the lease is P19,400. What amount must be indicated in the 8-year advance cheque issued today?",
+    "options": {
+      "a": "P231,320",
+      "b": "P168,100",
+      "c": "P212,181",
+      "d": "P121,820"
+    },
+    "answer": "b",
+    "correct_answer_text": "P168,100",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_037.json"
+  },
+  {
+    "id": 1258,
+    "question": "For area expansion of NGCP Leyte Zone 3, a communication company wishes to accumulate P50 M by investing equal amount each semi-annual for 50 years. If money is worth 20% nominal, how much must be invested semi-annually?",
+    "options": {
+      "a": "P 3, 205, 616.80",
+      "b": "P 3, 416, 205.90",
+      "c": "P 2, 750, 605.80",
+      "d": "P 2, 509, 815.80"
+    },
+    "answer": "a",
+    "correct_answer_text": "P 3, 205, 616.80",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_037.json"
+  },
+  {
+    "id": 1259,
+    "question": "An annuity whereby payment is postponed for a certain period of time is known as.",
+    "options": {
+      "a": "annuity due",
+      "b": "Deferred Annuity",
+      "c": "Ordinary annuity",
+      "d": "Perpetuity"
+    },
+    "answer": "b",
+    "correct_answer_text": "Deferred Annuity",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_037.json"
+  },
+  {
+    "id": 1260,
+    "question": "If P 200, 000 must be available in 10 years by depositing equal amount monthly for 6 years, what must each monthly deposit be to attain this goal if nominal interest is 18%?",
+    "options": {
+      "a": "P 625.40",
+      "b": "P 910.60",
+      "c": "P 764.17",
+      "d": "P 815.50"
+    },
+    "answer": "c",
+    "correct_answer_text": "P 764.17",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_037.json"
+  },
+  {
+    "id": 1261,
+    "question": "The actual interest earned by a given principal is known as",
+    "options": {
+      "a": "nominal interest",
+      "b": "compounded interest",
+      "c": "effective interest",
+      "d": "simple interest"
+    },
+    "answer": "c",
+    "correct_answer_text": "effective interest",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_037.json"
+  },
+  {
+    "id": 1262,
+    "question": "What is the equivalent in terms of interest compounded daily is 16% compounded quarterly?",
+    "options": {
+      "a": "17.2%",
+      "b": "14.5%",
+      "c": "16.2%",
+      "d": "15.7%"
+    },
+    "answer": "d",
+    "correct_answer_text": "15.7%",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_037.json"
+  },
+  {
+    "id": 1263,
+    "question": "Find the ordinary simple interest on P1000 for 8 months and 20 days at an interest rate of 10%.",
+    "options": {
+      "a": "P72.22",
+      "b": "P70.22",
+      "c": "P75.00",
+      "d": "P71.05"
+    },
+    "answer": "a",
+    "correct_answer_text": "P72.22",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_037.json"
+  },
+  {
+    "id": 1264,
+    "question": "A loan may be paid by 10 equal end of year payments of P1000 each. If interest rate is 10% effective, what 5 equal end of year payments will equitably repay the said loan if the first payment falls at the end of the 3rd year?",
+    "options": {
+      "a": "P1961.31",
+      "b": "P1962.31",
+      "c": "P1963.31",
+      "d": "P1960.31"
+    },
+    "answer": "b",
+    "correct_answer_text": "P1962.31",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [
+      {
+        "solution_id": "sol_69a694cea54c8",
+        "user": "John",
+        "chosen_option": "a",
+        "image": "uploads/solution_1264_1772524750.jpg"
+      }
+    ],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_037.json"
+  },
+  {
+    "id": 1265,
+    "question": "What is the accumulated amount after 3 years of P 6500 invested at the rate of 12% per year compounded semi-annually?",
+    "options": {
+      "a": "P 9220.37",
+      "b": "P 9332.37",
+      "c": "P 9753.37",
+      "d": "P 9243.37"
+    },
+    "answer": "a",
+    "correct_answer_text": "P 9220.37",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_037.json"
+  },
+  {
+    "id": 1266,
+    "question": "A motor is bought at P 76,300 with a salvage value of P 12,500 for 15 years. What is the motor's book value at the end of 5th year using the sum-of-years digit?",
+    "options": {
+      "a": "P 45,823",
+      "b": "P 41,742",
+      "c": "P 12,430",
+      "d": "P 43,423"
+    },
+    "answer": "a",
+    "correct_answer_text": "P 45,823",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_037.json"
+  },
+  {
+    "id": 1267,
+    "question": "At 10% interest rate, how much should you invest today to be able to withdraw P10 000 at the end of 10 years?",
+    "options": {
+      "a": "P 4 855.43",
+      "b": "P 5 855.43",
+      "c": "P 3 855.43",
+      "d": "P 6 855.43"
+    },
+    "answer": "c",
+    "correct_answer_text": "P 3 855.43",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_037.json"
+  },
+  {
+    "id": 1268,
+    "question": "At an interest rate of 10% compounded annually, how much will a deposit of P 1500 be in 15 years?",
+    "options": {
+      "a": "P 6, 100.00",
+      "b": "P 6, 234.09",
+      "c": "P 6, 265.87",
+      "d": "P 6, 437.90"
+    },
+    "answer": "c",
+    "correct_answer_text": "P 6, 265.87",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_037.json"
+  },
+  {
+    "id": 1269,
+    "question": "A car is bought from Honda is worth P 1,560,000 at a down-payment of P 230,000. The agreed term is 5 years quarter payment at nominal rate of 6%. What is are the quarterly payments?",
+    "options": {
+      "a": "P 45,326",
+      "b": "P 67,830",
+      "c": "P 102,302",
+      "d": "P 77,477"
+    },
+    "answer": "d",
+    "correct_answer_text": "P 77,477",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_037.json"
+  },
+  {
+    "id": 1270,
+    "question": "A mother invests on an educational plan now that will provide a total of P 780,400 for his 7-year old son's tertiary education in University of Sto. Tomas-Electrical Engineering. If the son starts college at the age of 18, what is the investment? Take i=9% compounded quarterly:",
+    "options": {
+      "a": "P 203,440",
+      "b": "P 293,177",
+      "c": "P 193,590",
+      "d": "P 98,654"
+    },
+    "answer": "b",
+    "correct_answer_text": "P 293,177",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_038.json"
+  },
+  {
+    "id": 1271,
+    "question": "If the sum of P15,000 is deposited in an account earning 4% per annum compounded quarterly, what will be the deposited amount at the end of 5 years?",
+    "options": {
+      "a": "P18,302.85",
+      "b": "P18,450.89",
+      "c": "P18,512.83",
+      "d": "P18,638.29"
+    },
+    "answer": "a",
+    "correct_answer_text": "P18,302.85",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_038.json"
+  },
+  {
+    "id": 1272,
+    "question": "Determine the annuity required to pay a loan of P28,400 from a local bank that is compounded quarterly at 6% rate for 5 years:",
+    "options": {
+      "a": "P1654",
+      "b": "P1054",
+      "c": "P1456",
+      "d": "P1564"
+    },
+    "answer": "a",
+    "correct_answer_text": "P1654",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_038.json"
+  },
+  {
+    "id": 1273,
+    "question": "In an amortization agreement P15,000 must be paid monthly for an equipment that has a present worth of P650,000 for 3 years at 3% compounded monthly. The down payment upon acquirement is most nearly:",
+    "options": {
+      "a": "143,600",
+      "b": "134,200",
+      "c": "231,670",
+      "d": "89,560"
+    },
+    "answer": "b",
+    "correct_answer_text": "134,200",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_038.json"
+  },
+  {
+    "id": 1274,
+    "question": "How is \"molality\" defined?",
+    "options": {
+      "a": "the number of moles of solute in 1 L of solution",
+      "b": "the number of gram-equivalent weights of solute in L of solution",
+      "c": "the number of moles of solute in 1000 g of solvent",
+      "d": "the number of gram-formula weights of solute per liter"
+    },
+    "answer": "c",
+    "correct_answer_text": "the number of moles of solute in 1000 g of solvent",
+    "category": "Engineering Sciences",
+    "sub_category": "Chemistry",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_038.json"
+  },
+  {
+    "id": 1275,
+    "question": "A loan may be paid by 10 equal end of year payments of P1000 each. If interest rate is 10% effective, what 5 equal end of year payments will equitably repay the said loan if the first payment falls at the end of the 3rd year?",
+    "options": {
+      "a": "P1961.31",
+      "b": "P1962.31",
+      "c": "P1963.31",
+      "d": "P1960.31"
+    },
+    "answer": "b",
+    "correct_answer_text": "P1962.31",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_038.json"
+  },
+  {
+    "id": 1276,
+    "question": "What is the accumulated amount after 3 years of P 6500 invested at the rate of 12% per year compounded semi-annually?",
+    "options": {
+      "a": "P 9220.37",
+      "b": "P 9332.37",
+      "c": "P 9753.37",
+      "d": "P 9243.37"
+    },
+    "answer": "a",
+    "correct_answer_text": "P 9220.37",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_038.json"
+  },
+  {
+    "id": 1277,
+    "question": "A motor is bought at P 76,300 with a salvage value of P 12,500 for 15 years. What is the motor's book value at the end of 5th year using the sum-of-years digit?",
+    "options": {
+      "a": "P 45,823",
+      "b": "P 41,742",
+      "c": "P 12,430",
+      "d": "P 43,423"
+    },
+    "answer": "a",
+    "correct_answer_text": "P 45,823",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_038.json"
+  },
+  {
+    "id": 1278,
+    "question": "It is defined as a measure of the amount of negative ions in the water.",
+    "options": {
+      "a": "acidity",
+      "b": "neutrality",
+      "c": "solubility",
+      "d": "alkalinity"
+    },
+    "answer": "d",
+    "correct_answer_text": "alkalinity",
+    "category": "Engineering Sciences",
+    "sub_category": "Chemistry",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_038.json"
+  },
+  {
+    "id": 1279,
+    "question": "How many carbon atoms are there in 52.06 g of carbon dioxide?",
+    "options": {
+      "a": "5.206 x 10^24",
+      "b": "3.134 x 10^25",
+      "c": "7.122 x 10^23",
+      "d": "8.648 x 10^23"
+    },
+    "answer": "c",
+    "correct_answer_text": "7.122 x 10^23",
+    "category": "Engineering Sciences",
+    "sub_category": "Chemistry",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_038.json"
+  },
+  {
+    "id": 1280,
+    "question": "A compound that is composed of carbon, hydrogen, and oxygen contains 70.6% C, 5.9% H, and 23.5% O by mass. The molecular weight of the compound is 136 amu. What is the molecular formula?",
+    "options": {
+      "a": "C8H8O2",
+      "b": "C8H4O",
+      "c": "C4H4O",
+      "d": "C9H12O"
+    },
+    "answer": "a",
+    "correct_answer_text": "C8H8O2",
+    "category": "Engineering Sciences",
+    "sub_category": "Chemistry",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_038.json"
+  },
+  {
+    "id": 1281,
+    "question": "If the sum of P15,000 is deposited in an account earning 4% per annum compounded quarterly, what will be the deposited amount at the end of 5 years?",
+    "options": {
+      "a": "P18,302.85",
+      "b": "P18,450.89",
+      "c": "P18,512.8",
+      "d": "P18,638.29"
+    },
+    "answer": "a",
+    "correct_answer_text": "P18,302.85",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_038.json"
+  },
+  {
+    "id": 1282,
+    "question": "During a complete or partial neutralization of acids, what is the ionic compound formed?",
+    "options": {
+      "a": "salt",
+      "b": "acids",
+      "c": "bases",
+      "d": "zwitterion"
+    },
+    "answer": "a",
+    "correct_answer_text": "salt",
+    "category": "Engineering Sciences",
+    "sub_category": "Chemistry",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_038.json"
+  },
+  {
+    "id": 1283,
+    "question": "According to OSHA-DOE data on Plant Safety, approximately 30% of all failures in power plants are caused by operator error. What is the probability that out of the next 20 failures at least 10 are due to operator error?",
+    "options": {
+      "a": "0.052",
+      "b": "0.043",
+      "c": "0.048",
+      "d": "0.072"
+    },
+    "answer": "c",
+    "correct_answer_text": "0.048",
+    "category": "Engineering Sciences",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_038.json"
+  },
+  {
+    "id": 1284,
+    "question": "How many ways can 3 letters, 3 numbers, 3 symbols, and 3 shapes be arranged in a 12-element code such that there is alternation?",
+    "options": {
+      "a": "27,312",
+      "b": "37,822",
+      "c": "32,402",
+      "d": "31,104"
+    },
+    "answer": "d",
+    "correct_answer_text": "31,104",
+    "category": "Engineering Sciences",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_038.json"
+  },
+  {
+    "id": 1285,
+    "question": "Johnny is taking part in 4 competitions in a tournament. If the probability of him winning any competition is 0.3, find the probability of him winning at least one competition.",
+    "options": {
+      "a": "0.76",
+      "b": "0.43",
+      "c": "0.83",
+      "d": "0.32"
+    },
+    "answer": "a",
+    "correct_answer_text": "0.76",
+    "category": "Engineering Sciences",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_038.json"
+  },
+  {
+    "id": 1286,
+    "question": "Seven dice is tossed at once. What is the probability that at three or more will show an odd number?",
+    "options": {
+      "a": "99/128",
+      "b": "97/128",
+      "c": "17/64",
+      "d": "15/64"
+    },
+    "answer": "a",
+    "correct_answer_text": "99/128",
+    "category": "Engineering Sciences",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_038.json"
+  },
+  {
+    "id": 1287,
+    "question": "A coin is tossed five times. What is the probability that at most 3 will be tails?",
+    "options": {
+      "a": "11/32",
+      "b": "11/64",
+      "c": "13/16",
+      "d": "11/16"
+    },
+    "answer": "c",
+    "correct_answer_text": "13/16",
+    "category": "Engineering Sciences",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_038.json"
+  },
+  {
+    "id": 1288,
+    "question": "It is known that 2 out of 10 of the shafting in foundry shop will be off-spec. What is the probability that less than ten out of 75 shafts will be off-spec?",
+    "options": {
+      "a": "0.0342",
+      "b": "0.0698",
+      "c": "0.0832",
+      "d": "0.1252"
+    },
+    "answer": "b",
+    "correct_answer_text": "0.0698",
+    "category": "Engineering Sciences",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_038.json"
+  },
+  {
+    "id": 1289,
+    "question": "In Metro Manila, 51% of the adults are males and 49% are females. Also, 9.5% of males smoke cigars, whereas 1.7% of females smoke cigars (based on data from the DOH). If a random subject selected is smoking cigar, find the probability that the selected subject is a male?",
+    "options": {
+      "a": "0.612",
+      "b": "0.752",
+      "c": "0.853",
+      "d": "0.377"
+    },
+    "answer": "c",
+    "correct_answer_text": "0.853",
+    "category": "Engineering Sciences",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_038.json"
+  },
+  {
+    "id": 1290,
+    "question": "Determine the mean of the following data: 0-5 (4), 5-10 (11), 10-15 (23), 15-20 (8)",
+    "options": {
+      "a": "11.533",
+      "b": "11.304",
+      "c": "11.082",
+      "d": "12.023"
+    },
+    "answer": "b",
+    "correct_answer_text": "11.304",
+    "category": "Engineering Sciences",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_039.json"
+  },
+  {
+    "id": 1291,
+    "question": "Three boys and 4 girls are chosen from a group of 6 boys and 7 girls to sit on a row of chairs. How many possible arrangements are there if the girls are always seated together?",
+    "options": {
+      "a": "403,200",
+      "b": "2,544,800",
+      "c": "128,950",
+      "d": "3,420,620"
+    },
+    "answer": "a",
+    "correct_answer_text": "403,200",
+    "category": "Engineering Sciences",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_039.json"
+  },
+  {
+    "id": 1292,
+    "question": "You play poker in a casino and wins P 400,000 if in a draw of four cards, more than 2 cards are face cards. What is the probability of a single draw?",
+    "options": {
+      "a": "13.38%",
+      "b": "4.06%",
+      "c": "2.89%",
+      "d": "18.96%"
+    },
+    "answer": "b",
+    "correct_answer_text": "4.06%",
+    "category": "Engineering Sciences",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_039.json"
+  },
+  {
+    "id": 1293,
+    "question": "A box contains 3 blue, 4 reds, 5 yellow and 2 green balls. What is the probability that in a draw of four balls, all balls are of same color?",
+    "options": {
+      "a": "1.78%",
+      "b": "3.89%",
+      "c": "0.6%",
+      "d": "0.021%"
+    },
+    "answer": "c",
+    "correct_answer_text": "0.6%",
+    "category": "Engineering Sciences",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_039.json"
+  },
+  {
+    "id": 1294,
+    "question": "Two cards are drawn one at a time from a standard deck, what is the probability that the first is a red card or a face card and the second card is a black card or a king?",
+    "options": {
+      "a": "34/221",
+      "b": "45/663",
+      "c": "45/441",
+      "d": "72/221"
+    },
+    "answer": "d",
+    "correct_answer_text": "72/221",
+    "category": "Engineering Sciences",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_039.json"
+  },
+  {
+    "id": 1295,
+    "question": "A box contains 74 brass washers, 86 steel washers and 40 aluminium washers. Three washers are drawn at random from the box without replacement. Determine the probability that all three are steel washers.",
+    "options": {
+      "a": "0.0779",
+      "b": "0.0453",
+      "c": "0.0322",
+      "d": "0.0875"
+    },
+    "answer": "a",
+    "correct_answer_text": "0.0779",
+    "category": "Engineering Sciences",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_039.json"
+  },
+  {
+    "id": 1296,
+    "question": "A dice is rolled 9 times, find the probability of having \"4\" less than 4 times:",
+    "options": {
+      "a": "85.4%",
+      "b": "8.45%",
+      "c": "13.02%",
+      "d": "95.2%"
+    },
+    "answer": "d",
+    "correct_answer_text": "95.2%",
+    "category": "Engineering Sciences",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_039.json"
+  },
+  {
+    "id": 1297,
+    "question": "How many triangles can one form from 20 points on a plane? No three of which are collinear.",
+    "options": {
+      "a": "2150",
+      "b": "3660",
+      "c": "2190",
+      "d": "1140"
+    },
+    "answer": "d",
+    "correct_answer_text": "1140",
+    "category": "Engineering Sciences",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_039.json"
+  },
+  {
+    "id": 1298,
+    "question": "In a shop, a shaft is classed as off-spec if it has a diameter of less than 69 mm. In a batch of 350 monel shafts the mean diameter is 75mm and the standard deviation is 2.8 mm. Assuming the diameters are normally distributed, determine how many are likely to be classed as defective.",
+    "options": {
+      "a": "4",
+      "b": "5",
+      "c": "6",
+      "d": "7"
+    },
+    "answer": "c",
+    "correct_answer_text": "6",
+    "category": "Engineering Sciences",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_039.json"
+  },
+  {
+    "id": 1299,
+    "question": "Rolling a dice three times, evaluate the probability of having at least one \"6\".",
+    "options": {
+      "a": "0.421",
+      "b": "0.945",
+      "c": "0.678",
+      "d": "0.371"
+    },
+    "answer": "a",
+    "correct_answer_text": "0.421",
+    "category": "Engineering Sciences",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_039.json"
+  },
+  {
+    "id": 1300,
+    "question": "Compute the harmonic mean of 0.2, 0.4, 0.6 and 1.0:",
+    "options": {
+      "a": "0.503",
+      "b": "0.393",
+      "c": "0.261",
+      "d": "0.457"
+    },
+    "answer": "b",
+    "correct_answer_text": "0.393",
+    "category": "Engineering Sciences",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_039.json"
+  },
+  {
+    "id": 1301,
+    "question": "Machines A and B produce 10% and 90% respectively of the production of a component intended for the motor industry. From experience, it is known that the probability that machine A produces a defective component is 0.01 while the probability that machine B produces a defective component is 0.05. If a component is selected at random from a day's production and is found to be defective, find the probability that it was made by machine B?",
+    "options": {
+      "a": "93%",
+      "b": "95%",
+      "c": "98%",
+      "d": "86%"
+    },
+    "answer": "c",
+    "correct_answer_text": "98%",
+    "category": "Engineering Sciences",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_039.json"
+  },
+  {
+    "id": 1302,
+    "question": "What is the probability of drawing 3-face cards in 3 draws from an ordinary deck of cards?",
+    "options": {
+      "a": "0.0123",
+      "b": "0.00995",
+      "c": "0.123",
+      "d": "0.0995"
+    },
+    "answer": "b",
+    "correct_answer_text": "0.00995",
+    "category": "Engineering Sciences",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_039.json"
+  },
+  {
+    "id": 1303,
+    "question": "What is the probability of getting a number \"4\" thrice in five tosses of a dice?",
+    "options": {
+      "a": "0.232",
+      "b": "0.320",
+      "c": "0.0232",
+      "d": "0.0327"
+    },
+    "answer": "d",
+    "correct_answer_text": "0.0327",
+    "category": "Engineering Sciences",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_039.json"
+  },
+  {
+    "id": 1304,
+    "question": "An urn contains 4 black balls, 6 white balls, 4 red balls, and 2 green balls. The balls are drawn randomly, what is the probability that the balls are black or white?",
+    "options": {
+      "a": "1/3",
+      "b": "2/7",
+      "c": "1/5",
+      "d": "1/4"
+    },
+    "answer": "b",
+    "correct_answer_text": "2/7",
+    "category": "Engineering Sciences",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_039.json"
+  },
+  {
+    "id": 1305,
+    "question": "If seven coins are tossed simultaneously, find the probability that there will be at least six tails.",
+    "options": {
+      "a": "2/126",
+      "b": "3/138",
+      "c": "1/16",
+      "d": "2/16"
+    },
+    "answer": "c",
+    "correct_answer_text": "1/16",
+    "category": "Engineering Sciences",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_039.json"
+  },
+  {
+    "id": 1306,
+    "question": "If three coins are tossed, what is the probability of getting three tails?",
+    "options": {
+      "a": "1/9",
+      "b": "1/2",
+      "c": "1/4",
+      "d": "1/6"
+    },
+    "answer": "c",
+    "correct_answer_text": "1/4",
+    "category": "Engineering Sciences",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_039.json"
+  },
+  {
+    "id": 1307,
+    "question": "A marksman hits 75% of all his targets. What is the probability that he will hit exactly 4 of his next ten shot?",
+    "options": {
+      "a": "0.01622",
+      "b": "0.4055",
+      "c": "0.004055",
+      "d": "0.001622"
+    },
+    "answer": "a",
+    "correct_answer_text": "0.01622",
+    "category": "Engineering Sciences",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_039.json"
+  },
+  {
+    "id": 1308,
+    "question": "How many four-letter combinations can be made from the letters of the word, FARADAY?",
+    "options": {
+      "a": "446",
+      "b": "315",
+      "c": "218",
+      "d": "476"
+    },
+    "answer": "c",
+    "correct_answer_text": "218",
+    "category": "Engineering Sciences",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_039.json"
+  },
+  {
+    "id": 1309,
+    "question": "A card is chosen from pack of playing cards. What is the probability that it is either red or a picture card?",
+    "options": {
+      "a": "8/13",
+      "b": "10/13",
+      "c": "19/26",
+      "d": "8/15"
+    },
+    "answer": "a",
+    "correct_answer_text": "8/13",
+    "category": "Engineering Sciences",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_039.json"
+  },
+  {
+    "id": 1310,
+    "question": "There are 10 Basketball team registered in the PSBA nationals. If each team plays every team twice, how many games are played?",
+    "options": {
+      "a": "45",
+      "b": "90",
+      "c": "180",
+      "d": "120"
+    },
+    "answer": "b",
+    "correct_answer_text": "90",
+    "category": "Engineering Sciences",
+    "sub_category": "Advanced Math",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_040.json"
+  },
+  {
+    "id": 1311,
+    "question": "What is the simple annual rate of interest if P350 is earned in 8 months on an investment of P8500.",
+    "options": {
+      "a": "1.56%",
+      "b": "1.45%",
+      "c": "6.17%",
+      "d": "16.67%"
+    },
+    "answer": "c",
+    "correct_answer_text": "6.17%",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_040.json"
+  },
+  {
+    "id": 1312,
+    "question": "A 1.5 million-car loan is closed at a deal of 400,000 PHP down-payment and the rest are payed for 45 monthly installment basis fo five years. Determine the monthly annuity:",
+    "options": {
+      "a": "20,258",
+      "b": "18,967",
+      "c": "22,419",
+      "d": "19,692"
+    },
+    "answer": "c",
+    "correct_answer_text": "22,419",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_040.json"
+  },
+  {
+    "id": 1313,
+    "question": "A tax and duty free importation of a 30-horsepower sand mill for paint manufacturing costs P360,000, CIF Manila. Bank charges, arrastre and brokerage cost P5,000. Foundation and installation costs were 25,000. Other incidental expenses amount to P20,000. Salvage value of the mill is estimated to be 60,000 after 20 years. Find the appraisal value of the mill using straight-line depreciation at the end of 10 years:",
+    "options": {
+      "a": "324,000",
+      "b": "225,000",
+      "c": "235,000",
+      "d": "310,000"
+    },
+    "answer": "c",
+    "correct_answer_text": "235,000",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_040.json"
+  },
+  {
+    "id": 1314,
+    "question": "A debt of P 1000 is to be paid off in 5 equal yearly payments, each combining an amortization installment and interest at 4% on the previously unpaid balance of the debt. What should be the amount of each payment?",
+    "options": {
+      "a": "P 220.50",
+      "b": "P 224.62",
+      "c": "P 242.61",
+      "d": "P 222.50"
+    },
+    "answer": "b",
+    "correct_answer_text": "P 224.62",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_040.json"
+  },
+  {
+    "id": 1315,
+    "question": "If P200,000 is invested at 12% per annum compounded quarterly, the annual interest for the investment is nearest to:",
+    "options": {
+      "a": "P24,504",
+      "b": "P26,223",
+      "c": "P25,450",
+      "d": "P25,102"
+    },
+    "answer": "d",
+    "correct_answer_text": "P25,102",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_040.json"
+  },
+  {
+    "id": 1316,
+    "question": "An asset for drilling was purchased and placed in service by a petroleum production company. Its cost basis is P5M and has an estimated book value of P1.2 M at the end of an estimated useful life of 14 years. Compute the book value at the end of the fifth year of life by the straight-line method.",
+    "options": {
+      "a": "P4.29M",
+      "b": "P2.78M",
+      "c": "P5.5M",
+      "d": "P6.5M"
+    },
+    "answer": "a",
+    "correct_answer_text": "P4.29M",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_040.json"
+  },
+  {
+    "id": 1317,
+    "question": "P5,000 is borrowed for 75 days at 16% per annum ordinary simple interest. How much will be due at the end of 75 days?",
+    "options": {
+      "a": "P5,066.67",
+      "b": "P5,133.33",
+      "c": "P5,050.00",
+      "d": "P5,166.67"
+    },
+    "answer": "d",
+    "correct_answer_text": "P5,166.67",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_040.json"
+  },
+  {
+    "id": 1318,
+    "question": "A company purchased an equipment for P 110,000. It is estimated that it will have a useful life of 10 years, production of 100,000 units and working hours of 100,000. The scrap value of the equipment is P10,000. Compute the book value of the equipment at the end of second year using Declining-balance method.",
+    "options": {
+      "a": "P 68,096",
+      "b": "P 70,400",
+      "c": "P 94,371",
+      "d": "P 95,000"
+    },
+    "answer": "a",
+    "correct_answer_text": "P 68,096",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_040.json"
+  },
+  {
+    "id": 1319,
+    "question": "An asset for drilling was purchased and placed in service by a petroleum production company. Its cost basis is P6M and has an estimated book value of P1.2 M at the end of an estimated useful life of 14 years. Compute the depreciation amount at the end of the fifth year of life by SOYD method.",
+    "options": {
+      "a": "P3.26M",
+      "b": "P2.33M",
+      "c": "P3.11M",
+      "d": "P2.78M"
+    },
+    "answer": "a",
+    "correct_answer_text": "P3.26M",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_040.json"
+  },
+  {
+    "id": 1320,
+    "question": "Mr. Grey cleaning equipment was purchased in 2009 for P 8,500 and is depreciated by the double declining balance (DDB) method for an expected life of 12 years. What is the total depreciation at the end of 2017? Original salvage value was estimated to be P2,500 at the end of 12 years.",
+    "options": {
+      "a": "P4,329.22",
+      "b": "P5,023.63",
+      "c": "P4,432.83",
+      "d": "P5,653.37"
+    },
+    "answer": "b",
+    "correct_answer_text": "P5,023.63",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_040.json"
+  },
+  {
+    "id": 1321,
+    "question": "The cash flow associated with a strip mining operation of Batangas Mining Corp. is expected to be $200,000 in year 1, $180,000 in year 2, and amounts decreasing by $20,000 per year through 8. At an interest rate of 12% per year, the present worth of the project is most nearly:",
+    "options": {
+      "a": "$832,764",
+      "b": "$704,099",
+      "c": "$775,213",
+      "d": "$261,970"
+    },
+    "answer": "b",
+    "correct_answer_text": "$704,099",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_040.json"
+  },
+  {
+    "id": 1322,
+    "question": "Mr. Danilo Conde borrowed money from a bank. He received from the bank P1,340.00 and promised to pay P1,500.00 at the end of 9 months. Determine rate of simple interest.",
+    "options": {
+      "a": "15.92%",
+      "b": "15.75%",
+      "c": "15.45%",
+      "d": "15.08%"
+    },
+    "answer": "a",
+    "correct_answer_text": "15.92%",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_040.json"
+  },
+  {
+    "id": 1323,
+    "question": "Suppose that the maintenance for a piece of equipment costs P300 and increases by 15% every year for 5 years. The value of money is 9%. What is the equivalent present cost over the time horizon?",
+    "options": {
+      "a": "P2022.71",
+      "b": "P1175.16",
+      "c": "P1536.22",
+      "d": "P1166.90"
+    },
+    "answer": "c",
+    "correct_answer_text": "P1536.22",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_040.json"
+  },
+  {
+    "id": 1324,
+    "question": "The population of Philippines in 2019 is 53 million. If the doubling time is 60 years. Determine the approximate population in 2024:",
+    "options": {
+      "a": "45. million",
+      "b": "59.8 million",
+      "c": "56.2 million",
+      "d": "78.9 million"
+    },
+    "answer": "c",
+    "correct_answer_text": "56.2 million",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_040.json"
+  },
+  {
+    "id": 1325,
+    "question": "Miss Calledo deposited P 1,000, P 1,500 and P 2,000 at the end of the 2nd year, 3rd year and 4th year, respectively in a savings account which earned 10% per annum. How much is in the account at the end of the 4th year?",
+    "options": {
+      "a": "P 4,880.00",
+      "b": "P 4,820.00",
+      "c": "P 4,860.00",
+      "d": "P 4,840.00"
+    },
+    "answer": "c",
+    "correct_answer_text": "P 4,860.00",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_040.json"
+  },
+  {
+    "id": 1326,
+    "question": "Determine the exact simple interest on P5,000 invested for the period from January 15,1996 to October 12,1996, if the rate interest is 18%.",
+    "options": {
+      "a": "P664.23",
+      "b": "P664.89",
+      "c": "P665.21",
+      "d": "P670.68"
+    },
+    "answer": "d",
+    "correct_answer_text": "P670.68",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_040.json"
+  },
+  {
+    "id": 1327,
+    "question": "What is the present worth of a 6 year annuity paying P 3,000.00 at the end of each year, with interest at 8% compounded annually?",
+    "options": {
+      "a": "P 7,604.04",
+      "b": "P 7,731.29",
+      "c": "P 7,590.12",
+      "d": "P 7,420.89"
+    },
+    "answer": "b",
+    "correct_answer_text": "P 7,731.29",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_040.json"
+  },
+  {
+    "id": 1328,
+    "question": "A diesel engine has an initial cost of 660,700 pesos has scrap value of 76,554 for 16 years of service. what is the value of the total depreciation at the end of 4th year using SOYD?",
+    "options": {
+      "a": "219,366",
+      "b": "324,995",
+      "c": "189,438",
+      "d": "111,689"
+    },
+    "answer": "b",
+    "correct_answer_text": "324,995",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_040.json"
+  },
+  {
+    "id": 1329,
+    "question": "If P1,000 becomes P1,126.49 after 4 years when invested at a certain nominal rate of interest compounded semi-annually, determine the nominal rate and the corresponding effective rate.",
+    "options": {
+      "a": "3.00% and 3.02%",
+      "b": "2.30% and 2.76%",
+      "c": "4.29% and 4.32%",
+      "d": "3.97% and 3.96%"
+    },
+    "answer": "a",
+    "correct_answer_text": "3.00% and 3.02%",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_040.json"
+  },
+  {
+    "id": 1330,
+    "question": "A printing equipment costs P73,500 has a life expectancy of 8 years and has a salvage value of 23,500 at the end of its life. The book value at the end of x years is equal to P38,500. Using straight line method of depreciation, solve for the value of x.",
+    "options": {
+      "a": "5 years",
+      "b": "6 years",
+      "c": "4 years",
+      "d": "3 years"
+    },
+    "answer": "c",
+    "correct_answer_text": "4 years",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_041.json"
+  },
+  {
+    "id": 1331,
+    "question": "The first cost of a machine is P1,800,000 with a salvage value of P300,000 at the end of its life of 5 years. Determine the total depreciation after 3 years using declining balance method.",
+    "options": {
+      "a": "P1,024,142.14",
+      "b": "P1,246,422.03",
+      "c": "P1,185,769.76",
+      "d": "P1,432,624.84"
+    },
+    "answer": "c",
+    "correct_answer_text": "P1,185,769.76",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_041.json"
+  },
+  {
+    "id": 1332,
+    "question": "A roller mill that cost P90,000 will have an estimated salvage value of P18,000 at the end of 8 years. Using double-declining balance method, compute the book value and the total depreciation at the end of the 5th year.",
+    "options": {
+      "a": "P21,357.42 & P68,642.58",
+      "b": "P24,362.48 & P65,637.52",
+      "c": "P15,830.34 & P74,169.66",
+      "d": "P19,432.78 & P70,567.22"
+    },
+    "answer": "a",
+    "correct_answer_text": "P21,357.42 & P68,642.58",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_041.json"
+  },
+  {
+    "id": 1333,
+    "question": "The price of a centrifugal pump increase at constant rate amount of 1,400 pesos every year for 5 years. If the basic annuity is 12,600 peso how much is the present worth of the pump at 3% annual interest?",
+    "options": {
+      "a": "70,148",
+      "b": "56,600",
+      "c": "110,893",
+      "d": "133,890"
+    },
+    "answer": "a",
+    "correct_answer_text": "70,148",
+    "category": "Engineering Sciences",
+    "sub_category": "Economy",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_041.json"
+  },
+  {
+    "id": 1334,
+    "question": "A steel rod 30 mm & 800 mm long has an allowance elongation not to exceed 1.5 mm, find the allowable load in KN.",
+    "options": {
+      "a": "274",
+      "b": "248",
+      "c": "316",
+      "d": "236"
+    },
+    "answer": "a",
+    "correct_answer_text": "274",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_041.json"
+  },
+  {
+    "id": 1335,
+    "question": "Compute the induced/compressive stress, in kpa, of a steel solid shafting of 50 mm diameter and 800 mm in length that is subjected to an increase of temperature by 80deg C.",
+    "options": {
+      "a": "181,816",
+      "b": "242,816",
+      "c": "218,182",
+      "d": "196,560"
+    },
+    "answer": "d",
+    "correct_answer_text": "196,560",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_041.json"
+  },
+  {
+    "id": 1336,
+    "question": "Determine the load in KW on a 25 mm diameter x 1200 mm long steel shaft if its maximum elongation exceeds 1 mm.",
+    "options": {
+      "a": "83",
+      "b": "125",
+      "c": "103",
+      "d": "234"
+    },
+    "answer": "a",
+    "correct_answer_text": "83",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_041.json"
+  },
+  {
+    "id": 1337,
+    "question": "How many 5/16 inch holes can be punched in one motion in a steel plate made of SAE 1010 steel, 7/16 inch thick using a force of 55 tons. The ultimate strength for shear is 100 ksi and use 2 factor of safety.",
+    "options": {
+      "a": "5.8",
+      "b": "3.7",
+      "c": "5",
+      "d": "6.2"
+    },
+    "answer": "c",
+    "correct_answer_text": "5",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_041.json"
+  },
+  {
+    "id": 1338,
+    "question": "A steel tie rod on bridge must be made withstand a pull of 5000 lbs. Find the diameter of the rod assuming a factor of safety of 5 and ultimate stress of 64,000 psi.",
+    "options": {
+      "a": "0.75",
+      "b": "0.84",
+      "c": "0.71",
+      "d": "0.79"
+    },
+    "answer": "c",
+    "correct_answer_text": "0.71",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_041.json"
+  },
+  {
+    "id": 1339,
+    "question": "What is the modulus of elasticity if the stress is 4,000 psi and unit a strain of 0.00105?",
+    "options": {
+      "a": "41.905 x 106",
+      "b": "42.300 x 106",
+      "c": "41.202 x 106",
+      "d": "43.101 x 106"
+    },
+    "answer": "a",
+    "correct_answer_text": "41.905 x 106",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_041.json"
+  },
+  {
+    "id": 1340,
+    "question": "If the ultimate shear strength of a steel plates is 42,000 psi, what force is necessary to punch a 0.75 inch diameter hole in a 0.625 inch thick plate?",
+    "options": {
+      "a": "63,008 lbs",
+      "b": "61,800 lbs",
+      "c": "68,080 lbs",
+      "d": "66,800 lbs"
+    },
+    "answer": "b",
+    "correct_answer_text": "61,800 lbs",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_041.json"
+  },
+  {
+    "id": 1341,
+    "question": "In the LRT II project steel railroad rails of 10 meters long are to be installed. If lowest temperature considered is 20 deg. C and a maximum temperature of 36 deg C is designed for, and the modulus of elasticity of steel to be 207,000 Mpa, determine the clearance between the clearance between rails such that adjoining rail will just touch at maximum design temperature.",
+    "options": {
+      "a": "2.34",
+      "b": "3.32",
+      "c": "3.41",
+      "d": "1.86"
+    },
+    "answer": "a",
+    "correct_answer_text": "2.34",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_041.json"
+  },
+  {
+    "id": 1342,
+    "question": "For a given material, the modulus of elasticity is 100 GN/m2 in tension and 40 GN/m2 in shear. Find the Poisson's ratio.",
+    "options": {
+      "a": "0.10",
+      "b": "0.50",
+      "c": "0.25",
+      "d": "0.35"
+    },
+    "answer": "c",
+    "correct_answer_text": "0.25",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_041.json"
+  },
+  {
+    "id": 1343,
+    "question": "A lap joint consists of steel plate 250 mm by 18 mm in thickness is connected by 4-20 mm diameter rivets. Compute the bearing capacity of the rivet connection if the allowable bearing stress is 210 Mpa.",
+    "options": {
+      "a": "302,400 N",
+      "b": "360,200 N",
+      "c": "420,340 N",
+      "d": "460,240 N"
+    },
+    "answer": "a",
+    "correct_answer_text": "302,400 N",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_041.json"
+  },
+  {
+    "id": 1344,
+    "question": "A steel bar, initially free of stress, is held between rigid supports. Determine the stress in the bar if temperature drops 130F.",
+    "options": {
+      "a": "25,350 psi",
+      "b": "26,234 psi",
+      "c": "24,896 psi",
+      "d": "23,654 psi"
+    },
+    "answer": "a",
+    "correct_answer_text": "25,350 psi",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_041.json"
+  },
+  {
+    "id": 1345,
+    "question": "A 3 in diameter short shaft carrying pulleys close to the bearings transmit how much horsepower if the shaft makes 280 rpm?",
+    "options": {
+      "a": "991 hp",
+      "b": "919 hp",
+      "c": "199 hp",
+      "d": "260 hp"
+    },
+    "answer": "c",
+    "correct_answer_text": "199 hp",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_041.json"
+  },
+  {
+    "id": 1346,
+    "question": "A steel shaft operates at 186 rad/s and must handle 2 kW of power. The shearing stress is not to exceed 40 MN/m^2. Calculate the minimum shaft diameter based on pure torsion.",
+    "options": {
+      "a": "9 mm",
+      "b": "11 mm",
+      "c": "13 mm",
+      "d": "15 mm"
+    },
+    "answer": "b",
+    "correct_answer_text": "11 mm",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_041.json"
+  },
+  {
+    "id": 1347,
+    "question": "What power would the spindle 55 mm in diameter transmit at 480 rpm stress allowed for short shaft is 59 N/mm^2",
+    "options": {
+      "a": "98.68 KW",
+      "b": "96.88 KW",
+      "c": "68.98 KW",
+      "d": "68.89 KW"
+    },
+    "answer": "c",
+    "correct_answer_text": "68.98 KW",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_041.json"
+  },
+  {
+    "id": 1348,
+    "question": "A 1 1/2 in Monel shaft is used in a torsional application. Based on operating speed of 100 rpm and safety factor of 12. How much horsepower can it transmit? Assume the shearing stress is of the ultimate tensile stress which is 100,000 psi.",
+    "options": {
+      "a": "6.57 hp",
+      "b": "3.45 hp",
+      "c": "2.34 hp",
+      "d": "5.23 hp"
+    },
+    "answer": "a",
+    "correct_answer_text": "6.57 hp",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_041.json"
+  },
+  {
+    "id": 1349,
+    "question": "A steel tie rod is to withstand a pull of 3000 lbs. Find the diameter the rod assuming yield stress of 48,000 lb/in^2 and a factor of safety of 5.",
+    "options": {
+      "a": "16mm",
+      "b": "20mm",
+      "c": "25mm",
+      "d": "63 mm"
+    },
+    "answer": "a",
+    "correct_answer_text": "16mm",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_041.json"
+  },
+  {
+    "id": 1350,
+    "question": "The ultimate shear strength of a steel plate is 42,000 psi. Determine the diameter of the hole to punch it if the force applied is 30 tons in a inch thick plate.",
+    "options": {
+      "a": "0.10 in",
+      "b": "0.20 in",
+      "c": "0.60 in",
+      "d": "0.75 in"
+    },
+    "answer": "d",
+    "correct_answer_text": "0.75 in",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_042.json"
+  },
+  {
+    "id": 1351,
+    "question": "A 2 inches diameter by 3 inches long journal bearing is to carry a load 3000 lb. Compute the bearing pressure.",
+    "options": {
+      "a": "2000 psi",
+      "b": "1500 psi",
+      "c": "1000 psi",
+      "d": "500 psi"
+    },
+    "answer": "d",
+    "correct_answer_text": "500 psi",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_042.json"
+  },
+  {
+    "id": 1352,
+    "question": "What modulus of elasticity in tension is required to obtain a unit deformation of 0.00203 from a load producing a unit tensile stress of 35,000 psi?",
+    "options": {
+      "a": "12.22 x 10^6 psi",
+      "b": "14.75 x 10^6 psi",
+      "c": "15.75 x 10^6 psi",
+      "d": "17.24 x 10^6 psi"
+    },
+    "answer": "d",
+    "correct_answer_text": "17.24 x 10^6 psi",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_042.json"
+  },
+  {
+    "id": 1353,
+    "question": "The shaft whose torque varies from 3000 to 8000 in-lbs has 2 1/2 inches in diameter. Compute the shaft mean stress.",
+    "options": {
+      "a": "1120.2 psi",
+      "b": "1350.4 psi",
+      "c": "1792.7 psi",
+      "d": "2010.8 psi"
+    },
+    "answer": "a",
+    "correct_answer_text": "1120.2 psi",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_042.json"
+  },
+  {
+    "id": 1354,
+    "question": "How many 1/2 inch holes can be punch in one motion in steel plate 3/16 inch thick plate using a force of 40 tons. The ultimate shear strength for shear is 50 ksi and use 2 as factor of safety.",
+    "options": {
+      "a": "2 holes",
+      "b": "5 holes",
+      "c": "7 holes",
+      "d": "8 holes"
+    },
+    "answer": "b",
+    "correct_answer_text": "5 holes",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_042.json"
+  },
+  {
+    "id": 1355,
+    "question": "A copper rolled wire 10 meters long and 1.5 mm in diameter when supporting a weight of 35.7 kg, elongates by 1.86 cm. Compute the value of the modulus of elasticity for this wire in kg/cm^2.",
+    "options": {
+      "a": "1,086,132",
+      "b": "1,975,231",
+      "c": "2,860,345",
+      "d": "2,976,317"
+    },
+    "answer": "a",
+    "correct_answer_text": "1,086,132",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_042.json"
+  },
+  {
+    "id": 1356,
+    "question": "A single bolt is used to lap join two steel bars together. Tensile force on the bars is 4,400 lbs. Determine the diameter of the bolt if the allowable shearing stress is 10,000 psi.",
+    "options": {
+      "a": "0.453 in",
+      "b": "0.748 in",
+      "c": "0.925 in",
+      "d": "0.985 in"
+    },
+    "answer": "b",
+    "correct_answer_text": "0.748 in",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_042.json"
+  },
+  {
+    "id": 1357,
+    "question": "A rod with a cross-sectional area of A and loaded in tension with an axial force of 2000 lbf undergoes a stress. Using a material strength of 24 kpsi and design factor of 3.0, determine the minimum diameter of a solid circular rod:",
+    "options": {
+      "a": "0.564 in",
+      "b": "0.343 in",
+      "c": "0.213 in",
+      "d": "0.832 in"
+    },
+    "answer": "a",
+    "correct_answer_text": "0.564 in",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_042.json"
+  },
+  {
+    "id": 1358,
+    "question": "Compute for the load in KN on a 3 cm diameter, 100 cm long steel rod if its maximum elongation exceed 0.12 cm.",
+    "options": {
+      "a": "178",
+      "b": "148",
+      "c": "196",
+      "d": "287"
+    },
+    "answer": "a",
+    "correct_answer_text": "178",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_042.json"
+  },
+  {
+    "id": 1359,
+    "question": "Compute the allowable load in kN on a 20 mm x 120 cm long steel rod with a maximum elongation must not exceed 1 mm.",
+    "options": {
+      "a": "35",
+      "b": "66",
+      "c": "55",
+      "d": "76"
+    },
+    "answer": "a",
+    "correct_answer_text": "35",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_042.json"
+  },
+  {
+    "id": 1360,
+    "question": "What pressure is required for punching a hole 2 inches in diameter thru a 1/4 in steel A plate?",
+    "options": {
+      "a": "Otons",
+      "b": "20 tons",
+      "c": "30 tons",
+      "d": "40 tons"
+    },
+    "answer": "d",
+    "correct_answer_text": "40 tons",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_042.json"
+  },
+  {
+    "id": 1361,
+    "question": "A steel tie rod on bridge must be made withstand a pull of 5000 lbs. Find the diameter of the rod assuming a factor of safety of 5 and ultimate stress of 64,000 psi.",
+    "options": {
+      "a": "0.75",
+      "b": "0.71",
+      "c": "0.84",
+      "d": "0.79"
+    },
+    "answer": "b",
+    "correct_answer_text": "0.71",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_042.json"
+  },
+  {
+    "id": 1362,
+    "question": "A steel hallow tube is use to carry a tensile load of 500 KN at a stress of 140 Mpa. If outside diameter is 10 times the tube thickness, find the thickness of the tube.",
+    "options": {
+      "a": "11.24 mm",
+      "b": "20.64 mm",
+      "c": "10.7 mm",
+      "d": "22.61 mm"
+    },
+    "answer": "a",
+    "correct_answer_text": "11.24 mm",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_042.json"
+  },
+  {
+    "id": 1363,
+    "question": "A steel wire 10m long, hanging vertically supports a tensile load of 2 kN. Neglecting the weight of wire, determine the required diameter if the stress is not to exceed 140 Mpa and the total elongation is not to exceed 5 mm. Assume 200 Gpa.",
+    "options": {
+      "a": "2mm",
+      "b": "4mm",
+      "c": "3mm",
+      "d": "5mmm"
+    },
+    "answer": "c",
+    "correct_answer_text": "3mm",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_042.json"
+  },
+  {
+    "id": 1364,
+    "question": "For a given material, the modulus of elasticity is 100 GN/m2 tension and 40 GN/m2 in shear. Find the Poisson's ratio.",
+    "options": {
+      "a": "0.10",
+      "b": "0.25",
+      "c": "0.50",
+      "d": "0.35"
+    },
+    "answer": "b",
+    "correct_answer_text": "0.25",
+    "category": "Engineering Sciences",
+    "sub_category": "Strength of Materials",
+    "solutions": [],
+    "locked_by": null,
+    "flagged_by": null,
+    "flag_reason": null,
+    "hidden_by": null,
+    "source_file": "engineering_batch_042.json"
   },
   {
     "question": "S The primary function of an alternator is to:",

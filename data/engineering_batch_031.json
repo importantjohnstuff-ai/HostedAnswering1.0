@@ -1,0 +1,382 @@
+[
+    {
+        "id": 1130,
+        "question": "A coupling has 6x20mm bolts on a 400mm circle and 4x16mm bolts on a 300mm circle. Determine torque capacity if allowable shear stress is 40 MPa.",
+        "options": {
+            "a": "13.8 kN-m",
+            "b": "15.5 kN-m",
+            "c": "16.2 kN-m",
+            "d": "18.7 kN-m"
+        },
+        "answer": "b",
+        "correct_answer_text": "15.5 kN-m",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1131,
+        "question": "A 3 m cantilever beam carries 35 kN at its free end. Max bending stress is 125 MPa. Determine required diameter for a circular bar.",
+        "options": {
+            "a": "125 mm",
+            "b": "165 mm",
+            "c": "205 mm",
+            "d": "245 mm"
+        },
+        "answer": "c",
+        "correct_answer_text": "205 mm",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1132,
+        "question": "A 3 m simply supported beam carries 10 kN/m throughout. Cross-section is 75 mm x 150 mm. Determine max bending stress.",
+        "options": {
+            "a": "30 MPa",
+            "b": "40 MPa",
+            "c": "50 MPa",
+            "d": "60 MPa"
+        },
+        "answer": "b",
+        "correct_answer_text": "40 MPa",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1133,
+        "question": "A 5m reinforced concrete column (400x400 mm) has 4x20mm steel bars and carries 1000 kN. What is the deformation? (E steel = 200 GPa, E concrete = 15 GPa)",
+        "options": {
+            "a": "1.9 mm",
+            "b": "2.2 mm",
+            "c": "2.5 mm",
+            "d": "2.8 mm"
+        },
+        "answer": "c",
+        "correct_answer_text": "2.5 mm",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1134,
+        "question": "What power would a spindle 55 mm in diameter transmit at 480 rpm if allowable stress is 59 MPa?",
+        "options": {
+            "a": "39.21 kW",
+            "b": "42.12 kW",
+            "c": "50.61 kW",
+            "d": "96.88 kW"
+        },
+        "answer": "c",
+        "correct_answer_text": "50.61 kW",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1135,
+        "question": "A circular shaft transmits 200 kW at 1.5 rps. Allowable shear stress is 42 MPa. Find required diameter.",
+        "options": {
+            "a": "137 mm",
+            "b": "150 mm",
+            "c": "173 mm",
+            "d": "200 mm"
+        },
+        "answer": "a",
+        "correct_answer_text": "137 mm",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1136,
+        "question": "Three equal wheel loads of 30 kN each, separated by 2 m, roll as a unit across a 12 m span. Determine maximum shear.",
+        "options": {
+            "a": "45 kN",
+            "b": "55 kN",
+            "c": "65 kN",
+            "d": "75 kN"
+        },
+        "answer": "d",
+        "correct_answer_text": "75 kN",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1137,
+        "question": "A 5 m simply supported beam carries 40 kN/m and a concentrated 50 kN load at midspan. What is the maximum moment?",
+        "options": {
+            "a": "187.5 kN-m",
+            "b": "218.75 kN-m",
+            "c": "312.5 kN-m",
+            "d": "375 kN-m"
+        },
+        "answer": "a",
+        "correct_answer_text": "187.5 kN-m",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1138,
+        "question": "Determine max torque for a hollow circular shaft (80mm OD, 50mm ID) without exceeding 70 MPa shear stress or 1 degree/m twist. (G = 83 GPa)",
+        "options": {
+            "a": "2982 N-m",
+            "b": "3964 N-m",
+            "c": "4936 N-m",
+            "d": "5963 N-m"
+        },
+        "answer": "b",
+        "correct_answer_text": "3964 N-m",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1139,
+        "question": "A helical spring (25mm wire, index 8) has 40mm elongation limit. Find required turns and max load if allowable shear is 100 MPa. (G = 80 GPa)",
+        "options": {
+            "a": "7 turns",
+            "b": "4 turns",
+            "c": "8 turns",
+            "d": "10 turns"
+        },
+        "answer": "c",
+        "correct_answer_text": "8 turns",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1140,
+        "question": "A 50 kN wagon at 8 kph must be stopped with 180mm compression. Springs use 25mm wire, 250mm mean diameter, and 24 turns. How many are required? (G = 84 GPa)",
+        "options": {
+            "a": "57",
+            "b": "70",
+            "c": "40",
+            "d": "89"
+        },
+        "answer": "b",
+        "correct_answer_text": "70",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1141,
+        "question": "A 6 m simply supported beam carries 5000 N at center and a triangular load (0 to 7500 N/m). Find reaction at right support.",
+        "options": {
+            "a": "10,000 N",
+            "b": "12,500 N",
+            "c": "17,500 N",
+            "d": "25,000 N"
+        },
+        "answer": "a",
+        "correct_answer_text": "10,000 N",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1142,
+        "question": "Based on a tension test (dia 0.505in, gage 2.0in), find Modulus of Elasticity from provided load/elongation data.",
+        "options": {
+            "a": "10,529.86 ksi",
+            "b": "8,784.43 ksi",
+            "c": "14,567.43 ksi",
+            "d": "34,621.85 ksi"
+        },
+        "answer": "a",
+        "correct_answer_text": "10,529.86 ksi",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1143,
+        "question": "Based on the tension test data, find yield strength at 0.2% offset.",
+        "options": {
+            "a": "64,711.69 psi",
+            "b": "51,678.75 psi",
+            "c": "73,890.58 psi",
+            "d": "94,392.75 psi"
+        },
+        "answer": "a",
+        "correct_answer_text": "64,711.69 psi",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1144,
+        "question": "Based on the tension test data, find ultimate strength.",
+        "options": {
+            "a": "64,711.69 psi",
+            "b": "51,678.75 psi",
+            "c": "73,890.58 psi",
+            "d": "94,392.75 psi"
+        },
+        "answer": "c",
+        "correct_answer_text": "73,890.58 psi",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1145,
+        "question": "A 10-m cantilever beam has a uniform load of 2.5 kN/m. Find max deflection. (EI = 11,000 kN-m2)",
+        "options": {
+            "a": "423.45 mm",
+            "b": "323.45 mm",
+            "c": "198.23 mm",
+            "d": "284.10 mm"
+        },
+        "answer": "d",
+        "correct_answer_text": "284.10 mm",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1146,
+        "question": "A steel cylinder (1m diameter) carries fluid at 10 N/mm2. Calculate wall thickness if tensile stress cannot exceed 100 MPa.",
+        "options": {
+            "a": "50 mm",
+            "b": "60 mm",
+            "c": "20 mm",
+            "d": "30 mm"
+        },
+        "answer": "a",
+        "correct_answer_text": "50 mm",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1147,
+        "question": "A steam boiler (1.2m diameter) operates at 0.7 N/mm2. Riveted joint efficiency is 75%. Find shell thickness if UTS = 385 MPa and FS = 5.",
+        "options": {
+            "a": "7.3 mm",
+            "b": "5.6 mm",
+            "c": "8.6 mm",
+            "d": "10.4 mm"
+        },
+        "answer": "a",
+        "correct_answer_text": "7.3 mm",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1148,
+        "question": "A 10m simply supported beam with uniform load of 3 kN/m has a maximum deflection of? (EI = 12,000 kN-m2)",
+        "options": {
+            "a": "43.23 mm",
+            "b": "54.23 mm",
+            "c": "32.55 mm",
+            "d": "36.45 mm"
+        },
+        "answer": "b",
+        "correct_answer_text": "54.23 mm",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1149,
+        "question": "A thin cylinder (1m internal diameter) is at 2.75 N/mm2. Joint efficiency is 79%. Calculate plate thickness if tensile stress cannot exceed 88 MPa.",
+        "options": {
+            "a": "20 mm",
+            "b": "30 mm",
+            "c": "10 mm",
+            "d": "50 mm"
+        },
+        "answer": "a",
+        "correct_answer_text": "20 mm",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    }
+]

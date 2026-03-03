@@ -1,0 +1,382 @@
+[
+    {
+        "id": 1290,
+        "question": "Determine the mean of the following data: 0-5 (4), 5-10 (11), 10-15 (23), 15-20 (8)",
+        "options": {
+            "a": "11.533",
+            "b": "11.304",
+            "c": "11.082",
+            "d": "12.023"
+        },
+        "answer": "b",
+        "correct_answer_text": "11.304",
+        "category": "Engineering Sciences",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1291,
+        "question": "Three boys and 4 girls are chosen from a group of 6 boys and 7 girls to sit on a row of chairs. How many possible arrangements are there if the girls are always seated together?",
+        "options": {
+            "a": "403,200",
+            "b": "2,544,800",
+            "c": "128,950",
+            "d": "3,420,620"
+        },
+        "answer": "a",
+        "correct_answer_text": "403,200",
+        "category": "Engineering Sciences",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1292,
+        "question": "You play poker in a casino and wins P 400,000 if in a draw of four cards, more than 2 cards are face cards. What is the probability of a single draw?",
+        "options": {
+            "a": "13.38%",
+            "b": "4.06%",
+            "c": "2.89%",
+            "d": "18.96%"
+        },
+        "answer": "b",
+        "correct_answer_text": "4.06%",
+        "category": "Engineering Sciences",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1293,
+        "question": "A box contains 3 blue, 4 reds, 5 yellow and 2 green balls. What is the probability that in a draw of four balls, all balls are of same color?",
+        "options": {
+            "a": "1.78%",
+            "b": "3.89%",
+            "c": "0.6%",
+            "d": "0.021%"
+        },
+        "answer": "c",
+        "correct_answer_text": "0.6%",
+        "category": "Engineering Sciences",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1294,
+        "question": "Two cards are drawn one at a time from a standard deck, what is the probability that the first is a red card or a face card and the second card is a black card or a king?",
+        "options": {
+            "a": "34/221",
+            "b": "45/663",
+            "c": "45/441",
+            "d": "72/221"
+        },
+        "answer": "d",
+        "correct_answer_text": "72/221",
+        "category": "Engineering Sciences",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1295,
+        "question": "A box contains 74 brass washers, 86 steel washers and 40 aluminium washers. Three washers are drawn at random from the box without replacement. Determine the probability that all three are steel washers.",
+        "options": {
+            "a": "0.0779",
+            "b": "0.0453",
+            "c": "0.0322",
+            "d": "0.0875"
+        },
+        "answer": "a",
+        "correct_answer_text": "0.0779",
+        "category": "Engineering Sciences",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1296,
+        "question": "A dice is rolled 9 times, find the probability of having \"4\" less than 4 times:",
+        "options": {
+            "a": "85.4%",
+            "b": "8.45%",
+            "c": "13.02%",
+            "d": "95.2%"
+        },
+        "answer": "d",
+        "correct_answer_text": "95.2%",
+        "category": "Engineering Sciences",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1297,
+        "question": "How many triangles can one form from 20 points on a plane? No three of which are collinear.",
+        "options": {
+            "a": "2150",
+            "b": "3660",
+            "c": "2190",
+            "d": "1140"
+        },
+        "answer": "d",
+        "correct_answer_text": "1140",
+        "category": "Engineering Sciences",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1298,
+        "question": "In a shop, a shaft is classed as off-spec if it has a diameter of less than 69 mm. In a batch of 350 monel shafts the mean diameter is 75mm and the standard deviation is 2.8 mm. Assuming the diameters are normally distributed, determine how many are likely to be classed as defective.",
+        "options": {
+            "a": "4",
+            "b": "5",
+            "c": "6",
+            "d": "7"
+        },
+        "answer": "c",
+        "correct_answer_text": "6",
+        "category": "Engineering Sciences",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1299,
+        "question": "Rolling a dice three times, evaluate the probability of having at least one \"6\".",
+        "options": {
+            "a": "0.421",
+            "b": "0.945",
+            "c": "0.678",
+            "d": "0.371"
+        },
+        "answer": "a",
+        "correct_answer_text": "0.421",
+        "category": "Engineering Sciences",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1300,
+        "question": "Compute the harmonic mean of 0.2, 0.4, 0.6 and 1.0:",
+        "options": {
+            "a": "0.503",
+            "b": "0.393",
+            "c": "0.261",
+            "d": "0.457"
+        },
+        "answer": "b",
+        "correct_answer_text": "0.393",
+        "category": "Engineering Sciences",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1301,
+        "question": "Machines A and B produce 10% and 90% respectively of the production of a component intended for the motor industry. From experience, it is known that the probability that machine A produces a defective component is 0.01 while the probability that machine B produces a defective component is 0.05. If a component is selected at random from a day's production and is found to be defective, find the probability that it was made by machine B?",
+        "options": {
+            "a": "93%",
+            "b": "95%",
+            "c": "98%",
+            "d": "86%"
+        },
+        "answer": "c",
+        "correct_answer_text": "98%",
+        "category": "Engineering Sciences",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1302,
+        "question": "What is the probability of drawing 3-face cards in 3 draws from an ordinary deck of cards?",
+        "options": {
+            "a": "0.0123",
+            "b": "0.00995",
+            "c": "0.123",
+            "d": "0.0995"
+        },
+        "answer": "b",
+        "correct_answer_text": "0.00995",
+        "category": "Engineering Sciences",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1303,
+        "question": "What is the probability of getting a number \"4\" thrice in five tosses of a dice?",
+        "options": {
+            "a": "0.232",
+            "b": "0.320",
+            "c": "0.0232",
+            "d": "0.0327"
+        },
+        "answer": "d",
+        "correct_answer_text": "0.0327",
+        "category": "Engineering Sciences",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1304,
+        "question": "An urn contains 4 black balls, 6 white balls, 4 red balls, and 2 green balls. The balls are drawn randomly, what is the probability that the balls are black or white?",
+        "options": {
+            "a": "1/3",
+            "b": "2/7",
+            "c": "1/5",
+            "d": "1/4"
+        },
+        "answer": "b",
+        "correct_answer_text": "2/7",
+        "category": "Engineering Sciences",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1305,
+        "question": "If seven coins are tossed simultaneously, find the probability that there will be at least six tails.",
+        "options": {
+            "a": "2/126",
+            "b": "3/138",
+            "c": "1/16",
+            "d": "2/16"
+        },
+        "answer": "c",
+        "correct_answer_text": "1/16",
+        "category": "Engineering Sciences",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1306,
+        "question": "If three coins are tossed, what is the probability of getting three tails?",
+        "options": {
+            "a": "1/9",
+            "b": "1/2",
+            "c": "1/4",
+            "d": "1/6"
+        },
+        "answer": "c",
+        "correct_answer_text": "1/4",
+        "category": "Engineering Sciences",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1307,
+        "question": "A marksman hits 75% of all his targets. What is the probability that he will hit exactly 4 of his next ten shot?",
+        "options": {
+            "a": "0.01622",
+            "b": "0.4055",
+            "c": "0.004055",
+            "d": "0.001622"
+        },
+        "answer": "a",
+        "correct_answer_text": "0.01622",
+        "category": "Engineering Sciences",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1308,
+        "question": "How many four-letter combinations can be made from the letters of the word, FARADAY?",
+        "options": {
+            "a": "446",
+            "b": "315",
+            "c": "218",
+            "d": "476"
+        },
+        "answer": "c",
+        "correct_answer_text": "218",
+        "category": "Engineering Sciences",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1309,
+        "question": "A card is chosen from pack of playing cards. What is the probability that it is either red or a picture card?",
+        "options": {
+            "a": "8/13",
+            "b": "10/13",
+            "c": "19/26",
+            "d": "8/15"
+        },
+        "answer": "a",
+        "correct_answer_text": "8/13",
+        "category": "Engineering Sciences",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    }
+]

@@ -1,0 +1,382 @@
+[
+    {
+        "id": 1090,
+        "question": "What is the resultant of the three couples: +16 Nm, -45 Nm, and +120 Nm?",
+        "options": {
+            "a": "-129",
+            "b": "+1.32",
+            "c": "+129",
+            "d": "-13"
+        },
+        "answer": "c",
+        "correct_answer_text": "+129",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1091,
+        "question": "What is the resultant of the forces originating from point (3, -3) and passing through the points indicated: 126N through (8, 6), 183 N through (2, -5) and 269 N through (-6, 3)?",
+        "options": {
+            "a": "263 N",
+            "b": "145 N",
+            "c": "452 N",
+            "d": "323 N"
+        },
+        "answer": "a",
+        "correct_answer_text": "263 N",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1092,
+        "question": "Six weights, 30, 20, 40, 25, 10 and 35 N hang on one horizontal support at distances 2, 3, 7, 10 and 12 m, respectively from a wall. What is the distance from the wall of the single force that can replace these six?",
+        "options": {
+            "a": "5.78 m",
+            "b": "4.62 m",
+            "c": "6.34 m",
+            "d": "5.23 m"
+        },
+        "answer": "c",
+        "correct_answer_text": "6.34 m",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1093,
+        "question": "Three concurrent forces have magnitudes 40, 60 and 50 N. Determine the largest angle between the forces in order to establish equilibrium.",
+        "options": {
+            "a": "97°",
+            "b": "156°",
+            "c": "135°",
+            "d": "104°"
+        },
+        "answer": "c",
+        "correct_answer_text": "135°",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1094,
+        "question": "Supposing that three spheres each 2-kg mass and 350 mm diameter rests on a box 760 mm wide. What is the reaction of the wall on C?",
+        "options": {
+            "a": "10 N",
+            "b": "7 N",
+            "c": "8 N",
+            "d": "5 N"
+        },
+        "answer": "c",
+        "correct_answer_text": "8 N",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1095,
+        "question": "For the system with a 160 lb weight, determine the tension on the wire.",
+        "options": {
+            "a": "160 lb",
+            "b": "140 lb",
+            "c": "240 lb",
+            "d": "190 lb"
+        },
+        "answer": "c",
+        "correct_answer_text": "240 lb",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1096,
+        "question": "What horizontal force is necessary to start a 20-kg wheel of 1-m diameter over a block 150 mm high?",
+        "options": {
+            "a": "200 N",
+            "b": "300 N",
+            "c": "400 N",
+            "d": "500 N"
+        },
+        "answer": "c",
+        "correct_answer_text": "400 N",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1097,
+        "question": "A 12-ft beam is simply supported at its ends. The beam supports a uniform load of 200 lb/ft throughout its length and an applied clockwise couple of 2000 lb-ft at its center. Determine the reaction in one of the beam ends.",
+        "options": {
+            "a": "1782 lb",
+            "b": "1367 lb",
+            "c": "1983 lb",
+            "d": "2313 lb"
+        },
+        "answer": "b",
+        "correct_answer_text": "1367 lb",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1098,
+        "question": "For the Howe truss shown, what is the force on member AB?",
+        "options": {
+            "a": "25 kN",
+            "b": "70 kN",
+            "c": "30 kN",
+            "d": "20 kN"
+        },
+        "answer": "a",
+        "correct_answer_text": "25 kN",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1099,
+        "question": "For the Howe truss shown, what is the force on member CD?",
+        "options": {
+            "a": "12.5 kN",
+            "b": "13.5 kN",
+            "c": "12 kN",
+            "d": "11 kN"
+        },
+        "answer": "a",
+        "correct_answer_text": "12.5 kN",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1100,
+        "question": "For the Howe truss shown, what is the force on member EF?",
+        "options": {
+            "a": "24 kN",
+            "b": "30 kN",
+            "c": "22.5 kN",
+            "d": "35 kN"
+        },
+        "answer": "c",
+        "correct_answer_text": "22.5 kN",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1101,
+        "question": "A stone is thrown vertically upward and returns to earth in 10 sec. What was its initial velocity?",
+        "options": {
+            "a": "161 ft/s",
+            "b": "180 ft/s",
+            "c": "132 ft/s",
+            "d": "104 ft/s"
+        },
+        "answer": "a",
+        "correct_answer_text": "161 ft/s",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1102,
+        "question": "A coin is dropped down a well and 5 sec later, the sound of the splash is heard. If the velocity of sound is 1120 ft/sec, what is the depth of the well?",
+        "options": {
+            "a": "353 ft",
+            "b": "249 ft",
+            "c": "450 ft",
+            "d": "408 ft"
+        },
+        "answer": "a",
+        "correct_answer_text": "353 ft",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1103,
+        "question": "A ball is shot vertically into the air at a velocity of 193.2 ft per sec. After 4 sec, another ball is shot vertically into the air. What initial velocity must the second ball have in order to meet the first ball 386.4 ft from the ground?",
+        "options": {
+            "a": "158.7",
+            "b": "167.8",
+            "c": "132.0",
+            "d": "123.5"
+        },
+        "answer": "b",
+        "correct_answer_text": "167.8",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1104,
+        "question": "A ball is fired up an inclined plane (30° from horizontal) at 15 m/s. If the ball was fired at 30° from the incline, compute the maximum height z measured perpendicular to the incline.",
+        "options": {
+            "a": "3.31 m",
+            "b": "1.34 m",
+            "c": "4.56 m",
+            "d": "2.56 m"
+        },
+        "answer": "d",
+        "correct_answer_text": "2.56 m",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1105,
+        "question": "A bullet is fired at 150 m/s and 56° at the top of a 120 m tall building. Neglecting air resistance, determine the velocity with which the bullet will hit the ground.",
+        "options": {
+            "a": "158 m/s",
+            "b": "123 m/s",
+            "c": "210 m/s",
+            "d": "95 m/s"
+        },
+        "answer": "a",
+        "correct_answer_text": "158 m/s",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1106,
+        "question": "The 5000 kg final stage of a spaceship ejects the 10000 kg second stage. Before ejection, they travel at 200 m/s. If the second stage travels at 50 m/s opposite its initial motion after ejection, what is the velocity of the final stage?",
+        "options": {
+            "a": "600 m/s",
+            "b": "800 m/s",
+            "c": "700 m/s",
+            "d": "900 m/s"
+        },
+        "answer": "c",
+        "correct_answer_text": "700 m/s",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1107,
+        "question": "A car can safely make a turn at 50 kph on a dry day (friction = 1.0). What is the maximum velocity on a rainy day when the coefficient of friction is 0.7?",
+        "options": {
+            "a": "35 kph",
+            "b": "37.5 kph",
+            "c": "40 kph",
+            "d": "42 kph"
+        },
+        "answer": "d",
+        "correct_answer_text": "42 kph",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1108,
+        "question": "A truck traveling at constant velocity passes a parked police car. The police car chases immediately, accelerating to 80 kph in 10 seconds, then maintaining that speed. If the police car overtakes the truck in 0.5 km, what is the constant speed of the truck?",
+        "options": {
+            "a": "50 kph",
+            "b": "55.4 kph",
+            "c": "60 kph",
+            "d": "65.4 kph"
+        },
+        "answer": "d",
+        "correct_answer_text": "65.4 kph",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1109,
+        "question": "The motion of a particle is defined by s = t^4 - 3t^3 + 2t^2 - 8. Determine the acceleration when t = 2 seconds.",
+        "options": {
+            "a": "12 m/s^2",
+            "b": "14 m/s^2",
+            "c": "16 m/s^2",
+            "d": "18 m/s^2"
+        },
+        "answer": "d",
+        "correct_answer_text": "18 m/s^2",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    }
+]

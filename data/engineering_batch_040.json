@@ -1,0 +1,382 @@
+[
+    {
+        "id": 1310,
+        "question": "There are 10 Basketball team registered in the PSBA nationals. If each team plays every team twice, how many games are played?",
+        "options": {
+            "a": "45",
+            "b": "90",
+            "c": "180",
+            "d": "120"
+        },
+        "answer": "b",
+        "correct_answer_text": "90",
+        "category": "Engineering Sciences",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1311,
+        "question": "What is the simple annual rate of interest if P350 is earned in 8 months on an investment of P8500.",
+        "options": {
+            "a": "1.56%",
+            "b": "1.45%",
+            "c": "6.17%",
+            "d": "16.67%"
+        },
+        "answer": "c",
+        "correct_answer_text": "6.17%",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1312,
+        "question": "A 1.5 million-car loan is closed at a deal of 400,000 PHP down-payment and the rest are payed for 45 monthly installment basis fo five years. Determine the monthly annuity:",
+        "options": {
+            "a": "20,258",
+            "b": "18,967",
+            "c": "22,419",
+            "d": "19,692"
+        },
+        "answer": "c",
+        "correct_answer_text": "22,419",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1313,
+        "question": "A tax and duty free importation of a 30-horsepower sand mill for paint manufacturing costs P360,000, CIF Manila. Bank charges, arrastre and brokerage cost P5,000. Foundation and installation costs were 25,000. Other incidental expenses amount to P20,000. Salvage value of the mill is estimated to be 60,000 after 20 years. Find the appraisal value of the mill using straight-line depreciation at the end of 10 years:",
+        "options": {
+            "a": "324,000",
+            "b": "225,000",
+            "c": "235,000",
+            "d": "310,000"
+        },
+        "answer": "c",
+        "correct_answer_text": "235,000",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1314,
+        "question": "A debt of P 1000 is to be paid off in 5 equal yearly payments, each combining an amortization installment and interest at 4% on the previously unpaid balance of the debt. What should be the amount of each payment?",
+        "options": {
+            "a": "P 220.50",
+            "b": "P 224.62",
+            "c": "P 242.61",
+            "d": "P 222.50"
+        },
+        "answer": "b",
+        "correct_answer_text": "P 224.62",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1315,
+        "question": "If P200,000 is invested at 12% per annum compounded quarterly, the annual interest for the investment is nearest to:",
+        "options": {
+            "a": "P24,504",
+            "b": "P26,223",
+            "c": "P25,450",
+            "d": "P25,102"
+        },
+        "answer": "d",
+        "correct_answer_text": "P25,102",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1316,
+        "question": "An asset for drilling was purchased and placed in service by a petroleum production company. Its cost basis is P5M and has an estimated book value of P1.2 M at the end of an estimated useful life of 14 years. Compute the book value at the end of the fifth year of life by the straight-line method.",
+        "options": {
+            "a": "P4.29M",
+            "b": "P2.78M",
+            "c": "P5.5M",
+            "d": "P6.5M"
+        },
+        "answer": "a",
+        "correct_answer_text": "P4.29M",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1317,
+        "question": "P5,000 is borrowed for 75 days at 16% per annum ordinary simple interest. How much will be due at the end of 75 days?",
+        "options": {
+            "a": "P5,066.67",
+            "b": "P5,133.33",
+            "c": "P5,050.00",
+            "d": "P5,166.67"
+        },
+        "answer": "d",
+        "correct_answer_text": "P5,166.67",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1318,
+        "question": "A company purchased an equipment for P 110,000. It is estimated that it will have a useful life of 10 years, production of 100,000 units and working hours of 100,000. The scrap value of the equipment is P10,000. Compute the book value of the equipment at the end of second year using Declining-balance method.",
+        "options": {
+            "a": "P 68,096",
+            "b": "P 70,400",
+            "c": "P 94,371",
+            "d": "P 95,000"
+        },
+        "answer": "a",
+        "correct_answer_text": "P 68,096",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1319,
+        "question": "An asset for drilling was purchased and placed in service by a petroleum production company. Its cost basis is P6M and has an estimated book value of P1.2 M at the end of an estimated useful life of 14 years. Compute the depreciation amount at the end of the fifth year of life by SOYD method.",
+        "options": {
+            "a": "P3.26M",
+            "b": "P2.33M",
+            "c": "P3.11M",
+            "d": "P2.78M"
+        },
+        "answer": "a",
+        "correct_answer_text": "P3.26M",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1320,
+        "question": "Mr. Grey cleaning equipment was purchased in 2009 for P 8,500 and is depreciated by the double declining balance (DDB) method for an expected life of 12 years. What is the total depreciation at the end of 2017? Original salvage value was estimated to be P2,500 at the end of 12 years.",
+        "options": {
+            "a": "P4,329.22",
+            "b": "P5,023.63",
+            "c": "P4,432.83",
+            "d": "P5,653.37"
+        },
+        "answer": "b",
+        "correct_answer_text": "P5,023.63",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1321,
+        "question": "The cash flow associated with a strip mining operation of Batangas Mining Corp. is expected to be $200,000 in year 1, $180,000 in year 2, and amounts decreasing by $20,000 per year through 8. At an interest rate of 12% per year, the present worth of the project is most nearly:",
+        "options": {
+            "a": "$832,764",
+            "b": "$704,099",
+            "c": "$775,213",
+            "d": "$261,970"
+        },
+        "answer": "b",
+        "correct_answer_text": "$704,099",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1322,
+        "question": "Mr. Danilo Conde borrowed money from a bank. He received from the bank P1,340.00 and promised to pay P1,500.00 at the end of 9 months. Determine rate of simple interest.",
+        "options": {
+            "a": "15.92%",
+            "b": "15.75%",
+            "c": "15.45%",
+            "d": "15.08%"
+        },
+        "answer": "a",
+        "correct_answer_text": "15.92%",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1323,
+        "question": "Suppose that the maintenance for a piece of equipment costs P300 and increases by 15% every year for 5 years. The value of money is 9%. What is the equivalent present cost over the time horizon?",
+        "options": {
+            "a": "P2022.71",
+            "b": "P1175.16",
+            "c": "P1536.22",
+            "d": "P1166.90"
+        },
+        "answer": "c",
+        "correct_answer_text": "P1536.22",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1324,
+        "question": "The population of Philippines in 2019 is 53 million. If the doubling time is 60 years. Determine the approximate population in 2024:",
+        "options": {
+            "a": "45. million",
+            "b": "59.8 million",
+            "c": "56.2 million",
+            "d": "78.9 million"
+        },
+        "answer": "c",
+        "correct_answer_text": "56.2 million",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1325,
+        "question": "Miss Calledo deposited P 1,000, P 1,500 and P 2,000 at the end of the 2nd year, 3rd year and 4th year, respectively in a savings account which earned 10% per annum. How much is in the account at the end of the 4th year?",
+        "options": {
+            "a": "P 4,880.00",
+            "b": "P 4,820.00",
+            "c": "P 4,860.00",
+            "d": "P 4,840.00"
+        },
+        "answer": "c",
+        "correct_answer_text": "P 4,860.00",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1326,
+        "question": "Determine the exact simple interest on P5,000 invested for the period from January 15,1996 to October 12,1996, if the rate interest is 18%.",
+        "options": {
+            "a": "P664.23",
+            "b": "P664.89",
+            "c": "P665.21",
+            "d": "P670.68"
+        },
+        "answer": "d",
+        "correct_answer_text": "P670.68",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1327,
+        "question": "What is the present worth of a 6 year annuity paying P 3,000.00 at the end of each year, with interest at 8% compounded annually?",
+        "options": {
+            "a": "P 7,604.04",
+            "b": "P 7,731.29",
+            "c": "P 7,590.12",
+            "d": "P 7,420.89"
+        },
+        "answer": "b",
+        "correct_answer_text": "P 7,731.29",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1328,
+        "question": "A diesel engine has an initial cost of 660,700 pesos has scrap value of 76,554 for 16 years of service. what is the value of the total depreciation at the end of 4th year using SOYD?",
+        "options": {
+            "a": "219,366",
+            "b": "324,995",
+            "c": "189,438",
+            "d": "111,689"
+        },
+        "answer": "b",
+        "correct_answer_text": "324,995",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1329,
+        "question": "If P1,000 becomes P1,126.49 after 4 years when invested at a certain nominal rate of interest compounded semi-annually, determine the nominal rate and the corresponding effective rate.",
+        "options": {
+            "a": "3.00% and 3.02%",
+            "b": "2.30% and 2.76%",
+            "c": "4.29% and 4.32%",
+            "d": "3.97% and 3.96%"
+        },
+        "answer": "a",
+        "correct_answer_text": "3.00% and 3.02%",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    }
+]

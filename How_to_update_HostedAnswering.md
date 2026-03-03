@@ -1,10 +1,10 @@
-# How to Update HostedAnswering1.0
+# How to Update HostedAnswering
 
-This guide ensures a future agent or developer can keep HostedAnswering1.0 (the GitHub Pages-hosted static version) in sync with the main `Answering` folder (the PHP-based working copy).
+This guide ensures a future agent or developer can keep HostedAnswering (the GitHub Pages-hosted static version) in sync with the main `Answering` folder (the PHP-based working copy).
 
 ## Architecture Overview
 
-| Component | Answering (Source) | HostedAnswering1.0 (GitHub Pages) |
+| Component | Answering (Source) | HostedAnswering (GitHub Pages) |
 |---|---|---|
 | **Backend** | `api.php` (PHP server) | None — fully static |
 | **Data persistence** | Server writes to JSON files | `localStorage` via `LocalState` manager |
@@ -15,38 +15,38 @@ This guide ensures a future agent or developer can keep HostedAnswering1.0 (the 
 ## Prerequisites
 
 - **Node.js** installed (for running `merge_data.js`)
-- Access to both `Answering/` and `HostedAnswering1.0/` folders
+- Access to both `Answering/` and `HostedAnswering/` folders
 
 ## Update Checklist
 
 ### Step 1: Sync Data Files
 
-Copy **all** JSON batch files from `Answering/data/` → `HostedAnswering1.0/data/`:
+Copy **all** JSON batch files from `Answering/data/` → `HostedAnswering/data/`:
 
 ```powershell
-Copy-Item -Path "Answering\data\batch_*.json" -Destination "HostedAnswering1.0\data\" -Force
-Copy-Item -Path "Answering\data\engineering_*.json" -Destination "HostedAnswering1.0\data\" -Force
-Copy-Item -Path "Answering\data\professional_*.json" -Destination "HostedAnswering1.0\data\" -Force
+Copy-Item -Path "Answering\data\batch_*.json" -Destination "HostedAnswering\data\" -Force
+Copy-Item -Path "Answering\data\engineering_*.json" -Destination "HostedAnswering\data\" -Force
+Copy-Item -Path "Answering\data\professional_*.json" -Destination "HostedAnswering\data\" -Force
 ```
 
 **Verification:** The file count in both `data/` folders should match (excluding `all_problems.js` and `data.json` in hosted):
 ```powershell
 (Get-ChildItem "Answering\data\*.json").Count
-(Get-ChildItem "HostedAnswering1.0\data\*.json").Count
+(Get-ChildItem "HostedAnswering\data\*.json").Count
 ```
 
 ### Step 2: Sync Upload Images
 
-Copy **all** solution images from `Answering/uploads/` → `HostedAnswering1.0/uploads/`:
+Copy **all** solution images from `Answering/uploads/` → `HostedAnswering/uploads/`:
 
 ```powershell
-Copy-Item -Path "Answering\uploads\*" -Destination "HostedAnswering1.0\uploads\" -Force
+Copy-Item -Path "Answering\uploads\*" -Destination "HostedAnswering\uploads\" -Force
 ```
 
 **Verification:**
 ```powershell
 (Get-ChildItem "Answering\uploads\*").Count
-(Get-ChildItem "HostedAnswering1.0\uploads\*").Count
+(Get-ChildItem "HostedAnswering\uploads\*").Count
 ```
 
 ### Step 3: Rebuild `all_problems.js`
@@ -54,13 +54,13 @@ Copy-Item -Path "Answering\uploads\*" -Destination "HostedAnswering1.0\uploads\"
 This is the critical step. The static site loads all data from a single pre-merged JS file.
 
 ```powershell
-cd HostedAnswering1.0
+cd HostedAnswering
 node merge_data.js
 ```
 
 **Expected output:** `Merged N problems from M files → data/all_problems.js`
 
-The counts should match the source data. As of the last update (2026-02-27):
+The counts should match the source data. As of the last update (2026-03-03):
 - **126 JSON files** (69 math batches + 17 engineering batches + 40 professional batches)
 - **2430 total problems**
 - **177 upload images**
@@ -70,7 +70,7 @@ The counts should match the source data. As of the last update (2026-02-27):
 The hosted version must be pure HTML/CSS/JS. Verify:
 
 ```powershell
-Select-String -Path "HostedAnswering1.0\index.html" -Pattern "api\.php|fetchData|\.php"
+Select-String -Path "HostedAnswering\index.html" -Pattern "api\.php|fetchData|\.php"
 ```
 
 **Expected:** No matches.
@@ -78,14 +78,14 @@ Select-String -Path "HostedAnswering1.0\index.html" -Pattern "api\.php|fetchData
 ### Step 5: Verify `api.php` Does NOT Exist
 
 ```powershell
-Test-Path "HostedAnswering1.0\api.php"
+Test-Path "HostedAnswering\api.php"
 ```
 
 **Expected:** `False`
 
 ### Step 6: Test in Browser
 
-Open `HostedAnswering1.0/index.html` in a browser and verify:
+Open `HostedAnswering/index.html` in a browser and verify:
 
 - [ ] Problems load and display with correct count
 - [ ] Search modal works (🔍 button)
@@ -98,7 +98,7 @@ Open `HostedAnswering1.0/index.html` in a browser and verify:
 ### Step 7: Commit and Push to GitHub
 
 ```bash
-cd HostedAnswering1.0
+cd HostedAnswering
 git add .
 git commit -m "Sync data and uploads from Answering"
 git push
@@ -142,7 +142,7 @@ async function someAction(id, sf) {
     fetchData();
 }
 
-// AFTER (localStorage version in HostedAnswering1.0/index.html):
+// AFTER (localStorage version in HostedAnswering/index.html):
 function someAction(id, sf) {
     LocalState.someAction(id, currentUser);
     refreshFromLocal();

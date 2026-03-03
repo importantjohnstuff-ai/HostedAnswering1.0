@@ -8,10 +8,14 @@
             "c": "The present worth of a future amount",
             "d": "An annual repayment of a loan"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Economy"
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 626,
@@ -22,10 +26,14 @@
             "c": "Evaluating over different time periods",
             "d": "Mutually exclusive projects"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Economy"
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 627,
@@ -36,10 +44,14 @@
             "c": "You lease a car and pay by the month.",
             "d": "Your company invest heavily in a new product that will generates profit for two years. To keep profits high for 10 years, the company plans to reinvest heavily after two."
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Economy"
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 628,
@@ -50,10 +62,14 @@
             "c": "Sodium",
             "d": "Helium"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Chemistry"
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 629,
@@ -64,10 +80,14 @@
             "c": "All organic matter contains carbon",
             "d": "Organic substances generally do not dissolve in water."
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Chemistry"
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 630,
@@ -78,10 +98,21 @@
             "c": "The electrons, particularly the outermost one",
             "d": "The magnitude of electrical charge of the protons"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Physics"
+        "sub_category": "Physics",
+        "solutions": [
+            {
+                "solution_id": "sol_69a69dc45cf5f",
+                "user": "John",
+                "chosen_option": "c",
+                "image": null
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 631,
@@ -92,10 +123,14 @@
             "c": "The ionic bond",
             "d": "The metallic bond"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Chemistry"
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 632,
@@ -106,10 +141,21 @@
             "c": "Primary bonds between atoms",
             "d": "Weak secondary bonds between atoms"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Physics"
+        "sub_category": "Physics",
+        "solutions": [
+            {
+                "solution_id": "sol_69a69dd77e0a0",
+                "user": "John",
+                "chosen_option": "d",
+                "image": null
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 633,
@@ -120,10 +166,14 @@
             "c": "Break-even",
             "d": "Capital recovery"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Economy"
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 634,
@@ -134,10 +184,14 @@
             "c": "Dehydration",
             "d": "Saturation"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Chemistry"
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 635,
@@ -148,10 +202,14 @@
             "c": "Physical life",
             "d": "Salvage life"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Economy"
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 636,
@@ -162,10 +220,14 @@
             "c": "Oligopoly",
             "d": "Control"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Economy"
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 637,
@@ -176,10 +238,14 @@
             "c": "Quick ratio",
             "d": "Price-earning ratio"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Economy"
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 638,
@@ -190,10 +256,14 @@
             "c": "Isometric process",
             "d": "Isobaric process"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Thermodynamics"
+        "sub_category": "Thermodynamics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 639,
@@ -204,10 +274,14 @@
             "c": "Elastic demand",
             "d": "Necessity"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Economy"
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 640,
@@ -218,10 +292,14 @@
             "c": "Simple interest",
             "d": "Exact simple interest"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Economy"
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 641,
@@ -232,10 +310,14 @@
             "c": "Different equivalent uniform annual cash flows",
             "d": "Identical salvage values"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Economy"
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 642,
@@ -246,10 +328,14 @@
             "c": "A series of uniform amounts over a period of time",
             "d": "The future worth of a present amount"
         },
-        "answer": "c",
         "correct_answer_text": "A series of uniform amounts over a period of time",
         "category": "Engineering Sciences",
-        "sub_category": "Economy"
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 643,
@@ -260,9 +346,13 @@
             "c": "Leverage",
             "d": "Insolvency"
         },
-        "answer": "b",
         "correct_answer_text": "Liquidity",
         "category": "Engineering Sciences",
-        "sub_category": "Economy"
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     }
 ]

@@ -8,24 +8,32 @@
             "c": "5320 dB",
             "d": "76 dB"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Physics"
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 766,
-        "question": "You stand by the railroad tracks as a train passes by. You hear a 1,000-Hz frequency when the train approaches, which changes to 800 Hz as it goes away. How fast is the train moving? The speed of sound in air is 340 m/s.",
+        "question": "You stand by the railroad tracks as a train passes by. You hear a 1,000-Hz frequency when the train approaches, which changes to 800 Hz as it goes away. How fast is the train moving? The speed of sound in air is 340 m\/s.",
         "options": {
-            "a": "15.7 m/s",
-            "b": "21.2 m/s",
-            "c": "28.0 m/s",
-            "d": "37.8 m/s"
+            "a": "15.7 m\/s",
+            "b": "21.2 m\/s",
+            "c": "28.0 m\/s",
+            "d": "37.8 m\/s"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Physics"
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": "John",
+        "flag_reason": "Others: Duplicate",
+        "hidden_by": "John"
     },
     {
         "id": 767,
@@ -36,10 +44,14 @@
             "c": "49 dB",
             "d": "32 dB"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Physics"
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 768,
@@ -50,10 +62,14 @@
             "c": "240 dB",
             "d": "117 dB"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Physics"
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 769,
@@ -64,10 +80,21 @@
             "c": "112 dB",
             "d": "148 dB"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Physics"
+        "sub_category": "Physics",
+        "solutions": [
+            {
+                "solution_id": "sol_69a68e6215465",
+                "user": "Pugeria",
+                "chosen_option": "c",
+                "image": "uploads\/solution_769_1772523106.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 770,
@@ -78,10 +105,21 @@
             "c": "128 Hz",
             "d": "680 Hz"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Physics"
+        "sub_category": "Physics",
+        "solutions": [
+            {
+                "solution_id": "sol_69a6933bbaac3",
+                "user": "Pugeria",
+                "chosen_option": "c",
+                "image": "uploads\/solution_770_1772524347.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 771,
@@ -92,10 +130,14 @@
             "c": "350 Hz",
             "d": "410 Hz"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Physics"
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 772,
@@ -106,10 +148,21 @@
             "c": "240 V",
             "d": "600 V"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Physics"
+        "sub_category": "Physics",
+        "solutions": [
+            {
+                "solution_id": "sol_69a695500d74a",
+                "user": "Pugeria",
+                "chosen_option": "d",
+                "image": "uploads\/solution_772_1772524880.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 773,
@@ -120,10 +173,14 @@
             "c": "59 deg",
             "d": "90 deg"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Physics"
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 774,
@@ -134,10 +191,14 @@
             "c": "diffraction",
             "d": "interference"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Physics"
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 775,
@@ -148,10 +209,14 @@
             "c": "36 deg",
             "d": "39 deg"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Physics"
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 776,
@@ -162,10 +227,14 @@
             "c": "A real, inverted image with height 32.1 cm.",
             "d": "A virtual, inverted image with height 32.1 cm."
         },
-        "answer": "c",
         "correct_answer_text": "A real, inverted image with height 32.1 cm.",
         "category": "Engineering Sciences",
-        "sub_category": "Physics"
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 777,
@@ -176,10 +245,14 @@
             "c": "R=33.34 convergent",
             "d": "R=33.34 divergent"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Physics"
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 779,
@@ -190,10 +263,14 @@
             "c": "+0.255 D",
             "d": "+0.675 D"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Physics"
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 780,
@@ -204,10 +281,14 @@
             "c": "90 cm",
             "d": "200 cm"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Physics"
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 782,
@@ -218,10 +299,14 @@
             "c": "1.23",
             "d": "2.56"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Physics"
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 783,
@@ -232,23 +317,38 @@
             "c": "16 cm",
             "d": "30 cm"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Physics"
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 784,
-        "question": "A simple pendulum has a period of 2.0 s. What is the pendulum length? ($g = 9.8 \\text{ m/s}^2$)",
+        "question": "A simple pendulum has a period of 2.0 s. What is the pendulum length? ($g = 9.8 \\text{ m\/s}^2$)",
         "options": {
             "a": "0.36 m",
             "b": "0.78 m",
             "c": "0.99 m",
             "d": "2.4 m"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Physics"
+        "sub_category": "Physics",
+        "solutions": [
+            {
+                "solution_id": "sol_69a6976367c16",
+                "user": "Pugeria",
+                "chosen_option": "c",
+                "image": "uploads\/solution_784_1772525411.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     }
 ]

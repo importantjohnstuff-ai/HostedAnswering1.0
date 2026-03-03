@@ -8,10 +8,14 @@
             "c": "stable equilibrium",
             "d": "translational equilibrium"
         },
-        "answer": "a",
         "correct_answer_text": "rotational equilibrium",
         "category": "Engineering Sciences",
-        "sub_category": "Strength of Materials"
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 726,
@@ -22,10 +26,14 @@
             "c": "unstable equilibrium",
             "d": "stable equilibrium"
         },
-        "answer": "a",
         "correct_answer_text": "translational equilibrium",
         "category": "Engineering Sciences",
-        "sub_category": "Mechanics"
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 727,
@@ -36,10 +44,14 @@
             "c": "rotational equilibrium",
             "d": "stable equilibrium"
         },
-        "answer": "a",
         "correct_answer_text": "unstable equilibrium",
         "category": "Engineering Sciences",
-        "sub_category": "Mechanics"
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 728,
@@ -50,10 +62,14 @@
             "c": "Archimedes\u2019 principle",
             "d": "Torricelli\u2019s principle"
         },
-        "answer": "a",
         "correct_answer_text": "Bernoulli\u2019s principle",
         "category": "Engineering Sciences",
-        "sub_category": "Fluid Mechanics"
+        "sub_category": "Fluid Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 729,
@@ -64,38 +80,57 @@
             "c": "0.27 L",
             "d": "0.72 L"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Thermodynamics"
+        "sub_category": "Thermodynamics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 730,
         "question": "A pump has an efficiency of 65%. It is driven by a 0.75 horsepower motor. The pump produced a pressure rise of 120 Pa in water. What is the required flow rate?",
         "options": {
-            "a": "$3.03 \\text{ m}^3/\\text{s}$",
-            "b": "$4.04 \\text{ m}^3/\\text{s}$",
-            "c": "$4.55 \\text{ m}^3/\\text{s}$",
-            "d": "$4.66 \\text{ m}^3/\\text{s}$"
+            "a": "$3.03 \\text{ m}^3\/\\text{s}$",
+            "b": "$4.04 \\text{ m}^3\/\\text{s}$",
+            "c": "$4.55 \\text{ m}^3\/\\text{s}$",
+            "d": "$4.66 \\text{ m}^3\/\\text{s}$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Fluid Mechanics"
+        "sub_category": "Fluid Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 731,
         "question": "A solid wooden cube, 30.0 cm on each edge, can be totally submerged in water if it is pushed downward with a force of 54.0 N. What is the density of the wood?",
         "options": {
-            "a": "$600 \\text{ kg/m}^3$",
-            "b": "$700 \\text{ kg/m}^3$",
-            "c": "$800 \\text{ kg/m}^3$",
-            "d": "$900 \\text{ kg/m}^3$"
+            "a": "$600 \\text{ kg\/m}^3$",
+            "b": "$700 \\text{ kg\/m}^3$",
+            "c": "$800 \\text{ kg\/m}^3$",
+            "d": "$900 \\text{ kg\/m}^3$"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Physics"
+        "sub_category": "Physics",
+        "solutions": [
+            {
+                "solution_id": "sol_69a6870acc07d",
+                "user": "John",
+                "chosen_option": "c",
+                "image": "uploads\/solution_731_1772521226.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 733,
@@ -106,10 +141,14 @@
             "c": "53 kPa",
             "d": "55 kPa"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Fluid Mechanics"
+        "sub_category": "Fluid Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 734,
@@ -120,38 +159,50 @@
             "c": "5.5 kN",
             "d": "6.6 kN"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Thermodynamics"
+        "sub_category": "Thermodynamics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 735,
-        "question": "If a 1/3 hp pump runs for 20 minutes, What is the energy used?",
+        "question": "If a 1\/3 hp pump runs for 20 minutes, What is the energy used?",
         "options": {
             "a": "0.06 ergs",
             "b": "0.25 KN",
             "c": "0.30 MJ",
             "d": "0.11 kWhr"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Fluid Mechanics"
+        "sub_category": "Fluid Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 736,
-        "question": "A solid cube of aluminum is 2.00 cm on each edge. The density of aluminum is 2700 kg/cu. m. Find the mass of the cube.",
+        "question": "A solid cube of aluminum is 2.00 cm on each edge. The density of aluminum is 2700 kg\/cu. m. Find the mass of the cube.",
         "options": {
             "a": "26.1 g",
             "b": "21.5 g",
             "c": "32.4 g",
             "d": "34.2 g"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Fluid Mechanics"
+        "sub_category": "Fluid Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 737,
@@ -162,52 +213,75 @@
             "c": "10.93 min",
             "d": "0.973 min"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Fluid Mechanics"
+        "sub_category": "Fluid Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 738,
         "question": "What is the speed of sound through a compressed water (100 kPa), if its volume decreased by 0.007% of its original volume?",
         "options": {
-            "a": "4.55 m/s",
-            "b": "1414.23 m/s",
-            "c": "1195.23 m/s",
-            "d": "1395.11 m/s"
+            "a": "4.55 m\/s",
+            "b": "1414.23 m\/s",
+            "c": "1195.23 m\/s",
+            "d": "1395.11 m\/s"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Physics"
+        "sub_category": "Physics",
+        "solutions": [
+            {
+                "solution_id": "sol_69a68804a87e5",
+                "user": "John",
+                "chosen_option": "c",
+                "image": "uploads\/solution_738_1772521476.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 739,
-        "question": "A nozzle with a 2 cm diameter outlet is attached to a 10 cm diameter hose. If the exit velocity is 50 m/s, the force of the water on the nozzle is nearest:",
+        "question": "A nozzle with a 2 cm diameter outlet is attached to a 10 cm diameter hose. If the exit velocity is 50 m\/s, the force of the water on the nozzle is nearest:",
         "options": {
             "a": "9050 N",
             "b": "7500 N",
             "c": "2420 N",
             "d": "750 N"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Mechanics"
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 740,
-        "question": "What percentage of the human body will float in fresh water? Average density of human body is $980 \\text{ kg/cu. m}$.",
+        "question": "What percentage of the human body will float in fresh water? Average density of human body is $980 \\text{ kg\/cu. m}$.",
         "options": {
             "a": "98%",
             "b": "2%",
             "c": "96%",
             "d": "4%"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Fluid Mechanics"
+        "sub_category": "Fluid Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 741,
@@ -218,24 +292,32 @@
             "c": "341",
             "d": "314"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Fluid Mechanics"
+        "sub_category": "Fluid Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 742,
-        "question": "If the velocity of the flow in a 20 cm radius hose is 1.2 m/s, what is the output velocity in a 0.5 cm radius issuing from a nozzle attached at the end of the pipe?",
+        "question": "If the velocity of the flow in a 20 cm radius hose is 1.2 m\/s, what is the output velocity in a 0.5 cm radius issuing from a nozzle attached at the end of the pipe?",
         "options": {
-            "a": "0.192 m/s",
-            "b": "4.8 m/s",
-            "c": "0.3 m/s",
-            "d": "0.075 m/s"
+            "a": "0.192 m\/s",
+            "b": "4.8 m\/s",
+            "c": "0.3 m\/s",
+            "d": "0.075 m\/s"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Mechanics"
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 743,
@@ -246,10 +328,14 @@
             "c": "25 kPa",
             "d": "24 kPa"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Fluid Mechanics"
+        "sub_category": "Fluid Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 744,
@@ -260,9 +346,13 @@
             "c": "0.78",
             "d": "0.98"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Fluid Mechanics"
+        "sub_category": "Fluid Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     }
 ]

@@ -1,0 +1,382 @@
+[
+    {
+        "id": 930,
+        "question": "A student deposits P1,500 now and another P3,000 for the next 2 years. If he withdraws P5,000 three years after his last deposit, what will be the amount left in the bank one year after his withdrawal? Effective annual interest rate is 10%.",
+        "options": {
+            "a": "P1,549.64",
+            "b": "P1,345.98",
+            "c": "P1,459.64",
+            "d": "P1,945.64"
+        },
+        "answer": "c",
+        "correct_answer_text": "P1,459.64",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 931,
+        "question": "The amount of P12,800 in 4 years at 5% compounded quarterly is:",
+        "options": {
+            "a": "P14,785.34",
+            "b": "P15,614.59",
+            "c": "P16,311.26",
+            "d": "P15,847.33"
+        },
+        "answer": "b",
+        "correct_answer_text": "P15,614.59",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 932,
+        "question": "A sum of P1,000 is invested now and left for 8 years, at which time the principal is withdrawn. The interest accrued is left for another 8 years. If the effective annual interest is 5%, what is the withdrawn amount at the end of the 16th year?",
+        "options": {
+            "a": "P507.42",
+            "b": "P705.42",
+            "c": "P750.42",
+            "d": "P425.07"
+        },
+        "answer": "b",
+        "correct_answer_text": "P705.42",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 933,
+        "question": "How long would it take your money to double itself if it is invested at 6% simple interest, compounded semi-quarterly, and compounded continuously?",
+        "options": {
+            "a": "12.67 yrs; 11.2 yrs; 15.05 yrs",
+            "b": "18.67 yrs; 11.6 yrs; 11.24 yrs",
+            "c": "16.67 yrs; 11.6 yrs; 11.55 yrs",
+            "d": "17.67 yrs; 10.2 yrs; 11.45 yrs"
+        },
+        "answer": "c",
+        "correct_answer_text": "16.67 yrs; 11.6 yrs; 11.55 yrs",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 934,
+        "question": "P1000 is deposited in a bank at 7% interest. What is the value of the money after 25 years, assuming nothing else was deposited?",
+        "options": {
+            "a": "P 5, 247.63",
+            "b": "P 5, 427.43",
+            "c": "P 5, 437.34",
+            "d": "P 5, 720.51"
+        },
+        "answer": "b",
+        "correct_answer_text": "P 5, 427.43",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 935,
+        "question": "A certain amount was deposited 5 years and 9 months ago at an interest of 8% compounded quarterly. If the sum now is P315,379.85, how much was the amount deposited?",
+        "options": {
+            "a": "P200,000",
+            "b": "P180,000",
+            "c": "P240,000",
+            "d": "P260,000"
+        },
+        "answer": "a",
+        "correct_answer_text": "P200,000",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 936,
+        "question": "Find the time required for a sum of money to triple itself at 5% per annum compounded continuously.",
+        "options": {
+            "a": "21.97 years",
+            "b": "25.34 years",
+            "c": "18.23 years",
+            "d": "23.36 years"
+        },
+        "answer": "a",
+        "correct_answer_text": "21.97 years",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 937,
+        "question": "A man wishes to have P40,000 in a certain fund at the end of 8 years. How much should he invest in a fund that pays 6% compounded continuously?",
+        "options": {
+            "a": "P24,751.34",
+            "b": "P36,421.44",
+            "c": "P24,751.34",
+            "d": "P30,468.42"
+        },
+        "answer": "a",
+        "correct_answer_text": "P24,751.34",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 938,
+        "question": "American Express Corp. charges 1.5% interest per month, compounded continuously. Compute the effective rate of interest.",
+        "options": {
+            "a": "19.72%",
+            "b": "20.25%",
+            "c": "21.20%",
+            "d": "19.90%"
+        },
+        "answer": "a",
+        "correct_answer_text": "19.72%",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 939,
+        "question": "Compute the difference in the future amount of P500 compounded annually at nominal rate of 5% and if it is compounded continuously for 5 years at the same rate.",
+        "options": {
+            "a": "P3.87",
+            "b": "P4.21",
+            "c": "P5.48",
+            "d": "P6.25"
+        },
+        "answer": "a",
+        "correct_answer_text": "P3.87",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 940,
+        "question": "If the nominal interest rate is 3%, how much is P5000 worth in 10 years in a continuously compounded account?",
+        "options": {
+            "a": "P5750",
+            "b": "P6750",
+            "c": "P7500",
+            "d": "P6350"
+        },
+        "answer": "b",
+        "correct_answer_text": "P6750",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 941,
+        "question": "What is the present worth of two P100 payments at the end of the third year and fourth year if the annual interest rate is 8%?",
+        "options": {
+            "a": "P 150.56",
+            "b": "P 153.89",
+            "c": "P 152.88",
+            "d": "P 151.09"
+        },
+        "answer": "c",
+        "correct_answer_text": "P 152.88",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 942,
+        "question": "What is the present worth of a P500 annuity starting at the end of the third year and continuing to the end of the fourth year, if the annual interest rate is 10%?",
+        "options": {
+            "a": "P 727.17",
+            "b": "P 714.71",
+            "c": "P 717.17",
+            "d": "P 731.17"
+        },
+        "answer": "c",
+        "correct_answer_text": "P 717.17",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 943,
+        "question": "What annuity is required over 12 years to equate with a future amount of P 20,000? Assume i = 6% annually.",
+        "options": {
+            "a": "P 1,290.34",
+            "b": "P 1,107.34",
+            "c": "P 1,185.54",
+            "d": "P 1,205.74"
+        },
+        "answer": "c",
+        "correct_answer_text": "P 1,185.54",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 944,
+        "question": "A factory operator bought a set for P 10,000.00 and agreed to pay uniform sums at the end of each year for 5 years at 8% interest. What is the annual payment?",
+        "options": {
+            "a": "P 2,500.57",
+            "b": "P 2,540.56",
+            "c": "P 2,544.45",
+            "d": "P 2,504.57"
+        },
+        "answer": "d",
+        "correct_answer_text": "P 2,504.57",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 945,
+        "question": "What is the present worth of a 3 year annuity paying P 3,000.00 at the end of each year, with interest at 8% compounded annually?",
+        "options": {
+            "a": "P 7,654.04",
+            "b": "P 7,420.89",
+            "c": "P 7,731.29",
+            "d": "P 7,590.12"
+        },
+        "answer": "c",
+        "correct_answer_text": "P 7,731.29",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 946,
+        "question": "A man loans P 187,400 with interest at 5%. He agrees to pay 8 equal annual payments, the first due at the end of 10 years. Find the annual payments.",
+        "options": {
+            "a": "P 43,600.10",
+            "b": "P 43,263.91",
+            "c": "P 43,489.47",
+            "d": "P 43,763.20"
+        },
+        "answer": "c",
+        "correct_answer_text": "P 43,489.47",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 947,
+        "question": "A person buys a lot for P 100,000 downpayment and 10 deferred semi-annual payments of P 8,000 each, starting three years from now. What is the present value if interest is 12% compounded semi-annually?",
+        "options": {
+            "a": "P 142,999.08",
+            "b": "P 142,189.67",
+            "c": "P 143,104.89",
+            "d": "P 143,999.08"
+        },
+        "answer": "d",
+        "correct_answer_text": "P 143,999.08",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 948,
+        "question": "A young engineer borrowed P 10,000 at 12% interest and paid P 2,000 per annum for the last 4 years. What must he pay at the end of the fifth year to pay off his loan?",
+        "options": {
+            "a": "P 6,999.39",
+            "b": "P 6,222.39",
+            "c": "P 6,292.93",
+            "d": "P 6,922.93"
+        },
+        "answer": "d",
+        "correct_answer_text": "P 6,922.93",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 949,
+        "question": "Miss Calledo deposited P 1,000, P 1,500 and P 2,000 at the end of the 2nd, 3rd and 4th year respectively in an account earning 10%. How much is in the account at the end of the 4th year?",
+        "options": {
+            "a": "P 4,880.00",
+            "b": "P 4,860.00",
+            "c": "P 4,820.00",
+            "d": "P 4,840.00"
+        },
+        "answer": "b",
+        "correct_answer_text": "P 4,860.00",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    }
+]

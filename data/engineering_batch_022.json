@@ -1,0 +1,382 @@
+[
+    {
+        "id": 950,
+        "question": "Annuity required over 10 years to equate to a future amount of P 15,000 with i=5%:",
+        "options": {
+            "a": "P 1, 192.57",
+            "b": "P 1, 219.60",
+            "c": "P 1, 912.75",
+            "d": "P 1, 921.65"
+        },
+        "answer": "a",
+        "correct_answer_text": "P 1, 192.57",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 951,
+        "question": "A debt of P 1,000 is to be paid in 5 equal yearly payments at 4%. What should be the amount of each payment?",
+        "options": {
+            "a": "P 220.50",
+            "b": "P 242.61",
+            "c": "P 224.62",
+            "d": "P 222.50"
+        },
+        "answer": "c",
+        "correct_answer_text": "P 224.62",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 952,
+        "question": "A company sets aside P 300,000 each year. If the fund earns 9%, how long will it take to build a building costing P 3,000,000?",
+        "options": {
+            "a": "7.34 years",
+            "b": "7.20 years",
+            "c": "7.44 years",
+            "d": "7.54 years"
+        },
+        "answer": "d",
+        "correct_answer_text": "7.54 years",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 953,
+        "question": "Maintenance for equipment is $5,000 in year 1, increasing by $500 annually through year 10. At 10% interest, the present worth is nearest to:",
+        "options": {
+            "a": "$38,220",
+            "b": "$46,660",
+            "c": "$42,170",
+            "d": "$51,790"
+        },
+        "answer": "a",
+        "correct_answer_text": "$38,220",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 954,
+        "question": "A strip mining operation cash flow is $200,000 in year 1, decreasing by $20,000 per year through 8. At 12% interest, the equivalent annual cash flow is nearest to:",
+        "options": {
+            "a": "$61,970",
+            "b": "$185,070",
+            "c": "$142,738",
+            "d": "$261,970"
+        },
+        "answer": "c",
+        "correct_answer_text": "$142,738",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 955,
+        "question": "A contractor has 4 employees with combined salaries of $150,000. If he gives 5% raises each year, what is the present worth of salaries over 5 years at 12% interest?",
+        "options": {
+            "a": "$591,000",
+            "b": "$702,900",
+            "c": "$816,100",
+            "d": "$429,300"
+        },
+        "answer": "a",
+        "correct_answer_text": "$591,000",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 956,
+        "question": "A machine costs P 8,000 with a life of 10 years and salvage of P 500. What is its book value after 8 years using straight line method?",
+        "options": {
+            "a": "P 2,000.00",
+            "b": "P 2,200.00",
+            "c": "P 2,100.00",
+            "d": "P 2,300.00"
+        },
+        "answer": "a",
+        "correct_answer_text": "P 2,000.00",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 957,
+        "question": "Cost of equipment = $5000, Salvage = $500, Life = 10 years. Using straight line method, the yearly depreciation charge is:",
+        "options": {
+            "a": "$500",
+            "b": "$50",
+            "c": "$550",
+            "d": "$450"
+        },
+        "answer": "d",
+        "correct_answer_text": "$450",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 958,
+        "question": "Annual depreciation is 40,000, cost is 500,000. Rate of depreciation according to straight-line method is:",
+        "options": {
+            "a": "9%",
+            "b": "16%",
+            "c": "18%",
+            "d": "8%"
+        },
+        "answer": "d",
+        "correct_answer_text": "8%",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 959,
+        "question": "Equipment bought for Php 450,000 has a life of 5 years and salvage of Php 50,000. Compute first year depreciation using Declining Balance Method.",
+        "options": {
+            "a": "174,300",
+            "b": "160,200",
+            "c": "143,800",
+            "d": "120,500"
+        },
+        "answer": "b",
+        "correct_answer_text": "160,200",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 960,
+        "question": "A machine costs Php 300,000 with salvage of Php 50,000 after 10 years. If money is worth 6%, use Sinking Fund Method to determine depreciation at the 6th year.",
+        "options": {
+            "a": "12687",
+            "b": "15385",
+            "c": "18967",
+            "d": "23587"
+        },
+        "answer": "c",
+        "correct_answer_text": "18967",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 961,
+        "question": "Manufacturer costs: labor P115, material P76, variable P2.32. If unit price is P600, how many units to break even if monthly overhead is P428,000?",
+        "options": {
+            "a": "1,033",
+            "b": "1,043",
+            "c": "1,037",
+            "d": "1,053"
+        },
+        "answer": "b",
+        "correct_answer_text": "1,043",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 962,
+        "question": "Shoe manufacturer: labor P900, material P800, royalty P1000, variable P400 per pair. Fixed charges P5,000,000/month. If price is P5,000, how many pairs to break-even?",
+        "options": {
+            "a": "2,590",
+            "b": "2,712",
+            "c": "2,632",
+            "d": "2,890"
+        },
+        "answer": "c",
+        "correct_answer_text": "2,632",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 963,
+        "question": "A runner maintains constant acceleration after starting from rest as she runs a distance of 60.0 m. The runner's speed at the end of the 60.0 m is 9.00 m/s. How much time did it take the runner to complete the 60.0 m distance?",
+        "options": {
+            "a": "6.67 s",
+            "b": "15.0 s",
+            "c": "13.33 s",
+            "d": "10.2 s"
+        },
+        "answer": "c",
+        "correct_answer_text": "13.33 s",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 964,
+        "question": "A hobby rocket reaches a height of 72.3 m and lands 111 m from the launch point with no air resistance. What was the angle of launch?",
+        "options": {
+            "a": "69.0°",
+            "b": "67.4°",
+            "c": "22.6°",
+            "d": "44.8°"
+        },
+        "answer": "a",
+        "correct_answer_text": "69.0°",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 965,
+        "question": "A driver in a 1000 kg car traveling at 20 m/s slams on the brakes and skids to a stop. If the coefficient of friction between the tires and the horizontal road is 0.80, how long will the skid marks be?",
+        "options": {
+            "a": "26 m",
+            "b": "21 m",
+            "c": "33 m",
+            "d": "24 m"
+        },
+        "answer": "a",
+        "correct_answer_text": "26 m",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 966,
+        "question": "A 200 g hockey puck is launched up a metal ramp that is inclined at a 30° angle. The coefficients of static and kinetic friction between the hockey puck and the metal ramp are μs = 0.40 and μk = 0.30, respectively. The puck's initial speed is 63 m/s. What vertical height does the puck reach above its starting point?",
+        "options": {
+            "a": "130 m",
+            "b": "270 m",
+            "c": "200 m",
+            "d": "66 m"
+        },
+        "answer": "a",
+        "correct_answer_text": "130 m",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 967,
+        "question": "A 250-kg crate is on a rough ramp, inclined at 30° above the horizontal. The coefficient of kinetic friction between the crate and ramp is 0.22. A horizontal force of 5000 N is applied to the crate, pushing it up the ramp. What is the acceleration of the crate?",
+        "options": {
+            "a": "8.4 m/s²",
+            "b": "10 m/s²",
+            "c": "12 m/s²",
+            "d": "13 m/s²"
+        },
+        "answer": "a",
+        "correct_answer_text": "8.4 m/s²",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 968,
+        "question": "A car travels at a steady 40.0 m/s around a horizontal curve of radius 200 m. What is the minimum coefficient of static friction between the road and the car's tires that will allow the car to travel at this speed without sliding?",
+        "options": {
+            "a": "1.23",
+            "b": "0.816",
+            "c": "0.736",
+            "d": "0.952"
+        },
+        "answer": "b",
+        "correct_answer_text": "0.816",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 969,
+        "question": "A car enters a 300-m radius horizontal curve on a rainy day when the coefficient of static friction between its tires and the road is 0.600. What is the maximum speed at which the car can travel around this curve without sliding?",
+        "options": {
+            "a": "29.6 m/s",
+            "b": "33.1 m/s",
+            "c": "24.8 m/s",
+            "d": "42.0 m/s"
+        },
+        "answer": "d",
+        "correct_answer_text": "42.0 m/s",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    }
+]

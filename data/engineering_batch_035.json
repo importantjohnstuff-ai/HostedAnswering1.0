@@ -1,0 +1,383 @@
+[
+    {
+        "id": 1210,
+        "question": "Determine the solubility of $CO_2$ in soda water at 25°C if the pressure of $CO_2$ is 5.2 atm. The Henry's law constant for carbon dioxide in water at this temperature is $3.4 \\times 10^{-2}$ M/atm.",
+        "options": {
+            "a": "0.15 M",
+            "b": "0.57 M",
+            "c": "0.65 M",
+            "d": "0.18 M",
+            "e": "0.29 M"
+        },
+        "answer": "d",
+        "correct_answer_text": "0.18 M",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1211,
+        "question": "The minimum size of copper equipment grounding conductor required for equipment connected to a 40 A branch circuit is:",
+        "options": {
+            "a": "3.5 sq. mm",
+            "b": "4.0 sq. mm",
+            "c": "5.5 sq. mm",
+            "d": "8.0 sq. mm"
+        },
+        "answer": "c",
+        "correct_answer_text": "5.5 sq. mm",
+        "category": "Engineering Sciences",
+        "sub_category": "Engineering Sciences",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1212,
+        "question": "The principle that states \"where the velocity is high, the pressure is low, and where the velocity is low, the pressure is high\" is known as:",
+        "options": {
+            "a": "Pascal's",
+            "b": "Bernoulli's",
+            "c": "Archimedes'",
+            "d": "Boyle's Law"
+        },
+        "answer": "b",
+        "correct_answer_text": "Bernoulli's",
+        "category": "Engineering Sciences",
+        "sub_category": "Fluid Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1213,
+        "question": "The charge of an aluminum atom in an aluminum bar is:",
+        "options": {
+            "a": "+3",
+            "b": "-3",
+            "c": "0",
+            "d": "+1"
+        },
+        "answer": "c",
+        "correct_answer_text": "0",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1214,
+        "question": "PSALM in EPIRA stands for:",
+        "options": {
+            "a": "Power Sector Assets and Liabilities Management",
+            "b": "Philippine System of Applied Load Management",
+            "c": "Power System Administration of Luzon and Mindanao",
+            "d": "Philippine Sector Allocation for Load Management"
+        },
+        "answer": "a",
+        "correct_answer_text": "Power Sector Assets and Liabilities Management",
+        "category": "Engineering Sciences",
+        "sub_category": "Engineering Sciences",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1215,
+        "question": "A boy and his sledge weigh mg on an inclined plane with angle o and coefficient of friction u. The frictional force is:",
+        "options": {
+            "a": "umg sing",
+            "b": "umg cosp",
+            "c": "mg tang",
+            "d": "uφ"
+        },
+        "answer": "b",
+        "correct_answer_text": "umg cosp",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1216,
+        "question": "Under R.A. 7920 Penalty Clause, the fine shall be:",
+        "options": {
+            "a": "Not less than P5,000",
+            "b": "Not less than P10,000",
+            "c": "Not more than P10,000",
+            "d": "Not more than P20,000"
+        },
+        "answer": "b",
+        "correct_answer_text": "Not less than P10,000",
+        "category": "Engineering Sciences",
+        "sub_category": "Engineering Sciences",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1217,
+        "question": "The process of determining the value or worth of a physical property for a specific reason is called:",
+        "options": {
+            "a": "Evaluation",
+            "b": "Valuation",
+            "c": "Costing",
+            "d": "Appraisal"
+        },
+        "answer": "b",
+        "correct_answer_text": "Valuation",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1218,
+        "question": "A string of linear density 1.5 g/m is under a tension of 20 N. What should its length be if its fundamental resonance frequency is 220 Hz?",
+        "options": {
+            "a": "0.26 m",
+            "b": "0.96 m",
+            "c": "1.1 m",
+            "d": "1.2 m"
+        },
+        "answer": "a",
+        "correct_answer_text": "0.26 m",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1219,
+        "question": "According to R.A. 7920 Sec. 17(b), an applicant for Registered Electrical Engineer must be at least:",
+        "options": {
+            "a": "18 years old",
+            "b": "20 years old",
+            "c": "21 years old",
+            "d": "23 years old"
+        },
+        "answer": "c",
+        "correct_answer_text": "21 years old",
+        "category": "Engineering Sciences",
+        "sub_category": "Engineering Sciences",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1220,
+        "question": "The equipment grounding conductor of a branch circuit shall be identified by the color:",
+        "options": {
+            "a": "Black",
+            "b": "Green and yellow",
+            "c": "Red",
+            "d": "White"
+        },
+        "answer": "b",
+        "correct_answer_text": "Green and yellow",
+        "category": "Engineering Sciences",
+        "sub_category": "Engineering Sciences",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1221,
+        "question": "The most important element that controls the physical properties of steel is:",
+        "options": {
+            "a": "Nickel",
+            "b": "Chromium",
+            "c": "Carbon",
+            "d": "Manganese"
+        },
+        "answer": "c",
+        "correct_answer_text": "Carbon",
+        "category": "Engineering Sciences",
+        "sub_category": "Strength of Materials",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1222,
+        "question": "A Newtonian fluid is that fluid which:",
+        "options": {
+            "a": "Has zero viscosity",
+            "b": "Obeys Newton's law of viscosity",
+            "c": "Has viscosity that depends on pressure only",
+            "d": "Is compressible and non-viscous"
+        },
+        "answer": "b",
+        "correct_answer_text": "Obeys Newton's law of viscosity",
+        "category": "Engineering Sciences",
+        "sub_category": "Fluid Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1223,
+        "question": "When a sound source or listener is in motion relative to the air, the change in pitch heard by the listener is called the:",
+        "options": {
+            "a": "Resonance effect",
+            "b": "Doppler effect",
+            "c": "Beats phenomenon",
+            "d": "Echo effect"
+        },
+        "answer": "b",
+        "correct_answer_text": "Doppler effect",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1224,
+        "question": "Bronze is an alloy of:",
+        "options": {
+            "a": "Cu and Zn",
+            "b": "Cu and Sn",
+            "c": "Fe and C",
+            "d": "Al and Si"
+        },
+        "answer": "b",
+        "correct_answer_text": "Cu and Sn",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1225,
+        "question": "A concave mirror with a radius of 20 cm creates a real image 30 cm from the mirror. What is the object distance?",
+        "options": {
+            "a": "20 cm",
+            "b": "15 cm",
+            "c": "7.5 cm",
+            "d": "5.0 cm"
+        },
+        "answer": "b",
+        "correct_answer_text": "15 cm",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1226,
+        "question": "The present worth of cost associated with an asset for an infinite period of time is called:",
+        "options": {
+            "a": "Salvage value",
+            "b": "Recurring cost",
+            "c": "Capitalized cost",
+            "d": "Present depreciation"
+        },
+        "answer": "c",
+        "correct_answer_text": "Capitalized cost",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1227,
+        "question": "Which gas law states that the total volume occupied by a mixture of gases equals the sum of their pure component volumes at constant temperature and pressure?",
+        "options": {
+            "a": "Dalton's law",
+            "b": "Boyle's law",
+            "c": "Amagat's law",
+            "d": "Charles's law"
+        },
+        "answer": "c",
+        "correct_answer_text": "Amagat's law",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1228,
+        "question": "A claim of anyone to ownership is called:",
+        "options": {
+            "a": "Mortgage",
+            "b": "Equity",
+            "c": "Lien",
+            "d": "Title"
+        },
+        "answer": "d",
+        "correct_answer_text": "Title",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1229,
+        "question": "The heat transfer due to motion of matter caused by a change in density is called:",
+        "options": {
+            "a": "Conduction",
+            "b": "Convection",
+            "c": "Radiation",
+            "d": "Advection"
+        },
+        "answer": "b",
+        "correct_answer_text": "Convection",
+        "category": "Engineering Sciences",
+        "sub_category": "Thermodynamics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    }
+]

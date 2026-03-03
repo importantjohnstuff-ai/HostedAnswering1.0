@@ -1,0 +1,382 @@
+[
+    {
+        "id": 910,
+        "question": "You obtained a loan of P20,000 to finance the purchase of an automobile. Based on monthly compounding for 24 months, the equal payment was P922.90. Immediately after making the 12th payment, you decide to pay off the loan in lump sum. The size of this lump sum amount is nearest to:",
+        "options": {
+            "a": "P10,498",
+            "b": "P12,044",
+            "c": "P11,075",
+            "d": "P12,546"
+        },
+        "answer": "a",
+        "correct_answer_text": "P10,498",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 911,
+        "question": "The GX-006 Alternator set was bought at 95,000 pesos with an annual maintenance cost of 16,800 pesos. The scrap value at the end of its 5-year life is 15,400 pesos at a rate of 9% annually. Determine the equivalent uniform annual cost of the alternator:",
+        "options": {
+            "a": "67,893",
+            "b": "38,650",
+            "c": "45,890",
+            "d": "31,780"
+        },
+        "answer": "b",
+        "correct_answer_text": "38,650",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 912,
+        "question": "The amount of P 12,800 in 4 years at 5% compounded quarterly is:",
+        "options": {
+            "a": "P 14,785.34",
+            "b": "P 16,311.26",
+            "c": "P 15,614.59",
+            "d": "P 15,847.33"
+        },
+        "answer": "c",
+        "correct_answer_text": "P 15,614.59",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 913,
+        "question": "A machine has been purchased and is to be paid in an annual series of payments at the end of each of the next five years at $1000. What is the present worth of the payments at 6% interest compounded annually?",
+        "options": {
+            "a": "$4212",
+            "b": "$4333",
+            "c": "$4122",
+            "d": "$4112"
+        },
+        "answer": "a",
+        "correct_answer_text": "$4212",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 914,
+        "question": "A loan of P5,000 is made for a period of 15 months, at a simple interest rate of 15%, what future amount is due at the end of the loan period?",
+        "options": {
+            "a": "5,937.50",
+            "b": "5,712.40",
+            "c": "5,873.20",
+            "d": "5,690.12"
+        },
+        "answer": "a",
+        "correct_answer_text": "5,937.50",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 915,
+        "question": "Mr. Bacani borrowed money from the bank. He received from the bank P1,842 and promised to repay P2,000 at the end of 10 months. Determine the rate of simple interest.",
+        "options": {
+            "a": "12.19%",
+            "b": "11.54%",
+            "c": "12.03%",
+            "d": "10.29%"
+        },
+        "answer": "d",
+        "correct_answer_text": "10.29%",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 916,
+        "question": "The exact simple interest of P5,000 invested from June 21, 1995 to December 25, 1995 is P100. What is the rate of interest?",
+        "options": {
+            "a": "3.90%",
+            "b": "3.95%",
+            "c": "3.92%",
+            "d": "3.98%"
+        },
+        "answer": "c",
+        "correct_answer_text": "3.92%",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 917,
+        "question": "What is the ordinary interest on P1,500.50 for 182 days at 5.2%?",
+        "options": {
+            "a": "P39.01",
+            "b": "P39.45",
+            "c": "P39.82",
+            "d": "P39.99"
+        },
+        "answer": "b",
+        "correct_answer_text": "P39.45",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 918,
+        "question": "What is the interest due on a P 1500 note for 4 years and 3 months, if it bears 12% ordinary simple interest?",
+        "options": {
+            "a": "P 756",
+            "b": "P 675",
+            "c": "P 765",
+            "d": "P 576"
+        },
+        "answer": "c",
+        "correct_answer_text": "P 765",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 919,
+        "question": "P4000 is borrowed for 75 days at 16% per annum simple interest. How much will be due at the end of 75 days?",
+        "options": {
+            "a": "P4186.43",
+            "b": "P5124.54",
+            "c": "P4133.33",
+            "d": "P5625.43"
+        },
+        "answer": "c",
+        "correct_answer_text": "P4133.33",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 920,
+        "question": "A college freshman borrowed P2,000 from a bank for his tuition fee and promised to pay the amount for one year. He received only the amount of P1,920 after the bank collected the advance Interest of P80.00. What was the rate of discount?",
+        "options": {
+            "a": "3.67%",
+            "b": "4.15%",
+            "c": "4.00%",
+            "d": "4.25%"
+        },
+        "answer": "c",
+        "correct_answer_text": "4.00%",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 921,
+        "question": "A bank grants a loan of P80,000 at 14% interest for one year, but the interest (P11,200) is automatically deducted up front. The borrower receives P68,800 and must pay P80,000 after one year. What is the effective interest rate?",
+        "options": {
+            "a": "16.02%",
+            "b": "16.32%",
+            "c": "16.28%",
+            "d": "16.47%"
+        },
+        "answer": "c",
+        "correct_answer_text": "16.28%",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 922,
+        "question": "Mr. J. Dela Cruz borrowed money from the bank. He received from the bank P1,340.00 and promised to pay P1,500.00 at the end of 9 months. Determine the simple interest rate and the corresponding discount rate (Banker's Discount).",
+        "options": {
+            "a": "15.92%; 13.73%",
+            "b": "18.28%; 13.12%",
+            "c": "12.95%; 17.33%",
+            "d": "19.25%; 13.33%"
+        },
+        "answer": "a",
+        "correct_answer_text": "15.92%; 13.73%",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 923,
+        "question": "What is the effective rate corresponding to 18% compounded daily? Take 1 year is equal to 360 days.",
+        "options": {
+            "a": "19.61%",
+            "b": "19.31%",
+            "c": "19.44%",
+            "d": "19.72%"
+        },
+        "answer": "d",
+        "correct_answer_text": "19.72%",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 924,
+        "question": "What rate of interest compounded annually is the same as the rate of interest of 8% compounded quarterly?",
+        "options": {
+            "a": "8.07%",
+            "b": "8.16%",
+            "c": "8.12%",
+            "d": "8.24%"
+        },
+        "answer": "d",
+        "correct_answer_text": "8.24%",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 925,
+        "question": "Which of these gives the lowest effective rate of interest?",
+        "options": {
+            "a": "12.35% compounded annually",
+            "b": "11.90% compounded annually",
+            "c": "12.20% compounded annually",
+            "d": "11.60% compounded annually"
+        },
+        "answer": "d",
+        "correct_answer_text": "11.60% compounded annually",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 926,
+        "question": "An amount of P1,000 becomes P1,608.44 after 4 years compounded bimonthly. Find the nominal interest.",
+        "options": {
+            "a": "11.89%",
+            "b": "12.08%",
+            "c": "12.00%",
+            "d": "12.32%"
+        },
+        "answer": "c",
+        "correct_answer_text": "12.00%",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 927,
+        "question": "How long will it take money to double itself if invested at 5% compounded annually?",
+        "options": {
+            "a": "13.7 years",
+            "b": "14.2 years",
+            "c": "14.7 years",
+            "d": "15.3 years"
+        },
+        "answer": "b",
+        "correct_answer_text": "14.2 years",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 928,
+        "question": "By the condition of a will, the sum of P20,000 is left to a girl until it amounts to P50,000. When will she receive the money if the fund is invested at 8% compounded quarterly?",
+        "options": {
+            "a": "11.23 years",
+            "b": "11.57 years",
+            "c": "11.46 years",
+            "d": "11.87 years"
+        },
+        "answer": "b",
+        "correct_answer_text": "11.57 years",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 929,
+        "question": "Mandarin Bank advertises a 9.5% account that yields 9.84% annually. Find how often the interest is compounded.",
+        "options": {
+            "a": "Monthly",
+            "b": "Quarterly",
+            "c": "Bimonthly",
+            "d": "Annually"
+        },
+        "answer": "a",
+        "correct_answer_text": "Monthly",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    }
+]

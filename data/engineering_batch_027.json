@@ -1,0 +1,382 @@
+[
+    {
+        "id": 1050,
+        "question": "A bulldozer pulls a log weighing 500 N (51 kg) along a rough surface. The cable attached to the log makes an angle of 30.0 deg with the horizontal. The coefficient of static friction between the log and the ground is 0.500. What minimum tension is required in the cable in order for the log to begin to move?",
+        "options": {
+            "a": "224 N",
+            "b": "268 N",
+            "c": "289 N",
+            "d": "500 N"
+        },
+        "answer": "b",
+        "correct_answer_text": "268 N",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1051,
+        "question": "What is the critical angle for light traveling from crown glass (n=1.52) into water (n=1.33)?",
+        "options": {
+            "a": "42°",
+            "b": "48°",
+            "c": "53°",
+            "d": "57°"
+        },
+        "answer": "b",
+        "correct_answer_text": "48°",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1052,
+        "question": "A convex spherical mirror with a focal length of magnitude 25 cm has a 4.0-cm tall flower placed 100 cm in front of it. What is the height of the image of the flower?",
+        "options": {
+            "a": "0.80 cm",
+            "b": "20 cm",
+            "c": "4.0 cm",
+            "d": "1.6 cm"
+        },
+        "answer": "a",
+        "correct_answer_text": "0.80 cm",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1053,
+        "question": "An object that weighs 2.450 N is attached to an ideal massless spring and undergoes simple harmonic oscillations with a period of 0.640 s. What is the spring constant of the spring?",
+        "options": {
+            "a": "2.45 N/m",
+            "b": "12.1 N/m",
+            "c": "24.1 N/m",
+            "d": "1.0 x 10^2 N/m"
+        },
+        "answer": "c",
+        "correct_answer_text": "24.1 N/m",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1054,
+        "question": "A 0.25 kg ideal harmonic oscillator has a total mechanical energy. If the oscillation amplitude is given, what is the oscillation frequency?",
+        "options": {
+            "a": "4.5 Hz",
+            "b": "1.4 Hz",
+            "c": "2.3 Hz",
+            "d": "3.2 Hz"
+        },
+        "answer": "b",
+        "correct_answer_text": "1.4 Hz",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1055,
+        "question": "A 6.00-m long rope is under a tension of 600 N. Waves travel along this rope at 40.0 m/s. What is the mass of the rope?",
+        "options": {
+            "a": "1.00 kg",
+            "b": "1.25 kg",
+            "c": "2.25 kg",
+            "d": "2.50 kg"
+        },
+        "answer": "c",
+        "correct_answer_text": "2.25 kg",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1056,
+        "question": "A 1.0-g string that is 0.64 m long is fixed at both ends and is under tension. This string produces a 100-Hz tone when it vibrates in the third harmonic. The tension in the string is closest to:",
+        "options": {
+            "a": "2.8 N",
+            "b": "2.3 N",
+            "c": "1.8 N",
+            "d": "3.4 N"
+        },
+        "answer": "a",
+        "correct_answer_text": "2.8 N",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1057,
+        "question": "A platinum wire that is 1.20 m long has a radius of 0.500 mm and is fixed at both ends. In its third harmonic it vibrates at 512 Hz. The density of platinum is 21.4 x 10^3 kg/m3. What is the tension in the wire?",
+        "options": {
+            "a": "4.00 kN",
+            "b": "2.00 kN",
+            "c": "2.82 kN",
+            "d": "1.41 kN"
+        },
+        "answer": "c",
+        "correct_answer_text": "2.82 kN",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1058,
+        "question": "A certain crying baby emits sound with an intensity of 8.0 x 10^-8 W/m2. What is the intensity level due to a set of five such crying babies, all crying with the same intensity? (Reference I0 = 1.0 x 10^-12 W/m2)",
+        "options": {
+            "a": "79 dB",
+            "b": "69 dB",
+            "c": "56 dB",
+            "d": "49 dB"
+        },
+        "answer": "c",
+        "correct_answer_text": "56 dB",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1059,
+        "question": "If the intensity level at distance d of one trombone is 70 dB, what is the intensity level of 76 identical trombones, all at distance d?",
+        "options": {
+            "a": "146 dB",
+            "b": "89 dB",
+            "c": "5320 dB",
+            "d": "76 dB"
+        },
+        "answer": "b",
+        "correct_answer_text": "89 dB",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1060,
+        "question": "One of the harmonics of a column of air open at one end and closed at the other has a frequency of 448 Hz and the next higher harmonic has a frequency of 576 Hz. What is the fundamental frequency of the air column?",
+        "options": {
+            "a": "32 Hz",
+            "b": "64 Hz",
+            "c": "88 Hz",
+            "d": "128 Hz"
+        },
+        "answer": "b",
+        "correct_answer_text": "64 Hz",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1061,
+        "question": "A pipe is 0.90 m long and is open at one end but closed at the other end. If it resonates with a tone whose wavelength is 0.72 m, what is the wavelength of the next higher overtone in this pipe?",
+        "options": {
+            "a": "0.36 m",
+            "b": "0.40 m",
+            "c": "0.45 m",
+            "d": "0.51 m"
+        },
+        "answer": "b",
+        "correct_answer_text": "0.40 m",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1062,
+        "question": "An organ pipe open at both ends has two successive harmonics with frequencies of 210 Hz and 240 Hz. What is the length of the pipe?",
+        "options": {
+            "a": "5.25 m",
+            "b": "5.73 m",
+            "c": "2.76 m",
+            "d": "4.90 m"
+        },
+        "answer": "b",
+        "correct_answer_text": "5.73 m",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1063,
+        "question": "As you stand by the side of the road, a car approaches you at a constant speed, sounding its horn, and you hear a frequency of 80.0 Hz. After the car goes by, you hear a frequency of 60.0 Hz. What is the speed of the car? (Speed of sound = 343 m/s)",
+        "options": {
+            "a": "64.0 m/s",
+            "b": "49.0 m/s",
+            "c": "16.0 m/s",
+            "d": "36.0 m/s"
+        },
+        "answer": "b",
+        "correct_answer_text": "49.0 m/s",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1064,
+        "question": "A boy on a bicycle approaches a brick wall as he sounds his horn at a frequency 400.00 Hz. The sound he hears reflected back from the wall is at a frequency 408.00 Hz. At what speed is the boy riding his bicycle toward the wall? (Speed of sound = 340 m/s)",
+        "options": {
+            "a": "3.68 m/s",
+            "b": "3.33 m/s",
+            "c": "6.67 m/s",
+            "d": "3.37 m/s"
+        },
+        "answer": "b",
+        "correct_answer_text": "3.33 m/s",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1065,
+        "question": "An airplane flying faster than the speed of sound of 340 m/s produces a shock wave that makes an angle of 50° with the direction the plane is flying. What is the speed of the plane?",
+        "options": {
+            "a": "490 m/s",
+            "b": "530 m/s",
+            "c": "390 m/s",
+            "d": "440 m/s"
+        },
+        "answer": "d",
+        "correct_answer_text": "440 m/s",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1066,
+        "question": "What is the minimum magnitude of an electric field that balances the weight of a plastic sphere of mass 6.4 g that has been charged to -3.0 nC?",
+        "options": {
+            "a": "2.1 x 10^7 N/C",
+            "b": "4.5 x 10^6 N/C",
+            "c": "2.4 x 10^6 N/C",
+            "d": "6.4 x 10^6 N/C"
+        },
+        "answer": "a",
+        "correct_answer_text": "2.1 x 10^7 N/C",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1067,
+        "question": "Two thin-walled concentric conducting spheres of radii 5.0 cm and 10 cm have a potential difference of 100 V between them. What is the capacitance of this combination?",
+        "options": {
+            "a": "11 pF",
+            "b": "14 pF",
+            "c": "7 pF",
+            "d": "19 pF"
+        },
+        "answer": "a",
+        "correct_answer_text": "11 pF",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1068,
+        "question": "The heater element of a particular 120-V toaster is a 8.9-m length of nichrome wire, whose diameter is 0.86 mm. The resistivity of nichrome is 1.3 x 10^-6 Ω·m. How much power does it draw?",
+        "options": {
+            "a": "720 W",
+            "b": "700 W",
+            "c": "750 W",
+            "d": "770 W"
+        },
+        "answer": "a",
+        "correct_answer_text": "720 W",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1069,
+        "question": "When a 20.0-ohm resistor is connected across the terminals of a 12.0-V battery, the voltage across the terminals falls by 0.300 V. What is the internal resistance of this battery?",
+        "options": {
+            "a": "3.60 Ω",
+            "b": "1.56 Ω",
+            "c": "0.98 Ω",
+            "d": "0.51 Ω"
+        },
+        "answer": "d",
+        "correct_answer_text": "0.51 Ω",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    }
+]

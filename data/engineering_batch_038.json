@@ -1,0 +1,382 @@
+[
+    {
+        "id": 1270,
+        "question": "A mother invests on an educational plan now that will provide a total of P 780,400 for his 7-year old son's tertiary education in University of Sto. Tomas-Electrical Engineering. If the son starts college at the age of 18, what is the investment? Take i=9% compounded quarterly:",
+        "options": {
+            "a": "P 203,440",
+            "b": "P 293,177",
+            "c": "P 193,590",
+            "d": "P 98,654"
+        },
+        "answer": "b",
+        "correct_answer_text": "P 293,177",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1271,
+        "question": "If the sum of P15,000 is deposited in an account earning 4% per annum compounded quarterly, what will be the deposited amount at the end of 5 years?",
+        "options": {
+            "a": "P18,302.85",
+            "b": "P18,450.89",
+            "c": "P18,512.83",
+            "d": "P18,638.29"
+        },
+        "answer": "a",
+        "correct_answer_text": "P18,302.85",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1272,
+        "question": "Determine the annuity required to pay a loan of P28,400 from a local bank that is compounded quarterly at 6% rate for 5 years:",
+        "options": {
+            "a": "P1654",
+            "b": "P1054",
+            "c": "P1456",
+            "d": "P1564"
+        },
+        "answer": "a",
+        "correct_answer_text": "P1654",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1273,
+        "question": "In an amortization agreement P15,000 must be paid monthly for an equipment that has a present worth of P650,000 for 3 years at 3% compounded monthly. The down payment upon acquirement is most nearly:",
+        "options": {
+            "a": "143,600",
+            "b": "134,200",
+            "c": "231,670",
+            "d": "89,560"
+        },
+        "answer": "b",
+        "correct_answer_text": "134,200",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1274,
+        "question": "How is \"molality\" defined?",
+        "options": {
+            "a": "the number of moles of solute in 1 L of solution",
+            "b": "the number of gram-equivalent weights of solute in L of solution",
+            "c": "the number of moles of solute in 1000 g of solvent",
+            "d": "the number of gram-formula weights of solute per liter"
+        },
+        "answer": "c",
+        "correct_answer_text": "the number of moles of solute in 1000 g of solvent",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1275,
+        "question": "A loan may be paid by 10 equal end of year payments of P1000 each. If interest rate is 10% effective, what 5 equal end of year payments will equitably repay the said loan if the first payment falls at the end of the 3rd year?",
+        "options": {
+            "a": "P1961.31",
+            "b": "P1962.31",
+            "c": "P1963.31",
+            "d": "P1960.31"
+        },
+        "answer": "b",
+        "correct_answer_text": "P1962.31",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1276,
+        "question": "What is the accumulated amount after 3 years of P 6500 invested at the rate of 12% per year compounded semi-annually?",
+        "options": {
+            "a": "P 9220.37",
+            "b": "P 9332.37",
+            "c": "P 9753.37",
+            "d": "P 9243.37"
+        },
+        "answer": "a",
+        "correct_answer_text": "P 9220.37",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1277,
+        "question": "A motor is bought at P 76,300 with a salvage value of P 12,500 for 15 years. What is the motor's book value at the end of 5th year using the sum-of-years digit?",
+        "options": {
+            "a": "P 45,823",
+            "b": "P 41,742",
+            "c": "P 12,430",
+            "d": "P 43,423"
+        },
+        "answer": "a",
+        "correct_answer_text": "P 45,823",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1278,
+        "question": "It is defined as a measure of the amount of negative ions in the water.",
+        "options": {
+            "a": "acidity",
+            "b": "neutrality",
+            "c": "solubility",
+            "d": "alkalinity"
+        },
+        "answer": "d",
+        "correct_answer_text": "alkalinity",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1279,
+        "question": "How many carbon atoms are there in 52.06 g of carbon dioxide?",
+        "options": {
+            "a": "5.206 x 10^24",
+            "b": "3.134 x 10^25",
+            "c": "7.122 x 10^23",
+            "d": "8.648 x 10^23"
+        },
+        "answer": "c",
+        "correct_answer_text": "7.122 x 10^23",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1280,
+        "question": "A compound that is composed of carbon, hydrogen, and oxygen contains 70.6% C, 5.9% H, and 23.5% O by mass. The molecular weight of the compound is 136 amu. What is the molecular formula?",
+        "options": {
+            "a": "C8H8O2",
+            "b": "C8H4O",
+            "c": "C4H4O",
+            "d": "C9H12O"
+        },
+        "answer": "a",
+        "correct_answer_text": "C8H8O2",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1281,
+        "question": "If the sum of P15,000 is deposited in an account earning 4% per annum compounded quarterly, what will be the deposited amount at the end of 5 years?",
+        "options": {
+            "a": "P18,302.85",
+            "b": "P18,450.89",
+            "c": "P18,512.8",
+            "d": "P18,638.29"
+        },
+        "answer": "a",
+        "correct_answer_text": "P18,302.85",
+        "category": "Engineering Sciences",
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1282,
+        "question": "During a complete or partial neutralization of acids, what is the ionic compound formed?",
+        "options": {
+            "a": "salt",
+            "b": "acids",
+            "c": "bases",
+            "d": "zwitterion"
+        },
+        "answer": "a",
+        "correct_answer_text": "salt",
+        "category": "Engineering Sciences",
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1283,
+        "question": "According to OSHA-DOE data on Plant Safety, approximately 30% of all failures in power plants are caused by operator error. What is the probability that out of the next 20 failures at least 10 are due to operator error?",
+        "options": {
+            "a": "0.052",
+            "b": "0.043",
+            "c": "0.048",
+            "d": "0.072"
+        },
+        "answer": "c",
+        "correct_answer_text": "0.048",
+        "category": "Engineering Sciences",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1284,
+        "question": "How many ways can 3 letters, 3 numbers, 3 symbols, and 3 shapes be arranged in a 12-element code such that there is alternation?",
+        "options": {
+            "a": "27,312",
+            "b": "37,822",
+            "c": "32,402",
+            "d": "31,104"
+        },
+        "answer": "d",
+        "correct_answer_text": "31,104",
+        "category": "Engineering Sciences",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1285,
+        "question": "Johnny is taking part in 4 competitions in a tournament. If the probability of him winning any competition is 0.3, find the probability of him winning at least one competition.",
+        "options": {
+            "a": "0.76",
+            "b": "0.43",
+            "c": "0.83",
+            "d": "0.32"
+        },
+        "answer": "a",
+        "correct_answer_text": "0.76",
+        "category": "Engineering Sciences",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1286,
+        "question": "Seven dice is tossed at once. What is the probability that at three or more will show an odd number?",
+        "options": {
+            "a": "99/128",
+            "b": "97/128",
+            "c": "17/64",
+            "d": "15/64"
+        },
+        "answer": "a",
+        "correct_answer_text": "99/128",
+        "category": "Engineering Sciences",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1287,
+        "question": "A coin is tossed five times. What is the probability that at most 3 will be tails?",
+        "options": {
+            "a": "11/32",
+            "b": "11/64",
+            "c": "13/16",
+            "d": "11/16"
+        },
+        "answer": "c",
+        "correct_answer_text": "13/16",
+        "category": "Engineering Sciences",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1288,
+        "question": "It is known that 2 out of 10 of the shafting in foundry shop will be off-spec. What is the probability that less than ten out of 75 shafts will be off-spec?",
+        "options": {
+            "a": "0.0342",
+            "b": "0.0698",
+            "c": "0.0832",
+            "d": "0.1252"
+        },
+        "answer": "b",
+        "correct_answer_text": "0.0698",
+        "category": "Engineering Sciences",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1289,
+        "question": "In Metro Manila, 51% of the adults are males and 49% are females. Also, 9.5% of males smoke cigars, whereas 1.7% of females smoke cigars (based on data from the DOH). If a random subject selected is smoking cigar, find the probability that the selected subject is a male?",
+        "options": {
+            "a": "0.612",
+            "b": "0.752",
+            "c": "0.853",
+            "d": "0.377"
+        },
+        "answer": "c",
+        "correct_answer_text": "0.853",
+        "category": "Engineering Sciences",
+        "sub_category": "Advanced Math",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    }
+]

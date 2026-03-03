@@ -8,24 +8,39 @@
             "c": "Hg",
             "d": "Fe"
         },
-        "answer": "d",
         "correct_answer_text": "Fe",
         "category": "Engineering Sciences",
-        "sub_category": "Chemistry"
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 707,
-        "question": "Calculate the kinetic energy in Joules of car driving 60 mi/hr and the weight of the car is 1500 kg.",
+        "question": "Calculate the kinetic energy in Joules of car driving 60 mi\/hr and the weight of the car is 1500 kg.",
         "options": {
             "a": "6.34 x 10^5",
             "b": "5.95 x 10^5",
             "c": "6.54 x 10^5",
             "d": "5.55 x 10^5"
         },
-        "answer": "d",
         "correct_answer_text": "5.55 x 10^5",
         "category": "Engineering Sciences",
-        "sub_category": "Physics"
+        "sub_category": "Physics",
+        "solutions": [
+            {
+                "solution_id": "sol_69a685b2c2b34",
+                "user": "John",
+                "chosen_option": "d",
+                "image": "uploads\/solution_707_1772520882.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 710,
@@ -36,10 +51,14 @@
             "c": "(actual price \u2013 standard price)(quantity used)",
             "d": "(quantity purchased \u2013 quantity used)(actual price)"
         },
-        "answer": "a",
         "correct_answer_text": "(quantity purchased)(actual price) \u2013 (quantity purchased)(standard price)",
         "category": "Engineering Sciences",
-        "sub_category": "Economy"
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 711,
@@ -50,10 +69,14 @@
             "c": "non conventional cash flows",
             "d": "difference in the magnitude of the project"
         },
-        "answer": "a",
         "correct_answer_text": "evaluating over different time period",
         "category": "Engineering Sciences",
-        "sub_category": "Economy"
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 712,
@@ -64,10 +87,14 @@
             "c": "different salvage values",
             "d": "identical equivalent uniform annual cash flows"
         },
-        "answer": "a",
         "correct_answer_text": "different uniform annual cash flows",
         "category": "Engineering Sciences",
-        "sub_category": "Economy"
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 713,
@@ -78,10 +105,14 @@
             "c": "the ratio of assets to total liabilities",
             "d": "the ratio of profit after taxes to equity"
         },
-        "answer": "a",
         "correct_answer_text": "the ratio of current assets (exclusive of inventory) to the total current liabilities",
         "category": "Engineering Sciences",
-        "sub_category": "Chemistry"
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 715,
@@ -92,10 +123,14 @@
             "c": "return on investment",
             "d": "useful life"
         },
-        "answer": "a",
         "correct_answer_text": "payback period",
         "category": "Engineering Sciences",
-        "sub_category": "Economy"
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 716,
@@ -106,10 +141,14 @@
             "c": "economic life",
             "d": "annuity"
         },
-        "answer": "a",
         "correct_answer_text": "sunk cost",
         "category": "Engineering Sciences",
-        "sub_category": "Economy"
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 717,
@@ -120,10 +159,14 @@
             "c": "devaluation",
             "d": "depreciation"
         },
-        "answer": "a",
         "correct_answer_text": "deflation",
         "category": "Engineering Sciences",
-        "sub_category": "Chemistry"
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 718,
@@ -134,10 +177,14 @@
             "c": "devaluation",
             "d": "depreciation"
         },
-        "answer": "a",
         "correct_answer_text": "inflation",
         "category": "Engineering Sciences",
-        "sub_category": "Economy"
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 719,
@@ -148,10 +195,14 @@
             "c": "rate of interest",
             "d": "rate of discount"
         },
-        "answer": "a",
         "correct_answer_text": "discount",
         "category": "Engineering Sciences",
-        "sub_category": "Economy"
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 720,
@@ -162,10 +213,14 @@
             "c": "depletion",
             "d": "annuity"
         },
-        "answer": "a",
         "correct_answer_text": "amortization",
         "category": "Engineering Sciences",
-        "sub_category": "Economy"
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 721,
@@ -176,10 +231,14 @@
             "c": "annuity due",
             "d": "deferred annuity"
         },
-        "answer": "a",
         "correct_answer_text": "perpetuity",
         "category": "Engineering Sciences",
-        "sub_category": "Economy"
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 722,
@@ -190,10 +249,14 @@
             "c": "marginal cost",
             "d": "future worth cost"
         },
-        "answer": "a",
         "correct_answer_text": "capitalized cost",
         "category": "Engineering Sciences",
-        "sub_category": "Economy"
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 723,
@@ -204,10 +267,14 @@
             "c": "dividends",
             "d": "revenue"
         },
-        "answer": "a",
         "correct_answer_text": "rate of return",
         "category": "Engineering Sciences",
-        "sub_category": "Economy"
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 724,
@@ -218,9 +285,13 @@
             "c": "depreciation",
             "d": "profit"
         },
-        "answer": "a",
         "correct_answer_text": "rate of interest",
         "category": "Engineering Sciences",
-        "sub_category": "Economy"
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     }
 ]

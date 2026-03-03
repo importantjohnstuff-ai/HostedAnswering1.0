@@ -1,0 +1,382 @@
+[
+    {
+        "id": 1070,
+        "question": "An electron, moving toward the west, enters a uniform magnetic field. Because of this field the electron curves upward. The direction of the magnetic field is:",
+        "options": {
+            "a": "towards the north",
+            "b": "towards the west",
+            "c": "towards the south",
+            "d": "upward"
+        },
+        "answer": "c",
+        "correct_answer_text": "towards the south",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1071,
+        "question": "A proton starting from rest travels through a potential of 1.0 kV and then moves into a uniform 0.040-T magnetic field. What is the radius of the proton's resulting orbit?",
+        "options": {
+            "a": "0.080 m",
+            "b": "0.11 m",
+            "c": "0.14 m",
+            "d": "0.17 m"
+        },
+        "answer": "b",
+        "correct_answer_text": "0.11 m",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1072,
+        "question": "The coil in a 60-Hz ac generator has 125 turns, each having an area of 3.0 x 10^-2 m2 and is rotated in a uniform 0.12-T magnetic field. What is the peak output voltage of this generator?",
+        "options": {
+            "a": "170 V",
+            "b": "120 V",
+            "c": "200 V",
+            "d": "110 V"
+        },
+        "answer": "a",
+        "correct_answer_text": "170 V",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1073,
+        "question": "A rectangular coil having N turns and measuring 15 cm by 25 cm is rotating in a uniform 1.6-T magnetic field with a frequency of 75 Hz. If the coil develops a sinusoidal emf of maximum value 56.9 V, what is the value of N?",
+        "options": {
+            "a": "2",
+            "b": "4",
+            "c": "6",
+            "d": "8"
+        },
+        "answer": "a",
+        "correct_answer_text": "2",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1074,
+        "question": "An LRC series circuit has R=15.0 Ω, L=25.0 mH, and C=30.0 μF. The circuit is connected to a 120-V (rms) ac source with frequency 200 Hz. What is the rms current in the circuit?",
+        "options": {
+            "a": "7.61 A",
+            "b": "8.45 A",
+            "c": "2.56 A",
+            "d": "9.32 A"
+        },
+        "answer": "a",
+        "correct_answer_text": "7.61 A",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1075,
+        "question": "An oil layer (n=1.15) spread over water (n=1.33). What is the angle of refraction in the water for a ray of light that has an angle of incidence of 45° as it enters the oil from the air?",
+        "options": {
+            "a": "27°",
+            "b": "32°",
+            "c": "36°",
+            "d": "39°"
+        },
+        "answer": "b",
+        "correct_answer_text": "32°",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1076,
+        "question": "An optical fiber made of glass (n=1.50) is coated with a plastic (n=1.30). What is the critical angle of this fiber at the glass-plastic interface?",
+        "options": {
+            "a": "90.0°",
+            "b": "41.8°",
+            "c": "60.1°",
+            "d": "50.2°"
+        },
+        "answer": "c",
+        "correct_answer_text": "60.1°",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1077,
+        "question": "A man's face is 30 cm in front of a concave spherical shaving mirror. If the image is erect and 1.5 times as large as his face, what is the radius of curvature of the mirror?",
+        "options": {
+            "a": "40 cm",
+            "b": "60 cm",
+            "c": "100 cm",
+            "d": "180 cm"
+        },
+        "answer": "d",
+        "correct_answer_text": "180 cm",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1078,
+        "question": "A convex spherical mirror with a radius of 50 cm has a 4.0 cm tall object placed 100 cm in front of it. What is the position of the image relative to the mirror?",
+        "options": {
+            "a": "20 cm behind the mirror",
+            "b": "25 cm behind the mirror",
+            "c": "100 cm in front of the mirror",
+            "d": "25 cm in front of the mirror"
+        },
+        "answer": "a",
+        "correct_answer_text": "20 cm behind the mirror",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1079,
+        "question": "It is desired to project the image of an object four times its actual size using a lens of focal length 20 cm. How far from the lens should the object be placed?",
+        "options": {
+            "a": "100 cm",
+            "b": "80 cm",
+            "c": "4.0 cm",
+            "d": "25 cm"
+        },
+        "answer": "d",
+        "correct_answer_text": "25 cm",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1080,
+        "question": "An object is placed 100 cm in front of a lens of focal length 20 cm. A second lens is placed 35 cm beyond the first, this second lens having a focal length of 8.0 cm. If the height of the object is 6.0 cm, what is the height of the final image?",
+        "options": {
+            "a": "1.5 cm",
+            "b": "12 cm",
+            "c": "9.0 cm",
+            "d": "3.0 cm"
+        },
+        "answer": "d",
+        "correct_answer_text": "3.0 cm",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1081,
+        "question": "A convex-concave thin lens is made with the radius of curvature of the convex surface being 25.0 cm and the concave surface 45.0 cm. If the glass used has index of refraction 1.50, what is the focal length?",
+        "options": {
+            "a": "-32.0 cm",
+            "b": "32.0 cm",
+            "c": "113 cm",
+            "d": "67.5 cm"
+        },
+        "answer": "c",
+        "correct_answer_text": "113 cm",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1082,
+        "question": "A double-concave lens has equal radii of curvature of 15.1 cm. An object placed 14.2 cm from the lens forms a virtual image 5.29 cm from the lens. What is the index of refraction of the lens material?",
+        "options": {
+            "a": "1.90",
+            "b": "1.98",
+            "c": "1.82",
+            "d": "1.77"
+        },
+        "answer": "c",
+        "correct_answer_text": "1.82",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1083,
+        "question": "A solid cylinder of radius 0.35 m is released from rest from a height of 1.8 m and rolls down the incline. What is the angular speed of the cylinder when it reaches the horizontal surface?",
+        "options": {
+            "a": "3.2 rad/s",
+            "b": "34 rad/s",
+            "c": "14 rad/s",
+            "d": "67 rad/s"
+        },
+        "answer": "c",
+        "correct_answer_text": "14 rad/s",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1084,
+        "question": "Planets A and B are uniform solid spheres. B has twice the mass and three times the radius of A, but each planet has the same rotational kinetic energy. What is the ratio of their angular speeds?",
+        "options": {
+            "a": "0.055",
+            "b": "0.165",
+            "c": "0.236",
+            "d": "0.093"
+        },
+        "answer": "c",
+        "correct_answer_text": "0.236",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1085,
+        "question": "A vertical block-spring system on earth has a period of 6.0 s. What is the period of this same system on the moon where gravity is 1/6 that of earth?",
+        "options": {
+            "a": "1.0 s",
+            "b": "6.0 s",
+            "c": "36 s",
+            "d": "2.4 s"
+        },
+        "answer": "b",
+        "correct_answer_text": "6.0 s",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1086,
+        "question": "An open ended organ pipe is 3.6m long. What note could be played as the third harmonic on that pipe? (Speed of sound = 346 m/s)",
+        "options": {
+            "a": "144 Hz",
+            "b": "162 Hz",
+            "c": "200 Hz",
+            "d": "90 Hz"
+        },
+        "answer": "a",
+        "correct_answer_text": "144 Hz",
+        "category": "Engineering Sciences",
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1087,
+        "question": "If the pulley shown is free to move through the guide wire, what force P is required in order to hold the 10-lb weight in position?",
+        "options": {
+            "a": "3.25 lb",
+            "b": "6.78 lb",
+            "c": "2.05 lb",
+            "d": "4.56 lb"
+        },
+        "answer": "d",
+        "correct_answer_text": "4.56 lb",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1088,
+        "question": "Given the vector P = i + yj - 3k and Q = 4i + 3j, what is the value of y such that the cross product between P and Q is 9i - 12j?",
+        "options": {
+            "a": "2/3",
+            "b": "1/2",
+            "c": "3/4",
+            "d": "7/4"
+        },
+        "answer": "c",
+        "correct_answer_text": "3/4",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    },
+    {
+        "id": 1089,
+        "question": "Given the force P = 32.4i - 29.3j + 9.9k lb. Find the moment of P about a line through the points (0, -1, 3) and (3, 1, 1) units in feet.",
+        "options": {
+            "a": "-45.3",
+            "b": "+76.2",
+            "c": "-88.2",
+            "d": "+43.9"
+        },
+        "answer": "d",
+        "correct_answer_text": "+43.9",
+        "category": "Engineering Sciences",
+        "sub_category": "Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
+    }
+]
