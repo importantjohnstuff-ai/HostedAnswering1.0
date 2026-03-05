@@ -94,6 +94,9 @@ Open `HostedAnswering/index.html` in a browser and verify:
 - [ ] Solution images load from `uploads/`
 - [ ] Lock/Unlock/Save/Flag/Hide/Delete all work (localStorage-based)
 - [ ] MathJax renders math expressions
+- [ ] **Generate Quiz** button opens the quiz modal and produces a randomized sub-set of problems
+- [ ] **Exit Quiz** button returns to normal view
+- [ ] **Edit Category** button (✏️) on unlocked cards opens the inline category/sub-category editor and saves correctly
 
 ### Step 7: Commit and Push to GitHub
 
@@ -147,4 +150,94 @@ function someAction(id, sf) {
     LocalState.someAction(id, currentUser);
     refreshFromLocal();
 }
+```
+
+---
+
+## Features Added Since Last Sync — Porting Guide
+
+The following features exist in `Answering/index.html` and need to be carried over (or verified as already present) whenever `HostedAnswering/index.html` is updated.
+
+---
+
+### Feature 1: Generate Quiz (📝)
+
+**Added:** 2026-03-03 | **Conversation:** Adding Quiz Generation Feature
+
+**What it does:**
+A "📝 Generate Quiz" button opens a modal where the user selects subtopics from three category columns (MATH, Engineering Sciences, Professional) and specifies a total question count. The app picks questions evenly distributed across selected subtopics and enters "quiz mode". An "❌ Exit Quiz" button returns to normal view.
+
+**Key functions in `Answering/index.html`:**
+
+| Function | Purpose |
+|---|---|
+| `openQuizModal()` | Shows the `#quiz-modal` overlay |
+| `generateQuiz()` | Reads selected `.quiz-subtopic` checkboxes + total count, samples problems, sets `quizMode = true`, calls `renderProblems()` |
+| `exitQuizMode()` | Clears `quizMode`, restores normal render |
+
+**HTML elements required:**
+- `<button onclick="openQuizModal()">📝 Generate Quiz</button>` in the toolbar
+- `<button id="exit-quiz-btn" onclick="exitQuizMode()">❌ Exit Quiz</button>` (hidden by default, shown in quiz mode)
+- `<div id="quiz-modal">` overlay with three `.quiz-column` divs (one per category) containing `.quiz-subtopic` checkboxes
+
+**CSS classes required:** `.quiz-modal`, `.quiz-columns`, `.quiz-column`, `.quiz-actions`
+
+**Porting note:** The quiz feature is **purely read-only** — it only filters the in-memory `allProblems` array and does not write to `api.php`. Copy the modal HTML, CSS, and JS functions verbatim from `Answering/index.html`; no localStorage conversion needed.
+
+---
+
+### Feature 2: Edit Category / Sub-Category (✏️)
+
+**Added:** 2026-03-05 | **Conversation:** Implement Category Edit
+
+**What it does:**
+An "✏️ Edit Category" button appears on every unlocked problem card (next to "✏️ Edit Choices"). Clicking it reveals an inline panel with two select/text inputs pre-filled with the question's current `category` and `sub_category`. Saving posts to `api.php?action=edit_category` in Answering, but **must use `LocalState` in HostedAnswering**.
+
+**Key functions in `Answering/index.html`:**
+
+| Function | Purpose |
+|---|---|
+| `toggleEditCategory(probId, sf)` | Toggles `#edit-cat-{id}` div visibility |
+| `saveEditCategory(probId, sf)` | Posts `edit_category` action to `api.php`, calls `fetchData()` |
+
+**PHP → localStorage conversion for HostedAnswering:**
+
+```javascript
+// BEFORE (Answering/index.html — uses api.php):
+async function saveEditCategory(probId, sf) {
+    const category = document.getElementById(`edit-cat-cat-${probId}`).value.trim();
+    const sub_category = document.getElementById(`edit-cat-sub-${probId}`).value.trim();
+    const formData = new FormData();
+    formData.append('action', 'edit_category');
+    formData.append('id', probId);
+    formData.append('category', category);
+    formData.append('sub_category', sub_category);
+    formData.append('source_file', decodeURIComponent(sf));
+    await fetch('api.php', { method: 'POST', body: formData });
+    fetchData();
+}
+
+// AFTER (HostedAnswering/index.html — uses LocalState):
+function saveEditCategory(probId, sf) {
+    const category = document.getElementById(`edit-cat-cat-${probId}`).value.trim();
+    const sub_category = document.getElementById(`edit-cat-sub-${probId}`).value.trim();
+    LocalState.editCategory(probId, category, sub_category);
+    refreshFromLocal();
+}
+```
+
+> **Note:** You must also add a `LocalState.editCategory(id, category, subCategory)` method that writes the updated values into `collab_overrides[id]` in localStorage, so they persist across page reloads.
+
+**Inline panel HTML** (generated inside `renderProblems()`, appended to each card):
+```html
+<div id="edit-cat-{id}" style="display:none">
+  <div class="inline-edit-options" style="grid-template-columns: auto 1fr;">
+    <label>Category</label>
+    <select id="edit-cat-cat-{id}"><!-- options from CATEGORIES --></select>
+    <label>Sub-Category</label>
+    <select id="edit-cat-sub-{id}"><!-- options from SUB_CATEGORIES --></select>
+  </div>
+  <button onclick="saveEditCategory({id},'{sf}')">💾 Save Category</button>
+  <button onclick="...hide panel...">Cancel</button>
+</div>
 ```

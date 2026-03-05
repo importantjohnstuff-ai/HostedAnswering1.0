@@ -28379,7 +28379,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Thermodynamics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a6a25d1bc5a",
+        "user": "John",
+        "chosen_option": "d",
+        "image": null
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -28398,7 +28405,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Chemistry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a6a281dfdb5",
+        "user": "John",
+        "chosen_option": "b",
+        "image": null
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -28417,7 +28431,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Thermodynamics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a9228a3f31f",
+        "user": "John",
+        "chosen_option": "b",
+        "image": null
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -28436,7 +28457,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Thermodynamics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a6a31761bd4",
+        "user": "John",
+        "chosen_option": "b",
+        "image": null
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -28449,13 +28477,20 @@ window.ALL_PROBLEMS = [
     "options": {
       "a": "Q = 0 for the V = constant process",
       "b": "W = 0 for the P = constant process",
-      "c": "W 0 for the V = constant process",
+      "c": "W = 0 for the V = constant process",
       "d": "Q = 0 for the T = constant process"
     },
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Thermodynamics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a922b241391",
+        "user": "John",
+        "chosen_option": "c",
+        "image": null
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -28588,7 +28623,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Thermodynamics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a922d62fa0c",
+        "user": "John",
+        "chosen_option": "c",
+        "image": null
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -28911,7 +28953,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "10.75% (ANS: 3.55%)",
     "category": "Engineering Sciences",
     "sub_category": "Economy",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a6ac41a65df",
+        "user": "John",
+        "chosen_option": "a",
+        "image": "uploads/solution_595_1772530753.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -28931,7 +28980,7 @@ window.ALL_PROBLEMS = [
     "category": "Engineering Sciences",
     "sub_category": "Economy",
     "solutions": [],
-    "locked_by": null,
+    "locked_by": "John",
     "flagged_by": null,
     "flag_reason": null,
     "hidden_by": null,
@@ -28987,7 +29036,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Chemistry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a6acda703c4",
+        "user": "John",
+        "chosen_option": "c",
+        "image": "uploads/solution_599_1772530906.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -29006,7 +29062,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Economy",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a6ad354373b",
+        "user": "John",
+        "chosen_option": "b",
+        "image": "uploads/solution_600_1772530997.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -29025,7 +29088,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Economy",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a6ad59a2906",
+        "user": "John",
+        "chosen_option": "a",
+        "image": "uploads/solution_601_1772531033.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -29044,7 +29114,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Chemistry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a6ad7b8f897",
+        "user": "John",
+        "chosen_option": "a",
+        "image": "uploads/solution_602_1772531067.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -29063,7 +29140,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Economy",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a6ada4c8cd1",
+        "user": "John",
+        "chosen_option": "c",
+        "image": "uploads/solution_603_1772531108.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -29082,7 +29166,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Economy",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a6adcd3a945",
+        "user": "John",
+        "chosen_option": "a",
+        "image": "uploads/solution_604_1772531149.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -29103,8 +29194,8 @@ window.ALL_PROBLEMS = [
     "sub_category": "Economy",
     "solutions": [],
     "locked_by": null,
-    "flagged_by": null,
-    "flag_reason": null,
+    "flagged_by": "John",
+    "flag_reason": "No correct answer",
     "hidden_by": null,
     "source_file": "engineering_batch_004.json"
   },
@@ -29120,7 +29211,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Economy",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a6adee376ee",
+        "user": "John",
+        "chosen_option": "b",
+        "image": "uploads/solution_606_1772531182.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -29139,7 +29237,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Economy",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a939c1c2dc9",
+        "user": "Lyan",
+        "chosen_option": "b",
+        "image": "uploads/solution_607_1772698049.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -29158,7 +29263,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Economy",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a93a8a9eb85",
+        "user": "Lyan",
+        "chosen_option": "b",
+        "image": "uploads/solution_608_1772698250.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -29177,7 +29289,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Economy",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a93c267b560",
+        "user": "Lyan",
+        "chosen_option": "c",
+        "image": "uploads/solution_609_1772698662.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -29196,7 +29315,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Economy",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a93ee751ebe",
+        "user": "Lyan",
+        "chosen_option": "d",
+        "image": "uploads/solution_610_1772699367.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -29253,7 +29379,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Chemistry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a6ae5239165",
+        "user": "John",
+        "chosen_option": "b",
+        "image": "uploads/solution_613_1772531282.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -29272,7 +29405,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Chemistry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a6ae868fa48",
+        "user": "John",
+        "chosen_option": "a",
+        "image": "uploads/solution_614_1772531334.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -29291,7 +29431,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Chemistry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a6aea7b4459",
+        "user": "John",
+        "chosen_option": "d",
+        "image": "uploads/solution_615_1772531367.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -29442,7 +29589,7 @@ window.ALL_PROBLEMS = [
     },
     "correct_answer_text": "",
     "category": "Engineering Sciences",
-    "sub_category": "Chemistry",
+    "sub_category": "Economy",
     "solutions": [],
     "locked_by": null,
     "flagged_by": null,
@@ -29939,7 +30086,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "PV = nRT",
     "category": "Engineering Sciences",
     "sub_category": "Thermodynamics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a925f2dab46",
+        "user": "John",
+        "chosen_option": "c",
+        "image": null
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -29975,8 +30129,8 @@ window.ALL_PROBLEMS = [
       "d": "Force Polygon"
     },
     "correct_answer_text": "Resultant",
-    "category": "Engineering Sciences",
-    "sub_category": "Mechanics",
+    "category": "Math",
+    "sub_category": "Vector Analysis",
     "solutions": [],
     "locked_by": null,
     "flagged_by": null,
@@ -29996,7 +30150,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "Work is the area under a P-T diagram",
     "category": "Engineering Sciences",
     "sub_category": "Thermodynamics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a925fe8b947",
+        "user": "John",
+        "chosen_option": "b",
+        "image": null
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -30143,7 +30304,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "0.642",
     "category": "Engineering Sciences",
     "sub_category": "Fluid Mechanics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a6c38d84e42",
+        "user": "John",
+        "chosen_option": "c",
+        "image": "uploads/solution_662_1772536717.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -30213,7 +30381,7 @@ window.ALL_PROBLEMS = [
     },
     "correct_answer_text": "Zeroth law of thermodynamics",
     "category": "Engineering Sciences",
-    "sub_category": "Mechanics",
+    "sub_category": "Thermodynamics",
     "solutions": [],
     "locked_by": null,
     "flagged_by": null,
@@ -30328,7 +30496,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "454 kg/s",
     "category": "Engineering Sciences",
     "sub_category": "Fluid Mechanics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a6c3ed49616",
+        "user": "John",
+        "chosen_option": "d",
+        "image": "uploads/solution_672_1772536813.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -30404,7 +30579,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "63",
     "category": "Engineering Sciences",
     "sub_category": "Chemistry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a6bc5becf24",
+        "user": "John",
+        "chosen_option": "d",
+        "image": "uploads/solution_679_1772534875.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -30423,7 +30605,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "H2SO4",
     "category": "Engineering Sciences",
     "sub_category": "Chemistry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a6aff04730f",
+        "user": "John",
+        "chosen_option": "b",
+        "image": null
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -30442,7 +30631,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "78.3 m/s",
     "category": "Engineering Sciences",
     "sub_category": "Fluid Mechanics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a6bee216bab",
+        "user": "John",
+        "chosen_option": "b",
+        "image": "uploads/solution_681_1772535522.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -30518,7 +30714,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "8.82",
     "category": "Engineering Sciences",
     "sub_category": "Fluid Mechanics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a92f3d6ed9c",
+        "user": "John",
+        "chosen_option": "c",
+        "image": "uploads/solution_687_1772695357.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -30537,7 +30740,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "2",
     "category": "Engineering Sciences",
     "sub_category": "Fluid Mechanics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a92f3f6001f",
+        "user": "John",
+        "chosen_option": "a",
+        "image": "uploads/solution_688_1772695359.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -30556,7 +30766,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "2m",
     "category": "Engineering Sciences",
     "sub_category": "Fluid Mechanics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a6c47487e12",
+        "user": "John",
+        "chosen_option": "a",
+        "image": "uploads/solution_690_1772536948.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -30575,7 +30792,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "4.9 m/s",
     "category": "Engineering Sciences",
     "sub_category": "Chemistry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a6bde6675b1",
+        "user": "John",
+        "chosen_option": "d",
+        "image": "uploads/solution_691_1772535270.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -30594,7 +30818,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "5.32",
     "category": "Engineering Sciences",
     "sub_category": "Fluid Mechanics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a9353bf401c",
+        "user": "John",
+        "chosen_option": "c",
+        "image": "uploads/solution_692_1772696891.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -30748,7 +30979,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "33.4",
     "category": "Engineering Sciences",
     "sub_category": "Fluid Mechanics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a935585ec51",
+        "user": "John",
+        "chosen_option": "d",
+        "image": "uploads/solution_701_1772696920.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -30812,7 +31050,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "Fe",
     "category": "Engineering Sciences",
     "sub_category": "Chemistry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a6b2579a2c7",
+        "user": "John",
+        "chosen_option": "d",
+        "image": null
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -31199,7 +31444,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Thermodynamics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a92b1d33cda",
+        "user": "John",
+        "chosen_option": "b",
+        "image": "uploads/solution_729_1772694301.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -31218,7 +31470,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Fluid Mechanics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a93588db5cd",
+        "user": "John",
+        "chosen_option": "a",
+        "image": "uploads/solution_730_1772696968.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -31263,7 +31522,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Fluid Mechanics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a935b6a501a",
+        "user": "John",
+        "chosen_option": "a",
+        "image": "uploads/solution_733_1772697014.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -31301,7 +31567,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Fluid Mechanics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a935d42ab56",
+        "user": "John",
+        "chosen_option": "a",
+        "image": "uploads/solution_735_1772697044.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -31320,7 +31593,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Fluid Mechanics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a935f7396b1",
+        "user": "John",
+        "chosen_option": "b",
+        "image": "uploads/solution_736_1772697079.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -31339,7 +31619,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Fluid Mechanics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a9361ea955c",
+        "user": "John",
+        "chosen_option": "a",
+        "image": "uploads/solution_737_1772697118.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -31384,7 +31671,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Mechanics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a93a823a098",
+        "user": "John",
+        "chosen_option": "d",
+        "image": "uploads/solution_739_1772698242.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -31405,16 +31699,16 @@ window.ALL_PROBLEMS = [
     "sub_category": "Fluid Mechanics",
     "solutions": [],
     "locked_by": null,
-    "flagged_by": null,
-    "flag_reason": null,
-    "hidden_by": null,
+    "flagged_by": "John",
+    "flag_reason": "Others: Repeat",
+    "hidden_by": "John",
     "source_file": "engineering_batch_010.json"
   },
   {
     "id": 741,
     "question": "Express a pressure gage reading of 35 psi in absolute kPa?",
     "options": {
-      "a": "218",
+      "a": "241",
       "b": "182",
       "c": "341",
       "d": "314"
@@ -31423,7 +31717,7 @@ window.ALL_PROBLEMS = [
     "category": "Engineering Sciences",
     "sub_category": "Fluid Mechanics",
     "solutions": [],
-    "locked_by": null,
+    "locked_by": "John",
     "flagged_by": null,
     "flag_reason": null,
     "hidden_by": null,
@@ -31441,7 +31735,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Mechanics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a93b9cdecf6",
+        "user": "John",
+        "chosen_option": "a",
+        "image": "uploads/solution_742_1772698524.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -31619,7 +31920,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "",
     "category": "Engineering Sciences",
     "sub_category": "Mechanics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a93c2ce0a51",
+        "user": "John",
+        "chosen_option": "a",
+        "image": "uploads/solution_751_1772698668.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -33663,7 +33971,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "$1067.7 \\text{ cm}^4$",
     "category": "Engineering Sciences",
     "sub_category": "Chemistry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a6be3d3e880",
+        "user": "John",
+        "chosen_option": "b",
+        "image": "uploads/solution_860_1772535357.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -33682,7 +33997,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "$3.2 \\text{ kg-m}^2$",
     "category": "Engineering Sciences",
     "sub_category": "Strength of Materials",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a6be798a0c1",
+        "user": "John",
+        "chosen_option": "c",
+        "image": "uploads/solution_861_1772535417.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -33701,7 +34023,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "$0.25$",
     "category": "Engineering Sciences",
     "sub_category": "Strength of Materials",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a6c2fc52367",
+        "user": "John",
+        "chosen_option": "b",
+        "image": "uploads/solution_862_1772536572.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -33720,7 +34049,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "$363.04 \\text{ kN}$",
     "category": "Engineering Sciences",
     "sub_category": "Thermodynamics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a6c34037759",
+        "user": "John",
+        "chosen_option": "d",
+        "image": "uploads/solution_863_1772536640.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -35657,7 +35993,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "13.33 s",
     "category": "Engineering Sciences",
     "sub_category": "Mechanics",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a93faf43491",
+        "user": "John",
+        "chosen_option": "c",
+        "image": "uploads/solution_963_1772699567.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -38139,8 +38482,8 @@ window.ALL_PROBLEMS = [
     "sub_category": "Mechanics",
     "solutions": [],
     "locked_by": null,
-    "flagged_by": null,
-    "flag_reason": null,
+    "flagged_by": "Joshua",
+    "flag_reason": "Incorrect given",
     "hidden_by": null,
     "source_file": "engineering_batch_028.json"
   },
@@ -41296,7 +41639,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "C6H12O6",
     "category": "Engineering Sciences",
     "sub_category": "Chemistry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a941d92497c",
+        "user": "Lyan",
+        "chosen_option": "b",
+        "image": "uploads/solution_1244_1772700121.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,
@@ -41316,7 +41666,14 @@ window.ALL_PROBLEMS = [
     "correct_answer_text": "6",
     "category": "Engineering Sciences",
     "sub_category": "Chemistry",
-    "solutions": [],
+    "solutions": [
+      {
+        "solution_id": "sol_69a9458b94f3f",
+        "user": "Lyan",
+        "chosen_option": "b",
+        "image": "uploads/solution_1245_1772701067.jpg"
+      }
+    ],
     "locked_by": null,
     "flagged_by": null,
     "flag_reason": null,

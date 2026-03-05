@@ -229,7 +229,7 @@
     },
     {
         "id": 962,
-        "question": "Shoe manufacturer: labor P900, material P800, royalty P1000, variable P400 per pair. Fixed charges P5,000,000/month. If price is P5,000, how many pairs to break-even?",
+        "question": "Shoe manufacturer: labor P900, material P800, royalty P1000, variable P400 per pair. Fixed charges P5,000,000\/month. If price is P5,000, how many pairs to break-even?",
         "options": {
             "a": "2,590",
             "b": "2,712",
@@ -248,7 +248,7 @@
     },
     {
         "id": 963,
-        "question": "A runner maintains constant acceleration after starting from rest as she runs a distance of 60.0 m. The runner's speed at the end of the 60.0 m is 9.00 m/s. How much time did it take the runner to complete the 60.0 m distance?",
+        "question": "A runner maintains constant acceleration after starting from rest as she runs a distance of 60.0 m. The runner's speed at the end of the 60.0 m is 9.00 m\/s. How much time did it take the runner to complete the 60.0 m distance?",
         "options": {
             "a": "6.67 s",
             "b": "15.0 s",
@@ -259,7 +259,14 @@
         "correct_answer_text": "13.33 s",
         "category": "Engineering Sciences",
         "sub_category": "Mechanics",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_69a93faf43491",
+                "user": "John",
+                "chosen_option": "c",
+                "image": "uploads\/solution_963_1772699567.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
@@ -269,13 +276,13 @@
         "id": 964,
         "question": "A hobby rocket reaches a height of 72.3 m and lands 111 m from the launch point with no air resistance. What was the angle of launch?",
         "options": {
-            "a": "69.0°",
-            "b": "67.4°",
-            "c": "22.6°",
-            "d": "44.8°"
+            "a": "69.0\u00b0",
+            "b": "67.4\u00b0",
+            "c": "22.6\u00b0",
+            "d": "44.8\u00b0"
         },
         "answer": "a",
-        "correct_answer_text": "69.0°",
+        "correct_answer_text": "69.0\u00b0",
         "category": "Engineering Sciences",
         "sub_category": "Mechanics",
         "solutions": [],
@@ -286,7 +293,7 @@
     },
     {
         "id": 965,
-        "question": "A driver in a 1000 kg car traveling at 20 m/s slams on the brakes and skids to a stop. If the coefficient of friction between the tires and the horizontal road is 0.80, how long will the skid marks be?",
+        "question": "A driver in a 1000 kg car traveling at 20 m\/s slams on the brakes and skids to a stop. If the coefficient of friction between the tires and the horizontal road is 0.80, how long will the skid marks be?",
         "options": {
             "a": "26 m",
             "b": "21 m",
@@ -305,7 +312,7 @@
     },
     {
         "id": 966,
-        "question": "A 200 g hockey puck is launched up a metal ramp that is inclined at a 30° angle. The coefficients of static and kinetic friction between the hockey puck and the metal ramp are μs = 0.40 and μk = 0.30, respectively. The puck's initial speed is 63 m/s. What vertical height does the puck reach above its starting point?",
+        "question": "A 200 g hockey puck is launched up a metal ramp that is inclined at a 30\u00b0 angle. The coefficients of static and kinetic friction between the hockey puck and the metal ramp are \u03bcs = 0.40 and \u03bck = 0.30, respectively. The puck's initial speed is 63 m\/s. What vertical height does the puck reach above its starting point?",
         "options": {
             "a": "130 m",
             "b": "270 m",
@@ -324,15 +331,15 @@
     },
     {
         "id": 967,
-        "question": "A 250-kg crate is on a rough ramp, inclined at 30° above the horizontal. The coefficient of kinetic friction between the crate and ramp is 0.22. A horizontal force of 5000 N is applied to the crate, pushing it up the ramp. What is the acceleration of the crate?",
+        "question": "A 250-kg crate is on a rough ramp, inclined at 30\u00b0 above the horizontal. The coefficient of kinetic friction between the crate and ramp is 0.22. A horizontal force of 5000 N is applied to the crate, pushing it up the ramp. What is the acceleration of the crate?",
         "options": {
-            "a": "8.4 m/s²",
-            "b": "10 m/s²",
-            "c": "12 m/s²",
-            "d": "13 m/s²"
+            "a": "8.4 m\/s\u00b2",
+            "b": "10 m\/s\u00b2",
+            "c": "12 m\/s\u00b2",
+            "d": "13 m\/s\u00b2"
         },
         "answer": "a",
-        "correct_answer_text": "8.4 m/s²",
+        "correct_answer_text": "8.4 m\/s\u00b2",
         "category": "Engineering Sciences",
         "sub_category": "Mechanics",
         "solutions": [],
@@ -343,7 +350,7 @@
     },
     {
         "id": 968,
-        "question": "A car travels at a steady 40.0 m/s around a horizontal curve of radius 200 m. What is the minimum coefficient of static friction between the road and the car's tires that will allow the car to travel at this speed without sliding?",
+        "question": "A car travels at a steady 40.0 m\/s around a horizontal curve of radius 200 m. What is the minimum coefficient of static friction between the road and the car's tires that will allow the car to travel at this speed without sliding?",
         "options": {
             "a": "1.23",
             "b": "0.816",
@@ -364,13 +371,13 @@
         "id": 969,
         "question": "A car enters a 300-m radius horizontal curve on a rainy day when the coefficient of static friction between its tires and the road is 0.600. What is the maximum speed at which the car can travel around this curve without sliding?",
         "options": {
-            "a": "29.6 m/s",
-            "b": "33.1 m/s",
-            "c": "24.8 m/s",
-            "d": "42.0 m/s"
+            "a": "29.6 m\/s",
+            "b": "33.1 m\/s",
+            "c": "24.8 m\/s",
+            "d": "42.0 m\/s"
         },
         "answer": "d",
-        "correct_answer_text": "42.0 m/s",
+        "correct_answer_text": "42.0 m\/s",
         "category": "Engineering Sciences",
         "sub_category": "Mechanics",
         "solutions": [],

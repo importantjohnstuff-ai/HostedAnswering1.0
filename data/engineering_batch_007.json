@@ -8,10 +8,14 @@
             "c": "Third law of thermodynamics",
             "d": "Second law of thermodynamics"
         },
-        "answer": "b",
         "correct_answer_text": "Zeroth law of thermodynamics",
         "category": "Engineering Sciences",
-        "sub_category": "Mechanics"
+        "sub_category": "Thermodynamics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 666,
@@ -22,10 +26,14 @@
             "c": "Branch circuit",
             "d": "Service conductor"
         },
-        "answer": "c",
         "correct_answer_text": "Branch circuit",
         "category": "Engineering Sciences",
-        "sub_category": "Physics"
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 667,
@@ -36,10 +44,14 @@
             "c": "heat, transfer",
             "d": "heat, energy"
         },
-        "answer": "a",
         "correct_answer_text": "heat, power",
         "category": "Engineering Sciences",
-        "sub_category": "Thermodynamics"
+        "sub_category": "Thermodynamics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 668,
@@ -50,10 +62,14 @@
             "c": "Short",
             "d": "Fault"
         },
-        "answer": "b",
         "correct_answer_text": "Ground",
         "category": "Engineering Sciences",
-        "sub_category": "Physics"
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 669,
@@ -64,10 +80,14 @@
             "c": "Culverts",
             "d": "Standpipe"
         },
-        "answer": "a",
         "correct_answer_text": "Spillway",
         "category": "Engineering Sciences",
-        "sub_category": "Fluid Mechanics"
+        "sub_category": "Fluid Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 671,
@@ -78,24 +98,39 @@
             "c": "Manufacturing design",
             "d": "Construction design"
         },
-        "answer": "b",
         "correct_answer_text": "Wiring design",
         "category": "Engineering Sciences",
-        "sub_category": "Physics"
+        "sub_category": "Physics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 672,
-        "question": "Determine the mass rate of water along a pipeline with I.D. of 30 cm and that the water runs at 5 m/s:",
+        "question": "Determine the mass rate of water along a pipeline with I.D. of 30 cm and that the water runs at 5 m\/s:",
         "options": {
-            "a": "383 kg/s",
-            "b": "1209 kg/s",
-            "c": "454 kg/s",
-            "d": "353 kg/s"
+            "a": "383 kg\/s",
+            "b": "1209 kg\/s",
+            "c": "454 kg\/s",
+            "d": "353 kg\/s"
         },
-        "answer": "c",
-        "correct_answer_text": "454 kg/s",
+        "correct_answer_text": "454 kg\/s",
         "category": "Engineering Sciences",
-        "sub_category": "Fluid Mechanics"
+        "sub_category": "Fluid Mechanics",
+        "solutions": [
+            {
+                "solution_id": "sol_69a6c3ed49616",
+                "user": "John",
+                "chosen_option": "d",
+                "image": "uploads\/solution_672_1772536813.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 674,
@@ -106,24 +141,32 @@
             "c": "Insert thermal compound between processor and heat sink",
             "d": "Apply isopropyl alcohol between processor and system board"
         },
-        "answer": "c",
         "correct_answer_text": "Insert thermal compound between processor and heat sink",
         "category": "Engineering Sciences",
-        "sub_category": "Thermodynamics"
+        "sub_category": "Thermodynamics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 675,
-        "question": "Assuming i = annual rate of return, n = number of years, F = future worth, and P = present worth, what is the future worth of a present amount P(F/P, i, n).",
+        "question": "Assuming i = annual rate of return, n = number of years, F = future worth, and P = present worth, what is the future worth of a present amount P(F\/P, i, n).",
         "options": {
             "a": "P(1 + i)^n",
             "b": "P(1 + i)^(n-1)",
             "c": "P(1 + i)^-1",
             "d": "P(1 + n)^i"
         },
-        "answer": "a",
         "correct_answer_text": "P(1 + i)^n",
         "category": "Engineering Sciences",
-        "sub_category": "Economy"
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 676,
@@ -134,24 +177,39 @@
             "c": "Two adiabatic and two isentropic",
             "d": "Two isothermal and two isentropic"
         },
-        "answer": "d",
         "correct_answer_text": "Two isothermal and two isentropic",
         "category": "Engineering Sciences",
-        "sub_category": "Thermodynamics"
+        "sub_category": "Thermodynamics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 679,
-        "question": "Find the MW of HNO3 in g/mole.",
+        "question": "Find the MW of HNO3 in g\/mole.",
         "options": {
             "a": "72",
             "b": "61",
             "c": "73",
             "d": "63"
         },
-        "answer": "d",
         "correct_answer_text": "63",
         "category": "Engineering Sciences",
-        "sub_category": "Chemistry"
+        "sub_category": "Chemistry",
+        "solutions": [
+            {
+                "solution_id": "sol_69a6bc5becf24",
+                "user": "John",
+                "chosen_option": "d",
+                "image": "uploads\/solution_679_1772534875.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 680,
@@ -162,37 +220,63 @@
             "c": "H3SO2",
             "d": "HSO2"
         },
-        "answer": "b",
         "correct_answer_text": "H2SO4",
         "category": "Engineering Sciences",
-        "sub_category": "Chemistry"
+        "sub_category": "Chemistry",
+        "solutions": [
+            {
+                "solution_id": "sol_69a6aff04730f",
+                "user": "John",
+                "chosen_option": "b",
+                "image": null
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 681,
-        "question": "A water jet is produced from the penstock of hydropower plant that is 25 cm in diameter and releases 67 cubic feet/sec of water. Determine the velocity of water in m/sec:",
+        "question": "A water jet is produced from the penstock of hydropower plant that is 25 cm in diameter and releases 67 cubic feet\/sec of water. Determine the velocity of water in m\/sec:",
         "options": {
-            "a": "45.3 m/s",
-            "b": "38.6 m/s",
-            "c": "78.3 m/s",
-            "d": "11.90 m/s"
+            "a": "45.3 m\/s",
+            "b": "38.6 m\/s",
+            "c": "78.3 m\/s",
+            "d": "11.90 m\/s"
         },
-        "answer": "c",
-        "correct_answer_text": "78.3 m/s",
+        "correct_answer_text": "78.3 m\/s",
         "category": "Engineering Sciences",
-        "sub_category": "Fluid Mechanics"
+        "sub_category": "Fluid Mechanics",
+        "solutions": [
+            {
+                "solution_id": "sol_69a6bee216bab",
+                "user": "John",
+                "chosen_option": "b",
+                "image": "uploads\/solution_681_1772535522.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 682,
-        "question": "The atmospheric pressure in meters of ammonia (NH3) with density of 600kg/cu.m is nearest to",
+        "question": "The atmospheric pressure in meters of ammonia (NH3) with density of 600kg\/cu.m is nearest to",
         "options": {
             "a": "10",
             "b": "15",
             "c": "17",
             "d": "12"
         },
-        "answer": "c",
         "correct_answer_text": "17",
         "category": "Engineering Sciences",
-        "sub_category": "Fluid Mechanics"
+        "sub_category": "Fluid Mechanics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     }
 ]

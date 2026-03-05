@@ -8,10 +8,21 @@
             "c": "Gas undergoes adiabatic expansion",
             "d": "Heat is added to the gas"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Thermodynamics"
+        "sub_category": "Thermodynamics",
+        "solutions": [
+            {
+                "solution_id": "sol_69a6a25d1bc5a",
+                "user": "John",
+                "chosen_option": "d",
+                "image": null
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 567,
@@ -22,10 +33,21 @@
             "c": "Momentum",
             "d": "Mass"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Chemistry"
+        "sub_category": "Chemistry",
+        "solutions": [
+            {
+                "solution_id": "sol_69a6a281dfdb5",
+                "user": "John",
+                "chosen_option": "b",
+                "image": null
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 568,
@@ -36,10 +58,21 @@
             "c": "A membrane that bursts",
             "d": "The expanding membrane of a balloon"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Thermodynamics"
+        "sub_category": "Thermodynamics",
+        "solutions": [
+            {
+                "solution_id": "sol_69a9228a3f31f",
+                "user": "John",
+                "chosen_option": "b",
+                "image": null
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 569,
@@ -50,10 +83,21 @@
             "c": "The differential of work is inexact",
             "d": "Work is always zero for a constant-volume process"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Thermodynamics"
+        "sub_category": "Thermodynamics",
+        "solutions": [
+            {
+                "solution_id": "sol_69a6a31761bd4",
+                "user": "John",
+                "chosen_option": "b",
+                "image": null
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 570,
@@ -61,13 +105,24 @@
         "options": {
             "a": "Q = 0 for the V = constant process",
             "b": "W = 0 for the P = constant process",
-            "c": "W 0 for the V = constant process",
+            "c": "W = 0 for the V = constant process",
             "d": "Q = 0 for the T = constant process"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Thermodynamics"
+        "sub_category": "Thermodynamics",
+        "solutions": [
+            {
+                "solution_id": "sol_69a922b241391",
+                "user": "John",
+                "chosen_option": "c",
+                "image": null
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 571,
@@ -78,10 +133,14 @@
             "c": "The temperature in the tank remains constant",
             "d": "The enthalpy across a valve remains constant"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Chemistry"
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 572,
@@ -92,10 +151,14 @@
             "c": "To ensure that the first law is satisfied",
             "d": "To simulate zero work of the actual exhaust process"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Thermodynamics"
+        "sub_category": "Thermodynamics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 573,
@@ -106,10 +169,14 @@
             "c": "The turbine",
             "d": "The condenser"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Thermodynamics"
+        "sub_category": "Thermodynamics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 574,
@@ -120,10 +187,14 @@
             "c": "Specific enthalpy in supply equals specific internal energy in cylinder",
             "d": "Specific internal energy in supply equals specific enthalpy in cylinder"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Thermodynamics"
+        "sub_category": "Thermodynamics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 575,
@@ -134,10 +205,14 @@
             "c": "Energy transfer exists, no mass transfer",
             "d": "Mass transfer exists, no energy transfer"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Thermodynamics"
+        "sub_category": "Thermodynamics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 576,
@@ -148,10 +223,14 @@
             "c": "William John Macquorn Rankine",
             "d": "William Thomson"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Thermodynamics"
+        "sub_category": "Thermodynamics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 577,
@@ -162,10 +241,21 @@
             "c": "Isochoric",
             "d": "Isenthalpic"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Thermodynamics"
+        "sub_category": "Thermodynamics",
+        "solutions": [
+            {
+                "solution_id": "sol_69a922d62fa0c",
+                "user": "John",
+                "chosen_option": "c",
+                "image": null
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 578,
@@ -176,10 +266,14 @@
             "c": "Generalized compressibility chart",
             "d": "Redlich-Kwong equation"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Chemistry"
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 579,
@@ -190,10 +284,14 @@
             "c": "Thermal diffusivity",
             "d": "Density"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Chemistry"
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 580,
@@ -204,10 +302,14 @@
             "c": "Mach number and Biot number",
             "d": "Peclet number"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Thermodynamics"
+        "sub_category": "Thermodynamics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 581,
@@ -218,10 +320,14 @@
             "c": "Plastic",
             "d": "Water"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Thermodynamics"
+        "sub_category": "Thermodynamics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 582,
@@ -232,10 +338,14 @@
             "c": "Melting ice",
             "d": "Water"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Thermodynamics"
+        "sub_category": "Thermodynamics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 583,
@@ -246,10 +356,14 @@
             "c": "Presence of free electrons",
             "d": "Reflective surfaces"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Chemistry"
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 584,
@@ -260,9 +374,13 @@
             "c": "Hot starting and vapor lock",
             "d": "Engine warm-up and spark plug fouling"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Chemistry"
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     }
 ]

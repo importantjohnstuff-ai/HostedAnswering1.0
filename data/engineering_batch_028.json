@@ -77,7 +77,7 @@
     },
     {
         "id": 1074,
-        "question": "An LRC series circuit has R=15.0 Ω, L=25.0 mH, and C=30.0 μF. The circuit is connected to a 120-V (rms) ac source with frequency 200 Hz. What is the rms current in the circuit?",
+        "question": "An LRC series circuit has R=15.0 \u03a9, L=25.0 mH, and C=30.0 \u03bcF. The circuit is connected to a 120-V (rms) ac source with frequency 200 Hz. What is the rms current in the circuit?",
         "options": {
             "a": "7.61 A",
             "b": "8.45 A",
@@ -96,15 +96,15 @@
     },
     {
         "id": 1075,
-        "question": "An oil layer (n=1.15) spread over water (n=1.33). What is the angle of refraction in the water for a ray of light that has an angle of incidence of 45° as it enters the oil from the air?",
+        "question": "An oil layer (n=1.15) spread over water (n=1.33). What is the angle of refraction in the water for a ray of light that has an angle of incidence of 45\u00b0 as it enters the oil from the air?",
         "options": {
-            "a": "27°",
-            "b": "32°",
-            "c": "36°",
-            "d": "39°"
+            "a": "27\u00b0",
+            "b": "32\u00b0",
+            "c": "36\u00b0",
+            "d": "39\u00b0"
         },
         "answer": "b",
-        "correct_answer_text": "32°",
+        "correct_answer_text": "32\u00b0",
         "category": "Engineering Sciences",
         "sub_category": "Physics",
         "solutions": [],
@@ -117,13 +117,13 @@
         "id": 1076,
         "question": "An optical fiber made of glass (n=1.50) is coated with a plastic (n=1.30). What is the critical angle of this fiber at the glass-plastic interface?",
         "options": {
-            "a": "90.0°",
-            "b": "41.8°",
-            "c": "60.1°",
-            "d": "50.2°"
+            "a": "90.0\u00b0",
+            "b": "41.8\u00b0",
+            "c": "60.1\u00b0",
+            "d": "50.2\u00b0"
         },
         "answer": "c",
-        "correct_answer_text": "60.1°",
+        "correct_answer_text": "60.1\u00b0",
         "category": "Engineering Sciences",
         "sub_category": "Physics",
         "solutions": [],
@@ -250,13 +250,13 @@
         "id": 1083,
         "question": "A solid cylinder of radius 0.35 m is released from rest from a height of 1.8 m and rolls down the incline. What is the angular speed of the cylinder when it reaches the horizontal surface?",
         "options": {
-            "a": "3.2 rad/s",
-            "b": "34 rad/s",
-            "c": "14 rad/s",
-            "d": "67 rad/s"
+            "a": "3.2 rad\/s",
+            "b": "34 rad\/s",
+            "c": "14 rad\/s",
+            "d": "67 rad\/s"
         },
         "answer": "c",
-        "correct_answer_text": "14 rad/s",
+        "correct_answer_text": "14 rad\/s",
         "category": "Engineering Sciences",
         "sub_category": "Physics",
         "solutions": [],
@@ -286,7 +286,7 @@
     },
     {
         "id": 1085,
-        "question": "A vertical block-spring system on earth has a period of 6.0 s. What is the period of this same system on the moon where gravity is 1/6 that of earth?",
+        "question": "A vertical block-spring system on earth has a period of 6.0 s. What is the period of this same system on the moon where gravity is 1\/6 that of earth?",
         "options": {
             "a": "1.0 s",
             "b": "6.0 s",
@@ -305,7 +305,7 @@
     },
     {
         "id": 1086,
-        "question": "An open ended organ pipe is 3.6m long. What note could be played as the third harmonic on that pipe? (Speed of sound = 346 m/s)",
+        "question": "An open ended organ pipe is 3.6m long. What note could be played as the third harmonic on that pipe? (Speed of sound = 346 m\/s)",
         "options": {
             "a": "144 Hz",
             "b": "162 Hz",
@@ -337,21 +337,21 @@
         "sub_category": "Mechanics",
         "solutions": [],
         "locked_by": null,
-        "flagged_by": null,
-        "flag_reason": null,
+        "flagged_by": "Joshua",
+        "flag_reason": "Incorrect given",
         "hidden_by": null
     },
     {
         "id": 1088,
         "question": "Given the vector P = i + yj - 3k and Q = 4i + 3j, what is the value of y such that the cross product between P and Q is 9i - 12j?",
         "options": {
-            "a": "2/3",
-            "b": "1/2",
-            "c": "3/4",
-            "d": "7/4"
+            "a": "2\/3",
+            "b": "1\/2",
+            "c": "3\/4",
+            "d": "7\/4"
         },
         "answer": "c",
-        "correct_answer_text": "3/4",
+        "correct_answer_text": "3\/4",
         "category": "Engineering Sciences",
         "sub_category": "Mechanics",
         "solutions": [],

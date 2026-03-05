@@ -11,7 +11,14 @@
         "correct_answer_text": "Fe",
         "category": "Engineering Sciences",
         "sub_category": "Chemistry",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_69a6b2579a2c7",
+                "user": "John",
+                "chosen_option": "d",
+                "image": null
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,

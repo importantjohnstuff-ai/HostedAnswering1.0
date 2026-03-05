@@ -83,7 +83,14 @@
         "correct_answer_text": "",
         "category": "Engineering Sciences",
         "sub_category": "Thermodynamics",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_69a92b1d33cda",
+                "user": "John",
+                "chosen_option": "b",
+                "image": "uploads\/solution_729_1772694301.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
@@ -101,7 +108,14 @@
         "correct_answer_text": "",
         "category": "Engineering Sciences",
         "sub_category": "Fluid Mechanics",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_69a93588db5cd",
+                "user": "John",
+                "chosen_option": "a",
+                "image": "uploads\/solution_730_1772696968.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
@@ -144,7 +158,14 @@
         "correct_answer_text": "",
         "category": "Engineering Sciences",
         "sub_category": "Fluid Mechanics",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_69a935b6a501a",
+                "user": "John",
+                "chosen_option": "a",
+                "image": "uploads\/solution_733_1772697014.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
@@ -180,7 +201,14 @@
         "correct_answer_text": "",
         "category": "Engineering Sciences",
         "sub_category": "Fluid Mechanics",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_69a935d42ab56",
+                "user": "John",
+                "chosen_option": "a",
+                "image": "uploads\/solution_735_1772697044.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
@@ -198,7 +226,14 @@
         "correct_answer_text": "",
         "category": "Engineering Sciences",
         "sub_category": "Fluid Mechanics",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_69a935f7396b1",
+                "user": "John",
+                "chosen_option": "b",
+                "image": "uploads\/solution_736_1772697079.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
@@ -216,7 +251,14 @@
         "correct_answer_text": "",
         "category": "Engineering Sciences",
         "sub_category": "Fluid Mechanics",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_69a9361ea955c",
+                "user": "John",
+                "chosen_option": "a",
+                "image": "uploads\/solution_737_1772697118.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
@@ -259,7 +301,14 @@
         "correct_answer_text": "",
         "category": "Engineering Sciences",
         "sub_category": "Mechanics",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_69a93a823a098",
+                "user": "John",
+                "chosen_option": "d",
+                "image": "uploads\/solution_739_1772698242.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
@@ -279,15 +328,15 @@
         "sub_category": "Fluid Mechanics",
         "solutions": [],
         "locked_by": null,
-        "flagged_by": null,
-        "flag_reason": null,
-        "hidden_by": null
+        "flagged_by": "John",
+        "flag_reason": "Others: Repeat",
+        "hidden_by": "John"
     },
     {
         "id": 741,
         "question": "Express a pressure gage reading of 35 psi in absolute kPa?",
         "options": {
-            "a": "218",
+            "a": "241",
             "b": "182",
             "c": "341",
             "d": "314"
@@ -296,7 +345,7 @@
         "category": "Engineering Sciences",
         "sub_category": "Fluid Mechanics",
         "solutions": [],
-        "locked_by": null,
+        "locked_by": "John",
         "flagged_by": null,
         "flag_reason": null,
         "hidden_by": null
@@ -313,7 +362,14 @@
         "correct_answer_text": "",
         "category": "Engineering Sciences",
         "sub_category": "Mechanics",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_69a93b9cdecf6",
+                "user": "John",
+                "chosen_option": "a",
+                "image": "uploads\/solution_742_1772698524.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,

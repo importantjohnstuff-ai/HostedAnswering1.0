@@ -47,7 +47,14 @@
         "correct_answer_text": "8.82",
         "category": "Engineering Sciences",
         "sub_category": "Fluid Mechanics",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_69a92f3d6ed9c",
+                "user": "John",
+                "chosen_option": "c",
+                "image": "uploads\/solution_687_1772695357.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
@@ -65,7 +72,14 @@
         "correct_answer_text": "2",
         "category": "Engineering Sciences",
         "sub_category": "Fluid Mechanics",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_69a92f3f6001f",
+                "user": "John",
+                "chosen_option": "a",
+                "image": "uploads\/solution_688_1772695359.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
@@ -83,7 +97,14 @@
         "correct_answer_text": "2m",
         "category": "Engineering Sciences",
         "sub_category": "Fluid Mechanics",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_69a6c47487e12",
+                "user": "John",
+                "chosen_option": "a",
+                "image": "uploads\/solution_690_1772536948.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
@@ -101,7 +122,14 @@
         "correct_answer_text": "4.9 m\/s",
         "category": "Engineering Sciences",
         "sub_category": "Chemistry",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_69a6bde6675b1",
+                "user": "John",
+                "chosen_option": "d",
+                "image": "uploads\/solution_691_1772535270.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
@@ -119,7 +147,14 @@
         "correct_answer_text": "5.32",
         "category": "Engineering Sciences",
         "sub_category": "Fluid Mechanics",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_69a9353bf401c",
+                "user": "John",
+                "chosen_option": "c",
+                "image": "uploads\/solution_692_1772696891.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
@@ -266,7 +301,14 @@
         "correct_answer_text": "33.4",
         "category": "Engineering Sciences",
         "sub_category": "Fluid Mechanics",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_69a935585ec51",
+                "user": "John",
+                "chosen_option": "d",
+                "image": "uploads\/solution_701_1772696920.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,

@@ -669,7 +669,7 @@
         .gh-warning-dismiss:hover {
             background: #fde68a;
         }
-    
+
         /* --- Quiz Modal --- */
         .quiz-modal {
             background: white;
@@ -995,6 +995,10 @@
                     if (ov.flag_reason !== undefined) merged.flag_reason = ov.flag_reason;
                     if (ov.hidden_by !== undefined) merged.hidden_by = ov.hidden_by;
                     if (ov.options !== undefined) merged.options = { ...p.options, ...ov.options };
+                    if (ov.category_override) {
+                        merged.category = ov.category_override.category;
+                        merged.sub_category = ov.category_override.sub_category;
+                    }
                     let solutions = [...(p.solutions || [])];
                     if (ov.deleted_solutions) {
                         solutions = solutions.filter(s => !ov.deleted_solutions.includes(s.solution_id));
@@ -1063,6 +1067,10 @@
             },
 
             editOptions(probId, options) { this.setProblemOverride(probId, { options: options }); },
+            editCategory(probId, category, subCategory) {
+                // Store category override; merged in applyOverrides via a special handler below
+                this.setProblemOverride(probId, { category_override: { category, sub_category: subCategory } });
+            },
             flagProblem(id, user, reason) { this.setProblemOverride(id, { flagged_by: user, flag_reason: reason }); },
             unflagProblem(id, user) {
                 const ov = this.getProblemOverride(id);
@@ -1397,6 +1405,100 @@
             }, 1500);
         }
 
+        // ===== Quiz Mode Generation =====
+        function openQuizModal() {
+            document.getElementById('quiz-modal').style.display = 'block';
+        }
+
+        function closeQuizModal() {
+            document.getElementById('quiz-modal').style.display = 'none';
+        }
+
+        function generateQuiz() {
+            const checkboxes = document.querySelectorAll('.quiz-subtopic:checked');
+            const selectedSubtopics = Array.from(checkboxes).map(cb => cb.value);
+            if (selectedSubtopics.length === 0) {
+                alert("Please select at least one subtopic.");
+                return;
+            }
+
+            const totalQ = parseInt(document.getElementById('quiz-total-questions').value, 10);
+            if (isNaN(totalQ) || totalQ < 1) {
+                alert("Please enter a valid number of questions.");
+                return;
+            }
+
+            // Group existing problems by selected subtopics
+            const subtopicBuckets = {};
+            selectedSubtopics.forEach(sub => subtopicBuckets[sub] = []);
+
+            const showHidden = document.getElementById('toggle-hidden').checked;
+            allProblems.forEach(p => {
+                if (p.hidden_by && !showHidden) return;
+                if (selectedSubtopics.includes(p.sub_category)) {
+                    subtopicBuckets[p.sub_category].push(p);
+                }
+            });
+
+            const qPerSubtopic = Math.floor(totalQ / selectedSubtopics.length);
+            let remainder = totalQ % selectedSubtopics.length;
+
+            const shuffle = (array) => {
+                const arr = [...array];
+                for (let i = arr.length - 1; i > 0; i--) {
+                    const j = Math.floor(Math.random() * (i + 1));
+                    [arr[i], arr[j]] = [arr[j], arr[i]];
+                }
+                return arr;
+            };
+
+            const pickedProblems = [];
+            const subtopicKeys = shuffle([...selectedSubtopics]);
+            let shortfall = 0;
+
+            subtopicKeys.forEach(sub => {
+                let toPick = qPerSubtopic;
+                if (remainder > 0) { toPick += 1; remainder -= 1; }
+                const available = shuffle(subtopicBuckets[sub]);
+                if (available.length < toPick) { shortfall += (toPick - available.length); toPick = available.length; }
+                pickedProblems.push(...available.slice(0, toPick));
+            });
+
+            if (shortfall > 0) {
+                allProblems.forEach(p => {
+                    if (p.hidden_by && !showHidden) return;
+                    if (selectedSubtopics.includes(p.sub_category) && !pickedProblems.find(pp => pp.id === p.id)) {
+                        pickedProblems.push(p);
+                    }
+                });
+                if (pickedProblems.length > totalQ) pickedProblems.splice(totalQ);
+            }
+
+            if (pickedProblems.length === 0) {
+                alert("No available problems found for the selected subtopics.");
+                return;
+            }
+
+            if (pickedProblems.length < totalQ) {
+                alert(`Could only find ${pickedProblems.length} matching problems. Generating quiz with ${pickedProblems.length} questions.`);
+            }
+
+            quizProblemsList = shuffle(pickedProblems);
+            isQuizMode = true;
+            currentPage = 1;
+            document.getElementById('exit-quiz-btn').style.display = 'inline-block';
+            closeQuizModal();
+            applyFilters();
+        }
+
+        function exitQuizMode() {
+            isQuizMode = false;
+            quizProblemsList = [];
+            currentPage = 1;
+            document.getElementById('exit-quiz-btn').style.display = 'none';
+            applyFilters();
+        }
+
         // ===== Render =====
         function renderProblems(data) {
             const app = document.getElementById('app');
@@ -1528,6 +1630,7 @@
                         btns += `<button class="button button-primary" onclick="lockProblem(${p.id},'${sf}')">Work on this</button>`;
                     }
                     btns += `<button class="edit-opts-btn" onclick="toggleEditOptions(${p.id},'${sf}')">✏️ Edit Choices</button> `;
+                    btns += `<button class="edit-opts-btn" onclick="toggleEditCategory(${p.id},'${sf}')">✏️ Edit Category</button> `;
                     btns += `<button class="hide-btn" onclick="toggleHide(${p.id},'${sf}')">${p.hidden_by ? '👁 Show' : '👁 Hide'}</button> `;
                     btns += `<button class="button button-flag" onclick="openFlagModal(${p.id},'${sf}')">Flag Issue</button>`;
                     if (p.flagged_by === currentUser) {
@@ -1549,8 +1652,23 @@
                         <button class="button button-success" style="padding:6px 14px; font-size:0.85rem;" onclick="saveEditOptions(${p.id},'${sf}')">💾 Save Choices</button>
                         <button class="button button-danger" style="padding:6px 14px; font-size:0.85rem;" onclick="document.getElementById('edit-opts-${p.id}').style.display='none'">Cancel</button>
                     `;
+                    // Inline edit category (hidden by default)
+                    const editCatDiv = document.createElement('div');
+                    editCatDiv.id = `edit-cat-${p.id}`;
+                    editCatDiv.style.display = 'none';
+                    editCatDiv.innerHTML = `
+                        <div class="inline-edit-options" style="grid-template-columns: auto 1fr;">
+                            <label>Category</label>
+                            <input type="text" id="edit-cat-cat-${p.id}" value="${(p.category || '').replace(/"/g, '&quot;')}">
+                            <label>Sub-Category</label>
+                            <input type="text" id="edit-cat-sub-${p.id}" value="${(p.sub_category || '').replace(/"/g, '&quot;')}">
+                        </div>
+                        <button class="button button-success" style="padding:6px 14px; font-size:0.85rem;" onclick="saveEditCategory(${p.id},'${sf}')">💾 Save Category</button>
+                        <button class="button button-danger" style="padding:6px 14px; font-size:0.85rem;" onclick="document.getElementById('edit-cat-${p.id}').style.display='none'">Cancel</button>
+                    `;
                     card.appendChild(btnDiv);
                     card.appendChild(editOptsDiv);
+                    card.appendChild(editCatDiv);
                 } else {
                     // Locked by another user — show Force Unlock
                     const btnDiv = document.createElement('div');
@@ -1608,6 +1726,19 @@
                 options[key] = document.getElementById(`edit-opt-${probId}-${key}`).value;
             });
             LocalState.editOptions(probId, options);
+            refreshFromLocal();
+        }
+
+        // ===== Edit Category / Sub-Category =====
+        function toggleEditCategory(probId, sf) {
+            const el = document.getElementById(`edit-cat-${probId}`);
+            el.style.display = el.style.display === 'none' ? 'block' : 'none';
+        }
+
+        function saveEditCategory(probId, sf) {
+            const category = document.getElementById(`edit-cat-cat-${probId}`).value.trim();
+            const sub_category = document.getElementById(`edit-cat-sub-${probId}`).value.trim();
+            LocalState.editCategory(probId, category, sub_category);
             refreshFromLocal();
         }
 
@@ -1748,7 +1879,7 @@
         // ===== Quiz Mode Generation =====
         function openQuizModal() { document.getElementById('quiz-modal').style.display = 'block'; }
         function closeQuizModal() { document.getElementById('quiz-modal').style.display = 'none'; }
-        
+
         function generateQuiz() {
             const checkboxes = document.querySelectorAll('.quiz-subtopic:checked');
             const selectedSubtopics = Array.from(checkboxes).map(cb => cb.value);

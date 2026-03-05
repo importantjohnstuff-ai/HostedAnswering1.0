@@ -90,7 +90,14 @@
         "correct_answer_text": "PV = nRT",
         "category": "Engineering Sciences",
         "sub_category": "Thermodynamics",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_69a925f2dab46",
+                "user": "John",
+                "chosen_option": "c",
+                "image": null
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
@@ -124,8 +131,8 @@
             "d": "Force Polygon"
         },
         "correct_answer_text": "Resultant",
-        "category": "Engineering Sciences",
-        "sub_category": "Mechanics",
+        "category": "Math",
+        "sub_category": "Vector Analysis",
         "solutions": [],
         "locked_by": null,
         "flagged_by": null,
@@ -144,7 +151,14 @@
         "correct_answer_text": "Work is the area under a P-T diagram",
         "category": "Engineering Sciences",
         "sub_category": "Thermodynamics",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_69a925fe8b947",
+                "user": "John",
+                "chosen_option": "b",
+                "image": null
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
@@ -284,7 +298,14 @@
         "correct_answer_text": "0.642",
         "category": "Engineering Sciences",
         "sub_category": "Fluid Mechanics",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_69a6c38d84e42",
+                "user": "John",
+                "chosen_option": "c",
+                "image": "uploads\/solution_662_1772536717.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,

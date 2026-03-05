@@ -134,7 +134,7 @@
     },
     {
         "id": 1237,
-        "question": "Determine the empirical and molecular formula for chrysotile asbestos. Chrysotile has the following percent composition: 28.03% Mg, 21.60% Si, 1.16% H, and 49.21% O. The molar mass for chrysotile is 520.8 g/mol",
+        "question": "Determine the empirical and molecular formula for chrysotile asbestos. Chrysotile has the following percent composition: 28.03% Mg, 21.60% Si, 1.16% H, and 49.21% O. The molar mass for chrysotile is 520.8 g\/mol",
         "options": {
             "a": "Mg6Si5H7O19",
             "b": "Mg6Si4H6O16",
@@ -153,7 +153,7 @@
     },
     {
         "id": 1238,
-        "question": "What is the molarity of a solution formed by mixing 500 grams of water and 10 grams of NaCl (MW=58.45 g/mol)? Density of water is 1 g/mL",
+        "question": "What is the molarity of a solution formed by mixing 500 grams of water and 10 grams of NaCl (MW=58.45 g\/mol)? Density of water is 1 g\/mL",
         "options": {
             "a": "0.736 M",
             "b": "0.128 M",
@@ -191,7 +191,7 @@
     },
     {
         "id": 1240,
-        "question": "How many liters of gas is 23.4 grams of nitrogen at 750 mmHg and 28.0°C?",
+        "question": "How many liters of gas is 23.4 grams of nitrogen at 750 mmHg and 28.0\u00b0C?",
         "options": {
             "a": "586 L",
             "b": "20.9 L",
@@ -278,7 +278,14 @@
         "correct_answer_text": "C6H12O6",
         "category": "Engineering Sciences",
         "sub_category": "Chemistry",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_69a941d92497c",
+                "user": "Lyan",
+                "chosen_option": "b",
+                "image": "uploads\/solution_1244_1772700121.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
@@ -297,7 +304,14 @@
         "correct_answer_text": "6",
         "category": "Engineering Sciences",
         "sub_category": "Chemistry",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_69a9458b94f3f",
+                "user": "Lyan",
+                "chosen_option": "b",
+                "image": "uploads\/solution_1245_1772701067.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,

@@ -8,10 +8,14 @@
             "c": "252,223 units",
             "d": "222,222 units"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Economy"
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": "John",
+        "flag_reason": "No correct answer",
+        "hidden_by": null
     },
     {
         "id": 606,
@@ -22,10 +26,21 @@
             "c": "P73,900.50",
             "d": "P70,093.20"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Economy"
+        "sub_category": "Economy",
+        "solutions": [
+            {
+                "solution_id": "sol_69a6adee376ee",
+                "user": "John",
+                "chosen_option": "b",
+                "image": "uploads\/solution_606_1772531182.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 607,
@@ -36,10 +51,21 @@
             "c": "P505.90",
             "d": "P508.90"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Economy"
+        "sub_category": "Economy",
+        "solutions": [
+            {
+                "solution_id": "sol_69a939c1c2dc9",
+                "user": "Lyan",
+                "chosen_option": "b",
+                "image": "uploads\/solution_607_1772698049.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 608,
@@ -50,10 +76,21 @@
             "c": "5.06%",
             "d": "6.06%"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Economy"
+        "sub_category": "Economy",
+        "solutions": [
+            {
+                "solution_id": "sol_69a93a8a9eb85",
+                "user": "Lyan",
+                "chosen_option": "b",
+                "image": "uploads\/solution_608_1772698250.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 609,
@@ -64,10 +101,21 @@
             "c": "P193,912.00",
             "d": "P139,912.00"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Economy"
+        "sub_category": "Economy",
+        "solutions": [
+            {
+                "solution_id": "sol_69a93c267b560",
+                "user": "Lyan",
+                "chosen_option": "c",
+                "image": "uploads\/solution_609_1772698662.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 610,
@@ -78,10 +126,21 @@
             "c": "P542,775.91",
             "d": "P254,775.19"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Economy"
+        "sub_category": "Economy",
+        "solutions": [
+            {
+                "solution_id": "sol_69a93ee751ebe",
+                "user": "Lyan",
+                "chosen_option": "d",
+                "image": "uploads\/solution_610_1772699367.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 611,
@@ -92,10 +151,14 @@
             "c": "P10,000.00",
             "d": "P10,500.00"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Economy"
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 612,
@@ -106,10 +169,14 @@
             "c": "5.06%",
             "d": "6.06%"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Economy"
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 613,
@@ -120,10 +187,21 @@
             "c": "8.12 years",
             "d": "5.12 years"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Chemistry"
+        "sub_category": "Chemistry",
+        "solutions": [
+            {
+                "solution_id": "sol_69a6ae5239165",
+                "user": "John",
+                "chosen_option": "b",
+                "image": "uploads\/solution_613_1772531282.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 614,
@@ -134,10 +212,21 @@
             "c": "12.98%",
             "d": "13%"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Chemistry"
+        "sub_category": "Chemistry",
+        "solutions": [
+            {
+                "solution_id": "sol_69a6ae868fa48",
+                "user": "John",
+                "chosen_option": "a",
+                "image": "uploads\/solution_614_1772531334.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 615,
@@ -148,10 +237,21 @@
             "c": "12.76%",
             "d": "13.76%"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Chemistry"
+        "sub_category": "Chemistry",
+        "solutions": [
+            {
+                "solution_id": "sol_69a6aea7b4459",
+                "user": "John",
+                "chosen_option": "d",
+                "image": "uploads\/solution_615_1772531367.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 616,
@@ -162,10 +262,14 @@
             "c": "P1,339.12",
             "d": "P1,669.12"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Economy"
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 617,
@@ -176,10 +280,14 @@
             "c": "P674.71",
             "d": "1700.00"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Economy"
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 618,
@@ -190,10 +298,14 @@
             "c": "2333 Bookcases",
             "d": "2334 Bookcases"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Economy"
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 619,
@@ -204,10 +316,14 @@
             "c": "P48,000.00",
             "d": "P16,000.00"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Economy"
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 620,
@@ -218,10 +334,14 @@
             "c": "P 3,927.27",
             "d": "P 3,792.72"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Economy"
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 621,
@@ -232,10 +352,14 @@
             "c": "$1175.16",
             "d": "$1166.90"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Economy"
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 622,
@@ -246,10 +370,14 @@
             "c": "P6,000.00",
             "d": "P6,010.20"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Economy"
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 623,
@@ -260,10 +388,14 @@
             "c": "19.72%",
             "d": "20.72%"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Chemistry"
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 624,
@@ -274,9 +406,13 @@
             "c": "22.5 years",
             "d": "16.5 years"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Economy"
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     }
 ]

@@ -8,10 +8,14 @@
             "c": "Increasing speed and injection advance",
             "d": "Increasing compression ratio and coolant temperature"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Thermodynamics"
+        "sub_category": "Thermodynamics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 586,
@@ -22,10 +26,14 @@
             "c": "Stirling and Otto",
             "d": "Joule and Diesel"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Thermodynamics"
+        "sub_category": "Thermodynamics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 587,
@@ -36,10 +44,14 @@
             "c": "Exhaust replaced by heat rejection",
             "d": "Quasiequilibrium processes"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Thermodynamics"
+        "sub_category": "Thermodynamics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 588,
@@ -50,10 +62,14 @@
             "c": "Higher heating value",
             "d": "Lower volatility"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Chemistry"
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 589,
@@ -64,10 +80,14 @@
             "c": "Decreasing intake air density",
             "d": "Increasing intake air temperature"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Thermodynamics"
+        "sub_category": "Thermodynamics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 590,
@@ -78,10 +98,14 @@
             "c": "Rotary I.C. engine",
             "d": "Four-stroke engine"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Chemistry"
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 591,
@@ -92,10 +116,14 @@
             "c": "Running at high speed",
             "d": "Accelerating"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Chemistry"
+        "sub_category": "Chemistry",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 592,
@@ -106,10 +134,14 @@
             "c": "Ambuklao",
             "d": "Magat"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Thermodynamics"
+        "sub_category": "Thermodynamics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 594,
@@ -120,10 +152,14 @@
             "c": "Francis",
             "d": "Propeller"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Thermodynamics"
+        "sub_category": "Thermodynamics",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 595,
@@ -134,10 +170,21 @@
             "c": "17.45%",
             "d": "24.75%"
         },
-        "answer": "a",
         "correct_answer_text": "10.75% (ANS: 3.55%)",
         "category": "Engineering Sciences",
-        "sub_category": "Economy"
+        "sub_category": "Economy",
+        "solutions": [
+            {
+                "solution_id": "sol_69a6ac41a65df",
+                "user": "John",
+                "chosen_option": "a",
+                "image": "uploads\/solution_595_1772530753.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 596,
@@ -148,10 +195,14 @@
             "c": "18.55%",
             "d": "25.55%"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Economy"
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": "John",
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 597,
@@ -162,10 +213,14 @@
             "c": "3.50%",
             "d": "14.7%"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Economy"
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 598,
@@ -176,10 +231,14 @@
             "c": "1,400,000 P",
             "d": "950,000 P"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Economy"
+        "sub_category": "Economy",
+        "solutions": [],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 599,
@@ -190,10 +249,21 @@
             "c": "C15H12",
             "d": "C12H15"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Chemistry"
+        "sub_category": "Chemistry",
+        "solutions": [
+            {
+                "solution_id": "sol_69a6acda703c4",
+                "user": "John",
+                "chosen_option": "c",
+                "image": "uploads\/solution_599_1772530906.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 600,
@@ -204,10 +274,21 @@
             "c": "P39,111.63",
             "d": "P49,111.63"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Economy"
+        "sub_category": "Economy",
+        "solutions": [
+            {
+                "solution_id": "sol_69a6ad354373b",
+                "user": "John",
+                "chosen_option": "b",
+                "image": "uploads\/solution_600_1772530997.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 601,
@@ -218,10 +299,21 @@
             "c": "P2351.99",
             "d": "P3351.99"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Economy"
+        "sub_category": "Economy",
+        "solutions": [
+            {
+                "solution_id": "sol_69a6ad59a2906",
+                "user": "John",
+                "chosen_option": "a",
+                "image": "uploads\/solution_601_1772531033.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 602,
@@ -232,10 +324,21 @@
             "c": "P38,204.47",
             "d": "P48,204.47"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Chemistry"
+        "sub_category": "Chemistry",
+        "solutions": [
+            {
+                "solution_id": "sol_69a6ad7b8f897",
+                "user": "John",
+                "chosen_option": "a",
+                "image": "uploads\/solution_602_1772531067.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 603,
@@ -246,10 +349,21 @@
             "c": "P74,332.49",
             "d": "P94,332.49"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Economy"
+        "sub_category": "Economy",
+        "solutions": [
+            {
+                "solution_id": "sol_69a6ada4c8cd1",
+                "user": "John",
+                "chosen_option": "c",
+                "image": "uploads\/solution_603_1772531108.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     },
     {
         "id": 604,
@@ -260,9 +374,20 @@
             "c": "9.27 years",
             "d": "12.27 years"
         },
-        "answer": "",
         "correct_answer_text": "",
         "category": "Engineering Sciences",
-        "sub_category": "Economy"
+        "sub_category": "Economy",
+        "solutions": [
+            {
+                "solution_id": "sol_69a6adcd3a945",
+                "user": "John",
+                "chosen_option": "a",
+                "image": "uploads\/solution_604_1772531149.jpg"
+            }
+        ],
+        "locked_by": null,
+        "flagged_by": null,
+        "flag_reason": null,
+        "hidden_by": null
     }
 ]

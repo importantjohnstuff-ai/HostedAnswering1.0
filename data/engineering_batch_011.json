@@ -126,7 +126,14 @@
         "correct_answer_text": "",
         "category": "Engineering Sciences",
         "sub_category": "Mechanics",
-        "solutions": [],
+        "solutions": [
+            {
+                "solution_id": "sol_69a93c2ce0a51",
+                "user": "John",
+                "chosen_option": "a",
+                "image": "uploads\/solution_751_1772698668.jpg"
+            }
+        ],
         "locked_by": null,
         "flagged_by": null,
         "flag_reason": null,
