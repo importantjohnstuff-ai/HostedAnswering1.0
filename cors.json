@@ -1,0 +1,19 @@
+[
+  {
+    "origin": [
+      "https://importantjohnstuff-ai.github.io",
+      "http://localhost",
+      "http://127.0.0.1"
+    ],
+    "method": ["GET", "POST", "PUT", "DELETE", "HEAD", "OPTIONS"],
+    "responseHeader": [
+      "Content-Type",
+      "Authorization",
+      "Content-Length",
+      "X-Requested-With",
+      "firebase-storage-stub",
+      "Access-Control-Allow-Origin"
+    ],
+    "maxAgeSeconds": 3600
+  }
+]
