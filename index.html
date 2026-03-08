@@ -746,12 +746,9 @@
             gap: 10px;
         }
     </style>
-    <!-- Firebase Config -->
-    <script src="firebase-config.js"></script>
-    <!-- Firebase SDK v10 (compat build — no bundler needed) -->
-    <script src="https://www.gstatic.com/firebasejs/10.14.1/firebase-app-compat.js"></script>
-    <script src="https://www.gstatic.com/firebasejs/10.14.1/firebase-firestore-compat.js"></script>
-    <script src="https://www.gstatic.com/firebasejs/10.14.1/firebase-storage-compat.js"></script>
+    <!-- Supabase Config & SDK -->
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+    <script src="supabase-config.js"></script>
 </head>
 
 <body>
@@ -1121,11 +1118,10 @@
             }
         };
 
-        // ===== Firebase Helpers =====
-        let FIREBASE_INITIALIZED = false;
-        let db = null;
-        let storage = null;
-        let firestoreOverrides = {}; // { [String(probId)]: overrideData }
+        // ===== Supabase Helpers =====
+        let SUPABASE_INITIALIZED = false;
+        let supabaseClient = null;
+        let remoteOverrides = {}; // { [String(probId)]: overrideData }
 
         function setSyncStatus(status) {
             const badge = document.getElementById('sync-badge');
@@ -1151,42 +1147,70 @@
             return new Blob([u8arr], { type: mime });
         }
 
-        async function initFirebase() {
-            if (typeof FIREBASE_CONFIG === 'undefined' ||
-                !FIREBASE_CONFIG.apiKey || FIREBASE_CONFIG.apiKey === 'YOUR_API_KEY') {
-                console.log('[Firebase] No valid config. Using localStorage mode.');
+        async function fetchInitialOverrides() {
+            const { data, error } = await supabaseClient.from('overrides').select('*');
+            if (error) {
+                console.error('[Supabase] Fetch error:', error);
+                return;
+            }
+            remoteOverrides = {};
+            data.forEach(row => {
+                remoteOverrides[row.id] = row;
+            });
+            refreshDisplay();
+        }
+
+        async function initSupabase() {
+            if (typeof SUPABASE_CONFIG === 'undefined' || !SUPABASE_CONFIG.url || !SUPABASE_CONFIG.key) {
+                console.log('[Supabase] No valid config. Using localStorage mode.');
                 setSyncStatus('local');
                 return false;
             }
             try {
-                firebase.initializeApp(FIREBASE_CONFIG);
-                db = firebase.firestore();
-                storage = firebase.storage();
-                FIREBASE_INITIALIZED = true;
+                // Remove the extra global object mapping
+                supabaseClient = supabase.createClient(SUPABASE_CONFIG.url, SUPABASE_CONFIG.key);
+                SUPABASE_INITIALIZED = true;
                 setSyncStatus('syncing');
-                db.collection('overrides').onSnapshot(snapshot => {
-                    firestoreOverrides = {};
-                    snapshot.forEach(doc => { firestoreOverrides[doc.id] = doc.data(); });
-                    refreshDisplay();
-                    setSyncStatus('synced');
-                }, err => {
-                    console.error('[Firebase] Snapshot error:', err);
-                    setSyncStatus('offline');
-                });
+
+                // Initial fetch
+                await fetchInitialOverrides();
+
+                // Realtime subscription
+                supabaseClient.channel('custom-all-channel')
+                    .on(
+                        'postgres_changes',
+                        { event: '*', schema: 'public', table: 'overrides' },
+                        (payload) => {
+                            if (payload.eventType === 'DELETE') {
+                                delete remoteOverrides[payload.old.id];
+                            } else {
+                                remoteOverrides[payload.new.id] = payload.new;
+                            }
+                            refreshDisplay();
+                        }
+                    )
+                    .subscribe((status) => {
+                        if (status === 'SUBSCRIBED') {
+                            setSyncStatus('synced');
+                        } else if (status === 'CLOSED' || status === 'CHANNEL_ERROR') {
+                            setSyncStatus('offline');
+                        }
+                    });
+
                 return true;
             } catch (e) {
-                console.error('[Firebase] Init error:', e);
+                console.error('[Supabase] Init error:', e);
                 setSyncStatus('offline');
                 return false;
             }
         }
 
-        // ===== FirebaseState — Firestore-backed, falls back to LocalState =====
-        const FirebaseState = {
+        // ===== SupabaseState — Realtime-backed, falls back to LocalState =====
+        const SupabaseState = {
             applyOverrides(problems) {
-                if (!FIREBASE_INITIALIZED) return LocalState.applyOverrides(problems);
+                if (!SUPABASE_INITIALIZED) return LocalState.applyOverrides(problems);
                 return problems.map(p => {
-                    const ov = firestoreOverrides[String(p.id)] || {};
+                    const ov = remoteOverrides[String(p.id)] || {};
                     const merged = { ...p };
                     if (ov.locked_by !== undefined) merged.locked_by = ov.locked_by || null;
                     if (ov.flagged_by !== undefined) merged.flagged_by = ov.flagged_by || null;
@@ -1198,165 +1222,173 @@
                         merged.sub_category = ov.category_override.sub_category;
                     }
                     let solutions = [...(p.solutions || [])];
-                    if (ov.deleted_solutions) solutions = solutions.filter(s => !ov.deleted_solutions.includes(s.solution_id));
-                    if (ov.edited_solutions) solutions = solutions.map(s => {
-                        const edit = ov.edited_solutions[s.solution_id];
-                        return edit ? { ...s, ...edit } : s;
-                    });
-                    if (ov.added_solutions) solutions = solutions.concat(ov.added_solutions);
+                    if (ov.deleted_solutions && Array.isArray(ov.deleted_solutions)) {
+                        solutions = solutions.filter(s => !ov.deleted_solutions.includes(s.solution_id));
+                    }
+                    if (ov.edited_solutions && typeof ov.edited_solutions === 'object') {
+                        solutions = solutions.map(s => {
+                            const edit = ov.edited_solutions[s.solution_id];
+                            return edit ? { ...s, ...edit } : s;
+                        });
+                    }
+                    if (ov.added_solutions && Array.isArray(ov.added_solutions)) {
+                        solutions = solutions.concat(ov.added_solutions);
+                    }
                     merged.solutions = solutions;
                     return merged;
                 });
             },
 
+            async upsertOverride(id, updateData) {
+                const strId = String(id);
+                // Get existing record to merge nested JSON correctly (Supabase upsert replaces the row completely unless we fetch first, but we have local cache)
+                const existing = remoteOverrides[strId] || { id: strId };
+                const merged = { ...existing, ...updateData };
+
+                // Optimistic update
+                remoteOverrides[strId] = merged;
+
+                const { error } = await supabaseClient.from('overrides').upsert(merged);
+                if (error) console.error("[Supabase] Upsert error:", error);
+            },
+
             async lockProblem(id, user) {
-                if (!FIREBASE_INITIALIZED) { LocalState.lockProblem(id, user); return; }
+                if (!SUPABASE_INITIALIZED) { LocalState.lockProblem(id, user); return; }
                 setSyncStatus('syncing');
-                if (!firestoreOverrides[String(id)]) firestoreOverrides[String(id)] = {};
-                firestoreOverrides[String(id)].locked_by = user;
-                await db.collection('overrides').doc(String(id)).set({ locked_by: user }, { merge: true });
+                await this.upsertOverride(id, { locked_by: user });
                 setSyncStatus('synced');
             },
 
             async unlockProblem(id, user) {
-                if (!FIREBASE_INITIALIZED) { LocalState.unlockProblem(id, user); return; }
-                const ov = firestoreOverrides[String(id)] || {};
+                if (!SUPABASE_INITIALIZED) { LocalState.unlockProblem(id, user); return; }
+                const ov = remoteOverrides[String(id)] || {};
                 if (ov.locked_by !== user) return;
                 setSyncStatus('syncing');
-                ov.locked_by = null;
-                await db.collection('overrides').doc(String(id)).set({ locked_by: null }, { merge: true });
+                await this.upsertOverride(id, { locked_by: null });
                 setSyncStatus('synced');
             },
 
             async forceUnlock(id) {
-                if (!FIREBASE_INITIALIZED) { LocalState.forceUnlock(id); return; }
+                if (!SUPABASE_INITIALIZED) { LocalState.forceUnlock(id); return; }
                 setSyncStatus('syncing');
-                if (!firestoreOverrides[String(id)]) firestoreOverrides[String(id)] = {};
-                firestoreOverrides[String(id)].locked_by = null;
-                await db.collection('overrides').doc(String(id)).set({ locked_by: null }, { merge: true });
+                await this.upsertOverride(id, { locked_by: null });
                 setSyncStatus('synced');
             },
 
             async saveSolution(id, user, chosenOption, options, imageDataUrl) {
-                if (!FIREBASE_INITIALIZED) { LocalState.saveSolution(id, user, chosenOption, options, imageDataUrl); return; }
+                if (!SUPABASE_INITIALIZED) { LocalState.saveSolution(id, user, chosenOption, options, imageDataUrl); return; }
                 setSyncStatus('syncing');
                 const solId = 'sol_' + Date.now() + '_' + Math.random().toString(36).substr(2, 6);
                 let imageUrl = null;
+
                 if (imageDataUrl && imageDataUrl.startsWith('data:')) {
                     try {
                         const blob = dataUrlToBlob(imageDataUrl);
-                        const ref = storage.ref(`solutions/${id}/${solId}.jpg`);
-                        await ref.put(blob);
-                        imageUrl = await ref.getDownloadURL();
+                        const fileName = `${id}/${solId}.jpg`;
+                        const { data, error } = await supabaseClient.storage.from('solutions').upload(fileName, blob, {
+                            contentType: 'image/jpeg',
+                            upsert: true
+                        });
+                        if (error) throw error;
+
+                        const { data: publicUrlData } = supabaseClient.storage.from('solutions').getPublicUrl(fileName);
+                        imageUrl = publicUrlData.publicUrl;
                     } catch (e) {
-                        console.error('[Firebase] Image upload failed, saving as data URL:', e);
+                        console.error('[Supabase] Image upload failed, saving as data URL:', e);
                         imageUrl = imageDataUrl;
                     }
                 } else if (imageDataUrl) {
                     imageUrl = imageDataUrl;
                 }
+
                 const newSol = { solution_id: solId, user, chosen_option: chosenOption, image: imageUrl };
-                const ov = firestoreOverrides[String(id)] || {};
+                const ov = remoteOverrides[String(id)] || {};
                 const added = [...(ov.added_solutions || []), newSol];
+
                 const update = { locked_by: null, flagged_by: null, flag_reason: null, added_solutions: added };
                 if (options) update.options = options;
-                if (!firestoreOverrides[String(id)]) firestoreOverrides[String(id)] = {};
-                Object.assign(firestoreOverrides[String(id)], update);
-                await db.collection('overrides').doc(String(id)).set(update, { merge: true });
+
+                await this.upsertOverride(id, update);
                 setSyncStatus('synced');
             },
 
             async deleteSolution(probId, solId) {
-                if (!FIREBASE_INITIALIZED) { LocalState.deleteSolution(probId, solId); return; }
+                if (!SUPABASE_INITIALIZED) { LocalState.deleteSolution(probId, solId); return; }
                 setSyncStatus('syncing');
-                const ov = firestoreOverrides[String(probId)] || {};
-                const added = ov.added_solutions || [];
+                const ov = remoteOverrides[String(probId)] || {};
+                const added = Array.isArray(ov.added_solutions) ? [...ov.added_solutions] : [];
                 const localIdx = added.findIndex(s => s.solution_id === solId);
+
                 if (localIdx >= 0) {
                     added.splice(localIdx, 1);
-                    if (!firestoreOverrides[String(probId)]) firestoreOverrides[String(probId)] = {};
-                    firestoreOverrides[String(probId)].added_solutions = added;
-                    await db.collection('overrides').doc(String(probId)).set({ added_solutions: added }, { merge: true });
+                    await this.upsertOverride(probId, { added_solutions: added });
                 } else {
-                    const deleted = [...(ov.deleted_solutions || []), solId];
-                    if (!firestoreOverrides[String(probId)]) firestoreOverrides[String(probId)] = {};
-                    firestoreOverrides[String(probId)].deleted_solutions = deleted;
-                    await db.collection('overrides').doc(String(probId)).set({ deleted_solutions: deleted }, { merge: true });
+                    const deleted = Array.isArray(ov.deleted_solutions) ? [...ov.deleted_solutions, solId] : [solId];
+                    await this.upsertOverride(probId, { deleted_solutions: deleted });
                 }
                 setSyncStatus('synced');
             },
 
             async editSolution(probId, solId, newAnswer) {
-                if (!FIREBASE_INITIALIZED) { LocalState.editSolution(probId, solId, newAnswer); return; }
+                if (!SUPABASE_INITIALIZED) { LocalState.editSolution(probId, solId, newAnswer); return; }
                 setSyncStatus('syncing');
-                const ov = firestoreOverrides[String(probId)] || {};
-                const added = ov.added_solutions || [];
+                const ov = remoteOverrides[String(probId)] || {};
+                const added = Array.isArray(ov.added_solutions) ? [...ov.added_solutions] : [];
                 const localSol = added.find(s => s.solution_id === solId);
+
                 if (localSol) {
                     localSol.chosen_option = newAnswer;
-                    await db.collection('overrides').doc(String(probId)).set({ added_solutions: added }, { merge: true });
+                    await this.upsertOverride(probId, { added_solutions: added });
                 } else {
-                    if (!firestoreOverrides[String(probId)]) firestoreOverrides[String(probId)] = {};
                     const edited = { ...(ov.edited_solutions || {}), [solId]: { chosen_option: newAnswer } };
-                    firestoreOverrides[String(probId)].edited_solutions = edited;
-                    await db.collection('overrides').doc(String(probId)).set({ edited_solutions: edited }, { merge: true });
+                    await this.upsertOverride(probId, { edited_solutions: edited });
                 }
                 setSyncStatus('synced');
             },
 
             async editOptions(probId, options) {
-                if (!FIREBASE_INITIALIZED) { LocalState.editOptions(probId, options); return; }
+                if (!SUPABASE_INITIALIZED) { LocalState.editOptions(probId, options); return; }
                 setSyncStatus('syncing');
-                if (!firestoreOverrides[String(probId)]) firestoreOverrides[String(probId)] = {};
-                firestoreOverrides[String(probId)].options = options;
-                await db.collection('overrides').doc(String(probId)).set({ options }, { merge: true });
+                await this.upsertOverride(probId, { options });
                 setSyncStatus('synced');
             },
 
             async editCategory(probId, category, sub_category) {
-                if (!FIREBASE_INITIALIZED) { LocalState.editCategory(probId, category, sub_category); return; }
+                if (!SUPABASE_INITIALIZED) { LocalState.editCategory(probId, category, sub_category); return; }
                 setSyncStatus('syncing');
                 const cat_ov = { category, sub_category };
-                if (!firestoreOverrides[String(probId)]) firestoreOverrides[String(probId)] = {};
-                firestoreOverrides[String(probId)].category_override = cat_ov;
-                await db.collection('overrides').doc(String(probId)).set({ category_override: cat_ov }, { merge: true });
+                await this.upsertOverride(probId, { category_override: cat_ov });
                 setSyncStatus('synced');
             },
 
             async flagProblem(id, user, reason) {
-                if (!FIREBASE_INITIALIZED) { LocalState.flagProblem(id, user, reason); return; }
+                if (!SUPABASE_INITIALIZED) { LocalState.flagProblem(id, user, reason); return; }
                 setSyncStatus('syncing');
-                if (!firestoreOverrides[String(id)]) firestoreOverrides[String(id)] = {};
-                firestoreOverrides[String(id)].flagged_by = user;
-                firestoreOverrides[String(id)].flag_reason = reason;
-                await db.collection('overrides').doc(String(id)).set({ flagged_by: user, flag_reason: reason }, { merge: true });
+                await this.upsertOverride(id, { flagged_by: user, flag_reason: reason });
                 setSyncStatus('synced');
             },
 
             async unflagProblem(id, user) {
-                if (!FIREBASE_INITIALIZED) { LocalState.unflagProblem(id, user); return; }
-                const ov = firestoreOverrides[String(id)] || {};
+                if (!SUPABASE_INITIALIZED) { LocalState.unflagProblem(id, user); return; }
+                const ov = remoteOverrides[String(id)] || {};
                 if (ov.flagged_by !== user) return;
                 setSyncStatus('syncing');
-                ov.flagged_by = null; ov.flag_reason = null;
-                await db.collection('overrides').doc(String(id)).set({ flagged_by: null, flag_reason: null }, { merge: true });
+                await this.upsertOverride(id, { flagged_by: null, flag_reason: null });
                 setSyncStatus('synced');
             },
 
             async toggleHide(id, user) {
-                if (!FIREBASE_INITIALIZED) { LocalState.toggleHide(id, user); return; }
+                if (!SUPABASE_INITIALIZED) { LocalState.toggleHide(id, user); return; }
                 setSyncStatus('syncing');
-                const ov = firestoreOverrides[String(id)] || {};
+                const ov = remoteOverrides[String(id)] || {};
                 const newHidden = ov.hidden_by ? null : user;
-                if (!firestoreOverrides[String(id)]) firestoreOverrides[String(id)] = {};
-                firestoreOverrides[String(id)].hidden_by = newHidden;
-                await db.collection('overrides').doc(String(id)).set({ hidden_by: newHidden }, { merge: true });
+                await this.upsertOverride(id, { hidden_by: newHidden });
                 setSyncStatus('synced');
             }
         };
 
-        // Active state manager — always FirebaseState (which delegates to local when Firebase not ready)
-        const ActiveState = FirebaseState;
+        // Active state manager — always SupabaseState (which delegates to local when Supabase not ready)
+        const ActiveState = SupabaseState;
 
 
         let baseProblems = [];
@@ -1377,9 +1409,9 @@
                 baseProblems = window.ALL_PROBLEMS;
                 // Render immediately with local state (avoids blank screen)
                 refreshDisplay();
-                // Try to upgrade to Firebase
-                const ok = await initFirebase();
-                // When Firebase is ready, onSnapshot fires and calls refreshDisplay() automatically.
+                // Try to upgrade to Supabase
+                const ok = await initSupabase();
+                // When Supabase is ready, on(postgres_changes) fires and calls refreshDisplay() automatically.
                 // Update the warning banner:
                 const banner = document.getElementById('gh-warning');
                 if (ok && banner) banner.style.display = 'none';
