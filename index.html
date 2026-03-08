@@ -670,6 +670,38 @@
             background: #fde68a;
         }
 
+        /* --- Sync Status Badge --- */
+        .sync-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+            padding: 3px 10px;
+            border-radius: 20px;
+            font-size: 0.75rem;
+            font-weight: bold;
+            transition: all 0.3s;
+        }
+
+        .sync-badge.synced {
+            background: #d1fae5;
+            color: #065f46;
+        }
+
+        .sync-badge.syncing {
+            background: #fef3c7;
+            color: #92400e;
+        }
+
+        .sync-badge.offline {
+            background: #fee2e2;
+            color: #991b1b;
+        }
+
+        .sync-badge.local {
+            background: #e0e7ff;
+            color: #3730a3;
+        }
+
         /* --- Quiz Modal --- */
         .quiz-modal {
             background: white;
@@ -714,6 +746,12 @@
             gap: 10px;
         }
     </style>
+    <!-- Firebase Config -->
+    <script src="firebase-config.js"></script>
+    <!-- Firebase SDK v10 (compat build — no bundler needed) -->
+    <script src="https://www.gstatic.com/firebasejs/10.14.1/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/10.14.1/firebase-firestore-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/10.14.1/firebase-storage-compat.js"></script>
 </head>
 
 <body>
@@ -767,6 +805,7 @@
             onclick="exitQuizMode()">❌ Exit Quiz</button>
         <span class="problem-count" id="problemCount"></span>
         <span class="user-badge" id="userDisplay" onclick="editName()" title="Click to change name">User</span>
+        <span id="sync-badge" class="sync-badge local">📱 Local</span>
     </div>
 
     <div class="container">
@@ -1082,9 +1121,248 @@
             }
         };
 
-        // ===== Global Data Store =====
+        // ===== Firebase Helpers =====
+        let FIREBASE_INITIALIZED = false;
+        let db = null;
+        let storage = null;
+        let firestoreOverrides = {}; // { [String(probId)]: overrideData }
+
+        function setSyncStatus(status) {
+            const badge = document.getElementById('sync-badge');
+            if (!badge) return;
+            const states = {
+                synced: ['sync-badge synced', '☁️ Synced'],
+                syncing: ['sync-badge syncing', '🔄 Syncing…'],
+                offline: ['sync-badge offline', '⚠️ Offline'],
+                local: ['sync-badge local', '📱 Local Only']
+            };
+            const [cls, text] = states[status] || states.local;
+            badge.className = cls;
+            badge.innerHTML = text;
+        }
+
+        function dataUrlToBlob(dataUrl) {
+            const arr = dataUrl.split(',');
+            const mime = arr[0].match(/:(.*?);/)[1];
+            const bstr = atob(arr[1]);
+            let n = bstr.length;
+            const u8arr = new Uint8Array(n);
+            while (n--) u8arr[n] = bstr.charCodeAt(n);
+            return new Blob([u8arr], { type: mime });
+        }
+
+        async function initFirebase() {
+            if (typeof FIREBASE_CONFIG === 'undefined' ||
+                !FIREBASE_CONFIG.apiKey || FIREBASE_CONFIG.apiKey === 'YOUR_API_KEY') {
+                console.log('[Firebase] No valid config. Using localStorage mode.');
+                setSyncStatus('local');
+                return false;
+            }
+            try {
+                firebase.initializeApp(FIREBASE_CONFIG);
+                db = firebase.firestore();
+                storage = firebase.storage();
+                FIREBASE_INITIALIZED = true;
+                setSyncStatus('syncing');
+                db.collection('overrides').onSnapshot(snapshot => {
+                    firestoreOverrides = {};
+                    snapshot.forEach(doc => { firestoreOverrides[doc.id] = doc.data(); });
+                    refreshDisplay();
+                    setSyncStatus('synced');
+                }, err => {
+                    console.error('[Firebase] Snapshot error:', err);
+                    setSyncStatus('offline');
+                });
+                return true;
+            } catch (e) {
+                console.error('[Firebase] Init error:', e);
+                setSyncStatus('offline');
+                return false;
+            }
+        }
+
+        // ===== FirebaseState — Firestore-backed, falls back to LocalState =====
+        const FirebaseState = {
+            applyOverrides(problems) {
+                if (!FIREBASE_INITIALIZED) return LocalState.applyOverrides(problems);
+                return problems.map(p => {
+                    const ov = firestoreOverrides[String(p.id)] || {};
+                    const merged = { ...p };
+                    if (ov.locked_by !== undefined) merged.locked_by = ov.locked_by || null;
+                    if (ov.flagged_by !== undefined) merged.flagged_by = ov.flagged_by || null;
+                    if (ov.flag_reason !== undefined) merged.flag_reason = ov.flag_reason || null;
+                    if (ov.hidden_by !== undefined) merged.hidden_by = ov.hidden_by || null;
+                    if (ov.options) merged.options = { ...p.options, ...ov.options };
+                    if (ov.category_override) {
+                        merged.category = ov.category_override.category;
+                        merged.sub_category = ov.category_override.sub_category;
+                    }
+                    let solutions = [...(p.solutions || [])];
+                    if (ov.deleted_solutions) solutions = solutions.filter(s => !ov.deleted_solutions.includes(s.solution_id));
+                    if (ov.edited_solutions) solutions = solutions.map(s => {
+                        const edit = ov.edited_solutions[s.solution_id];
+                        return edit ? { ...s, ...edit } : s;
+                    });
+                    if (ov.added_solutions) solutions = solutions.concat(ov.added_solutions);
+                    merged.solutions = solutions;
+                    return merged;
+                });
+            },
+
+            async lockProblem(id, user) {
+                if (!FIREBASE_INITIALIZED) { LocalState.lockProblem(id, user); return; }
+                setSyncStatus('syncing');
+                if (!firestoreOverrides[String(id)]) firestoreOverrides[String(id)] = {};
+                firestoreOverrides[String(id)].locked_by = user;
+                await db.collection('overrides').doc(String(id)).set({ locked_by: user }, { merge: true });
+                setSyncStatus('synced');
+            },
+
+            async unlockProblem(id, user) {
+                if (!FIREBASE_INITIALIZED) { LocalState.unlockProblem(id, user); return; }
+                const ov = firestoreOverrides[String(id)] || {};
+                if (ov.locked_by !== user) return;
+                setSyncStatus('syncing');
+                ov.locked_by = null;
+                await db.collection('overrides').doc(String(id)).set({ locked_by: null }, { merge: true });
+                setSyncStatus('synced');
+            },
+
+            async forceUnlock(id) {
+                if (!FIREBASE_INITIALIZED) { LocalState.forceUnlock(id); return; }
+                setSyncStatus('syncing');
+                if (!firestoreOverrides[String(id)]) firestoreOverrides[String(id)] = {};
+                firestoreOverrides[String(id)].locked_by = null;
+                await db.collection('overrides').doc(String(id)).set({ locked_by: null }, { merge: true });
+                setSyncStatus('synced');
+            },
+
+            async saveSolution(id, user, chosenOption, options, imageDataUrl) {
+                if (!FIREBASE_INITIALIZED) { LocalState.saveSolution(id, user, chosenOption, options, imageDataUrl); return; }
+                setSyncStatus('syncing');
+                const solId = 'sol_' + Date.now() + '_' + Math.random().toString(36).substr(2, 6);
+                let imageUrl = null;
+                if (imageDataUrl && imageDataUrl.startsWith('data:')) {
+                    try {
+                        const blob = dataUrlToBlob(imageDataUrl);
+                        const ref = storage.ref(`solutions/${id}/${solId}.jpg`);
+                        await ref.put(blob);
+                        imageUrl = await ref.getDownloadURL();
+                    } catch (e) {
+                        console.error('[Firebase] Image upload failed, saving as data URL:', e);
+                        imageUrl = imageDataUrl;
+                    }
+                } else if (imageDataUrl) {
+                    imageUrl = imageDataUrl;
+                }
+                const newSol = { solution_id: solId, user, chosen_option: chosenOption, image: imageUrl };
+                const ov = firestoreOverrides[String(id)] || {};
+                const added = [...(ov.added_solutions || []), newSol];
+                const update = { locked_by: null, flagged_by: null, flag_reason: null, added_solutions: added };
+                if (options) update.options = options;
+                if (!firestoreOverrides[String(id)]) firestoreOverrides[String(id)] = {};
+                Object.assign(firestoreOverrides[String(id)], update);
+                await db.collection('overrides').doc(String(id)).set(update, { merge: true });
+                setSyncStatus('synced');
+            },
+
+            async deleteSolution(probId, solId) {
+                if (!FIREBASE_INITIALIZED) { LocalState.deleteSolution(probId, solId); return; }
+                setSyncStatus('syncing');
+                const ov = firestoreOverrides[String(probId)] || {};
+                const added = ov.added_solutions || [];
+                const localIdx = added.findIndex(s => s.solution_id === solId);
+                if (localIdx >= 0) {
+                    added.splice(localIdx, 1);
+                    if (!firestoreOverrides[String(probId)]) firestoreOverrides[String(probId)] = {};
+                    firestoreOverrides[String(probId)].added_solutions = added;
+                    await db.collection('overrides').doc(String(probId)).set({ added_solutions: added }, { merge: true });
+                } else {
+                    const deleted = [...(ov.deleted_solutions || []), solId];
+                    if (!firestoreOverrides[String(probId)]) firestoreOverrides[String(probId)] = {};
+                    firestoreOverrides[String(probId)].deleted_solutions = deleted;
+                    await db.collection('overrides').doc(String(probId)).set({ deleted_solutions: deleted }, { merge: true });
+                }
+                setSyncStatus('synced');
+            },
+
+            async editSolution(probId, solId, newAnswer) {
+                if (!FIREBASE_INITIALIZED) { LocalState.editSolution(probId, solId, newAnswer); return; }
+                setSyncStatus('syncing');
+                const ov = firestoreOverrides[String(probId)] || {};
+                const added = ov.added_solutions || [];
+                const localSol = added.find(s => s.solution_id === solId);
+                if (localSol) {
+                    localSol.chosen_option = newAnswer;
+                    await db.collection('overrides').doc(String(probId)).set({ added_solutions: added }, { merge: true });
+                } else {
+                    if (!firestoreOverrides[String(probId)]) firestoreOverrides[String(probId)] = {};
+                    const edited = { ...(ov.edited_solutions || {}), [solId]: { chosen_option: newAnswer } };
+                    firestoreOverrides[String(probId)].edited_solutions = edited;
+                    await db.collection('overrides').doc(String(probId)).set({ edited_solutions: edited }, { merge: true });
+                }
+                setSyncStatus('synced');
+            },
+
+            async editOptions(probId, options) {
+                if (!FIREBASE_INITIALIZED) { LocalState.editOptions(probId, options); return; }
+                setSyncStatus('syncing');
+                if (!firestoreOverrides[String(probId)]) firestoreOverrides[String(probId)] = {};
+                firestoreOverrides[String(probId)].options = options;
+                await db.collection('overrides').doc(String(probId)).set({ options }, { merge: true });
+                setSyncStatus('synced');
+            },
+
+            async editCategory(probId, category, sub_category) {
+                if (!FIREBASE_INITIALIZED) { LocalState.editCategory(probId, category, sub_category); return; }
+                setSyncStatus('syncing');
+                const cat_ov = { category, sub_category };
+                if (!firestoreOverrides[String(probId)]) firestoreOverrides[String(probId)] = {};
+                firestoreOverrides[String(probId)].category_override = cat_ov;
+                await db.collection('overrides').doc(String(probId)).set({ category_override: cat_ov }, { merge: true });
+                setSyncStatus('synced');
+            },
+
+            async flagProblem(id, user, reason) {
+                if (!FIREBASE_INITIALIZED) { LocalState.flagProblem(id, user, reason); return; }
+                setSyncStatus('syncing');
+                if (!firestoreOverrides[String(id)]) firestoreOverrides[String(id)] = {};
+                firestoreOverrides[String(id)].flagged_by = user;
+                firestoreOverrides[String(id)].flag_reason = reason;
+                await db.collection('overrides').doc(String(id)).set({ flagged_by: user, flag_reason: reason }, { merge: true });
+                setSyncStatus('synced');
+            },
+
+            async unflagProblem(id, user) {
+                if (!FIREBASE_INITIALIZED) { LocalState.unflagProblem(id, user); return; }
+                const ov = firestoreOverrides[String(id)] || {};
+                if (ov.flagged_by !== user) return;
+                setSyncStatus('syncing');
+                ov.flagged_by = null; ov.flag_reason = null;
+                await db.collection('overrides').doc(String(id)).set({ flagged_by: null, flag_reason: null }, { merge: true });
+                setSyncStatus('synced');
+            },
+
+            async toggleHide(id, user) {
+                if (!FIREBASE_INITIALIZED) { LocalState.toggleHide(id, user); return; }
+                setSyncStatus('syncing');
+                const ov = firestoreOverrides[String(id)] || {};
+                const newHidden = ov.hidden_by ? null : user;
+                if (!firestoreOverrides[String(id)]) firestoreOverrides[String(id)] = {};
+                firestoreOverrides[String(id)].hidden_by = newHidden;
+                await db.collection('overrides').doc(String(id)).set({ hidden_by: newHidden }, { merge: true });
+                setSyncStatus('synced');
+            }
+        };
+
+        // Active state manager — always FirebaseState (which delegates to local when Firebase not ready)
+        const ActiveState = FirebaseState;
+
+
         let baseProblems = [];
         let allProblems = [];
+        let lastFilteredList = [];
+        let lastFilteredCount = 0;
         let isQuizMode = false;
         let quizProblemsList = [];
         let currentRenderedJson = '';
@@ -1093,22 +1371,33 @@
         let currentPage = 1;
         let itemsPerPage = 20;
 
-        // ===== Load Data (Static) =====
-        function loadData() {
+        // ===== Load Data =====
+        async function loadData() {
             if (window.ALL_PROBLEMS && Array.isArray(window.ALL_PROBLEMS)) {
                 baseProblems = window.ALL_PROBLEMS;
-                refreshFromLocal();
+                // Render immediately with local state (avoids blank screen)
+                refreshDisplay();
+                // Try to upgrade to Firebase
+                const ok = await initFirebase();
+                // When Firebase is ready, onSnapshot fires and calls refreshDisplay() automatically.
+                // Update the warning banner:
+                const banner = document.getElementById('gh-warning');
+                if (ok && banner) banner.style.display = 'none';
             } else {
                 reportError("Failed to load data. Make sure data/all_problems.js exists and was loaded correctly.");
             }
         }
 
-        function refreshFromLocal() {
-            allProblems = LocalState.applyOverrides(baseProblems);
+        // refreshDisplay: replaces refreshFromLocal — works for both Firebase and localStorage modes
+        function refreshDisplay() {
+            allProblems = ActiveState.applyOverrides(baseProblems);
             populateFilterDropdowns();
             applyFilters();
             document.getElementById('errorBanner').style.display = 'none';
         }
+
+        // Keep old name as alias for any internal calls
+        function refreshFromLocal() { refreshDisplay(); }
 
         function populateFilterDropdowns() {
             const catSelect = document.getElementById('filterCategory');
@@ -1685,21 +1974,21 @@
             }
         }
 
-        // ===== Actions (all localStorage-based, no server calls) =====
-        function lockProblem(id, sf) {
-            LocalState.lockProblem(id, currentUser);
-            refreshFromLocal();
+        // ===== Actions =====
+        async function lockProblem(id, sf) {
+            await ActiveState.lockProblem(id, currentUser);
+            refreshDisplay();
         }
 
-        function unlockProblem(id, sf) {
-            LocalState.unlockProblem(id, currentUser);
-            refreshFromLocal();
+        async function unlockProblem(id, sf) {
+            await ActiveState.unlockProblem(id, currentUser);
+            refreshDisplay();
         }
 
-        function forceUnlock(id, sf) {
+        async function forceUnlock(id, sf) {
             if (!confirm("Force unlock this problem? This will cancel the other user's work.")) return;
-            LocalState.forceUnlock(id);
-            refreshFromLocal();
+            await ActiveState.forceUnlock(id);
+            refreshDisplay();
         }
 
         // ===== Edit Solution (chosen answer) =====
@@ -1708,10 +1997,10 @@
             editDiv.style.display = editDiv.style.display === 'none' ? 'block' : 'none';
         }
 
-        function saveEditSolution(probId, solId, sf) {
+        async function saveEditSolution(probId, solId, sf) {
             const newAnswer = document.getElementById(`edit-sol-select-${solId}`).value;
-            LocalState.editSolution(probId, solId, newAnswer);
-            refreshFromLocal();
+            await ActiveState.editSolution(probId, solId, newAnswer);
+            refreshDisplay();
         }
 
         // ===== Edit Options (choice text) =====
@@ -1720,13 +2009,13 @@
             editDiv.style.display = editDiv.style.display === 'none' ? 'block' : 'none';
         }
 
-        function saveEditOptions(probId, sf) {
+        async function saveEditOptions(probId, sf) {
             const options = {};
             ['a', 'b', 'c', 'd'].forEach(key => {
                 options[key] = document.getElementById(`edit-opt-${probId}-${key}`).value;
             });
-            LocalState.editOptions(probId, options);
-            refreshFromLocal();
+            await ActiveState.editOptions(probId, options);
+            refreshDisplay();
         }
 
         // ===== Edit Category / Sub-Category =====
@@ -1735,22 +2024,22 @@
             el.style.display = el.style.display === 'none' ? 'block' : 'none';
         }
 
-        function saveEditCategory(probId, sf) {
+        async function saveEditCategory(probId, sf) {
             const category = document.getElementById(`edit-cat-cat-${probId}`).value.trim();
             const sub_category = document.getElementById(`edit-cat-sub-${probId}`).value.trim();
-            LocalState.editCategory(probId, category, sub_category);
-            refreshFromLocal();
+            await ActiveState.editCategory(probId, category, sub_category);
+            refreshDisplay();
         }
 
         // ===== Toggle Hide =====
-        function toggleHide(probId, sf) {
-            LocalState.toggleHide(probId, currentUser);
-            refreshFromLocal();
+        async function toggleHide(probId, sf) {
+            await ActiveState.toggleHide(probId, currentUser);
+            refreshDisplay();
         }
 
-        function unflagProblem(id, sf) {
-            LocalState.unflagProblem(id, currentUser);
-            refreshFromLocal();
+        async function unflagProblem(id, sf) {
+            await ActiveState.unflagProblem(id, currentUser);
+            refreshDisplay();
         }
 
         // ===== Flag Modal =====
@@ -1765,7 +2054,7 @@
         }
         function closeFlagModal() { document.getElementById('flag-modal').style.display = 'none'; }
 
-        function submitFlag() {
+        async function submitFlag() {
             const id = document.getElementById('flag-problem-id').value;
             const selected = document.querySelector('input[name="flag_type"]:checked');
             if (!selected) { alert('Please select a reason.'); return; }
@@ -1774,9 +2063,9 @@
                 const otherText = document.getElementById('flag-others-text').value.trim();
                 if (otherText) finalReason = 'Others: ' + otherText;
             }
-            LocalState.flagProblem(parseInt(id), currentUser, finalReason);
+            await ActiveState.flagProblem(parseInt(id), currentUser, finalReason);
             closeFlagModal();
-            refreshFromLocal();
+            refreshDisplay();
         }
 
         // ===== Delete Modal =====
@@ -1788,12 +2077,12 @@
         }
         function closeDeleteModal() { document.getElementById('delete-modal').style.display = 'none'; }
 
-        function executeDelete() {
+        async function executeDelete() {
             const probId = parseInt(document.getElementById('delete-prob-id').value);
             const solId = document.getElementById('delete-sol-id').value;
-            LocalState.deleteSolution(probId, solId);
+            await ActiveState.deleteSolution(probId, solId);
             closeDeleteModal();
-            refreshFromLocal();
+            refreshDisplay();
         }
 
         // ===== Cropper.js Image Editing =====
@@ -1853,9 +2142,9 @@
                 }
             }
 
-            LocalState.saveSolution(id, currentUser, answer, options, imageData);
+            await ActiveState.saveSolution(id, currentUser, answer, options, imageData);
             delete window[`editedImage_${id}`];
-            refreshFromLocal();
+            refreshDisplay();
         }
 
         // ===== Event Listeners for Filters =====
